@@ -1,3 +1,38 @@
 .footer {
   margin-top: 3rem;
+  padding: 8rem;
+  background-color: #d9e075;
+  border-bottom: 1rem solid #524A35;
+  p {
+    color: #555252;
+    font-size: 2rem;
+  }
+
+  .footerTitle {
+    color: #555252;
+    font-size: 3rem;
+    text-shadow: 2px 2px white, 4px 6px #aeb35e;
+  }
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+
+  .footer__left {
+    grid-area: 1 / 1 / 6 / 2;
+  }
+  .footer__right {
+    grid-area: 1 / 2 / 6 / 3;
+  }
+
+  ul {
+    columns: 2;
+    list-style-type: none;
+    margin: 0;
+    li a {
+      color: #524a35;
+      font-size: 1.5rem;
+    }
+  }
+  svg {
+    margin: 1rem 0;
+  }
 }

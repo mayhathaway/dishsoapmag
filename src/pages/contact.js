@@ -8,7 +8,8 @@ const ContactPage = () => {
     <Layout>
       <Head title="Contact" />
       <h1>Contact</h1>
-      <h2>idk im hungry</h2> 
+      <h1> reach us over the soap suds!</h1>
+      <p>send us any of your dishsoap-related concerns.</p>
     </Layout>
   )
 }

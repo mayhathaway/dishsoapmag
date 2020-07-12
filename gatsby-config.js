@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-      title: 'DishSoap Mag',
+      title: 'dishsoap quarterly',
       author: 'Jeremy Nguyen'
   },
   plugins: [

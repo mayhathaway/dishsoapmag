@@ -1,13 +1,22 @@
 .posts {
   list-style-type: none;
   margin: 0;
+
+  li{
+    float: left;
+    width: 50% !important;//helps to determine number of columns, for instance 33.3% displays 3 columns
+    a {
+      margin-right: 20px;
+    }
+  }
 }
 
 .post {
   margin: 1rem 0;
 
   a {
-    background: #f4f4f4;
+    background: white;
+    border: 1px solid #DBDBDB;
     color: #000000;
     display: block;
     padding: 1rem;
@@ -26,5 +35,7 @@
     color: #777777;
     font-size: .8rem;
     font-style: italic;
+    margin-bottom: 0;
   }
 }
+

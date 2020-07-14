@@ -5,6 +5,7 @@ import cx from "classnames"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import Head from "../components/head"
+import Nav from "../components/nav"
 import indexStyles from "./index.module.scss"
 
 const IndexPage = () => {
@@ -30,6 +31,7 @@ const IndexPage = () => {
   return (
     <div>
       <Head title="home" />
+      <Nav />
       <Header />
       <p className={indexStyles.center}>
         literary magazine submissions open till july 31st!

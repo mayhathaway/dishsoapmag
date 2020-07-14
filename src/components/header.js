@@ -30,31 +30,6 @@ const Header = () => {
         >
           <rect width="206" height="12" fill="#093631" />
         </svg>
-       <nav>
-        <ul className={headerStyles.navList}>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/">home</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/dishing-it-out">dishing it out</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/about">about</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">contact</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/archive">archive</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/masthead">masthead</Link>
-          </li>
-          <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/submissions">submissions</Link>
-          </li>
-        </ul>
-      </nav>
     </header>
   )
 }

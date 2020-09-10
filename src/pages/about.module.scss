@@ -1,17 +1,5 @@
 @import "../styles/colors.scss";
 
-.container {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.content {
-  flex-grow: 1;
-  margin: 0 auto;
-  max-width: 1000px;
-}
-
 .mission {
   h2 {
     color: $color-pink;
@@ -27,12 +15,12 @@
   margin-top: 3rem;
 }
 
-.pinkLineBottom:after { 
-  content:""; 
-  float:left; 
-  background:$color-pink; 
-  width:100%; 
-  height:12px; 
+.pinkLineBottom:after {
+  content: "";
+  float: left;
+  background: $color-pink;
+  width: 100%;
+  height: 12px;
   border-radius: 5px;
 }
 
@@ -40,12 +28,12 @@
   margin-bottom: 5rem;
 }
 
-.pinkLineTop:before { 
-  content:""; 
-  float:left; 
-  background:$color-pink; 
-  width:100%; 
-  height:12px; 
+.pinkLineTop:before {
+  content: "";
+  float: left;
+  background: $color-pink;
+  width: 100%;
+  height: 12px;
   border-radius: 5px;
 }
 
@@ -60,4 +48,21 @@
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
   margin-bottom: 2rem;
+}
+
+.masthead {
+  background-color: $color-vomit-green;
+  padding: 4rem 0;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 4rem;
+  font-weight: 700;
+  margin: 5rem 0;
+  color: white;
+  border-top: 0.4rem solid $color-pink;
+  border-bottom: 0.4rem solid $color-pink;
+  a {
+    color: white;
+    text-decoration: none;
+  }
 }

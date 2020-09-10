@@ -1,0 +1,14 @@
+@import "../styles/colors.scss";
+
+.green {
+  background-color: $color-vomit-green;
+  padding: 8rem 0;
+  text-align: center;
+  font-size: 4rem;
+  line-height: 4rem;
+  font-weight: 700;
+  margin-bottom: 4rem;
+  color: white;
+  border-top: 0.4rem solid $color-pink;
+  border-bottom: 0.4rem solid $color-pink;
+}

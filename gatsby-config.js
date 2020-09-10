@@ -36,6 +36,23 @@ module.exports = {
                   }
               ]
           }
-      }
+      },
+      {
+        resolve: `gatsby-plugin-google-fonts`,
+        options: {
+          fonts: [
+            `Cabin`,
+            `Montserrat\:300,400,400i,700` // you can also specify font weights and styles
+          ],
+          display: 'swap'
+        }
+      },
+      {
+        resolve: 'gatsby-plugin-mailchimp',
+        options: {
+          endpoint: 'https://wixsite.us10.list-manage.com/subscribe/post?u=d9d70f1c2c150859df696a4c7&amp;id=4076846979',
+          timeout: 3500,
+        },
+      },
   ]
 }

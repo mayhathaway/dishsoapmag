@@ -1,0 +1,98 @@
+@import "../styles/colors.scss";
+
+.contactForm {
+  h2 {
+    color: $color-pink;
+  }
+  background-color: white;
+  padding: 3rem;
+  border-radius: 2rem;
+  font-weight: 500;
+  p {
+    color: $color-vomit-green;
+    padding-bottom: 0.1rem;
+    font-weight: 600;
+    margin-bottom: 0.2rem;
+  }
+  button {
+    margin-top: 1rem;
+    font-weight: 600;
+  }
+}
+
+.boxsizingBorder {
+  width:100%;
+}
+
+.side {
+  display: inline-block;
+  margin-bottom: 2rem;
+  flex: 1 1 150px;
+}
+
+.side:first-child {
+  margin-right: 1rem;
+}
+
+.formContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  ::placeholder {
+    color: black;
+  }
+}
+
+textarea::placeholder {
+  color: black;
+}
+
+.quote {
+  color: $color-text;
+  text-align: center;
+  background-color: $color-foreground;
+  margin: 50px auto;
+  max-width: 700px;
+  padding: 50px 50px 25px 50px;
+  border: 6px solid $color-teal;
+  border-radius: 50px;
+  margin-top: 125px;
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+  .quoteText {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+}
+
+.author {
+  background-color: $color-pink;
+  position: relative;
+  top: 50px;
+  left: 300px;
+  font-size: 1.7rem;
+  padding: 0.5rem 2.5rem;
+  color: $color-vomit-green;
+  display: inline;
+  border: 5px solid $color-teal;
+  border-radius: 1.2rem;
+}
+
+.author::before {
+  content: url("../images/dog.png");
+  position: absolute;
+  right: 0;
+  bottom: 40px;
+}
+
+@media (max-width: 925px) {
+  .author {
+    left: 1vh;
+  }
+  .author::before {
+    display: none;
+  }
+}

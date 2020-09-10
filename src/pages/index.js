@@ -67,7 +67,7 @@ const IndexPage = () => {
           </div>
           <div className={indexStyles.formPanel} id="form">
             <h1> get the freshest dishes in your mailbox.</h1>
-            <MailChimpForm />
+            <MailchimpForm />
           </div>
         </div>
       </div>

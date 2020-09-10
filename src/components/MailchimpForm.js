@@ -1,14 +1,5 @@
-// external libs
 import React from "react"
-// import { graphql} from "gatsby";
 import addToMailchimp from "gatsby-plugin-mailchimp"
-
-// internal stuff
-
-// helpers
-
-// styles & assets
-
 import indexStyles from "../pages/index.module.scss"
 
 class MailchimpForm extends React.Component {

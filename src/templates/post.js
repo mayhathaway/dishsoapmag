@@ -9,7 +9,6 @@ import postStyles from "./post.module.scss"
 import Subheader from "../components/subHeader"
 import MobileNav from "../components/mobileNav"
 
-
 export const query = graphql`
   query($slug: String!) {
     contentfulPost(slug: { eq: $slug }) {
@@ -25,18 +24,12 @@ export const query = graphql`
 
 const Post = props => {
   const options = {
-    renderNode: {
-      "embedded-asset-block": node => {
-        const alt = node.data.target.fields.title["en-US"]
-        const url = node.data.target.fields.file["en-US"].url
-        return <img alt={alt} src={url} />
-      }
-    }
+    renderText: text => text.split('\n').flatMap((text, i) => [i > 0 && <br />, text])
   }
 
   return (
     <>
-    <MobileNav />
+      <MobileNav />
       <Nav />
       <Subheader title={props.data.contentfulPost.type} />
       <Layout>
@@ -51,9 +44,14 @@ const Post = props => {
         </div>
         <div className={postStyles.row}>
           <div>
-          <Link to="/issues"><button>back</button></Link>
+            <Link to="/issues">
+              <button>back</button>
+            </Link>
           </div>
-          <div className={postStyles.nameplate}>{props.data.contentfulPost.title} by {props.data.contentfulPost.author}</div>
+          <div className={postStyles.nameplate}>
+            {props.data.contentfulPost.title} by{" "}
+            {props.data.contentfulPost.author}
+          </div>
         </div>
       </Layout>
     </>

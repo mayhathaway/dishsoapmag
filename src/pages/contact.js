@@ -23,37 +23,26 @@ const ContactPage = () => {
 
         <div className={layoutStyles.pinkLineTop}></div>
         <div className={contactStyles.contactForm}>
-          <form name="contact" method="POST" data-netlify="true">
-            <p>
-              <label>
-                Your Name: <input type="text" name="name" />
-              </label>
-            </p>
-            <p>
-              <label>
-                Your Email: <input type="email" name="email" />
-              </label>
-            </p>
-            <p>
-              <label>
-                Message: <textarea name="message"></textarea>
-              </label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
-
-          {/* <form name="contact" action={process.env.GETFORM_ENDPOINT} method="POST">
+          <form
+            name="contact"
+            action="https://getform.io/f/cb6e4ffc-0488-48df-b781-140e620b3fa5"
+            method="POST"
+          >
             <div className={contactStyles.formContainer}>
               <div className={contactStyles.side}>
                 <label>
-                  <p>email*</p> <input type="email" name="email"  placeholder="example@gmail.com"  />
+                  <p>email*</p>{" "}
+                  <input
+                    type="email"
+                    name="email"
+                    placeholder="example@gmail.com"
+                  />
                 </label>
               </div>
               <div className={contactStyles.side}>
                 <label>
-                  <p>full name*</p> <input type="text" name="name" placeholder="John Doe" />
+                  <p>full name*</p>{" "}
+                  <input type="text" name="name" placeholder="John Doe" />
                 </label>
               </div>
             </div>
@@ -61,16 +50,18 @@ const ContactPage = () => {
               <label>
                 <p>type your message here...</p>{" "}
                 <textarea
-                 placeholder="Lorem ipsum dolor sit amet..." 
+                  placeholder="Lorem ipsum dolor sit amet..."
                   name="message"
                   className={contactStyles.boxsizingBorder}
                 ></textarea>
               </label>
             </div>
             <div>
-              <button type="submit" className={indexStyles.button}>contact!</button>
+              <button type="submit" className={indexStyles.button}>
+                contact!
+              </button>
             </div>
-          </form> */}
+          </form>
         </div>
         <div className={layoutStyles.pinkLineBottom}></div>
         <div className={contactStyles.quote}>

@@ -21,9 +21,11 @@ const Masthead = () => {
         </div>
 
         <div className={layoutStyles.pinkLineTop}></div>
+        
         <div className={layoutStyles.mission}>
+         <p>
           <h3>
-            <i>Ten Commandments for Soaping</i>
+            <i><strong><p>Ten Commandments for Soaping</p></strong></i>
           </h3>
           <ol>
             <li>we accept all genres.</li>
@@ -72,6 +74,7 @@ const Masthead = () => {
             <li>we do nominate for Pushcart and Best of the Net</li>
             <li>thank you for trusting us.</li>
           </ol>
+          </p>
         </div>
         <div className={layoutStyles.pinkLineBottom}></div>
       </Layout>

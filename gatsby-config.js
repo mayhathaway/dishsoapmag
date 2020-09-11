@@ -42,7 +42,8 @@ module.exports = {
         options: {
           fonts: [
             `Cabin`,
-            `Montserrat\:300,400,400i,700` // you can also specify font weights and styles
+            `Montserrat\:300,400,400i,700`, // you can also specify font weights and styles
+            `EB Garamond\:300,300i,400,400i,700`
           ],
           display: 'swap'
         }

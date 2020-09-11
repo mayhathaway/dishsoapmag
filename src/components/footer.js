@@ -25,9 +25,9 @@ const Footer = () => {
         <p> © 2020</p>
       </div>
       <div className={footerStyles.split}>
-        <a href="//#endregion"><img src={instagram} alt="website logo" /></a>
-        <img src={twitter} alt="website logo" />
-        <img src={email} alt="website logo" />
+        <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>
+        <a href="https://twitter.com/dishsoapquart"><img src={twitter} alt="website logo" /></a>
+        <a href="mailto:dishsoap.mag@gmail.com"><img src={email} alt="website logo" /></a>
       </div>
     </footer>
   )

@@ -8,15 +8,17 @@
   line-height: 3rem;
   p {
     color: $color-vomit-green;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    font-family: Montserrat;
   }
   .footerTitle {
-    font-size: 3rem;
+    font-size: 2rem;
     margin-bottom: 0;
   }
 
-  img:not(:first-child) {
-    margin-right: 2rem;
+  img {
+    width: 50px;
+    margin-right: 2rem !important;
   }
 
   display: flex;
@@ -28,16 +30,6 @@
     margin: 5px;
     img {
       float: right;
-    }
-  }
-  @media (max-width: 796px) {
-    img:not(:first-child) {
-      margin-right: 0;
-    }
-  }
-  @media (max-width: 718px) {
-    img {
-      float: initial;
     }
   }
 }

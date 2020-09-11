@@ -12,7 +12,7 @@ import MobileNav from "../components/mobileNav"
 const ContactPage = () => {
   return (
     <>
-    <MobileNav />
+      <MobileNav />
       <Nav />
       <Subheader title="reach  us over the soap suds!" />
       <Layout>
@@ -24,6 +24,27 @@ const ContactPage = () => {
         <div className={layoutStyles.pinkLineTop}></div>
         <div className={contactStyles.contactForm}>
           <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>
+                Your Name: <input type="text" name="name" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Your Email: <input type="email" name="email" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Message: <textarea name="message"></textarea>
+              </label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
+
+          {/* <form name="contact" action={process.env.GETFORM_ENDPOINT} method="POST">
             <div className={contactStyles.formContainer}>
               <div className={contactStyles.side}>
                 <label>
@@ -49,7 +70,7 @@ const ContactPage = () => {
             <div>
               <button type="submit" className={indexStyles.button}>contact!</button>
             </div>
-          </form>
+          </form> */}
         </div>
         <div className={layoutStyles.pinkLineBottom}></div>
         <div className={contactStyles.quote}>

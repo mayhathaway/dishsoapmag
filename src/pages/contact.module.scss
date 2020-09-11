@@ -13,6 +13,7 @@
     padding-bottom: 0.1rem;
     font-weight: 600;
     margin-bottom: 0.2rem;
+    font-family: Montserrat;
   }
   button {
     margin-top: 1rem;
@@ -40,11 +41,13 @@
   justify-content: center;
   ::placeholder {
     color: black;
+    font-family: EB Garamond;
   }
 }
 
 textarea::placeholder {
   color: black;
+  font-family: EB Garamond;
 }
 
 .quote {

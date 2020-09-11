@@ -68,8 +68,8 @@ const Masthead = () => {
               Jennifer Chiu is a student at White Station High School in
               Memphis, TN. She is an <i>Adroit Journal</i> 2020 summer fiction
               mentee, and her prose and poetry are published or forthcoming in
-              <i>Rust + Moth</i>,<i>Blue Marble Review</i>, and
-              <i>perhappened mag</i>, among others. When she’s not writing, she
+              <i>Rust + Moth</i>,<i>Blue Marble Review</i>, and 
+              <i> perhappened mag</i>, among others. When she’s not writing, she
               can be found admiring the sky or bullet journaling with one of her
               twenty-one 0.38mm black pens.
             </div>
@@ -106,7 +106,7 @@ const Masthead = () => {
               <i>perhappened mag</i>, and <i>Sanpiper Magazine</i> and has been
               nationally recognized by the Scholastic Art & Writing Awards. She
               is a 2020
-              <i>Adroit Journal</i> Creative Nonfiction Mentee, an Iowa Young
+              <i> Adroit Journal</i> Creative Nonfiction Mentee, an Iowa Young
               Writers’ Studio student, and a crossword enthusiast.
             </div>
           </div>
@@ -161,8 +161,8 @@ const Masthead = () => {
               Hampshire. Through art, she often explores heritage, identity,
               family, and surreal aspects of the mundane. Her work has been
               recognized by the Scholastic Art & Writing Awards and the Pulitzer
-              Center and is published or forthcoming in Rising Phoenix Review
-              and Sandpiper Mag, among others. In addition to writing, she
+              Center and is published or forthcoming in <i>Rising Phoenix Review</i>
+              and <i>Sandpiper Mag</i>, among others. In addition to writing, she
               enjoys music and was a 2020 COUNTERCLOCK Arts Collective Music
               Fellow.
             </div>
@@ -215,7 +215,7 @@ const Masthead = () => {
             </div>
 
             <div className={mastheadStyles.description}>
-              Corina Huang is a high school junior from Hong Kong. Her work has been
+              Corine  Huang is a high school junior from Hong Kong. Her work has been
               recognized by the Scholastic Art and \Writing Awards and is in or
               forthcoming from <i>Rust + Moth</i>, <i>Eunoia Review</i>,{" "}
               <i>Rising Phoenix Review</i>, and others. She enjoys most

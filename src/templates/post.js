@@ -63,7 +63,7 @@ const Post = props => {
           </div>
 
           <div className={postStyles.nameplate}>
-            <Link to={"/issue1/" + props.data.contentfulPost.nextSlug}>
+            <Link to={"/issue1/" + props.data.contentfulPost.nextSlug} className={props.data.contentfulPost.nextSlug === "/" ? postStyles.inactiveLink : null}>
               {props.data.contentfulPost.nextTitleAndAuthor}
             </Link>
           </div>

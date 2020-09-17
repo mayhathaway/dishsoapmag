@@ -87,3 +87,8 @@
   font-weight: 500;
   min-width: 800px;
 }
+
+.inactiveLink {
+  pointer-events: none;
+  cursor: default;
+}

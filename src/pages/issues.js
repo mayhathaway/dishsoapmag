@@ -20,7 +20,7 @@ const Issues = () => {
         <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>
-            <div>
+            <div className={issueStyles.bottomMargin}>
               <h2>heath wooten</h2>
               <Link to="/issue1/summer-heroes">
                 <p>Summer Heroes</p>
@@ -50,7 +50,7 @@ const Issues = () => {
                 </p>
               </Link>
             </div>
-            <div>
+            <div className={issueStyles.bottomMargin}>
               <h2>gaia rajan</h2>
               <Link to="/issue1/poem-inside-a-locker-room">
                 <p>Poem Inside a Locker Room</p>

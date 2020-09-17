@@ -18,6 +18,11 @@ export const query = graphql`
       }
       author
       type
+      nextTitleAndAuthor
+      nextSlug
+      bio {
+        json
+      }
     }
   }
 `
@@ -25,13 +30,14 @@ export const query = graphql`
 const Post = props => {
   const options = {
     renderNode: {
-      "embedded-asset-block": (node) => {
-        const alt = node.data.target.fields.title['en-US']
-        const url = node.data.target.fields.file['en-US'].url
+      "embedded-asset-block": node => {
+        const alt = node.data.target.fields.title["en-US"]
+        const url = node.data.target.fields.file["en-US"].url
         return <img alt={alt} src={url} />
       }
     },
-    renderText: text => text.split('\n').flatMap((text, i) => [i > 0 && <br />, text])
+    renderText: text =>
+      text.split("\n").flatMap((text, i) => [i > 0 && <br />, text])
   }
 
   return (
@@ -55,11 +61,19 @@ const Post = props => {
               <button>back</button>
             </Link>
           </div>
+
           <div className={postStyles.nameplate}>
-            {props.data.contentfulPost.title} by{" "}
-            {props.data.contentfulPost.author}
+            <Link to={"/issue1/" + props.data.contentfulPost.nextSlug}>
+              {props.data.contentfulPost.nextTitleAndAuthor}
+            </Link>
           </div>
         </div>
+        <div className={postStyles.mission2}>
+            {documentToReactComponents(
+              props.data.contentfulPost.bio.json,
+              options
+            )}
+          </div>
       </Layout>
     </>
   )

@@ -14,7 +14,10 @@ import soapadish from "../images/soapadish.png"
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
     query {
-      allContentfulBlogPost(sort: { fields: publishedDate, order: DESC }) {
+      allContentfulBlogPost(
+        sort: { fields: publishedDate, order: DESC }
+        limit: 4
+      ) {
         edges {
           node {
             title

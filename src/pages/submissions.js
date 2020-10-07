@@ -37,7 +37,7 @@ const Masthead = () => {
               send your finely-crafted dishes to dishsoap.mag@gmail.com with the
               subject line [name]-[genre]-[title]. we prefer docx format unless
               you've got some cool formatting to preserve. cover letters are
-              cool; please keep your bios short and sweet (<150 words) and when
+              cool; please keep your bios short and sweet (≤150 words) and when
               listing publications, please list the ones that you feel are most
               representative of your work. long bios will be cut to fit.{" "}
               <b>We publish in October, January, April, and July.</b>

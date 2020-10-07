@@ -216,7 +216,7 @@ const Masthead = () => {
 
             <div className={mastheadStyles.description}>
               Corine  Huang is a high school junior from Hong Kong. Her work has been
-              recognized by the Scholastic Art and \Writing Awards and is in or
+              recognized by the Scholastic Art and Writing Awards and is in or
               forthcoming from <i>Rust + Moth</i>, <i>Eunoia Review</i>,{" "}
               <i>Rising Phoenix Review</i>, and others. She enjoys most
               vegetables, but she has a specific love for cabbages. She hopes

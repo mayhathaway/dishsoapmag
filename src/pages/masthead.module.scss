@@ -11,6 +11,7 @@
     margin-bottom: 0;
     object-fit: contain;
     height: auto;
+    align-items: flex-start;
   }
 }
 
@@ -134,7 +135,7 @@
 
 .flex {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .badges {

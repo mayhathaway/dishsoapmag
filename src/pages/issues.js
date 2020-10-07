@@ -83,7 +83,7 @@ const Issues = () => {
           </div>
           <h1 className={issueStyles.heading}>prose</h1>
           <div className={issueStyles.parent}>
-            <div>
+            <div className={issueStyles.bottomMargin}>
               <h2>katie grierson</h2>
               <Link to="/issue1/good-daughter">
                 <p>Good Daughter</p>
@@ -104,6 +104,38 @@ const Issues = () => {
               </Link>
             </div>
           </div>
+          <h1 className={issueStyles.heading}>art</h1>
+          <div className={issueStyles.parent}>
+            <div>
+              <Link to="/issue1/karl-zuehlke">
+                <h2>karl zuehlke</h2>
+                <p>Earth</p>
+                <p>autopsy, but flourished with prayer</p>
+              </Link>
+              <Link to="/issue1/vivi-niya-gao">
+                <h2>vivi niya gao</h2>
+                <p>The City of Individuals</p>
+                <p>Expressions of Still Life I</p>
+              </Link>
+              <Link to="/issue1/ashley-cai">
+                <h2>ashley cai</h2>
+                <p>Please Remain Calm</p>
+              </Link>
+            </div>
+            <div>
+            <Link to="/issue1/janelle-cordero">
+                <h2>janelle cordero</h2>
+                <p>Bell</p>
+                <p>Mina</p>
+                <p>Anika</p>
+              </Link>
+              <Link to="/issue1/vivi-niya-gao">
+                <h2>vivi niya gao</h2>
+                <p>The Garden 22</p>
+              </Link>
+          </div>
+        </div>
+        
         </div>
       </Layout>
     </>

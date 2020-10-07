@@ -92,3 +92,15 @@
   pointer-events: none;
   cursor: default;
 }
+
+.mission .art:nth-of-type(even) {
+  width: 40%;
+  float: left;
+  padding-right: 2rem;
+}
+
+.mission .art:nth-of-type(odd) {
+  width: 40%;
+  float: right;
+  padding-left: 2rem;
+}

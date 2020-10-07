@@ -33,7 +33,7 @@ const Post = props => {
       "embedded-asset-block": node => {
         const alt = node.data.target.fields.title["en-US"]
         const url = node.data.target.fields.file["en-US"].url
-        return <img alt={alt} src={url} />
+        return <img alt={alt} src={url} className={props.data.contentfulPost.type === "art" ? postStyles.art : null} />
       }
     },
     renderText: text =>
@@ -47,7 +47,7 @@ const Post = props => {
       <Subheader title={props.data.contentfulPost.type} />
       <Layout>
         <Head title={props.data.contentfulPost.title} />
-        <div className={postStyles.mission}>
+        <div className={postStyles.mission} id={props.data.contentfulPost.type === "art" ? postStyles.artMission : null} >
           <h3>{props.data.contentfulPost.author}</h3>
           <h1>{props.data.contentfulPost.title}</h1>
           {documentToReactComponents(

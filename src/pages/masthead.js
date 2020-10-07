@@ -68,7 +68,7 @@ const Masthead = () => {
               Jennifer Chiu is a student at White Station High School in
               Memphis, TN. She is an <i>Adroit Journal</i> 2020 summer fiction
               mentee, and her prose and poetry are published or forthcoming in
-              <i>Rust + Moth</i>,<i>Blue Marble Review</i>, and 
+              <i> Rust + Moth</i>,<i> Blue Marble Review</i>, and 
               <i> perhappened mag</i>, among others. When she’s not writing, she
               can be found admiring the sky or bullet journaling with one of her
               twenty-one 0.38mm black pens.
@@ -114,7 +114,7 @@ const Masthead = () => {
             <div className={mastheadStyles.flex}>
               <img src={jocky} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>estlle</div>
+                <div className={mastheadStyles.name}>estelle</div>
                 <div className={mastheadStyles.role}>prose reader</div>
               </div>
             </div>
@@ -123,7 +123,7 @@ const Masthead = () => {
               Estelle (going by her middle name) is a high school junior living
               in the suburbs of Las Vegas. She has been nationally recognized by
               the Scholastic Art and Writing Awards, the Belin-Blank Center, and
-              the Wilbur 21nd Niso—Smith Foundation. Her work also appears in a
+              the Wilbur 21nd Niso-Smith Foundation. Her work also appears in a
               published anthology of short stories. Apart from writing, Estelle
               enjoys playing Stardew Valley and obsessively rewatching the best
               TV show of all time, Avatar: The Last Airbender.
@@ -161,7 +161,7 @@ const Masthead = () => {
               Hampshire. Through art, she often explores heritage, identity,
               family, and surreal aspects of the mundane. Her work has been
               recognized by the Scholastic Art & Writing Awards and the Pulitzer
-              Center and is published or forthcoming in <i>Rising Phoenix Review</i>
+              Center and is published or forthcoming in <i>Rising Phoenix Review </i>
               and <i>Sandpiper Mag</i>, among others. In addition to writing, she
               enjoys music and was a 2020 COUNTERCLOCK Arts Collective Music
               Fellow.
@@ -181,15 +181,15 @@ const Masthead = () => {
               An <i>Adroit Journal</i> 2020 summer mentee and a COUNTERCLOCK
               Arts Collective 2020 music fellow, she has work published or
               forthcoming in <i>Half Mystic Journal</i>,
-              <i>The Heritage Review</i>, <i>Sine Theta Magazine</i>, and
-              <i>Eunoia Review</i>.
+              <i> The Heritage Review</i>, <i>Sine Theta Magazine</i>, and
+              <i> Eunoia Review</i>.
             </div>
           </div>
           <div className={mastheadStyles.div9}>
             <div className={mastheadStyles.flex}>
               <img src={iris} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>Iris Yu</div>
+                <div className={mastheadStyles.name}>iris yu</div>
                 <div className={mastheadStyles.role}>
                   executive manager, fiction editor
                 </div>
@@ -256,9 +256,9 @@ const Masthead = () => {
               Amour (with a heavy emphasis on her middle name) Maorie Ellis
               lives in New Jersey. She is a sophomore at Phillips Academy and is
               the Prose Editor for her school’s literary magazine,{" "}
-              <i>The Courant</i> . Her work appears in <i>The Aurora Review</i>{" "}
+              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
               and she is a 2020
-              <i>Adroit Journal</i> Creative Nonfiction Mentee.
+              <i> Adroit Journal</i> Creative Nonfiction Mentee.
             </div>
           </div>
           <div className={mastheadStyles.div13}>

@@ -110,7 +110,7 @@ const Issues = () => {
               <Link to="/issue1/karl-zuehlke">
                 <h2>karl zuehlke</h2>
                 <p>Earth</p>
-                <p>autopsy, but flourished with prayer</p>
+                <p>Forest</p>
               </Link>
               <Link to="/issue1/vivi-niya-gao">
                 <h2>vivi niya gao</h2>

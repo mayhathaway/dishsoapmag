@@ -37,10 +37,10 @@ const Masthead = () => {
               send your finely-crafted dishes to dishsoap.mag@gmail.com with the
               subject line [name]-[genre]-[title]. we prefer docx format unless
               you've got some cool formatting to preserve. cover letters are
-              cool; please keep your bios short and sweet (>150 words) and when
+              cool; please keep your bios short and sweet (<150 words) and when
               listing publications, please list the ones that you feel are most
               representative of your work. long bios will be cut to fit.{" "}
-              <b>We publish in August, November, February, and June.</b>
+              <b>We publish in October, January, April, and July.</b>
             </li>
             <li>
               <strong>poetry.</strong> at most 7 poems per submission & no word
@@ -56,7 +56,7 @@ const Masthead = () => {
             <li>
               please don't submit anything explicit!
               <b>
-                we reserve the right to ignore a submission if we find any nsfw,
+                 we reserve the right to ignore a submission if we find any nsfw,
                 racist, homophobic, etc. notions, even if not explicity stated.
               </b>
             </li>
@@ -71,7 +71,7 @@ const Masthead = () => {
               letter.
             </li>
             <li>please note that we currently cannot pay our contributors.</li>
-            <li>we do nominate for Pushcart and Best of the Net</li>
+            <li>we do nominate for Pushcart and Best of the Net.</li>
             <li>thank you for trusting us.</li>
           </ol>
           </p>

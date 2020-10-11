@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
       title: 'dishsoap quarterly',
-      author: 'Jeremy Nguyen'
+      url: "https://dishsoapquarterly.com", 
+      description: 'We are interested in the young, the perhaps-not-completely-finished, the work-in-progress.',
+      twitterUsername: "@dishsoapquart"
   },
   plugins: [
       'gatsby-plugin-styled-components',

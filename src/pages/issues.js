@@ -129,8 +129,8 @@ const Issues = () => {
                 <p>Mina</p>
                 <p>Anika</p>
               </Link>
-              <Link to="/issue1/vivi-niya-gao">
-                <h2>vivi niya gao</h2>
+              <Link to="/issue1/stephane-vereecken">
+                <h2>stephane vereecken</h2>
                 <p>The Garden 22</p>
               </Link>
           </div>

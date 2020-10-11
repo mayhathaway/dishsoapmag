@@ -25,9 +25,6 @@ const Issues = () => {
               <Link to="/issue1/summer-heroes">
                 <p>Summer Heroes</p>
               </Link>
-              <Link to="/issue1/elegy-for-all-stingrays">
-                <p>Elegy for All Stingrays</p>
-              </Link>
               <h2>alina stefanescu</h2>
               <Link to="/issue1/the-krakow-nude">
                 <p>The Krakow Nude</p>

@@ -46,7 +46,7 @@ const Masthead = () => {
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "}
-                <b>We publish in October, January, April, and July.</b>
+                <b> we are open for submissions from june 1 to july 15.</b>
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no

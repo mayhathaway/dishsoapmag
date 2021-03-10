@@ -227,7 +227,7 @@ const Masthead = () => {
             <div className={mastheadStyles.flex}>
               <img src={cheese} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>janet li</div>
+                <div className={mastheadStyles.name}>janet (jay) li</div>
                 <div className={mastheadStyles.role}>
                   hybrid editor, prose reader
                 </div>
@@ -235,12 +235,7 @@ const Masthead = () => {
             </div>
 
             <div className={mastheadStyles.description}>
-              Janet Li is a high schooler from Ohio and a passionate creative.
-              She uses all types of art as a medium for expression and
-              conversation: from poetry and prose to songwriting and design.
-              When not starting another work—in-progress at one in the morning,
-              she can be found creating playlists and helping to advocate for
-              social justice issues.
+            Janet (Jay) Li" and my bio to be: "Janet (Jay) Li is a student from Ohio who loves creativity over all else. When not starting another work-in-progress at one in the morning, they enjoy playing with their bird, Ikea.
             </div>
           </div>
           <div className={mastheadStyles.div12}>

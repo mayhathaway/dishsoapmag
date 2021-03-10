@@ -235,7 +235,7 @@ const Masthead = () => {
             </div>
 
             <div className={mastheadStyles.description}>
-            Janet (Jay) Li" and my bio to be: "Janet (Jay) Li is a student from Ohio who loves creativity over all else. When not starting another work-in-progress at one in the morning, they enjoy playing with their bird, Ikea.
+            Janet (Jay) Li is a student from Ohio who loves creativity over all else. When not starting another work-in-progress at one in the morning, they enjoy playing with their bird, Ikea.
             </div>
           </div>
           <div className={mastheadStyles.div12}>

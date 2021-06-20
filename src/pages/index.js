@@ -42,7 +42,7 @@ const IndexPage = () => {
       <Header />
       <div className={indexStyles.banner}>
         <p className={indexStyles.subtitle}>
-          <Link to="/issues">click here for our october issue!</Link>
+          <Link to="/issues">click here for our june issue!</Link>
         </p>
       </div>
       <div className={indexStyles.green}>

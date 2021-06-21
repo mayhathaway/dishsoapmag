@@ -59,7 +59,7 @@ const Issues = () => {
               <Link to="/issue2/sunshine-on-marchmont">
                 <p>Sunshine on Marchmont</p>
               </Link>
-              <h2>blake chemin</h2>
+              <h2>blake chernin</h2>
               <Link to="/issue2/typhoid-mary">
                 <p>Typhoid Mary Would Like to Address You From Her Lonely Bungalow on North Brother Island, Where She Was Imprisoned During the Years 1907-1910 and Again from 1915 Until Her Death in 1938</p>
               </Link>

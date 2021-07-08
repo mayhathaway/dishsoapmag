@@ -23,7 +23,7 @@ const Footer = () => {
           {data.site.siteMetadata.title}
         </p>
         <p> © 2021</p>
-        <p>Created by <a href="https://github.com/jeremynguyencs">Jeremy Nguyen</a></p>
+        <p>Website created by <a href="https://github.com/jeremynguyencs">Jeremy Nguyen</a></p>
       </div>
       <div className={footerStyles.split}>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>

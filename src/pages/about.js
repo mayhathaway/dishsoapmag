@@ -59,7 +59,6 @@ const AboutPage = () => {
             <p>In less formal terms, we really just did that. You can, too.</p>
           </div>
           <div className={aboutStyles.pinkLineBottom}></div>
-          <p>Created by <a href="https://github.com/jeremynguyencs">Jeremy Nguyen</a></p>
         </div>
       </div>
       <div className={aboutStyles.masthead}>

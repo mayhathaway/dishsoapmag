@@ -150,6 +150,25 @@ const Masthead = () => {
 
           <div className={mastheadStyles.div7}>
             <div className={mastheadStyles.flex}>
+              <img src={mae} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>amour maorie ellis</div>
+                <div className={mastheadStyles.role}>prose editor</div>
+              </div>
+            </div>
+
+            <div className={mastheadStyles.description}>
+              Amour (with a heavy emphasis on her middle name) Maorie Ellis
+              lives in New Jersey. She is a sophomore at Phillips Academy and is
+              the Prose Editor for her school’s literary magazine,{" "}
+              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
+              and she is a 2020
+              <i> Adroit Journal</i> Creative Nonfiction Mentee.
+            </div>
+          </div>
+
+          <div className={mastheadStyles.div8}>
+            <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>
                 <div className={mastheadStyles.name}>miriam alex</div>
@@ -168,7 +187,7 @@ const Masthead = () => {
           </div>
 
 
-          <div className={mastheadStyles.div8}>
+          <div className={mastheadStyles.div9}>
             <div className={mastheadStyles.flex}>
               <img src={iris} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -188,7 +207,7 @@ const Masthead = () => {
               persimmons and soup (not together).
             </div>
           </div>
-          <div className={mastheadStyles.div9}>
+          <div className={mastheadStyles.div10}>
             <div className={mastheadStyles.flex}>
               <img src={cabbages} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -206,7 +225,7 @@ const Masthead = () => {
               that you’re having a wonderful day!
             </div>
           </div>
-          <div className={mastheadStyles.div10}>
+          <div className={mastheadStyles.div11}>
             <div className={mastheadStyles.flex}>
               <img src={cheese} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -219,24 +238,6 @@ const Masthead = () => {
 
             <div className={mastheadStyles.description}>
             Janet (Jay) Li is a student from Ohio who loves creativity over all else. When not starting another work-in-progress at one in the morning, they enjoy playing with their bird, Ikea.
-            </div>
-          </div>
-          <div className={mastheadStyles.div11}>
-            <div className={mastheadStyles.flex}>
-              <img src={mae} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>amour maorie ellis</div>
-                <div className={mastheadStyles.role}>prose editor</div>
-              </div>
-            </div>
-
-            <div className={mastheadStyles.description}>
-              Amour (with a heavy emphasis on her middle name) Maorie Ellis
-              lives in New Jersey. She is a sophomore at Phillips Academy and is
-              the Prose Editor for her school’s literary magazine,{" "}
-              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
-              and she is a 2020
-              <i> Adroit Journal</i> Creative Nonfiction Mentee.
             </div>
           </div>
 

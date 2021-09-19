@@ -148,7 +148,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div7}>
+          <div className={mastheadStyles.div8}>
             <div className={mastheadStyles.flex}>
               <img src={mae} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -167,7 +167,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div8}>
+          <div className={mastheadStyles.div7}>
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>

@@ -12,7 +12,6 @@ import blossom from "../images/blossom.png"
 import blueagave from "../images/blueagave.png"
 import cabbages from "../images/cabbages.png"
 import cheese from "../images/cheese.png"
-import emo from "../images/emo.png"
 import iris from "../images/iris.png"
 import jocky from "../images/jocky.png"
 import mae from "../images/mae.png"
@@ -171,7 +170,7 @@ const Masthead = () => {
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>miriam alex</div>
+                <div className={mastheadStyles.name}>miria alex</div>
                 <div className={mastheadStyles.role}>editor-in-chief</div>
               </div>
             </div>

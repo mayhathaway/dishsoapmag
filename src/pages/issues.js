@@ -41,7 +41,14 @@ const Issues = () => {
 
             </div>
 
+
             <div className={issueStyles.bottomMargin}>
+
+            <Link to="/issue3/bidingtime">
+              <h2>grace joylynn anderson</h2>
+              <p>biding time until the spring arrives</p>
+            </Link>
+
             <h2>sal kang</h2>
               <Link to="/issue3/theorange">
                 <p>The Orange Has Body Image Issues</p>
@@ -85,10 +92,9 @@ const Issues = () => {
                 <h2>darcy marie melton</h2>
                 <p>Kingfisher</p>
               </Link>
-              <Link to="/issue3/bidingtime">
-                <h2>grace joylynn anderson</h2>
-                <p>biding time until the spring arrives</p>
-              </Link>
+
+
+
             </div>
             <div>
             <Link to="/issue3/melodyserra">

@@ -39,6 +39,10 @@ const Issues = () => {
               <Link to="/issue2/beowulf">
                 <p>beowulf</p>
               </Link>
+            <h2>self insert</h2>
+              <Link to="https://www.youtube.com/watch?v=p2-7zlPup38">
+                <p>hi yongsie</p>
+              </Link>
               <h2>rhiannon mcgavin</h2>
               <Link to="/issue2/pith">
                 <p>Pith</p>
@@ -101,7 +105,7 @@ const Issues = () => {
               </Link>
           </div>
         </div>
-        
+
         </div>
       </Layout>
     </>

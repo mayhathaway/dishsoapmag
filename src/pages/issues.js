@@ -26,6 +26,10 @@ const Issues = () => {
               <Link to="/issue3/frankievalli">
                 <p>Frankie Valli’s in love with you</p>
               </Link>
+              <h2>sal kang</h2>
+              <Link to="/issue3/sonnetforbirdsofparadise">
+                <p>sonnet for birds of paradise</p>
+              </Link>
               <h2>josephine wu</h2>
               <Link to="/issue3/waterprayers">
                 <p>Water Prayers</p>

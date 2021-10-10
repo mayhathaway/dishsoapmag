@@ -17,8 +17,8 @@ const Masthead = () => {
     <Subheader title="dish museum" />
     <Layout>
       <Head title="archive" />
-      
-      <h1 className={issueStyles.heading}>Issue 2</h1>
+
+      <h1 className={issueStyles.heading}>issue 2: june 2021</h1>
       <div className={layoutStyles.mission}>
         <h1 className={issueStyles.heading}>poetry</h1>
         <div className={issueStyles.parent}>
@@ -105,7 +105,7 @@ const Masthead = () => {
       </div>
       </div>
 
-      <h1 className={issueStyles.heading}>Issue 1</h1>
+      <h1 className={issueStyles.heading}>issue 1: october 2020</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>

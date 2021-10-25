@@ -46,7 +46,7 @@ const Masthead = () => {
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "}
-                <b> we are open for submissions until the end of august.</b>
+                <b> we are currently closed to submissions.</b>
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no
@@ -106,7 +106,7 @@ const Masthead = () => {
          As an editor, you’ll provide your opinion on a handful of submissions each week. Submitters have the option of requesting feedback, so each week, you’ll also be writing short paragraphs of commentary for a few of the pieces we assign to you.
          <br /> <br /> 
            <strong> To apply </strong> <br /> 
-To apply, send us up to three poems, or three pages of prose, along with your name and the genre you'd like to edit for. We’re so excited to hear from you!
+To apply, email three poems or three pages of prose to dishsoap.mag@gmail.com, along with your name and the genre you'd like to edit for. We’re so excited to hear from you!
 
            </p>
         </div>

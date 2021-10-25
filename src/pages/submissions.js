@@ -106,7 +106,7 @@ const Masthead = () => {
          As an editor, you’ll provide your opinion on a handful of submissions each week. Submitters have the option of requesting feedback, so each week, you’ll also be writing short paragraphs of commentary for a few of the pieces we assign to you.
          <br /> <br /> 
            <strong> To apply </strong> <br /> 
-To apply, send us one or two paragraphs of commentary on the piece from <a href="https://docs.google.com/document/d/1ysY_q4ODC_Y11_8KkPzUEnKRCS9ItdtpAnc29NLKd2s/edit?usp=sharing">this document </a> that corresponds to the genre you’d like to edit for. Feedback doesn’t need to be more than 200 words - check the bottom of the document for some of the comments we’ve written in the past. We’re so excited to hear from you!
+To apply, send us up to three poems, or three pages of prose, along with your name and the genre you'd like to edit for. We’re so excited to hear from you!
 
            </p>
         </div>

@@ -66,10 +66,8 @@ const Masthead = () => {
           </div>
 
           <div className={mastheadStyles.description}>
-          Ran Zhao is a student from Hong Kong. She is an alumna of the Adroit
-          Journal’s summer mentorship, and her writing has been recognized by
-          the Foyle Young Poets award. Outside of writing, she loves art and
-          space, and her goal in life is to become a crazy cat lady.
+          Ran Zhao is a student from Hong Kong. Her work has been recognized by the Foyle Young Poets Award. Outside of writing, she loves art,
+          outer space, and 1-minute microwave recipes, and her goal in life is to become a crazy cat lady.
           </div>
         </div>
 
@@ -256,6 +254,31 @@ const Masthead = () => {
             Young Writers Workshop. Besides writing, she loves illustration,
             linguistics, and honey almond butter.
             </div>
+
+
+ <div className={mastheadStyles.div13}>
+          <div className={mastheadStyles.flex}>
+            <img src={yongs} alt="website logo" />
+            <div className={mastheadStyles.badges}>
+              <div className={mastheadStyles.name}>Catherine Mwitta</div>
+              <div className={mastheadStyles.role}>prose editor</div>
+            </div>
+          </div>
+
+          <div className={mastheadStyles.description}>
+            Catherine Mwitta has a Bachelors in creative writing from 
+            Kwantlen Polytechnic University, and a certification in 
+           Journalism from Langara College. <br>
+          While she isn’t posting on her blog theaquilla.com, Catherine is 
+          volunteering at local Vancouver literary magazines such as Malahat 
+          Review, <i>Prism Internationa</i>, <i>Room magazine</i> and <i>Mags BC</i>. <br>
+          She has short stories published in Quarantine Reviews, Random 
+          Photo Journal, and Otis Nebula. She likewise has bylines at <i>Stir 
+          Vancouver, RoyalTee Magazine, SAD Mag </i> and <i>Malahat Review.</i> 
+          </div>
+        </div>
+
+
           </div>
         </div>
         <div className={mastheadStyles.role}>

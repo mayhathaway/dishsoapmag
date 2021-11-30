@@ -199,11 +199,9 @@ const Masthead = () => {
 
             <div className={mastheadStyles.description}>
               Iris Yu is a Chinese-American student from Ohio. Her work can be
-              found or is forthcoming in Sine Theta, Blue Marble Review, and The
-              Heritage Review. She is an alumna of the Sewanee Young Writers
-              Conference (‘19) and the Iowa Young Writers Studio (‘20), as well
-              as a finalist in the Pulitzer Center Poetry Contest. She enjoys
-              persimmons and soup (not together).
+              found or is forthcoming in <i>GASHER Journal</i>, <i>Vagabond City
+              Lit</i>, and <i>[PANK] Magazine</i>, among others. She enjoys all
+              things soup-related.
             </div>
           </div>
           <div className={mastheadStyles.div10}>

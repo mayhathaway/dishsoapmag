@@ -220,6 +220,7 @@ const Masthead = () => {
               that you’re having a wonderful day!
             </div>
           </div>
+
           <div className={mastheadStyles.div11}>
             <div className={mastheadStyles.flex}>
               <img src={cheese} alt="website logo" />
@@ -232,7 +233,9 @@ const Masthead = () => {
             </div>
 
             <div className={mastheadStyles.description}>
-            Janet (Jay) Li is a student from Ohio who loves creativity over all else. When not starting another work-in-progress at one in the morning, they enjoy playing with their bird, Ikea.
+            Janet (Jay) Li is a student from Ohio who loves creativity over all
+            else. When not starting another work-in-progress at one in the
+            morning, they enjoy playing with their bird, Ikea.
             </div>
           </div>
 
@@ -254,32 +257,9 @@ const Masthead = () => {
             Young Writers Workshop. Besides writing, she loves illustration,
             linguistics, and honey almond butter.
             </div>
-
-
- <div className={mastheadStyles.div13}>
-          <div className={mastheadStyles.flex}>
-            <img src={yongs} alt="website logo" />
-            <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>Catherine Mwitta</div>
-              <div className={mastheadStyles.role}>prose editor</div>
-            </div>
           </div>
 
-          <div className={mastheadStyles.description}>
-            Catherine Mwitta has a Bachelors in creative writing from 
-            Kwantlen Polytechnic University, and a certification in 
-           Journalism from Langara College. <br>
-          While she isn’t posting on her blog theaquilla.com, Catherine is 
-          volunteering at local Vancouver literary magazines such as Malahat 
-          Review, <i>Prism Internationa</i>, <i>Room magazine</i> and <i>Mags BC</i>. <br>
-          She has short stories published in Quarantine Reviews, Random 
-          Photo Journal, and Otis Nebula. She likewise has bylines at <i>Stir 
-          Vancouver, RoyalTee Magazine, SAD Mag </i> and <i>Malahat Review.</i> 
-          </div>
-        </div>
 
-
-          </div>
         </div>
         <div className={mastheadStyles.role}>
           currently, there are no open positions on staff.

@@ -87,29 +87,6 @@ const Masthead = () => {
           </p>
 <br />
 
-            <h3>
-              <i>
-                <strong>
-                  <p>We are currently open for staff applications!</p>
-                </strong>
-              </i>
-            </h3>
-        <p>
-           All positions are volunteer-based and will require a few hours of time per week. Feel free to apply to more than one position!
-          <br /> <br /> 
-
-             <strong>
-               Poetry/Prose editor*
-             </strong> <br /> 
-            *note that we don't differentiate between readers and editors.
-          <br /> 
-         As an editor, you’ll provide your opinion on a handful of submissions each week. Submitters have the option of requesting feedback, so each week, you’ll also be writing short paragraphs of commentary for a few of the pieces we assign to you.
-         <br /> <br /> 
-           <strong> To apply </strong> <br /> 
-To apply, email three poems or three pages of prose to dishsoap.mag@gmail.com, along with your name and the genre you'd like to edit for. We’re so excited to hear from you!
-
-           </p>
-        </div>
         <div className={layoutStyles.pinkLineBottom}></div>
       </Layout>
     </>

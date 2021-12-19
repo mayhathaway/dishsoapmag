@@ -20,8 +20,8 @@ import psych from "../images/psych.png"
 import soapy from "../images/soapy.png"
 import tato from "../images/tato.png"
 import yongs from "../images/yongs.png"
-import mwitta from "../images/cath_mwitta.png"
-import oneill from "../images/cath_oneill.png"
+import mwitta from "../images/mwitta.png"
+import oneill from "../images/oneill.png"
 
 const Masthead = () => {
   return (

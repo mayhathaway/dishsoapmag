@@ -20,6 +20,8 @@ import psych from "../images/psych.png"
 import soapy from "../images/soapy.png"
 import tato from "../images/tato.png"
 import yongs from "../images/yongs.png"
+import mwitta from "../images/cath_mwitta.png"
+import oneill from "../images/cath_oneill.png"
 
 const Masthead = () => {
   return (
@@ -145,26 +147,29 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div8}>
+          <div className={mastheadStyles.div7}>
             <div className={mastheadStyles.flex}>
-              <img src={mae} alt="website logo" />
+              <img src={mwitta} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>amour maorie ellis</div>
-                <div className={mastheadStyles.role}>prose editor</div>
+                <div className={mastheadStyles.name}>catherine mwitta</div>
+                <div className={mastheadStyles.role}> prose editor</div>
               </div>
             </div>
 
             <div className={mastheadStyles.description}>
-              Amour (with a heavy emphasis on her middle name) Maorie Ellis
-              lives in New Jersey. She is a sophomore at Phillips Academy and is
-              the Prose Editor for her school’s literary magazine,{" "}
-              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
-              and she is a 2020
-              <i> Adroit Journal</i> Creative Nonfiction Mentee.
+            Catherine Mwitta has a Bachelors in creative writing from Kwantlen
+            Polytechnic University, and a certification in Journalism from
+            Langara College. While she isn’t posting on her blog theaquilla.com,
+            Catherine is volunteering at local Vancouver literary magazines
+            such as <i>Malahat Review, Prism International, Room magazine </i>
+            and <i>Mags BC<.i>. She has short stories published in <i>Quarantine
+            Reviews, Random Photo Journal</i>, and <i>Otis Nebula.</i> She
+            likewise has bylines at <i>Stir Vancouver, RoyalTee Magazine,
+             SAD Mag</i> and <i>Malahat Review. </i>
             </div>
           </div>
 
-          <div className={mastheadStyles.div7}>
+          <div className={mastheadStyles.div8}>
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -258,6 +263,47 @@ const Masthead = () => {
             linguistics, and honey almond butter.
             </div>
           </div>
+
+          <div className={mastheadStyles.div13}>
+            <div className={mastheadStyles.flex}>
+              <img src={mae} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>amour maorie ellis</div>
+                <div className={mastheadStyles.role}>prose editor</div>
+              </div>
+            </div>
+
+            <div className={mastheadStyles.description}>
+              Amour (with a heavy emphasis on her middle name) Maorie Ellis
+              lives in New Jersey. She is a sophomore at Phillips Academy and is
+              the Prose Editor for her school’s literary magazine,{" "}
+              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
+              and she is a 2020
+              <i> Adroit Journal</i> Creative Nonfiction Mentee.
+            </div>
+          </div>
+
+          <div className={mastheadStyles.div14}>
+            <div className={mastheadStyles.flex}>
+              <img src={oneill} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>catherine o'neill</div>
+                <div className={mastheadStyles.role}>prose editor</div>
+              </div>
+            </div>
+
+            <div className={mastheadStyles.description}>
+            Catherine hoards books and cats in her corner of England. She writes
+            prose, plays, and poems with peculiar twists and characters. She was
+            shortlisted for <i>Streetcake Magazine’s Experimental Writing Prize</i>
+            and by <i>Northern Gravy</i> for poetry; she’s had a play staged at
+            <i>Live Theatre</i>, a short story broadcast on <i>BBC Radio</i>,
+            and her monologue <i>'Keep Granny's Clock'</i> is on YouTube. She
+            has a degree in English Literature, an MA in Creative Writing, and
+            taught and examined for oodles of years. Shakespeare haunts her.
+            </div>
+          </div>
+
 
 
         </div>

@@ -162,7 +162,7 @@ const Masthead = () => {
             Langara College. While she isn’t posting on her blog theaquilla.com,
             Catherine is volunteering at local Vancouver literary magazines
             such as <i>Malahat Review, Prism International, Room magazine </i>
-            and <i>Mags BC<.i>. She has short stories published in <i>Quarantine
+            and <i>Mags BC</i>. She has short stories published in <i>Quarantine
             Reviews, Random Photo Journal</i>, and <i>Otis Nebula.</i> She
             likewise has bylines at <i>Stir Vancouver, RoyalTee Magazine,
              SAD Mag</i> and <i>Malahat Review. </i>

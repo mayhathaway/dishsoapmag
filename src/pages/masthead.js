@@ -203,8 +203,8 @@ const Masthead = () => {
 
             <div className={mastheadStyles.description}>
             Miriam Alex is from southern New Hampshire. Her work is published
-            or forthcoming in <i> Frontier Poetry </i>, <i> Gigantic Sequins </i>,
-            <i> Gone Lawn </i>, and <i> Uncanny Magazine </i>. She is a 2021
+            or forthcoming in <i>Frontier Poetry</i>, <i>Gigantic Sequins</i>,
+            <i>Gone Lawn</i>, and <i>Uncanny Magazine</i>. She is a 2021
             Youth Poet Laureate of NH. At the moment, she is likely playing word
             games on her phone or rewatching her favorite sitcoms. She hopes
             you have a lovely day.

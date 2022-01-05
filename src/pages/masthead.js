@@ -66,14 +66,13 @@ const Masthead = () => {
             <img src={blueagave} alt="website logo" />
             <div className={mastheadStyles.badges}>
               <div className={mastheadStyles.name}>ran zhao</div>
-              <div className={mastheadStyles.role}>managing editor</div>
+              <div className={mastheadStyles.role}>managing editor, art editor</div>
             </div>
           </div>
 
           <div className={mastheadStyles.description}>
-          Ran Zhao is a student from Hong Kong. Her work has been recognized
-          by the Foyle Young Poets Award. Outside of writing, she loves art,
-          outer space, and 1-minute microwave recipes, and her goal in life
+          Ran Zhao is a student from Hong Kong. Outside of writing, she loves art,
+          outer space, and 1-minute microwave recipes. Her goal in life
           is to become a crazy cat lady.
           </div>
         </div>

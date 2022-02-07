@@ -24,6 +24,7 @@ import mwitta from "../images/mwitta.png"
 import oneill from "../images/oneill.png"
 import dhwanee from "../images/dhwanee.png"
 import norah from "../images/norah.png"
+import marnie from "../images/marnie.png"
 
 
 const Masthead = () => {
@@ -191,7 +192,31 @@ const Masthead = () => {
           </div>
         </div>
 
-          <div className={mastheadStyles.div9}>
+        <div className={mastheadStyles.div9}>
+          <div className={mastheadStyles.flex}>
+            <img src={marnie} alt="website logo" />
+            <div className={mastheadStyles.badges}>
+              <div className={mastheadStyles.name}>marnie russel</div>
+              <div className={mastheadStyles.role}>prose editor</div>
+            </div>
+          </div>
+
+          <div className={mastheadStyles.description}>
+          Marnie Russell is an English Literature and Theatre Studies graduate
+          from Glasgow, Scotland. She predominantly writes plays and prose while
+          working on various creative projects as a script advisor and dramaturg.
+          Over the past year, she co-wrote and created 'EAT WORMS' with her
+          production company False Starts Productions, an episodic digital
+          theatre piece showcased at Scottish Youth Theatre's Making Space
+          festival. She also wrote 'returning (the act of)', a nine-part
+          collaborative digital serial that received the Digital Award at the
+          Scottish Emerging Theatre Awards. Marnie was also a member of the
+          Traverse Young Writers spring cohort. She is currently working on
+          a novel and eating far too much bread.
+          </div>
+        </div>
+
+          <div className={mastheadStyles.div10}>
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -211,7 +236,7 @@ const Masthead = () => {
           </div>
 
 
-          <div className={mastheadStyles.div10}>
+          <div className={mastheadStyles.div11}>
             <div className={mastheadStyles.flex}>
               <img src={iris} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -229,7 +254,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div11}>
+          <div className={mastheadStyles.div12}>
             <div className={mastheadStyles.flex}>
               <img src={bianca} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -245,7 +270,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div12}>
+          <div className={mastheadStyles.div13}>
             <div className={mastheadStyles.flex}>
               <img src={cabbages} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -264,7 +289,7 @@ const Masthead = () => {
           </div>
 
 
-          <div className={mastheadStyles.div13}>
+          <div className={mastheadStyles.div14}>
             <div className={mastheadStyles.flex}>
               <img src={blossom} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -283,7 +308,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div14}>
+          <div className={mastheadStyles.div15}>
             <div className={mastheadStyles.flex}>
               <img src={mae} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -302,7 +327,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div15}>
+          <div className={mastheadStyles.div16}>
             <div className={mastheadStyles.flex}>
               <img src={oneill} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -323,7 +348,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div16}>
+          <div className={mastheadStyles.div17}>
             <div className={mastheadStyles.flex}>
               <img src={norah} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -342,6 +367,8 @@ const Masthead = () => {
             two dogs, and a healthy sum of chickens.
             </div>
           </div>
+
+
 
         </div>
         <div className={mastheadStyles.role}>

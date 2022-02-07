@@ -46,7 +46,7 @@ const Masthead = () => {
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "}
-                <b> we are currently closed to submissions.</b> unfortunately, we don't have the staffing to reply to off-season submissions, so they may be left unread.
+                <b> we are open to submissions from December 31 to January 31!</b> (unfortunately, we don't have the staffing to reply to off-season submissions, so they may be left unread.)
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no

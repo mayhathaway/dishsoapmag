@@ -36,7 +36,16 @@ const IndexPage = () => {
 
   return (
     <div>
-      <Head title="home" />
+      <Head title="home">
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-E2TQL6JYHW');
+          </script>
+      <Head />
       <MobileNav />
       <Nav />
       <Header />

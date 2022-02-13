@@ -196,7 +196,7 @@ const Masthead = () => {
           <div className={mastheadStyles.flex}>
             <img src={marnie} alt="website logo" />
             <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>marnie russel</div>
+              <div className={mastheadStyles.name}>marnie russell</div>
               <div className={mastheadStyles.role}>prose editor</div>
             </div>
           </div>

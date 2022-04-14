@@ -37,16 +37,13 @@ const Masthead = () => {
                 accepted elsewhere!
               </li>
               <li>
-                send your finely-crafted dishes to dishsoap.mag@gmail.com with
-                the subject line [name]-[genre]-[title]. for optional feedback,
-                please begin your email title with "Opt-In". we prefer docx
-                format unless you've got some cool formatting to preserve. all
-                submissions sent between reading periods will be left unread and
-                discarded. cover letters are cool; please keep your bios short
+                send us your finely-crafted dishes through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form</a>. we prefer docx
+                format unless you've got some cool formatting to preserve. unfortunately, we don't have the staffing to reply to off-season submissions,
+                  or those sent by email instead of by form. cover letters are cool; please keep your bios short
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "}
-                <b> we are open to submissions from December 31 to January 31!</b> (unfortunately, we don't have the staffing to reply to off-season submissions, so they may be left unread.)
+                <b> from April the 16th-17th (EST), we'll be responding to all submissions within 24 hours!</b>
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no
@@ -79,9 +76,9 @@ const Masthead = () => {
                 in your cover letter.
               </li>
               <li>
-                please note that we currently cannot pay our contributors.
+                we do nominate for Pushcart and Best of the Net.
               </li>
-              <li>we do nominate for Pushcart and Best of the Net.</li>
+              <li>for inquiries (or to withdraw a piece), please email dishsoap.mag@gmail.com!</li>
               <li>thank you for trusting us.</li>
             </ol>
           </p>

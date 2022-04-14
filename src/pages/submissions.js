@@ -42,8 +42,8 @@ const Masthead = () => {
                   or those sent by email instead of by form. cover letters are cool; please keep your bios short
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
-                work. long bios will be cut to fit.{" "}
-                <b> from April the 16th-17th (EST), we'll be responding to all submissions within 24 hours!</b>
+                work. long bios will be cut to fit.{" "} <br />
+                <b> from april the 16th-17th (EST), we'll be responding to all submissions within 24 hours!</b>
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no
@@ -58,7 +58,7 @@ const Masthead = () => {
               </li>
               <li>
                 please don't submit anything explicit!
-                <b>
+                <br /> <b>
                   we reserve the right to ignore a submission if we find any
                   nsfw, racist, homophobic, etc. notions, even if not explicity
                   stated.

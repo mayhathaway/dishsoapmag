@@ -105,7 +105,7 @@ const Masthead = () => {
       </div>
       </div>
 
-      <h1 className={issueStyles.heading}>/n issue 1: october 2020</h1>
+      <h1 className={issueStyles.heading}><br> </br>issue 1: october 2020</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>

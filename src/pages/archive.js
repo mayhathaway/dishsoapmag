@@ -104,7 +104,8 @@ const Masthead = () => {
           </div>
         </div>
         </div>
-
+      <br></br>
+      <br></br>
       <h1 className={issueStyles.heading}>issue 2: june 2021</h1>
       <div className={layoutStyles.mission}>
         <h1 className={issueStyles.heading}>poetry</h1>
@@ -191,6 +192,7 @@ const Masthead = () => {
         </div>
       </div>
       </div>
+      <br></br>
       <br></br>
       <h1 className={issueStyles.heading}>issue 1: october 2020</h1>
       <div className={layoutStyles.mission}>

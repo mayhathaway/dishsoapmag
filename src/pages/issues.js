@@ -14,7 +14,7 @@ const Issues = () => {
     <>
       <MobileNav />
       <Nav />
-      <Subheader title="issue three" />
+      <Subheader title="issue four" />
       <Layout>
         <Head title="issues" />
         <div className={layoutStyles.mission}>
@@ -22,44 +22,38 @@ const Issues = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>sunny vuong</h2>
-              <Link to="/issue3/frankievalli">
-                <p>Frankie Valli’s in love with you</p>
-              </Link>
-              <h2>sal kang</h2>
-              <Link to="/issue3/sonnetforbirdsofparadise">
-                <p>sonnet for birds of paradise</p>
-              </Link>
-              <h2>josephine wu</h2>
-              <Link to="/issue3/waterprayers">
-                <p>Water Prayers</p>
-              </Link>
-              <h2>ashley hajimirsadeghi</h2>
-              <Link to="/issue3/alternateuniverse">
-                <p>IN AN ALTERNATE UNIVERSE WE EAT CAKE</p>
+              <h2>elliot lee</h2>
+              <Link to="/issue4/to-term">
+                <p>to term</p>
               </Link>
 
+              <h2>daniel boyko</h2>
+              <Link to="/issue4/to-my-future-nephew">
+                <p>To My Future Nephew II</p>
+              </Link>
+
+              <h2>anna feng</h2>
+              <Link to="/issue4/a-page-from-her-book">
+                <p>a page from her book</p>
+              </Link>
             </div>
 
 
             <div className={issueStyles.bottomMargin}>
 
-            <Link to="/issue3/bidingtime">
-              <h2>grace joylynn anderson</h2>
-              <p>biding time until the spring arrives</p>
-            </Link>
+              <h2>matt hsu</h2>
+              <Link to="/issue4/32lemons">
+                <p>32 lemons</p>
+              </Link>
+            
+              <h2>courtney felle</h2>
+              <Link to="/issue4/teens-on-tiktok">
+                <p>teens on tiktok think i should set boundaries but i am</p>
+              </Link>
 
-            <h2>sal kang</h2>
-              <Link to="/issue3/theorange">
-                <p>The Orange Has Body Image Issues</p>
-              </Link>
-            <h2>ds maolalai</h2>
-              <Link to="/issue3/theleavesaregreen">
-                <p>And the leaves are green</p>
-              </Link>
-            <h2>ashley hajimirsadeghii</h2>
-              <Link to="/issue3/besweet">
-                <p>Be Sweet</p>
+              <h2>leela raj-sankar</h2>
+              <Link to="/issue4/the-world-is-ending-and-i-am-buying-groceries">
+                <p>The World Is Ending And I Am Buying Groceries</p>
               </Link>
 
             </div>
@@ -69,40 +63,31 @@ const Issues = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>salonee verma</h2>
-              <Link to="/issue3/tobeclear">
-                <p>To Be Clear: A Femme Fatale (Gender-Neutral!) Guides You Through A Noir Film in Bollywood (First Of Its Kind! Tickets Open Now!)</p>
+              <h2>will musgrove</h2>
+              <Link to="/issue4/lawn-chair-larry">
+                <p>Lawn Chair Larry</p>
+              </Link>
+
+              <h2>nora sun</h2>
+              <Link to="/issue4/absurdum">
+                <p>Absurdum</p>
               </Link>
 
             </div>
             <div>
 
-              <h2>dedeepya guthikonda</h2>
-              <Link to="/issue3/hirasdaycare">
-                <p>Mrs. Hira's Daycare</p>
+              <h2>ashley gilland</h2>
+              <Link to="/issue4/the-chocolatier">
+                <p>The Chocolatier</p>
+              </Link>
+
+              <h2>E.J. Nash</h2>
+              <Link to="/issue4/henry-wilson">
+                <p>Henry Wilson and the Center of the Sun</p>
               </Link>
 
             </div>
           </div>
-
-          <h1 className={issueStyles.heading}>art</h1>
-          <div className={issueStyles.parent}>
-            <div>
-              <Link to="/issue3/darcymariemelton">
-                <h2>darcy marie melton</h2>
-                <p>Kingfisher</p>
-              </Link>
-
-
-
-            </div>
-            <div>
-            <Link to="/issue3/melodyserra">
-                <h2>melody serra</h2>
-                <p>In the company of trees</p>
-              </Link>
-          </div>
-        </div>
         </div>
       </Layout>
     </>

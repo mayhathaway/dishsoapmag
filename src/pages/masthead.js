@@ -42,43 +42,26 @@ const Masthead = () => {
         </div>
         <div className={mastheadStyles.parent}>
 
-
         <div className={mastheadStyles.div1}>
-          <div className={mastheadStyles.flex}>
-            <img src={yongs} alt="website logo" />
-            <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>yong-yu huang</div>
-              <div className={mastheadStyles.role}>editor-in-chief</div>
+            <div className={mastheadStyles.flex}>
+              <img src={psych} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>miriam alex</div>
+                <div className={mastheadStyles.role}>editor-in-chief</div>
+              </div>
+            </div>
+
+            <div className={mastheadStyles.description}>
+            Miriam Alex is from southern New Hampshire. Her work is published
+            or forthcoming in <i>Frontier Poetry</i>, <i>Gigantic Sequins</i>,
+            <i>Gone Lawn</i>, and <i>Uncanny Magazine</i>. She is a 2021
+            Youth Poet Laureate of NH. At the moment, she is likely playing word
+            games on her phone or rewatching her favorite sitcoms. She hopes
+            you have a lovely day.
             </div>
           </div>
-
-          <div className={mastheadStyles.description}>
-            Yong-Yu Huang is a Taiwanese student living in Malaysia.
-            Her work is featured or forthcoming in <i> Waxwing </i>, <i> Frontier Poetry </i>,
-            and <i> Passages North</i>, among others, and has been recognised by
-            Princeton University, The Kenyon Review, and Columbia College Chicago,
-            among others. In her free time, she enjoys listening to Studio Ghibli
-            soundtracks and sitting by bonfires on the beach.
-          </div>
-        </div>
 
         <div className={mastheadStyles.div2}>
-          <div className={mastheadStyles.flex}>
-            <img src={blueagave} alt="website logo" />
-            <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>ran zhao</div>
-              <div className={mastheadStyles.role}>managing editor, art editor</div>
-            </div>
-          </div>
-
-          <div className={mastheadStyles.description}>
-          Ran Zhao is a student from Hong Kong. Outside of writing, she loves art,
-          outer space, and 1-minute microwave recipes. Her goal in life
-          is to become a crazy cat lady.
-          </div>
-        </div>
-
-        <div className={mastheadStyles.div3}>
           <div className={mastheadStyles.flex}>
             <img src={tato} alt="website logo" />
             <div className={mastheadStyles.badges}>
@@ -94,47 +77,7 @@ const Masthead = () => {
           </div>
         </div>
 
-        <div className={mastheadStyles.div4}>
-          <div className={mastheadStyles.flex}>
-            <img src={jocky} alt="website logo" />
-            <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>poem</div>
-              <div className={mastheadStyles.role}>prose editor</div>
-            </div>
-          </div>
-
-          <div className={mastheadStyles.description}>
-            Poem is a high-school student living in the cookie-cutter suburban
-            outskirts of Las Vegas. She has been recognized nationally by the
-            Scholastic Art & Writing Awards and the YoungArts Foundation, and
-            is an alumni of the Adroit Journal Summer Mentorship. Some of her
-            favorite themes to write about include body-centric surrealism,
-            grief and longing. When not writing, Poem spends her time playing
-            with her dog Freddie, loitering in bookstores, and reading web
-            serials.
-          </div>
-        </div>
-
-        <div className={mastheadStyles.div5}>
-          <div className={mastheadStyles.flex}>
-            <img src={may} alt="website logo" />
-            <div className={mastheadStyles.badges}>
-              <div className={mastheadStyles.name}>may hathaway</div>
-              <div className={mastheadStyles.role}>nonfiction editor</div>
-            </div>
-          </div>
-          <div className={mastheadStyles.description}>
-            May Hathaway is a high school senior from New York City. Her work
-            appears or is forthcoming in <i>Blue Marble Review</i>,{" "}
-            <i>perhappened mag</i>, and <i>Sanpiper Magazine</i> and has been
-            nationally recognized by the Scholastic Art & Writing Awards. She
-            is a 2020
-            <i> Adroit Journal</i> Creative Nonfiction Mentee, an Iowa Young
-            Writers’ Studio student, and a crossword enthusiast.
-          </div>
-        </div>
-
-        <div className={mastheadStyles.div6}>
+        <div className={mastheadStyles.div3}>
           <div className={mastheadStyles.flex}>
             <img src={cheese} alt="website logo" />
             <div className={mastheadStyles.badges}>
@@ -152,7 +95,7 @@ const Masthead = () => {
           </div>
         </div>
 
-        <div className={mastheadStyles.div7}>
+        <div className={mastheadStyles.div4}>
           <div className={mastheadStyles.flex}>
             <img src={mwitta} alt="website logo" />
             <div className={mastheadStyles.badges}>
@@ -174,7 +117,7 @@ const Masthead = () => {
           </div>
         </div>
 
-        <div className={mastheadStyles.div8}>
+        <div className={mastheadStyles.div5}>
           <div className={mastheadStyles.flex}>
             <img src={dhwanee} alt="website logo" />
             <div className={mastheadStyles.badges}>
@@ -192,7 +135,22 @@ const Masthead = () => {
           </div>
         </div>
 
-        <div className={mastheadStyles.div9}>
+        <div className={mastheadStyles.div6}>
+          <div className={mastheadStyles.flex}>
+            <img src={blueagave} alt="website logo" />
+            <div className={mastheadStyles.badges}>
+              <div className={mastheadStyles.name}>ran zhao</div>
+              <div className={mastheadStyles.role}>managing editor, art editor</div>
+            </div>
+          </div>
+          <div className={mastheadStyles.description}>
+          Ran Zhao is a student from Hong Kong. Outside of writing, she loves art,
+          outer space, and 1-minute microwave recipes. Her goal in life
+          is to become a crazy cat lady.
+          </div>
+        </div>
+
+        <div className={mastheadStyles.div7}>
           <div className={mastheadStyles.flex}>
             <img src={marnie} alt="website logo" />
             <div className={mastheadStyles.badges}>
@@ -216,118 +174,7 @@ const Masthead = () => {
           </div>
         </div>
 
-          <div className={mastheadStyles.div10}>
-            <div className={mastheadStyles.flex}>
-              <img src={psych} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>miriam alex</div>
-                <div className={mastheadStyles.role}>editor-in-chief</div>
-              </div>
-            </div>
-
-            <div className={mastheadStyles.description}>
-            Miriam Alex is from southern New Hampshire. Her work is published
-            or forthcoming in <i>Frontier Poetry</i>, <i>Gigantic Sequins</i>,
-            <i>Gone Lawn</i>, and <i>Uncanny Magazine</i>. She is a 2021
-            Youth Poet Laureate of NH. At the moment, she is likely playing word
-            games on her phone or rewatching her favorite sitcoms. She hopes
-            you have a lovely day.
-            </div>
-          </div>
-
-
-          <div className={mastheadStyles.div11}>
-            <div className={mastheadStyles.flex}>
-              <img src={iris} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>iris yu</div>
-                <div className={mastheadStyles.role}>
-                  managing editor
-                </div>
-              </div>
-            </div>
-            <div className={mastheadStyles.description}>
-              Iris Yu is a Chinese-American student from Ohio. Her work can be
-              found or is forthcoming in <i>GASHER Journal</i>, <i>Vagabond City
-              Lit</i>, and <i>[PANK] Magazine</i>, among others. She enjoys all
-              things soup-related.
-            </div>
-          </div>
-
-          <div className={mastheadStyles.div12}>
-            <div className={mastheadStyles.flex}>
-              <img src={bianca} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>bianca layog</div>
-                <div className={mastheadStyles.role}>prose editor</div>
-              </div>
-            </div>
-            <div className={mastheadStyles.description}>
-            Bianca Layog is an English student at King’s College London.
-            As of this moment, she has listened to Good News by Mac Miller
-            1,008 times. Her Spotify username is @kirschenmanfruit and no,
-            she will not tell you why.
-            </div>
-          </div>
-
-          <div className={mastheadStyles.div13}>
-            <div className={mastheadStyles.flex}>
-              <img src={cabbages} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>corine huang</div>
-                <div className={mastheadStyles.role}>poetry editor</div>
-              </div>
-            </div>
-            <div className={mastheadStyles.description}>
-              Corine  Huang is a high school junior from Hong Kong. Her work has been
-              recognized by the Scholastic Art and Writing Awards and is in or
-              forthcoming from <i>Rust + Moth</i>, <i>Eunoia Review</i>,{" "}
-              <i>Rising Phoenix Review</i>, and others. She enjoys most
-              vegetables, but she has a specific love for cabbages. She hopes
-              that you’re having a wonderful day!
-            </div>
-          </div>
-
-
-          <div className={mastheadStyles.div14}>
-            <div className={mastheadStyles.flex}>
-              <img src={blossom} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>dana blatte</div>
-                <div className={mastheadStyles.role}>poetry editor</div>
-              </div>
-            </div>
-
-            <div className={mastheadStyles.description}>
-            Dana Blatte is a high school student from Massachusetts. Her work
-            has been recognized by YoungArts, <i> The New York Times </i>, and
-            the Massachusetts Poetry Festival, among others. She’s an alumna of
-            the Adroit Mentorship, the Iowa Young Writers’ Studio, and the Alpha
-            Young Writers Workshop. Besides writing, she loves illustration,
-            linguistics, and honey almond butter.
-            </div>
-          </div>
-
-          <div className={mastheadStyles.div15}>
-            <div className={mastheadStyles.flex}>
-              <img src={mae} alt="website logo" />
-              <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>amour maorie ellis</div>
-                <div className={mastheadStyles.role}>prose editor</div>
-              </div>
-            </div>
-
-            <div className={mastheadStyles.description}>
-              Amour (with a heavy emphasis on her middle name) Maorie Ellis
-              lives in New Jersey. She is a sophomore at Phillips Academy and is
-              the Prose Editor for her school’s literary magazine,{" "}
-              <i>The Courant</i>. Her work appears in <i>The Aurora Review</i>{" "}
-              and she is a 2020
-              <i> Adroit Journal</i> Creative Nonfiction Mentee.
-            </div>
-          </div>
-
-          <div className={mastheadStyles.div16}>
+          <div className={mastheadStyles.div8}>
             <div className={mastheadStyles.flex}>
               <img src={oneill} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -348,7 +195,7 @@ const Masthead = () => {
             </div>
           </div>
 
-          <div className={mastheadStyles.div17}>
+          <div className={mastheadStyles.div9}>
             <div className={mastheadStyles.flex}>
               <img src={norah} alt="website logo" />
               <div className={mastheadStyles.badges}>

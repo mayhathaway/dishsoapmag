@@ -14,7 +14,7 @@ const Issues = () => {
     <>
       <MobileNav />
       <Nav />
-      <Subheader title="issue four" />
+      <Subheader title="issue five" />
       <Layout>
         <Head title="issues" />
         <div className={layoutStyles.mission}>
@@ -27,15 +27,16 @@ const Issues = () => {
                 <p>The Anxiety Index</p>
               </Link>
 
-              <h2>jeffrey letterly</h2>
-              <Link to="/issue5/swirling">
-                <p>Swirling</p>
-              </Link>
-
               <h2>howie good</h2>
               <Link to="/issue5/the-day-before-yesterday">
                 <p>The Day Before Yesterday</p>
               </Link>
+
+              <h2>jeffrey letterly</h2>
+              <Link to="/issue5/swirling">
+                <p>{`[Swirling]`}</p>
+              </Link>
+
             </div>
 
 

@@ -78,7 +78,9 @@ const Masthead = () => {
               <li>
                 we do nominate for Pushcart and Best of the Net.
               </li>
-              <li>for inquiries (or to withdraw a piece), please email dishsoap.mag@gmail.com!</li>
+              <li>for inquiries, please email dishsoap.mag@gmail.com. To <b>withdraw</b> a piece, 
+              please edit your initial submission to <b>check the box at the bottom of the form.</b> 
+              (An editable copy of your submission should be sent to you after you've filled in the form!) </li>
               <li>thank you for trusting us.</li>
             </ol>
           </p>

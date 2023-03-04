@@ -22,6 +22,7 @@ const Masthead = () => {
         <div className={layoutStyles.pinkLineTop}></div>
 
         <div className={layoutStyles.mission}>
+         <p> Submissions are currently closed! </p> </br>
           <p>
             <h3>
               <i>
@@ -43,7 +44,6 @@ const Masthead = () => {
                 and sweet (≤150 words) and when listing publications, please
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "} <br />
-                <b> from april the 16th-17th (EST), we'll be responding to all submissions within 24 hours!</b>
               </li>
               <li>
                 <strong>poetry.</strong> at most 4 poems per submission & no

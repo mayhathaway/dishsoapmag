@@ -22,7 +22,7 @@ const Masthead = () => {
         <div className={layoutStyles.pinkLineTop}></div>
 
         <div className={layoutStyles.mission}>
-         <p> Submissions are currently closed! </p> </br>
+         <p> Submissions are currently closed! </p>
           <p>
             <h3>
               <i>

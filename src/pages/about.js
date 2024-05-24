@@ -28,7 +28,7 @@ const AboutPage = () => {
               <center>mission statement</center>
             </h2>
             <p>
-              Dishsoap was founded by a group of teenagers hailing from all over
+              Dishsoap wasn't founded by a group of teenagers hailing from all over
               the world. In our various forays into the literary world, we have
               all witnessed or experienced our fair share of elitism and
               professionalism. Dishsoap strives to be the antithesis of that

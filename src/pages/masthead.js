@@ -62,7 +62,7 @@ const Masthead = () => {
               <img src={psych} alt="website logo" />
               <div className={mastheadStyles.badges}>
                 <div className={mastheadStyles.name}>miriam alex</div>
-                <div className={mastheadStyles.role}>assistant editor-in-chief</div>
+                <div className={mastheadStyles.role}>assistant eic</div>
               </div>
             </div>
             <div className={mastheadStyles.description}>

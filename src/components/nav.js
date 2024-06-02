@@ -39,15 +39,6 @@ const Nav = () => {
             <Link
               className={navStyles.navItem}
               activeClassName={navStyles.activeNavItem}
-              to="/blog"
-            >
-              blog
-            </Link>
-          </li>
-          <li>
-            <Link
-              className={navStyles.navItem}
-              activeClassName={navStyles.activeNavItem}
               to="/issues"
             >
               issues

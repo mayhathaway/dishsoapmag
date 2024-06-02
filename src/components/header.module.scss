@@ -23,17 +23,6 @@
   z-index: 1;
 }
 
-.heading1::before {
-  content: "";
-  background: url("../images/soap.png") no-repeat right center;
-  width: 158px;
-  height: 204px;
-  position: absolute;
-  left: -125px;
-  top: -20px;
-  z-index: -1;
-}
-
 .heading2 {
   color: $color-text;
   font-size: 4rem;
@@ -44,21 +33,11 @@
   margin-bottom: 0;
 }
 
-.heading2::after {
-  content: "";
-  background: url("../images/other soap.png") no-repeat right center;
-  width: 131px;
-  height: 141px;
-  position: absolute;
-  right: -120px;
-  top: 10px;
-  z-index: -1;
-}
-
 @media (max-width: 570px) {
   .heading1::before {
     background-size: 100px;
   }
+
   .heading2::after {
     background-size: 100px;
     right: -70px;
@@ -69,6 +48,7 @@
   .heading1::before {
     background-size: 80px;
   }
+
   .heading2::after {
     background-size: 80px;
     right: -50px;

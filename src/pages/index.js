@@ -37,7 +37,7 @@ const IndexPage = () => {
   return (
     <div>
       <Head>
-          <title> "home" </title>
+        <title> "home" </title>
       </Head>
 
       <MobileNav />
@@ -49,24 +49,6 @@ const IndexPage = () => {
         </p>
       </div>
       <div className={indexStyles.green}>
-        <div className={cx(indexStyles.row, indexStyles.postRow)}>
-          <h1>our favorite dishes</h1>
-          <div className={indexStyles.posts}>
-            {data.allContentfulBlogPost.edges.map(edge => {
-              return (
-                <div className={indexStyles.post}>
-                  <Link to={`/blog/${edge.node.slug}`}>
-                    <img
-                      src={edge.node.thumbnail.resize.src}
-                      alt={edge.node.thumbnail.title}
-                    />
-                    <h2>{edge.node.title}</h2>
-                  </Link>
-                </div>
-              )
-            })}
-          </div>
-        </div>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={indexStyles.soapPanel}>
             <img src={soapadish} alt="website logo" />

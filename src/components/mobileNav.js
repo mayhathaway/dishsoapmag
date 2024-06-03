@@ -53,11 +53,6 @@ const MobileNavMenu = () => {
             </Link>
           </li>
           <li>
-            <Link activeClassName={"active"} to="/blog">
-              blog
-            </Link>
-          </li>
-          <li>
             <Link activeClassName={"active"} to="/issues">
               issues
             </Link>
@@ -131,16 +126,16 @@ const MenuIcon = styled.button`
     transition: opacity 300ms, transform 300ms;
     :first-child {
       transform: ${({ menuOpen }) =>
-        menuOpen ? "rotate(45deg)" : "rotate(0)"};
+    menuOpen ? "rotate(45deg)" : "rotate(0)"};
     }
     :nth-child(2) {
       opacity: ${({ menuOpen }) => (menuOpen ? "0" : "1")};
       transform: ${({ menuOpen }) =>
-        menuOpen ? "translateX(0px)" : "translateX(0)"};
+    menuOpen ? "translateX(0px)" : "translateX(0)"};
     }
     :nth-child(3) {
       transform: ${({ menuOpen }) =>
-        menuOpen ? "rotate(-45deg)" : "rotate(0)"};
+    menuOpen ? "rotate(-45deg)" : "rotate(0)"};
     }
   }
 `

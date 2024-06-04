@@ -17,7 +17,6 @@ const ContactPage = () => {
       <Subheader title="reach us over the soap suds!" />
       <Layout>
         <Head title="Contact" />
-        <div className={layoutStyles.pinkLineTop}></div>
         <div className={contactStyles.contactForm}>
           <form
             name="contact"

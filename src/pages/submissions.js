@@ -32,12 +32,12 @@ const Masthead = () => {
               </i>
             </h3>
             <ol>
-              <li>we accept all genres.</li>
-              <li>
+              <li style="list-style-type: none;">we accept all genres.</li>
+              <li style="list-style-type: none;">
                 simultaneous submissions are fine, but tell us if you get
                 accepted elsewhere!
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 send us your finely-crafted dishes through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form</a>. we prefer docx
                 format unless you've got some cool formatting to preserve. unfortunately, we don't have the staffing to reply to off-season submissions,
                   or those sent by email instead of by form. cover letters are cool; please keep your bios short
@@ -45,7 +45,7 @@ const Masthead = () => {
                 list the ones that you feel are most representative of your
                 work. long bios will be cut to fit.{" "} <br />
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 <strong>poetry.</strong> at most 4 poems per submission & no
                 word limit. <br />
                 <strong>prose.</strong> at most 3 per submission & 5000 words in
@@ -56,7 +56,7 @@ const Masthead = () => {
                 <br />
                 <strong>other.</strong> as many as you'd like :).
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 please don't submit anything explicit!
                 <br /> <b>
                   we reserve the right to ignore a submission if we find any
@@ -64,24 +64,24 @@ const Masthead = () => {
                   stated.
                 </b>
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 if your work is accepted for publication, we ask that you credit
                 us as its first home when sending it to other places in the
                 future
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 throughout the submissions window, we would prefer it if
                 dishsoap could be your pieces’ first home, but we will consider
                 work that has been housed elsewhere before. please let us know
                 in your cover letter.
               </li>
-              <li>
+              <li style="list-style-type: none;">
                 we do nominate for Pushcart and Best of the Net.
               </li>
-              <li>for inquiries, please email dishsoap.mag@gmail.com. To <b>withdraw</b> a piece, 
+              <li style="list-style-type: none;">for inquiries, please email dishsoap.mag@gmail.com. To <b>withdraw</b> a piece, 
               please edit your initial submission to <b>check the box at the bottom of the form.</b> 
               (An editable copy of your submission should be sent to you after you've filled in the form!) </li>
-              <li>thank you for trusting us.</li>
+              <li style="list-style-type: none;">thank you for trusting us.</li>
             </ol>
           </p>
 <br />

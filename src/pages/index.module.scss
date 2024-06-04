@@ -69,13 +69,13 @@ input {
 }
 
 input:hover {
-  border: 0.2rem solid #fe6060;
+  border: 0.2rem solid #f77ce6;
   transition-duration: 0.5s;
 }
 
 input:focus {
   outline: none;
-  border: 0.2rem solid #fe6060;
+  border: 0.2rem solid #f77ce6;
 }
 
 textarea {
@@ -86,13 +86,13 @@ textarea {
 }
 
 textarea:hover {
-  border: 0.2rem solid #fe6060;
+  border: 0.2rem solid #f77ce6;
   transition-duration: 0.5s;
 }
 
 textarea:focus {
   outline: none;
-  border: 0.2rem solid #fe6060;
+  border: 0.2rem solid #f77ce6;
 }
 ::placeholder {
   color: #d9e075;

@@ -45,7 +45,7 @@ const IndexPage = () => {
       <Header />
       <div className={indexStyles.banner}>
         <p className={indexStyles.subtitle}>
-          <Link to="/issues">click here for our latest issue!</Link>
+          <Link to="/issues">click here for our latest collection!</Link>
         </p>
       </div>
       <div className={indexStyles.green}>
@@ -54,7 +54,7 @@ const IndexPage = () => {
             <img src={soapadish} alt="website logo" />
           </div>
           <div className={indexStyles.formPanel} id="form">
-            <h1> get the freshest dishes in your mailbox.</h1>
+            <h1> get soap samples delivered straight to your inbox.</h1>
             <MailchimpForm />
           </div>
         </div>

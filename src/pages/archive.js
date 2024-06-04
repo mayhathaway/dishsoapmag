@@ -91,7 +91,8 @@ const Masthead = () => {
               </div>
             </div>
           </div>
-
+          <br></br>
+          <br></br>
       <h1 className={issueStyles.heading}>collection 3</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>

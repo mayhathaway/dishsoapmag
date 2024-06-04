@@ -30,7 +30,7 @@ const AboutPage = () => {
             <p><strong>dishsoap</strong> /ˈdɪʃˌsoʊp/ (noun) </p>
             <p> a nerdy, uncool, earnest magazine that wouldn’t wait three days to call you if it got your 
               number. that’s too bad at math to care about measuring accolades against one another. 
-              that doesn’t have a type beyond TNR or maybe garamond. that’s easily excitable. that can’t 
+              that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
           <div className={aboutStyles.pinkLineBottom}></div>

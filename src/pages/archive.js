@@ -14,11 +14,11 @@ const Masthead = () => {
     <>
     <MobileNav />
     <Nav />
-    <Subheader title="dish museum" />
+    <Subheader title="dish cabinet" />
     <Layout>
       <Head title="archive" />
 
-      <h1 className={issueStyles.heading}> issue 4 </h1>
+      <h1 className={issueStyles.heading}> collection 4 </h1>
         <div className={layoutStyles.mission}>
             <h1 className={issueStyles.heading}>poetry</h1>
             <div className={issueStyles.parent}>
@@ -92,7 +92,7 @@ const Masthead = () => {
             </div>
           </div>
 
-      <h1 className={issueStyles.heading}>issue 3: september 2020</h1>
+      <h1 className={issueStyles.heading}>collection 3</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>
@@ -180,7 +180,7 @@ const Masthead = () => {
         </div>
       <br></br>
       <br></br>
-      <h1 className={issueStyles.heading}>issue 2: june 2021</h1>
+      <h1 className={issueStyles.heading}>collection 2</h1>
       <div className={layoutStyles.mission}>
         <h1 className={issueStyles.heading}>poetry</h1>
         <div className={issueStyles.parent}>
@@ -268,7 +268,7 @@ const Masthead = () => {
       </div>
       <br></br>
       <br></br>
-      <h1 className={issueStyles.heading}>issue 1: october 2020</h1>
+      <h1 className={issueStyles.heading}>collection 1</h1>
       <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>

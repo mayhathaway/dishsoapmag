@@ -54,7 +54,7 @@ const IndexPage = () => {
             <img src={soapadish} alt="website logo" />
           </div>
           <div className={indexStyles.formPanel} id="form">
-            <h1> get soap samples sent straight to your inbox.</h1>
+            <h1> get soap samples sent to your inbox.</h1>
             <MailchimpForm />
           </div>
         </div>

@@ -52,9 +52,9 @@ const Masthead = () => {
             </div>
 
             <div className={mastheadStyles.description}>
-            Zoe Reay-Ellers is currently attending Cornell University. Her work has appeared 
+            Zoe Reay-Ellers likes everything bagels and owns sixteen plants. Her work has appeared 
             in a number of different places, including Kissing Dynamite, HAD, Fish Barrel 
-            Review, and Eunoia Review. She likes everything bagels and owns sixteen plants.
+            Review, and Eunoia Review.
             </div>
           </div>
 

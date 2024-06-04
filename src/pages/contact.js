@@ -14,12 +14,9 @@ const ContactPage = () => {
     <>
       <MobileNav />
       <Nav />
-      <Subheader title="reach  us over the soap suds!" />
+      <Subheader title="reach us over the soap suds!" />
       <Layout>
         <Head title="Contact" />
-        <div className={layoutStyles.title}>
-          <h2>do you see your work finding its home at dishsoap?</h2>
-        </div>
 
         <div className={layoutStyles.pinkLineTop}></div>
         <div className={contactStyles.contactForm}>

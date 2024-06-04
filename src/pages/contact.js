@@ -17,7 +17,6 @@ const ContactPage = () => {
       <Subheader title="reach us over the soap suds!" />
       <Layout>
         <Head title="Contact" />
-
         <div className={layoutStyles.pinkLineTop}></div>
         <div className={contactStyles.contactForm}>
           <form
@@ -39,7 +38,7 @@ const ContactPage = () => {
               <div className={contactStyles.side}>
                 <label>
                   <p>full name*</p>{" "}
-                  <input type="text" name="name" placeholder="John Doe" />
+                  <input type="text" name="name" placeholder="Soapy McSoapface" />
                 </label>
               </div>
             </div>
@@ -47,7 +46,7 @@ const ContactPage = () => {
               <label>
                 <p>type your message here...</p>{" "}
                 <textarea
-                  placeholder="Lorem ipsum dolor sit amet..."
+                  placeholder="I love rubbing copious amounts of dishsoap in my..."
                   name="message"
                   className={contactStyles.boxsizingBorder}
                 ></textarea>

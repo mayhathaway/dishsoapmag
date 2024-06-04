@@ -57,8 +57,6 @@ const Masthead = () => {
             Review, and Eunoia Review.
             </div>
           </div>
-
-
           <div className={mastheadStyles.div6}>
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />

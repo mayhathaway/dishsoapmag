@@ -46,13 +46,15 @@ const Masthead = () => {
             <div className={mastheadStyles.flex}>
               <img src={blueagave} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>kel</div>
+                <div className={mastheadStyles.name}>zoe reay-ellers</div>
                 <div className={mastheadStyles.role}>editor-in-chief</div>
               </div>
             </div>
 
             <div className={mastheadStyles.description}>
-              add your bio here!
+            Zoe Reay-Ellers is currently attending Cornell University. Her work has appeared 
+            in a number of different places, including Kissing Dynamite, HAD, Fish Barrel 
+            Review, and Eunoia Review. She likes everything bagels and owns sixteen plants.
             </div>
           </div>
 

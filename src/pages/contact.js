@@ -46,7 +46,7 @@ const ContactPage = () => {
               <label>
                 <p>type your message here...</p>{" "}
                 <textarea
-                  placeholder="I love rubbing copious amounts of dish soap on..."
+                  placeholder="I love dumping copious amounts of dish soap on..."
                   name="message"
                   className={contactStyles.boxsizingBorder}
                 ></textarea>

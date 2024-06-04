@@ -41,7 +41,7 @@ const Nav = () => {
               activeClassName={navStyles.activeNavItem}
               to="/issues"
             >
-              issues
+              collections
             </Link>
           </li>
           <li>

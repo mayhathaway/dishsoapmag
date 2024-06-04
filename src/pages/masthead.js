@@ -57,6 +57,8 @@ const Masthead = () => {
             Review, and Eunoia Review.
             </div>
           </div>
+
+
           <div className={mastheadStyles.div6}>
             <div className={mastheadStyles.flex}>
               <img src={psych} alt="website logo" />
@@ -71,8 +73,6 @@ const Masthead = () => {
               among others.
             </div>
           </div>
-
-
         </div>
         <div className={mastheadStyles.role}>
           currently, there are no open positions on staff.

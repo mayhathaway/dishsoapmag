@@ -14,9 +14,9 @@ const Issues = () => {
     <>
       <MobileNav />
       <Nav />
-      <Subheader title="issue five" />
+      <Subheader title="collection five" />
       <Layout>
-        <Head title="issues" />
+        <Head title="collections" />
         <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>

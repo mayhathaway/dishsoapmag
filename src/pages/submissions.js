@@ -16,7 +16,7 @@ const Masthead = () => {
       <Layout>
         <Head title="submissions" />
         <div className={layoutStyles.title}>
-          <h2>Hello! Thank you for considering us as a home for your work :)</h2>
+          <h2>hello! thank you for considering us as a home for your work :)</h2>
         </div>
 
         <div className={layoutStyles.pinkLineTop}></div>
@@ -32,7 +32,7 @@ const Masthead = () => {
             </h3>
             <ol>
               <li>
-              We will be publishing one piece per week, on Tuesdays. Our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
+              we will be publishing one piece per week, on tuesdays. our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
               <strong>poetry.</strong> max 3 poems per submission & no
@@ -40,27 +40,27 @@ const Masthead = () => {
                 <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
               </li>
               <li>
-              Simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
+              simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
               </li>
               <li>
-                Although we would love for Dishsoap to be the first place that your work has appeared in, we will accept pieces that have appeared elsewhere previously as long as you indicate that to us in your submission.
+                although we would love for Dishsoap to be the first place that your work has appeared in, we will accept pieces that have appeared elsewhere previously as long as you indicate that to us in your submission.
               </li>
               <li>
-              We encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
+              we encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
               </li>
               <li>
-              If your work is accepted, we request that you credit us when sending it to other places in the future.
+              if your work is accepted, we request that you credit us when sending it to other places in the future.
               </li>
               <li>
-                If your work is rejected, we ask that you wait 2 months before submitting again. If your work is accepted, we ask that you wait 6 months before submitting again.
+                if your work is rejected, we ask that you wait 2 months before submitting again. if your work is accepted, we ask that you wait 6 months before submitting again.
               </li>
               <li>
-                We will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
+                we will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
-              <li>To <b>withdraw</b> a piece, 
+              <li>to <b>withdraw</b> a piece, 
               please edit your initial submission to <b>check the box at the bottom of the form.</b> 
-              (An editable copy of your submission should be sent to you after you've filled in the form!) </li>
-              <li>Send your work to us through our submissions form! <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form</a></li>
+              (an editable copy of your submission should be sent to you after you've filled in the form!) </li>
+              <li>send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
             </ol>
           </p>
 <br />

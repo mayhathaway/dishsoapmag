@@ -57,7 +57,7 @@ const Masthead = () => {
               <li>
                 we do nominate for Pushcart and Best of the Net.
               </li>
-              <li>for inquiries, please email dishsoap.mag@gmail.com. To <b>withdraw</b> a piece, 
+              <li>To <b>withdraw</b> a piece, 
               please edit your initial submission to <b>check the box at the bottom of the form.</b> 
               (An editable copy of your submission should be sent to you after you've filled in the form!) </li>
               <li>Send your work to us through our submissions form! <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form</a></li>

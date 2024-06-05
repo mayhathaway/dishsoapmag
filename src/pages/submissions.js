@@ -57,9 +57,6 @@ const Masthead = () => {
               <li>
                 We will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
-              <li>
-              simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
-              </li>
               <li>To <b>withdraw</b> a piece, 
               please edit your initial submission to <b>check the box at the bottom of the form.</b> 
               (An editable copy of your submission should be sent to you after you've filled in the form!) </li>

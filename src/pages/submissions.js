@@ -32,18 +32,21 @@ const Masthead = () => {
             </h3>
             <ol>
               <li>
-                simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
+              We will be publishing one piece per week, on Tuesdays. Our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
-                We encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
+              <strong>poetry.</strong> max 3 poems per submission & no
+                word limit. <br />
+                <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
+              </li>
+              <li>
+              Simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
               </li>
               <li>
                 Although we would love for Dishsoap to be the first place that your work has appeared in, we will accept pieces that have appeared elsewhere previously as long as you indicate that to us in your submission.
               </li>
               <li>
-                <strong>poetry.</strong> max 3 poems per submission & no
-                word limit. <br />
-                <strong>prose.</strong> mx 2 pieces per submission & no piece should exceed 2000 words
+              We encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
               </li>
               <li>
               If your work is accepted, we request that you credit us when sending it to other places in the future.
@@ -55,7 +58,7 @@ const Masthead = () => {
                 We will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
               <li>
-                we do nominate for Pushcart and Best of the Net.
+              simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
               </li>
               <li>To <b>withdraw</b> a piece, 
               please edit your initial submission to <b>check the box at the bottom of the form.</b> 

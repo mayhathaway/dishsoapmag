@@ -16,7 +16,7 @@ const Masthead = () => {
       <Layout>
         <Head title="submissions" />
         <div className={layoutStyles.title}>
-          <h2>do you see your work finding its home at dishsoap?</h2>
+          <h2>Hello! Thank you for considering us as a home for your work :)</h2>
         </div>
 
         <div className={layoutStyles.pinkLineTop}></div>

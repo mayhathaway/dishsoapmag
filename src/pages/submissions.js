@@ -59,6 +59,7 @@ const Masthead = () => {
               <li>
                 to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com
               </li>
+              <li>send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>
           </div>
 <br />

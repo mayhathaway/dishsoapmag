@@ -21,7 +21,7 @@ const Masthead = () => {
 
         <div className={layoutStyles.pinkLineTop}></div>
 
-        <div className={layoutStyles.mission}>
+        <div className={layoutStyles.mission}></div>
           <p>
             <h3>
               <i>
@@ -30,7 +30,6 @@ const Masthead = () => {
                 </strong>
               </i>
             </h3>
-            <ol>
               <li>
               we will be publishing one piece per week, on tuesdays (starting july, 2024). our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
@@ -57,12 +56,11 @@ const Masthead = () => {
               <li>
                 we will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
+              <li>
                 to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com
               </li>
-            </ol>
           </p>
 <br />
-        </div>
         <div className={layoutStyles.pinkLineBottom}></div>
       </Layout>
     </>

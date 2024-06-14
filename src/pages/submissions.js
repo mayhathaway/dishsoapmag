@@ -21,7 +21,7 @@ const Masthead = () => {
 
         <div className={layoutStyles.pinkLineTop}></div>
 
-        <div className={layoutStyles.mission}></div>
+        <div className={layoutStyles.mission}>
           <p>
             <h3>
               <i>
@@ -60,6 +60,7 @@ const Masthead = () => {
                 to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com
               </li>
           </p>
+          </div>
 <br />
         <div className={layoutStyles.pinkLineBottom}></div>
       </Layout>

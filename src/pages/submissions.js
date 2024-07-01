@@ -35,7 +35,7 @@ const Masthead = () => {
                 </li>
               <li>
               <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />
-              <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
+                 <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
               </li>
               <li>
               simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.

@@ -35,6 +35,7 @@ const Masthead = () => {
                 </li>
               <li>
                 genres:
+                
               <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />
               <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
               </li>

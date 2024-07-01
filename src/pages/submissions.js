@@ -34,9 +34,8 @@ const Masthead = () => {
               we will be publishing one piece per week, on tuesdays (starting july, 2024). our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
-              <strong>poetry.</strong> max 3 poems per submission & no
-                word limit. <br />
-                <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
+              <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />
+              <strong>prose.</strong> max 2 pieces per submission & no piece should exceed 2000 words
               </li>
               <li>
               simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
@@ -51,13 +50,13 @@ const Masthead = () => {
               if your work is accepted, we request that you credit us when sending it to other places in the future.
               </li>
               <li>
-                if your work is rejected, we ask that you wait 2 months before submitting again. if your work is accepted, we ask that you wait 6 months before submitting again.
+              if your work is rejected, we ask that you wait 2 months before submitting again. if your work is accepted, we ask that you wait 6 months before submitting again.
               </li>
               <li>
-                we will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
+              we will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
               <li>
-                to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com
+              to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com
               </li>
               <li>send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>

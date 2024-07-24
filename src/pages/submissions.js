@@ -31,7 +31,7 @@ const Masthead = () => {
               </i>
             </h3>
               <li>
-              we will be publishing one piece per week, on tuesdays (starting july, 2024). our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
+              we will be publishing one piece per week, on tuesdays (starting august, 2024). our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
               <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />

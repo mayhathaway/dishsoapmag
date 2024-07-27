@@ -22,7 +22,7 @@ const Footer = () => {
         <p className={footerStyles.footerTitle}>
           {data.site.siteMetadata.title} @2021
         </p>
-        <p> Website created by Jeremy Nguyen</p>
+        <p>Website created by Jeremy Nguyen</p>
       </div>
       <div className={footerStyles.split}>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>

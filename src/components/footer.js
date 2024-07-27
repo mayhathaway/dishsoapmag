@@ -22,8 +22,7 @@ const Footer = () => {
         <p className={footerStyles.footerTitle}>
           {data.site.siteMetadata.title}
         </p>
-        <p> © 2021</p>
-        Website created by Jeremy Nguyen
+        © 2021   Website created by Jeremy Nguyen
       </div>
       <div className={footerStyles.split}>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>

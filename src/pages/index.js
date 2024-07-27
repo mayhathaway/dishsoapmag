@@ -62,14 +62,9 @@ const IndexPage = () => {
       <div className={indexStyles.row}>
         <div className={indexStyles.quote}>
           <h1 className={indexStyles.quoteText}>
-          Nature’s first green is gold,
-          <br/>Her hardest hue to hold.
-Her early leaf’s a flower;
-But only so an hour.
-Then leaf subsides to leaf.
-So Eden sank to grief,
-So dawn goes down to day.
-Nothing gold can stay.
+          <p>test</p>
+          <p></p>
+          
           </h1>
         </div>
       </div>

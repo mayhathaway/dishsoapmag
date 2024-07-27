@@ -48,7 +48,7 @@ const IndexPage = () => {
           <Link to="/issues">click here for our latest collection!</Link>
         </p>
       </div>
-      <div className={indexStyles.green}>
+      {/* <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={indexStyles.soapPanel}>
             <img src={soapadish} alt="website logo" />
@@ -58,13 +58,19 @@ const IndexPage = () => {
             <MailchimpForm />
           </div>
         </div>
-      </div>
+      </div> */}
       <div className={indexStyles.row}>
         <div className={indexStyles.quote}>
           <h1 className={indexStyles.quoteText}>
-            "friends don't leave friends behind to wash dishes for yetis!"
+          Nature’s first green is gold,
+          <br/>Her hardest hue to hold.
+Her early leaf’s a flower;
+But only so an hour.
+Then leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day.
+Nothing gold can stay.
           </h1>
-          <h1 className={indexStyles.author}>- philip reeve</h1>
         </div>
       </div>
       <Footer />

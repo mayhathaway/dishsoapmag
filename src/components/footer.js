@@ -20,10 +20,9 @@ const Footer = () => {
     <footer className={footerStyles.footer}>
       <div className={footerStyles.split}>
         <p className={footerStyles.footerTitle}>
-          {data.site.siteMetadata.title}
+          {data.site.siteMetadata.title} @2021
         </p>
-        <p> © 2021</p>
-        <p>Website created by Jeremy Nguyen</p>
+        <p> Website created by Jeremy Nguyen</p>
       </div>
       <div className={footerStyles.split}>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>

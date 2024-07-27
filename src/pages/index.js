@@ -48,7 +48,7 @@ const IndexPage = () => {
           <Link to="/issues">click here for our latest collection!</Link>
         </p>
       </div>
-      {/* <div className={indexStyles.green}>
+      <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={indexStyles.soapPanel}>
             <img src={soapadish} alt="website logo" />
@@ -58,14 +58,13 @@ const IndexPage = () => {
             <MailchimpForm />
           </div>
         </div>
-      </div> */}
+      </div>
       <div className={indexStyles.row}>
         <div className={indexStyles.quote}>
           <h1 className={indexStyles.quoteText}>
-          <p>test</p>
-          <p></p>
-          
+            "friends don't leave friends behind to wash dishes for yetis!"
           </h1>
+          <h1 className={indexStyles.author}>- philip reeve</h1>
         </div>
       </div>
       <Footer />

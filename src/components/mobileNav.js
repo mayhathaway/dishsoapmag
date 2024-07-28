@@ -52,11 +52,11 @@ const MobileNavMenu = () => {
               masthead
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link activeClassName={"active"} to="/issues">
               issues
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link activeClassName={"active"} to="/submissions">
               submit

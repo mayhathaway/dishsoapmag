@@ -39,7 +39,7 @@ const Nav = () => {
             <Link
               className={navStyles.navItem}
               activeClassName={navStyles.activeNavItem}
-              to="/issues"
+              to="/submissions"
             >
               submit
             </Link>

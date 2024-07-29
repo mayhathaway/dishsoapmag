@@ -53,6 +53,11 @@ const MobileNavMenu = () => {
             </Link>
           </li>
           <li>
+            <Link activeClassName={"active"} to="/issues">
+              issues
+            </Link>
+          </li>
+          <li>
             <Link activeClassName={"active"} to="/submissions">
               submit
             </Link>

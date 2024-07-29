@@ -46,7 +46,7 @@ const Issues = () => {
               <Link to="/issue5/spring-meditation">
                 <p>spring meditation</p>
               </Link>
-
+            
               <h2>ashley kim</h2>
               <Link to="/issue5/mom-and-dad">
                 <p>Mom and Dad</p>

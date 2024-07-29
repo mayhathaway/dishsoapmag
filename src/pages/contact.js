@@ -30,7 +30,7 @@ const ContactPage = () => {
                   <input
                     type="email"
                     name="email"
-                    placeholder="example@gmail.com"
+                    placeholder="soapluvr@gmail.com"
                   />
                 </label>
               </div>

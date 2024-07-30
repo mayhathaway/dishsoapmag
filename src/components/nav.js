@@ -19,20 +19,20 @@ const Nav = () => {
           </li>
           <li>
             <Link
-              className={navStyles.navItem}
-              activeClassName={navStyles.activeNavItem}
-              to="/about"
-            >
-              about
+            className={navStyles.navItem}
+            activeClassName={navStyles.activeNavItem}
+            to="/archive"
+          >
+            archive
             </Link>
           </li>
           <li>
             <Link
-              className={navStyles.navItem}
-              activeClassName={navStyles.activeNavItem}
-              to="/masthead"
-            >
-              masthead
+            className={navStyles.navItem}
+            activeClassName={navStyles.activeNavItem}
+            to="/about"
+          >
+            about
             </Link>
           </li>
           <li>
@@ -55,11 +55,11 @@ const Nav = () => {
           </li>
           <li>
             <Link
-              className={navStyles.navItem}
-              activeClassName={navStyles.activeNavItem}
-              to="/archive"
-            >
-              archive
+               className={navStyles.navItem}
+               activeClassName={navStyles.activeNavItem}
+               to="/masthead"
+             >
+               masthead
             </Link>
           </li>
         </ul>

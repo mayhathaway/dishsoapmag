@@ -100,10 +100,10 @@ const Masthead = () => {
                 </Link>
                 <p>daniel boyko</p>
                
-                <Link to="/issue4/a-page-from-her-book">
-                <h2>a page from her book</h2>
+                <Link to="/issue4/teens-on-tiktok">
+                <h2>teens on tiktok think i should set boundaries but i am</h2>
                 </Link>
-                <p>anna feng</p>
+                <p>courtney felle</p>
               </div>
 
 
@@ -113,11 +113,10 @@ const Masthead = () => {
                 <h2>32 lemons</h2>
                 </Link>
                 <p>matt hsu</p>
-              
-                <Link to="/issue4/teens-on-tiktok">
-                <h2>teens on tiktok think i should set boundaries but i am</h2>
+                <Link to="/issue4/a-page-from-her-book">
+                <h2>a page from her book</h2>
                 </Link>
-                <p>courtney felle</p>
+                <p>anna feng</p>
 
                 <Link to="/issue4/the-world-is-ending-and-i-am-buying-groceries">
                 <h2>The World Is Ending And I Am Buying Groceries</h2>
@@ -321,10 +320,11 @@ const Masthead = () => {
 
           </div>
           <div>
-            <h2>norah brady</h2>
+            
             <Link to="/issue2/time-bomb">
-              <p>Time Bomb</p>
+              <h2>Time Bomb</h2>
             </Link>
+            <p>norah brady</p>
 
           </div>
         </div>
@@ -341,21 +341,22 @@ const Masthead = () => {
         <div className={issueStyles.parent}>
           <div>
             <Link to="/issue2/fabrice-poussin">
-              <h2>fabrice poussin</h2>
-              <p>Yet Another Story</p>
-              <p>Modern Couple</p>
-              <p>Illusion</p>
+              <h2>Yet Another Story</h2>
+              <h2>Modern Couple</h2>
+              <h2>Illusion</h2>
             </Link>
+            <p>fabrice poussin</p>
+
             <Link to="/issue2/carly-chan">
-              <h2>carly chan</h2>
-              <p>Trichotomy</p>
+              <h2>Trichotomy</h2>
             </Link>
+            <p>carly chan</p>
           </div>
           <div>
           <Link to="/issue2/adina-guo">
-              <h2>adina guo</h2>
-              <p>Wai Gong</p>
+              <h2>Wai Gong</h2>
             </Link>
+            <p>adina guo</p>
         </div>
       </div>
       </div>
@@ -366,25 +367,31 @@ const Masthead = () => {
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
-              <h2>heath wooten</h2>
               <Link to="/issue1/summer-heroes">
-                <p>Summer Heroes</p>
+                <h2>Summer Heroes</h2>
               </Link>
-              <h2>alina stefanescu</h2>
+              <p>heath wooten</p>
+
               <Link to="/issue1/the-krakow-nude">
-                <p>The Krakow Nude</p>
+                <h2>The Krakow Nude</h2>
               </Link>
+              <p>alina stefanescu</p>
+
               <Link to="/issue1/red-chair-with-potential">
                 <p>Red Chair With Potential</p>
               </Link>
+              <p>alina stefanescu</p>
+
               <h2>darnell "deesoul" carson</h2>
               <Link to="/issue1/forgive-me-if-i-say">
                 <p>Forgive Me If I Say</p>
               </Link>
+
               <h2>jonny teklit</h2>
               <Link to="/issue1/notes-on-anger">
                 <p>Notes on Anger</p>
               </Link>
+              
               <Link to="/issue1/one-night">
                 <p>
                   One Night, When the Dread is Hard to Shake, I Ask Whoever Is

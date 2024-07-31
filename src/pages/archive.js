@@ -7,7 +7,6 @@ import Nav from "../components/nav"
 import Subheader from "../components/subHeader"
 import MobileNav from "../components/mobileNav"
 import issueStyles from "./issues.module.scss"
-import archiveStyles from "./archive.module.scss"
 import { Link } from "gatsby"
 
 const Masthead = () => {
@@ -35,30 +34,30 @@ const Masthead = () => {
               </Link>
               <p>howie good</p>
 
-              <h2>jeffrey letterly</h2>
               <Link to="/issue5/swirling">
-                <p>{`[Swirling]`}</p>
+              <h2>{`[Swirling]`}</h2>
               </Link>
+              <p>jeffrey letterly</p>
 
             </div>
 
 
             <div className={issueStyles.bottomMargin}>
-
-              <h2>nathan lee</h2>
-              <Link to="/issue5/spring-meditation">
-                <p>spring meditation</p>
-              </Link>
             
-              <h2>ashley kim</h2>
+              <Link to="/issue5/spring-meditation">
+              <h2>spring meditation</h2>
+              </Link>
+              <p>nathan lee</p>
+                         
               <Link to="/issue5/mom-and-dad">
-                <p>Mom and Dad</p>
+              <h2>Mom and Dad</h2>
               </Link>
+              <p>ashley kim</p>
 
-              <h2>julieanne larick</h2>
               <Link to="/issue5/the-anxious-girlfriends-unruly-skeletons">
-                <p>The Anxious Girlfriend's Unruly Skeletons</p>
+              <h2>The Anxious Girlfriend's Unruly Skeletons</h2>
               </Link>
+              <p>julieanne larick</p>
 
             </div>
           </div>
@@ -66,19 +65,19 @@ const Masthead = () => {
           <h1 className={issueStyles.heading}>art</h1>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
-
-              <h2>theresa kohlbeck jakobsen</h2>
+              
               <Link to="/issue5/skilnadarotti">
-                <p>skilnadarótti</p>
+              <h2>skilnadarótti</h2>
               </Link>
+              <p>theresa kohlbeck jakobsen</p>
 
             </div>
             <div>
 
-              <h2>james diaz</h2>
               <Link to="/issue5/words-get-in-the-way">
-                <p>Words Get In The Way</p>
+              <h2>Words Get In The Way</h2>
               </Link>
+              <p>james diaz</p>
 
               </div>
             </div>
@@ -90,40 +89,40 @@ const Masthead = () => {
             <h1 className={issueStyles.heading}>poetry</h1>
             <div className={issueStyles.parent}>
               <div className={issueStyles.bottomMargin}>
-
-                <h2>elliot lee</h2>
+               
                 <Link to="/issue4/to-term">
-                  <p>to term</p>
+                <h2>to term</h2>
                 </Link>
+                <p>elliot lee</p>
 
-                <h2>daniel boyko</h2>
                 <Link to="/issue4/to-my-future-nephew">
-                  <p>To My Future Nephew II</p>
+                <h2>To My Future Nephew II</h2>
                 </Link>
-
-                <h2>anna feng</h2>
+                <p>daniel boyko</p>
+               
                 <Link to="/issue4/a-page-from-her-book">
-                  <p>a page from her book</p>
+                <h2>a page from her book</h2>
                 </Link>
+                <p>anna feng</p>
               </div>
 
 
               <div className={issueStyles.bottomMargin}>
 
-                <h2>matt hsu</h2>
                 <Link to="/issue4/32lemons">
-                  <p>32 lemons</p>
+                <h2>32 lemons</h2>
                 </Link>
+                <p>matt hsu</p>
               
-                <h2>courtney felle</h2>
                 <Link to="/issue4/teens-on-tiktok">
-                  <p>teens on tiktok think i should set boundaries but i am</p>
+                <h2>teens on tiktok think i should set boundaries but i am</h2>
                 </Link>
+                <p>courtney felle</p>
 
-                <h2>leela raj-sankar</h2>
                 <Link to="/issue4/the-world-is-ending-and-i-am-buying-groceries">
-                  <p>The World Is Ending And I Am Buying Groceries</p>
+                <h2>The World Is Ending And I Am Buying Groceries</h2>
                 </Link>
+                <p>leela raj-sankar</p>
 
               </div>
             </div>
@@ -131,29 +130,31 @@ const Masthead = () => {
             <h1 className={issueStyles.heading}>prose</h1>
             <div className={issueStyles.parent}>
               <div className={issueStyles.bottomMargin}>
-
-                <h2>will musgrove</h2>
+               
                 <Link to="/issue4/lawn-chair-larry">
-                  <p>Lawn Chair Larry</p>
+                <h2>Lawn Chair Larry</h2>
                 </Link>
-
-                <h2>nora sun</h2>
+                <p>will musgrove</p>
+               
                 <Link to="/issue4/absurdum">
-                  <p>Absurdum</p>
+                <h2>Absurdum</h2>
                 </Link>
+                <p>nora sun</p>
 
               </div>
               <div>
 
-                <h2>ashley gilland</h2>
+                
                 <Link to="/issue4/the-chocolatier">
-                  <p>The Chocolatier</p>
+                <h2>The Chocolatier</h2>
                 </Link>
+                <p>ashley gilland</p>
 
-                <h2>E.J. Nash</h2>
+                
                 <Link to="/issue4/henry-wilson">
-                  <p>Henry Wilson and the Center of the Sun</p>
+                <h2>Henry Wilson and the Center of the Sun</h2>
                 </Link>
+                <p>E.J. Nash</p>
 
               </div>
             </div>
@@ -166,22 +167,25 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>sunny vuong</h2>
               <Link to="/issue3/frankievalli">
-                <p>Frankie Valli’s in love with you</p>
+              <h2>Frankie Valli’s in love with you</h2>
               </Link>
-              <h2>sal kang</h2>
+              <p>sunny vuong</p>
+             
               <Link to="/issue3/sonnetforbirdsofparadise">
-                <p>sonnet for birds of paradise</p>
+                <h2>sonnet for birds of paradise</h2>
               </Link>
-              <h2>josephine wu</h2>
+              <p>sal kang</p>
+            
               <Link to="/issue3/waterprayers">
-                <p>Water Prayers</p>
+                <h2>Water Prayers</h2>
               </Link>
-              <h2>ashley hajimirsadeghi</h2>
+              <p>josephine wu</p>
+
               <Link to="/issue3/alternateuniverse">
-                <p>IN AN ALTERNATE UNIVERSE WE EAT CAKE</p>
+                <h2>IN AN ALTERNATE UNIVERSE WE EAT CAKE</h2>
               </Link>
+              <p>ashley hajimirsadeghi</p>
 
             </div>
 
@@ -189,22 +193,25 @@ const Masthead = () => {
             <div className={issueStyles.bottomMargin}>
 
             <Link to="/issue3/bidingtime">
-              <h2>grace joylynn anderson</h2>
-              <p>biding time until the spring arrives</p>
+              <h2>biding time until the spring arrives</h2>
             </Link>
+            <p>grace joylynn anderson</p>
 
-            <h2>sal kang</h2>
               <Link to="/issue3/theorange">
-                <p>The Orange Has Body Image Issues</p>
+                <h2>The Orange Has Body Image Issues</h2>
               </Link>
-            <h2>ds maolalai</h2>
+              <p>sal kang</p>
+
               <Link to="/issue3/theleavesaregreen">
-                <p>And the leaves are green</p>
+                <h2>And the leaves are green</h2>
               </Link>
-            <h2>ashley hajimirsadeghii</h2>
+              <p>ds maolalai</p>
+          
+            
               <Link to="/issue3/besweet">
-                <p>Be Sweet</p>
+                <h2>Be Sweet</h2>
               </Link>
+              <p>ashley hajimirsadeghii</p>
 
             </div>
           </div>
@@ -213,18 +220,19 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>salonee verma</h2>
+              
               <Link to="/issue3/tobeclear">
-                <p>To Be Clear: A Femme Fatale (Gender-Neutral!) Guides You Through A Noir Film in Bollywood (First Of Its Kind! Tickets Open Now!)</p>
+                <h2>To Be Clear: A Femme Fatale (Gender-Neutral!) Guides You Through A Noir Film in Bollywood (First Of Its Kind! Tickets Open Now!)</h2>
               </Link>
+              <p>salonee verma</p>
 
             </div>
             <div>
 
-              <h2>dedeepya guthikonda</h2>
               <Link to="/issue3/hirasdaycare">
-                <p>Mrs. Hira's Daycare</p>
+                <h2>Mrs. Hira's Daycare</h2>
               </Link>
+              <p>dedeepya guthikonda</p>
 
             </div>
           </div>
@@ -233,16 +241,17 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div>
               <Link to="/issue3/darcymariemelton">
-                <h2>darcy marie melton</h2>
-                <p>Kingfisher</p>
+                <h2>Kingfisher</h2>
               </Link>
+              <p>darcy marie melton</p>
 
             </div>
             <div>
             <Link to="/issue3/melodyserra">
-                <h2>melody serra</h2>
-                <p>In the company of trees</p>
+                <h2>In the company of trees</h2>
               </Link>
+              <p>melody serra</p>
+
           </div>
         </div>
         </div>
@@ -253,54 +262,68 @@ const Masthead = () => {
         <h1 className={issueStyles.heading}>poetry</h1>
         <div className={issueStyles.parent}>
           <div className={issueStyles.bottomMargin}>
-            <h2>charlie blodnieks</h2>
+           
             <Link to="/issue2/ode-to-desperate-housewives">
-              <p>Ode to Desperate Housewives</p>
+              <h2>Ode to Desperate Housewives</h2>
             </Link>
-            <h2>alex dang</h2>
+            <p>charlie blodnieks</p>
+            
             <Link to="/issue2/mac-miller-georgia-o-keeffe-collaboration-track">
-              <p>Mac Miller &amp; Georgia O’Keeffe COLLABORATION TRACK</p>
+              <h2>Mac Miller &amp; Georgia O’Keeffe COLLABORATION TRACK</h2>
             </Link>
-            <h2>kavi kshiraj</h2>
+            <p>alex dang</p>
+            
             <Link to="/issue2/constructed-grief">
-              <p>Constructed Grief</p>
+              <h2>Constructed Grief</h2>
             </Link>
+            <p>kavi kshiraj</p>
+
           </div>
           <div className={issueStyles.bottomMargin}>
-          <h2>norah brady</h2>
+
+          
             <Link to="/issue2/beowulf">
-              <p>beowulf</p>
+              <h2>beowulf</h2>
             </Link>
-            <h2>rhiannon mcgavin</h2>
+            <p>norah brady</p>
+
             <Link to="/issue2/pith">
-              <p>Pith</p>
+              <h2>Pith</h2>
             </Link>
+
             <Link to="/issue2/empty">
-              <p>Empty</p>
+              <h2>Empty</h2>
             </Link>
-            <h2>rl wheeler</h2>
+            <p>rhiannon mcgavin</p>
+
             <Link to="/issue2/ars-poetica-open-composition">
-              <p>Ars Poetica: Open Composition</p>
+              <h2>Ars Poetica: Open Composition</h2>
             </Link>
+            <p>rl wheeler</p>
+
           </div>
         </div>
         <h1 className={issueStyles.heading}>prose</h1>
         <div className={issueStyles.parent}>
           <div className={issueStyles.bottomMargin}>
+
             <h2>martin greenacre</h2>
             <Link to="/issue2/sunshine-on-marchmont">
               <p>Sunshine on Marchmont</p>
             </Link>
+
             <h2>blake chernin</h2>
             <Link to="/issue2/typhoid-mary">
               <p>Typhoid Mary Would Like to Address You From Her Lonely Bungalow on North Brother Island, Where She Was Imprisoned During the Years 1907-1910 and Again from 1915 Until Her Death in 1938</p>
             </Link>
+
           </div>
           <div>
             <h2>norah brady</h2>
             <Link to="/issue2/time-bomb">
               <p>Time Bomb</p>
             </Link>
+
           </div>
         </div>
         <h1 className={issueStyles.heading}>play</h1>

@@ -48,8 +48,8 @@ const MobileNavMenu = () => {
             </Link>
           </li>
           <li>
-            <Link activeClassName={"active"} to="/masthead">
-              masthead
+          <Link activeClassName={"active"} to="/archive">
+              archive
             </Link>
           </li>
           <li>
@@ -63,8 +63,8 @@ const MobileNavMenu = () => {
             </Link>
           </li>
           <li>
-            <Link activeClassName={"active"} to="/archive">
-              archive
+          <Link activeClassName={"active"} to="/masthead">
+              masthead
             </Link>
           </li>
         </ul>

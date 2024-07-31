@@ -267,15 +267,15 @@ const Masthead = () => {
             </Link>
             <p>charlie blodnieks</p>
             
-            <Link to="/issue2/mac-miller-georgia-o-keeffe-collaboration-track">
-              <h2>Mac Miller &amp; Georgia O’Keeffe COLLABORATION TRACK</h2>
-            </Link>
-            <p>alex dang</p>
-            
             <Link to="/issue2/constructed-grief">
               <h2>Constructed Grief</h2>
             </Link>
             <p>kavi kshiraj</p>
+
+            <Link to="/issue2/mac-miller-georgia-o-keeffe-collaboration-track">
+              <h2>Mac Miller &amp; Georgia O’Keeffe COLLABORATION TRACK</h2>
+            </Link>
+            <p>alex dang</p>
 
           </div>
           <div className={issueStyles.bottomMargin}>
@@ -391,7 +391,7 @@ const Masthead = () => {
               <Link to="/issue1/notes-on-anger">
                 <p>Notes on Anger</p>
               </Link>
-              
+
               <Link to="/issue1/one-night">
                 <p>
                   One Night, When the Dread is Hard to Shake, I Ask Whoever Is

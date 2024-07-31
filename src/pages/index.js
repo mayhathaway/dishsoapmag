@@ -36,9 +36,7 @@ const IndexPage = () => {
 
   return (
     <div>
-      <Head>
-        <title> "home" </title>
-      </Head>
+      <Head title="home"/>
 
       <MobileNav />
       <Nav />

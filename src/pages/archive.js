@@ -331,10 +331,10 @@ const Masthead = () => {
         <h1 className={issueStyles.heading}>play</h1>
         <div className={issueStyles.parent}>
           <div className={issueStyles.bottomMargin}>
-            <h2>julia beecher</h2>
             <Link to="/issue2/end-of-days">
-              <p>End of Days</p>
+              <h2>End of Days</h2>
             </Link>
+            <p>julia beecher</p>
           </div>
         </div>
         <h1 className={issueStyles.heading}>art</h1>

@@ -7,6 +7,7 @@ import Nav from "../components/nav"
 import Subheader from "../components/subHeader"
 import MobileNav from "../components/mobileNav"
 import issueStyles from "./issues.module.scss"
+import archiveStyles from "./archive.module.scss"
 import { Link } from "gatsby"
 
 const Masthead = () => {
@@ -24,15 +25,15 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>The Anxiety Index</h2>
               <Link to="/issue5/the-anxiety-index">
-                <p>howie good</p>
+              <h2>The Anxiety Index</h2>
               </Link>
-
-              <h2>The Day Before Yesterday</h2>
+              <p>howie good</p>
+              
               <Link to="/issue5/the-day-before-yesterday">
-                <p>howie good</p>
+              <h2>The Day Before Yesterday</h2>
               </Link>
+              <p>howie good</p>
 
               <h2>jeffrey letterly</h2>
               <Link to="/issue5/swirling">

@@ -290,6 +290,8 @@ const Masthead = () => {
             <Link to="/issue2/pith">
               <h2>Pith</h2>
             </Link>
+            <p>rhiannon mcgavin</p>
+            
             <Link to="/issue2/empty">
               <h2>Empty</h2>
             </Link>
@@ -306,15 +308,16 @@ const Masthead = () => {
         <div className={issueStyles.parent}>
           <div className={issueStyles.bottomMargin}>
 
-            <h2>martin greenacre</h2>
+            
             <Link to="/issue2/sunshine-on-marchmont">
-              <p>Sunshine on Marchmont</p>
+              <h2>Sunshine on Marchmont</h2>
             </Link>
+            <p>martin greenacre</p>
 
-            <h2>blake chernin</h2>
             <Link to="/issue2/typhoid-mary">
-              <p>Typhoid Mary Would Like to Address You From Her Lonely Bungalow on North Brother Island, Where She Was Imprisoned During the Years 1907-1910 and Again from 1915 Until Her Death in 1938</p>
+              <h2>Typhoid Mary Would Like to Address You From Her Lonely Bungalow on North Brother Island, Where She Was Imprisoned During the Years 1907-1910 and Again from 1915 Until Her Death in 1938</h2>
             </Link>
+            <p>blake chernin</p>
 
           </div>
           <div>

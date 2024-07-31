@@ -7,24 +7,9 @@ import MobileNav from "../components/mobileNav"
 import Subheader from "../components/subHeader"
 import mastheadStyles from "./masthead.module.scss"
 
-import bianca from "../images/bianca.png"
-import blossom from "../images/blossom.png"
 import blueagave from "../images/blueagave.png"
-import cabbages from "../images/cabbages.png"
-import cheese from "../images/cheese.png"
-import iris from "../images/iris.png"
-import jocky from "../images/jocky.png"
-import mae from "../images/mae.png"
-import may from "../images/may.png"
 import psych from "../images/psych.png"
-import soapy from "../images/soapy.png"
-import tato from "../images/tato.png"
-import yongs from "../images/yongs.png"
-import mwitta from "../images/mwitta.png"
-import oneill from "../images/oneill.png"
-import dhwanee from "../images/dhwanee.png"
-import norah from "../images/norah.png"
-import marnie from "../images/marnie.png"
+
 
 
 const Masthead = () => {

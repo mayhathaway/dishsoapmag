@@ -41,11 +41,6 @@ const IndexPage = () => {
       <MobileNav />
       <Nav />
       <Header />
-      <div className={indexStyles.banner}>
-        <p className={indexStyles.subtitle}>
-          <Link to="/issues">click here for our latest collection!</Link>
-        </p>
-      </div>
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={indexStyles.soapPanel}>

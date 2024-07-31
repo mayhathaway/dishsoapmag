@@ -52,14 +52,6 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
-      <div className={indexStyles.row}>
-        <div className={indexStyles.quote}>
-          <h1 className={indexStyles.quoteText}>
-            "friends don't leave friends behind to wash dishes for yetis!"
-          </h1>
-          <h1 className={indexStyles.author}>- philip reeve</h1>
-        </div>
-      </div>
       <Footer />
     </div>
   )

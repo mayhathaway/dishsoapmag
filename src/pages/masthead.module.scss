@@ -3,7 +3,6 @@
 .parent {
   display: grid;
   grid-template-columns: repeat(2, 0.5fr);
-  grid-template-rows: repeat(6, 1fr);
   // used to be 7,1
   grid-column-gap: 13px;
   grid-row-gap: 0px;

@@ -1,0 +1,9 @@
+@import "../styles/colors.scss";
+
+.piece{
+    color: $color-vomit-green;
+}
+
+.piece:hover{
+    text-decoration: underline;
+}

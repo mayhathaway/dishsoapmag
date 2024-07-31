@@ -7,6 +7,7 @@ import Subheader from "../components/subHeader"
 import Nav from "../components/nav"
 import aboutStyles from "./about.module.scss"
 import Footer from "../components/footer"
+import contactStyles from "./contact.module.scss"
 import MobileNav from "../components/mobileNav"
 
 

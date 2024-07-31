@@ -16,7 +16,7 @@ const ContactPage = () => {
       <Nav />
       <Subheader title="reach us over the soap suds!" />
       <Layout>
-        <Head title="Contact" />
+        <Head title="contact" />
         <div className={contactStyles.contactForm}>
           <form
             name="contact"

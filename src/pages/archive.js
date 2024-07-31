@@ -290,7 +290,6 @@ const Masthead = () => {
             <Link to="/issue2/pith">
               <h2>Pith</h2>
             </Link>
-
             <Link to="/issue2/empty">
               <h2>Empty</h2>
             </Link>

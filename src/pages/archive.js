@@ -24,14 +24,14 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <h2>howie good</h2>
+              <h2>The Anxiety Index</h2>
               <Link to="/issue5/the-anxiety-index">
-                <p>The Anxiety Index</p>
+                <p>howie good</p>
               </Link>
 
-              <h2>howie good</h2>
+              <h2>The Day Before Yesterday</h2>
               <Link to="/issue5/the-day-before-yesterday">
-                <p>The Day Before Yesterday</p>
+                <p>howie good</p>
               </Link>
 
               <h2>jeffrey letterly</h2>

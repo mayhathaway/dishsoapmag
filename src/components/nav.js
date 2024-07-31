@@ -18,21 +18,21 @@ const Nav = () => {
             </Link>
           </li>
           <li>
-            <Link
-            className={navStyles.navItem}
-            activeClassName={navStyles.activeNavItem}
-            to="/archive"
-          >
-            archive
-            </Link>
-          </li>
-          <li>
-            <Link
+          <Link
             className={navStyles.navItem}
             activeClassName={navStyles.activeNavItem}
             to="/about"
           >
             about
+            </Link>
+          </li>
+          <li>
+          <Link
+            className={navStyles.navItem}
+            activeClassName={navStyles.activeNavItem}
+            to="/archive"
+          >
+            archive
             </Link>
           </li>
           <li>

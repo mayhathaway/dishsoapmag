@@ -8,6 +8,7 @@ import Nav from "../components/nav"
 import aboutStyles from "./about.module.scss"
 import Footer from "../components/footer"
 import contactStyles from "./contact.module.scss"
+import indexStyles from "./index.module.scss"
 import MobileNav from "../components/mobileNav"
 
 

@@ -342,10 +342,19 @@ const Masthead = () => {
           <div>
             <Link to="/issue2/fabrice-poussin">
               <h2>Yet Another Story</h2>
-              <h2>Modern Couple</h2>
-              <h2>Illusion</h2>
-            </Link>
+              </Link>
             <p>fabrice poussin</p>
+            
+            <Link to="/issue2/fabrice-poussin">
+            <h2>Modern Couple</h2>
+              </Link>
+            <p>fabrice poussin</p>
+
+            <Link to="/issue2/fabrice-poussin">
+            <h2>Illusion</h2>
+              </Link>
+            <p>fabrice poussin</p>
+            
 
             <Link to="/issue2/carly-chan">
               <h2>Trichotomy</h2>

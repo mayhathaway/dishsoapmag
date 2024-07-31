@@ -362,7 +362,7 @@ const Masthead = () => {
               <h2>Trichotomy</h2>
             </Link>
             <p>carly chan</p>
-            
+
           <Link to="/issue2/adina-guo">
               <h2>Wai Gong</h2>
             </Link>
@@ -388,110 +388,140 @@ const Masthead = () => {
               <p>alina stefanescu</p>
 
               <Link to="/issue1/red-chair-with-potential">
-                <p>Red Chair With Potential</p>
+                <h2>Red Chair With Potential</h2>
               </Link>
               <p>alina stefanescu</p>
 
-              <h2>darnell "deesoul" carson</h2>
               <Link to="/issue1/forgive-me-if-i-say">
-                <p>Forgive Me If I Say</p>
+                <h2>Forgive Me If I Say</h2>
               </Link>
+              <p>darnell "deesoul" carson</p>
 
-              <h2>jonny teklit</h2>
               <Link to="/issue1/notes-on-anger">
-                <p>Notes on Anger</p>
+                <h2>Notes on Anger</h2>
               </Link>
+              <p>jonny teklit</p>
 
               <Link to="/issue1/one-night">
-                <p>
-                  One Night, When the Dread is Hard to Shake, I Ask Whoever Is
-                  Up There
-                </p>
+                <h2>One Night, When the Dread is Hard to Shake, I Ask Whoever Is Up There</h2>
               </Link>
+              <p>jonny teklit</p>
+
             </div>
             <div className={issueStyles.bottomMargin}>
-              <h2>gaia rajan</h2>
+              
               <Link to="/issue1/poem-inside-a-locker-room">
-                <p>Poem Inside a Locker Room</p>
+                <h2>Poem Inside a Locker Room</h2>
               </Link>
+              <p>gaia rajan</p>
+
               <Link to="/issue1/prayer-for-doomed-girls">
-                <p>Prayer for Doomed Girls</p>
+                <h2>Prayer for Doomed Girls</h2>
               </Link>
-              <h2>poppy rosales</h2>
+              <p>gaia rajan</p>
+
+              <Link to="/issue1/joan-of-arc-invented-the-bob">
+                <h2>Joan of Arc Invented the Bob</h2>
+              </Link>
+              <p>taylor garrison</p>
+
+              <Link to="/issue1/fustian">
+                <h2>Fustian</h2>
+              </Link>
+              <p>william doreski</p>
+
+              <Link to="/issue1/strangers">
+                <h2>Strangers</h2>
+              </Link>
+              <p>william doreski</p>
+
+              <Link to="/issue1/cultures-vultures-bereft">
+                <h2>Cultures Vultures Bereft</h2>
+              </Link>
+              <p>william doreski</p>
+
               <Link to="/issue1/the-age-old-struggle-of-being-a-woman-in-love-that-still-plagues-the-21st-century">
-                <p>
+                <h2>
                   the age-old struggle of being a woman in love that still
                   plagues the 21st century
-                </p>
+                </h2>
               </Link>
-              <h2>taylor garrison</h2>
-              <Link to="/issue1/joan-of-arc-invented-the-bob">
-                <p>Joan of Arc Invented the Bob</p>
-              </Link>
-              <h2>william doreski</h2>
-              <Link to="/issue1/fustian">
-                <p>Fustian</p>
-              </Link>
-              <Link to="/issue1/strangers">
-                <p>Strangers</p>
-              </Link>
-              <Link to="/issue1/cultures-vultures-bereft">
-                <p>Cultures Vultures Bereft</p>
-              </Link>
+              <p>poppy rosales</p>
+
             </div>
           </div>
           <h1 className={issueStyles.heading}>prose</h1>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
-              <h2>katie grierson</h2>
+              
               <Link to="/issue1/good-daughter">
-                <p>Good Daughter</p>
+                <h2>Good Daughter</h2>
               </Link>
-              <h2>darnell "deesoul" carson</h2>
+              <p>katie grierson</p>
+
+              
               <Link to="/issue1/dog-days">
-                <p>Dog Days</p>
+                <h2>Dog Days</h2>
               </Link>
+              <p>darnell "deesoul" carson</p>
             </div>
             <div>
-              <h2>youngseo lee</h2>
+
               <Link to="/issue1/autopsy-but-flourished-with-prayer">
-                <p>autopsy, but flourished with prayer</p>
+                <h2>autopsy, but flourished with prayer</h2>
               </Link>
-              <h2>liz wride</h2>
+              <p>youngseo lee</p>
+
+              
               <Link to="/issue1/have-you-seen-this-bird">
-                <p>Have you seen this bird?</p>
+                <h2>Have you seen this bird?</h2>
               </Link>
+              <p>liz wride</p>
             </div>
           </div>
           <h1 className={issueStyles.heading}>art</h1>
           <div className={issueStyles.parent}>
             <div>
               <Link to="/issue1/karl-zuehlke">
-                <h2>karl zuehlke</h2>
-                <p>Earth</p>
-                <p>Forest</p>
+                <h2>Earth</h2>
               </Link>
+              <p>karl zuehlke</p>
+              <Link to="/issue1/karl-zuehlke">
+                <h2>Forest</h2>
+              </Link>
+              <p>karl zuehlke</p>
+
               <Link to="/issue1/vivi-niya-gao">
-                <h2>vivi niya gao</h2>
-                <p>The City of Individuals</p>
-                <p>Expressions of Still Life I</p>
+                <h2>Expressions of Still Life I</h2>
               </Link>
+              <p>vivi niya gao</p>
+              <Link to="/issue1/vivi-niya-gao">
+                <h2>The City of Individuals</h2>
+              </Link>
+              <p>vivi niya gao</p>
+
               <Link to="/issue1/ashley-cai">
-                <h2>ashley cai</h2>
-                <p>Please Remain Calm</p>
+                <h2>Please Remain Calm</h2>
               </Link>
+              <p>ashley cai</p>
             </div>
             <div>
             <Link to="/issue1/janelle-cordero">
-                <h2>janelle cordero</h2>
-                <p>Bell</p>
-                <p>Mina</p>
-                <p>Anika</p>
+                <h2>Bell</h2>
               </Link>
+              <p>janelle cordero</p>
+              <Link to="/issue1/janelle-cordero">
+                <h2>Mina</h2>
+              </Link>
+              <p>janelle cordero</p>
+              <Link to="/issue1/janelle-cordero">
+                <h2>Anika</h2>
+              </Link>
+              <p>janelle cordero</p>
               <Link to="/issue1/stephane-vereecken">
-                <h2>stephane vereecken</h2>
-                <p>The Garden 22</p>
+                <h2>The Garden 22</h2>
               </Link>
+              <p>stephane vereecken</p>
           </div>
         </div>
         </div>

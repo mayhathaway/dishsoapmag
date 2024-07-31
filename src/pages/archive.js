@@ -356,12 +356,13 @@ const Masthead = () => {
             <p>fabrice poussin</p>
             
 
-            <Link to="/issue2/carly-chan">
+          </div>
+          <div>
+          <Link to="/issue2/carly-chan">
               <h2>Trichotomy</h2>
             </Link>
             <p>carly chan</p>
-          </div>
-          <div>
+            
           <Link to="/issue2/adina-guo">
               <h2>Wai Gong</h2>
             </Link>

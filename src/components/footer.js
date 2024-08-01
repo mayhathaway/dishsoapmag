@@ -5,6 +5,7 @@ import footerStyles from "./footer.module.scss"
 import instagram from "../images/instagram.jpg"
 import twitter from "../images/twitter.jpg"
 import email from "../images/email.jpg"
+import chillsubs from "../images/cs.png"
 
 const Footer = () => {
   const data = useStaticQuery(graphql`
@@ -25,6 +26,7 @@ const Footer = () => {
         <p>Website created by Jeremy Nguyen</p>
       </div>
       <div className={footerStyles.split}>
+      <a href="https://www.chillsubs.com/magazine/dishsoap-quarterly"><img src={chillsubs} alt="website logo" /></a>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>
         <a href="https://twitter.com/dishsoapquart"><img src={twitter} alt="website logo" /></a>
         <a href="mailto:dishsoap.mag@gmail.com"><img src={email} alt="website logo" /></a>

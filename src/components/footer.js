@@ -5,7 +5,7 @@ import footerStyles from "./footer.module.scss"
 import instagram from "../images/instagram.jpg"
 import twitter from "../images/twitter.jpg"
 import email from "../images/email.jpg"
-
+import chillsubs from "../images/chillsubs.webp"
 const Footer = () => {
   const data = useStaticQuery(graphql`
     query {

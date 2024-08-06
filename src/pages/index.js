@@ -10,6 +10,7 @@ import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import soapadish from "../images/soapadish.png"
 import soaphead from "../images/soaphead.png"
+import layoutStyles from "../components/layout.module.scss"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -44,7 +45,7 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
-          <div className={indexStyles.soapPanel}>
+          <div className={layoutStyles.content}>
             <img src={soapadish} alt="websites logo" />
           </div>
           <div className={indexStyles.formPanel} id="form">

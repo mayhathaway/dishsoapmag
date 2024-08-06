@@ -2,7 +2,6 @@ import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import cx from "classnames"
 
-import Header from "../components/header"
 import Footer from "../components/footer"
 import Head from "../components/head"
 import Nav from "../components/nav"
@@ -10,6 +9,7 @@ import MailchimpForm from "../components/MailchimpForm"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import soapadish from "../images/soapadish.png"
+import soaphead from "../images/soaphead.png"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -37,14 +37,15 @@ const IndexPage = () => {
   return (
     <div>
       <Head title="home"/>
-
+      <div className={indexStyles.soapPanel}>
+            <img src={soaphead} alt="website logo" />
+          </div>
       <MobileNav />
       <Nav />
-      <Header />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={indexStyles.soapPanel}>
-            <img src={soapadish} alt="website logo" />
+            <img src={soapadish} alt="websites logo" />
           </div>
           <div className={indexStyles.formPanel} id="form">
             <h1> get soap samples sent to your inbox.</h1>

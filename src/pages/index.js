@@ -44,8 +44,13 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
-        <div class="layout-module--content--3nIku"><div class="post-module--mission--1Ptjh"><h3>Aster Haviland</h3><h1>The Body as a Place for Lost Things</h1><p></p></div><div class="post-module--row--3A1Jc"><div><a href="/issues"><button>back</button></a></div><div class="post-module--nameplate--8cwIP"><a href="/issue5/the-anxiety-index">Howie Good "The Anxiety Index"</a></div></div><div class="post-module--mission2--1-poX"><p>Aster Blysse Haviland (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. If you really like this poem, they have a chapbook out with more like it called "Lost Things" published under their previous name, 'Sam Haviland'.</p></div></div>
-        <div class="post-module--mission2--1-poX"><p>Aster Blysse Haviland (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. If you really like this poem, they have a chapbook out with more like it called "Lost Things" published under their previous name, 'Sam Haviland'.</p></div>
+          <div className={indexStyles.soapPanel}>
+            <img src={soapadish} alt="websites logo" />
+          </div>
+          <div className={indexStyles.formPanel} id="form">
+            <h1> get soap samples sent to your inbox.</h1>
+            <MailchimpForm />
+          </div>
         </div>
       </div>
       <Footer />

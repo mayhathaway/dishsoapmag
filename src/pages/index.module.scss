@@ -221,7 +221,6 @@ textarea:focus {
 
 .soapRow {
   display: grid;
-  grid-template-columns: minmax(150px, 35%) 1fr;
   grid-gap: 2rem;
   padding-top: 8rem;
   div {

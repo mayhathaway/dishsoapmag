@@ -2,7 +2,7 @@
 
 .green {
   background-color: $color-vomit-green;
-  padding: 5rem 0;
+  padding: 2rem 0;
   border-top: 10px solid $color-pink;
   border-bottom: 10px solid $color-pink;
 }
@@ -222,7 +222,7 @@ textarea:focus {
 .soapRow {
   display: grid;
   grid-gap: 2rem;
-  padding-top: 8rem;
+  padding-top: 2rem;
   div {
     padding: 8rem 1rem;
   }
@@ -247,4 +247,9 @@ textarea:focus {
   .soapheader {
     display: none;
   }
+}
+
+.new {
+  padding-top: 1rem;
+
 }

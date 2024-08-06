@@ -46,7 +46,7 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
-        <div className={layoutStyles.content}>
+        <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 

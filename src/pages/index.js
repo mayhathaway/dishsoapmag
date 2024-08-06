@@ -11,6 +11,7 @@ import indexStyles from "./index.module.scss"
 import soapadish from "../images/soapadish.png"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
+import aboutStyles from "./about.module.scss"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -45,12 +46,33 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
-          <div className={layoutStyles.content}>
-            <img src={soapadish} alt="websites logo" />
+        <div className={aboutStyles.pinkLineTop}></div>
+          <div className={aboutStyles.mission}>
+            <p>
+             <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
+            <p>a thick liquid that is often blue, white, or green. found in or near sinks. used for 
+            cleaning dishes and other things commonly found in kitchens like pots, pans, fish spatulas, 
+            egg cubers, shrimp deveiners, condiment guns, and corn peelers.
+            </p>
+            <p><strong>dishsoap</strong> /ˈdɪʃˌsoʊp/ (noun) </p>
+            <p> a nerdy, uncool, earnest magazine that wouldn’t wait three days to call you if it got your 
+              number. that’s too bad at math to care about measuring accolades against one another. 
+              that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
+              wait to see what you’ve been working on.</p>
           </div>
-          <div className={indexStyles.formPanel} id="form">
-            <h1> get soap samples sent to your inbox.</h1>
-            <MailchimpForm />
+          <div className={aboutStyles.pinkLineTop}></div>
+          <div className={aboutStyles.mission}>
+            <p>
+             <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
+            <p>a thick liquid that is often blue, white, or green. found in or near sinks. used for 
+            cleaning dishes and other things commonly found in kitchens like pots, pans, fish spatulas, 
+            egg cubers, shrimp deveiners, condiment guns, and corn peelers.
+            </p>
+            <p><strong>dishsoap</strong> /ˈdɪʃˌsoʊp/ (noun) </p>
+            <p> a nerdy, uncool, earnest magazine that wouldn’t wait three days to call you if it got your 
+              number. that’s too bad at math to care about measuring accolades against one another. 
+              that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
+              wait to see what you’ve been working on.</p>
           </div>
         </div>
       </div>

@@ -49,6 +49,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={aboutStyles.mission}>
             <p>
+            <br></br>Aster Haviland
             <strong>The Body as a Place for Lost Things</strong>
             <br></br>
             <br></br><i>After Donna J. Haraway’s “A Cyborg Manifesto”</i> 

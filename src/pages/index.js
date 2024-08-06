@@ -46,7 +46,6 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
-        <div className={aboutStyles.pinkLineTop}></div>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
@@ -60,7 +59,6 @@ const IndexPage = () => {
               that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
-          <div className={aboutStyles.pinkLineTop}></div>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 

@@ -21,6 +21,21 @@ const Masthead = () => {
       
       <h1 className={issueStyles.heading}>issue 5</h1>
       <div className={layoutStyles.mission}>
+          <div className={issueStyles.parent}>
+            <div className={issueStyles.bottomMargin}>
+
+              <Link to="/8-6-24/the-body-as-a-place-for-lost-things/">
+              <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
+              </Link>
+              <p>aster haviland</p>
+              
+              </div>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
+      <h1 className={issueStyles.heading}>issue 5</h1>
+      <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>

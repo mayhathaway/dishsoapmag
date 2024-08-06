@@ -129,6 +129,7 @@ const IndexPage = () => {
           <div className={layoutStyles.content}>
           <div className={aboutStyles.mission}>
             <p>
+            <br></br>
             Aster Blysse Haviland (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. If you really like this poem, they have a chapbook out with more like it called "Lost Things" published under their previous name, 'Sam Haviland'.</p>
               </div>
           </div>

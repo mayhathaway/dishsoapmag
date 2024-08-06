@@ -49,7 +49,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={aboutStyles.mission}>
             <p>
-            <strong>The Body as a Place for Lost Things </strong>
+            <h1>The Body as a Place for Lost Things </h1>
             <br></br>
             <br></br><i>After Donna J. Haraway’s “A Cyborg Manifesto”</i> 
             <br></br>

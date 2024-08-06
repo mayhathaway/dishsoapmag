@@ -46,6 +46,7 @@ const IndexPage = () => {
       <Nav />
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
+        <div className={layoutStyles.content}>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
@@ -59,6 +60,8 @@ const IndexPage = () => {
               that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
+          </div>
+          <div className={layoutStyles.content}>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
@@ -71,6 +74,7 @@ const IndexPage = () => {
               number. that’s too bad at math to care about measuring accolades against one another. 
               that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
+              </div>
           </div>
         </div>
       </div>

@@ -47,7 +47,7 @@ const IndexPage = () => {
       <div className={indexStyles.green}>
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
-          <div className={aboutStyles.mission}>
+          <div className={indexStyles.missiontwo}>
             <p>
             <br></br><strong>The Body as a Place for Lost Things by Aster Haviland</strong>
             <br></br>
@@ -127,7 +127,7 @@ const IndexPage = () => {
           </div>
           </div>
           <div className={layoutStyles.content}>
-          <div className={aboutStyles.mission}>
+          <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
             Aster Blysse Haviland (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. If you really like this poem, they have a chapbook out with more like it called "Lost Things" published under their previous name, 'Sam Haviland'.</p>

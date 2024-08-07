@@ -15,7 +15,7 @@
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
   font-weight: 500;
-  min-width: 800px;
+  max-width:100%;
   overflow: hidden;
 }
 
@@ -27,7 +27,7 @@
   button {
     border: 0.3rem solid $color-teal;
     background-color: $color-pink;
-    color: #d9e075;
+    color: #8ddfd6;
     padding: 0.5rem 3rem;
     float: right;
   }
@@ -78,6 +78,7 @@
   }
   background-color: white;
   margin-top: 2rem;
+  max-width:100%;
   padding: 1rem;
   p {
     margin-bottom: 0;

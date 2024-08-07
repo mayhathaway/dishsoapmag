@@ -1,5 +1,4 @@
 @import "../styles/colors.scss";
-
 .mission {
   h1 {
     color: $color-text;
@@ -105,4 +104,13 @@
   width: 40%;
   float: right;
   padding-left: 2rem;
+}
+
+@media (max-width: 925px) {
+  .author {
+    left: 1vh;
+  }
+  .author::before {
+    display: none;
+  }
 }

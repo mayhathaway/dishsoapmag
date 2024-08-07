@@ -57,7 +57,7 @@ const Post = props => {
         </div>
         <div className={postStyles.row}>
           <div>
-            <Link to="/issues">
+            <Link to="/archive">
               <button>back</button>
             </Link>
           </div>

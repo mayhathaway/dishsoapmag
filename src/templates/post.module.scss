@@ -106,3 +106,24 @@
   padding-left: 2rem;
 }
 
+@media (max-width: 1200px) {
+  .mission {
+    padding: 1.5rem; // Adjust padding for smaller screens
+  }
+}
+
+@media (max-width: 768px) {
+  .mission {
+    padding: 1rem; // Further reduced padding
+  }
+
+  .nameplate {
+    margin-left: 0;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem; // Adjust padding for smaller screens
+  }
+
+  .mission2 {
+    padding: 0.5rem; // Adjust padding for smaller screens
+  }
+}

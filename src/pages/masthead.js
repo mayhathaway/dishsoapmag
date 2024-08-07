@@ -8,7 +8,7 @@ import Subheader from "../components/subHeader"
 import mastheadStyles from "./masthead.module.scss"
 
 import blueagave from "../images/blueagave.png"
-import psych from "../images/psych.png"
+import cheese from "../images/cheese.png"
 
 
 

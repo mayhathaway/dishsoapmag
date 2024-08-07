@@ -51,6 +51,8 @@ const IndexPage = () => {
             <p>
             <br></br><strong>The Body as a Place for Lost Things by Aster Haviland</strong>
             <br></br>
+            <br></br><i>Previously published in Haviland's chapbook, "Lost Things"</i>
+            <br></br>
             <br></br><i>After Donna J. Haraway’s “A Cyborg Manifesto”</i> 
             <br></br>
             <br></br>I want to get the word

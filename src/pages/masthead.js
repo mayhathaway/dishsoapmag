@@ -45,16 +45,14 @@ const Masthead = () => {
 
           <div className={mastheadStyles.div6}>
             <div className={mastheadStyles.flex}>
-              <img src={psych} alt="website logo" />
+              <img src={cheese} alt="website logo" />
               <div className={mastheadStyles.badges}>
-                <div className={mastheadStyles.name}>miriam alex</div>
-                <div className={mastheadStyles.role}>assistant eic</div>
+                <div className={mastheadStyles.name}>aster haviland</div>
+                <div className={mastheadStyles.role}>editor</div>
               </div>
             </div>
             <div className={mastheadStyles.description}>
-              Miriam Alex is a lover of all things slice-of-life. Her work has been published
-              or is forthcoming in Best New Poets 2023, OSU's The Journal and Frontier Poetry,
-              among others.
+              Aster (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. Their work has been published in Okay Donkey, Ninth Letter Web Issue, and the Nassau Review.
             </div>
           </div>
         </div>

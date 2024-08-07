@@ -277,7 +277,10 @@ textarea:focus {
 
 @media (max-width: 768px) {
   .missiontwo {
-    padding: 1rem; // Further reduced padding
+    padding: 0.5rem; // Further reduced padding
   }
-
+  
+  .soapRow{
+    padding:0.5rem
+  }
 }

@@ -1,5 +1,6 @@
 @import "../styles/colors.scss";
 .mission {
+  margin:0 auto;
   h1 {
     color: $color-text;
     font-family: EB Garamond;
@@ -86,7 +87,6 @@
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
   font-weight: 500;
-  min-width: 800px;
 }
 
 .inactiveLink {

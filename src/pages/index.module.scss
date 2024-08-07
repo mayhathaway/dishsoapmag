@@ -267,3 +267,17 @@ textarea:focus {
   border: 0.4rem solid $color-teal;
   font-weight: 500;
 }
+
+
+@media (max-width: 1200px) {
+  .missiontwo {
+    padding: 1.5rem; // Adjust padding for smaller screens
+  }
+}
+
+@media (max-width: 768px) {
+  .missiontwo {
+    padding: 1rem; // Further reduced padding
+  }
+
+}

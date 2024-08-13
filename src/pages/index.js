@@ -76,7 +76,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Aster Blysse Haviland (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. If you really like this poem, they have a chapbook out with more like it called "Lost Things" published under their previous name, 'Sam Haviland'.</p>
+            J.J. Carey is a queer poet and writer surviving late capitalism with the support of a small circle of fellow state enemies in Leeds, UK. They were shortlisted for the inaugural Tempest Prize and are published or forthcoming in The Dionysian Public Library, Anarchist Fictions and elsewhere. You can find more of their work on instagram at @vinesthruconcrete.</p>
               </div>
           </div>
         </div>

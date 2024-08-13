@@ -50,6 +50,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br><strong>Mother, I can't serve</strong>
+            <br></br>
             <br></br><i>by J. J. Carey</i>
             <br></br>
             <br></br>in the shop today, because Venus has me losing my fucking mind over a girl. You know

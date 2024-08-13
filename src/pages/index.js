@@ -49,82 +49,26 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>The Body as a Place for Lost Things by Aster Haviland</strong>
+            <br></br><strong>Mother, I can't serve</strong>
+            <br></br><i>J. J. Carey</i>
             <br></br>
-            <br></br><i>Previously published in Haviland's chapbook, "Lost Things"</i>
-            <br></br>
-            <br></br><i>After Donna J. Haraway’s “A Cyborg Manifesto”</i> 
-            <br></br>
-            <br></br>I want to get the word
-            <br></br><i>Cyborg</i> tattooed on my body.
-            <br></br>Maybe that’s why I shave
-            <br></br>
-            <br></br>my head. Why I tug my ears
-            <br></br>down and get the razor as close
-            <br></br>to the skin as possible. I’ll notice
-            <br></br>
-            <br></br>the next day in class if I’ve missed
-            <br></br>anything. I’ll pull at the strands,
-            <br></br>first cause I’m bored but then just because
-            <br></br>
-            <br></br>they’re there and they shouldn’t be. Right now
-            <br></br>there’s a dinosaur on my thigh, a thin
-            <br></br>black outline, a window for an array
-            <br></br>
-            <br></br>of different-sized gears. The merging
-            <br></br>of organism and machine—I want a rook
-            <br></br>on my ribcage and a lion
-            <br></br>
-            <br></br>on my breastplate, I want to look
-            <br></br>like your common junk
-            <br></br>drawer. Maybe a pack of double-A batteries
-            <br></br>
-            <br></br>will climb up my neck, and pennies,
-            <br></br>and dimes, a hair tie I will never use.
-            <br></br>There’s a corkscrew and a bottle opener 
-            <br></br>
-            <br></br>and I wonder how much liquor it takes
-            <br></br>to loosen a robot’s tongue, to pixelate their screen,
-            <br></br>jam their keys. Keys are also in the drawer—
-            <br></br>
-            <br></br>tattooed on the webbing between my fingers,
-            <br></br>they clang together when I make a fist. I always
-            <br></br>forget which one is for the house
-            <br></br>
-            <br></br>and which one I found in the dirt outside.
-            <br></br>Both are lined with rust. Sharpies and magnets
-            <br></br>and my older brother’s fake ID. 5’ 6”
-            <br></br>
-            <br></br>and his eyes are blue, but I don’t want
-            <br></br>any color. Nothing but my natural red hue
-            <br></br>and the bulging purple veins. There’s a baseball
-            <br></br>
-            <br></br>from a Mets game. A collection of two-dollar bills.
-            <br></br>And for some reason, I’m programmed to think
-            <br></br>they’re worth more than the bank says.
-            <br></br>
-            <br></br>Superman lighters, and coupons,
-            <br></br>and Christmas cards from relatives
-            <br></br>that we don’t like. Half-empty printer ink cartridges
-            <br></br>
-            <br></br>leaking down my ankle. I’ve been typing 
-            <br></br>since I was eight. Pressing, clicking, clacking. One day
-            <br></br>I’ll end up in a junkyard, maybe in the junk ocean,
-            <br></br>
-            <br></br>maybe beached. Find me with a metal
-            <br></br>detector, sea glass pushing up into my jaw.
-            <br></br>C Y B O R G written across my forehead.
-            <br></br>
-            <br></br>Recognize me, fingerprints rubbed raw
-            <br></br>by ocean salt, genetic code tangled, my double helix
-            <br></br>vaulted into a fisherman’s net. Trace the gears
-            <br></br>
-            <br></br>—find the key between my left thumb
-            <br></br>and pointer, it belongs to the wind-up toy
-            <br></br>on the back of my heel that’s been cut
-            <br></br>
-            <br></br>by the waves. Circuits splayed. Turn it
-            <br></br>and watch everything here start to breathe.
+            <br></br>in the shop today, because Venus has me losing my fucking mind over a girl. You know
+            <br></br>what Venus is like at the best of times, but she’s partying with Jupiter and it’s not dark til
+            <br></br>9pm now and, well, it’s gotten out of hand again. I say a girl, she’s more of a woman. And
+            <br></br>the shop is so, well, you know - tedious. Customers always angry, wanting whatever we
+            <br></br>don’t have, whatever we might have or never had. Bitching about the prices. Fucked off
+            <br></br>that they have to shop at all, when they could have it already in their fridge, in their hand,
+            <br></br>in the back of their throat, falling out of their anus into the sewers. I say a woman, she’s
+            <br></br>more of a concept. Stunning, though. Legs for days. Teeth for hours. Hair for eternity.
+            <br></br>Joints for a fleeting moment. OK yes, mother, the woman is liberation, again. She’s
+            <br></br>everyone’s home and food and medicine taken care of without alarm clocks and uniforms.
+            <br></br>And she’s making me unhinged! I want what’s best for us too, mother. I just can’t believe
+            <br></br>it’s bunions from standing at the till with a microplastic smile for hours on end. There are
+            <br></br>damselflies on the river this week, mother. Rhododendron petals spilling over The Hollies
+            <br></br>like a middle class wedding. The leaves have just pushed their way out of the death with soil
+            <br></br>on their faces, mother
+
+            <br></br>                                                                         <i>after Sappho</i>
 </p>
           </div>
           </div>

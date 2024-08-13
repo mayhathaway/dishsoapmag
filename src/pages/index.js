@@ -49,8 +49,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>Mother, I can't serve</strong>
-            <br></br><i>J. J. Carey</i>
+            <br></br><strong>Mother, I can't serve <i>by J. J. Carey</i></strong>
             <br></br>
             <br></br>in the shop today, because Venus has me losing my fucking mind over a girl. You know
             <br></br>what Venus is like at the best of times, but she’s partying with Jupiter and it’s not dark til
@@ -67,7 +66,7 @@ const IndexPage = () => {
             <br></br>damselflies on the river this week, mother. Rhododendron petals spilling over The Hollies
             <br></br>like a middle class wedding. The leaves have just pushed their way out of the death with soil
             <br></br>on their faces, mother
-
+            <br></br> 
             <br></br>                                                                         <i>after Sappho</i>
 </p>
           </div>

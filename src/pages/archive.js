@@ -28,12 +28,14 @@ const Masthead = () => {
               <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
               </Link>
               <p>aster haviland</p>
-
+              <div className={issueStyles.bottomMargin}>
+            
               <Link to="/8-13-24/mother-i-cant-serve/">
               <h2 className={archiveStyles.piecelink}>Mother, I can't serve</h2> 
               </Link>
               <p>j. j. carey</p>
-              
+
+          </div>
               </div>
             </div>
           </div>

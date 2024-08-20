@@ -64,7 +64,7 @@ const IndexPage = () => {
             <br></br>love will be waiting when you are ready.
             <br></br>Your friends, reaching. Your wings,
             <br></br>wreathed with daisies. You, soft with every
-            <br></br>tender thing you finally let yourself have.                                                                        <i>after Sappho</i>
+            <br></br>tender thing you finally let yourself have.                                                                        
 </p>
           </div>
           </div>

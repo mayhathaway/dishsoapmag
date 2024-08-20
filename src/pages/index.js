@@ -49,26 +49,22 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>Mother, I can't serve</strong>
-            <br></br><i>by J. J. Carey</i>
+            <br></br><strong>For Venessa</strong>
+            <br></br><i>by Jacob Jing</i>
             <br></br>
-            <br></br>in the shop today, because Venus has me losing my fucking mind over a girl. You know
-            <br></br>what Venus is like at the best of times, but she’s partying with Jupiter and it’s not dark til
-            <br></br>9pm now and, well, it’s gotten out of hand again. I say a girl, she’s more of a woman. And
-            <br></br>the shop is so, well, you know - tedious. Customers always angry, wanting whatever we
-            <br></br>don’t have, whatever we might have or never had. Bitching about the prices. Fucked off
-            <br></br>that they have to shop at all, when they could have it already in their fridge, in their hand,
-            <br></br>in the back of their throat, falling out of their anus into the sewers. I say a woman, she’s
-            <br></br>more of a concept. Stunning, though. Legs for days. Teeth for hours. Hair for eternity.
-            <br></br>Joints for a fleeting moment. OK yes, mother, the woman is liberation, again. She’s
-            <br></br>everyone’s home and food and medicine taken care of without alarm clocks and uniforms.
-            <br></br>And she’s making me unhinged! I want what’s best for us too, mother. I just can’t believe
-            <br></br>it’s bunions from standing at the till with a microplastic smile for hours on end. There are
-            <br></br>damselflies on the river this week, mother. Rhododendron petals spilling over The Hollies
-            <br></br>like a middle class wedding. The leaves have just pushed their way out of the death with soil
-            <br></br>on their faces, mother
+            <br></br><i>After Cameron Awkward Rich</i>
             <br></br> 
-            <br></br>                                                                         <i>after Sappho</i>
+            <br></br>Do not falter through your hurdle, you tired,
+            <br></br>bright thing. The people who love you
+            <br></br>are waiting below with flower fields
+            <br></br>in their smiles. Their opened hands like
+            <br></br>empty trees. So here's the warm hollow.
+            <br></br>Here's where the birds go when they realize
+            <br></br>they cannot fly anymore. Here's where the
+            <br></br>love will be waiting when you are ready.
+            <br></br>Your friends, reaching. Your wings,
+            <br></br>wreathed with daisies. You, soft with every
+            <br></br>tender thing you finally let yourself have.                                                                        <i>after Sappho</i>
 </p>
           </div>
           </div>
@@ -76,7 +72,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            J.J. Carey is a queer poet and writer surviving late capitalism with the support of a small circle of fellow state enemies in Leeds, UK. They were shortlisted for the inaugural Tempest Prize and are published or forthcoming in The Dionysian Public Library, Anarchist Fictions and elsewhere. You can find more of their work on instagram at @vinesthruconcrete.</p>
+            Jacob Jing is a writer studying visual arts at the University of North Texas. Presently, he is a mentee in the 2024 Adroit Journal Summer Mentorship Program. He has been published in Spellbinder Magazine and is forthcoming in the Eunoia Review. In his free time, he enjoys photography, naps, and the $3 milkshakes from the student union. </p>
               </div>
           </div>
         </div>

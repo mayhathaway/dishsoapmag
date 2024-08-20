@@ -54,7 +54,7 @@ const IndexPage = () => {
             <br></br>
             <br></br><i>After Cameron Awkward-Rich</i>
             <br></br> 
-            <br></br>Do not falter through your hurdle, you tired,
+            <br></br>Do not falter through your hurtle, you tired,
             <br></br>bright thing. The people who love you
             <br></br>are waiting below with flower fields
             <br></br>in their smiles. Their opened hands like

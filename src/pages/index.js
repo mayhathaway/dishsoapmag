@@ -52,7 +52,7 @@ const IndexPage = () => {
             <br></br><strong>For Venessa</strong>
             <br></br><i>by Jacob Jing</i>
             <br></br>
-            <br></br><i>After Cameron Awkward Rich</i>
+            <br></br><i>After Cameron Awkward-Rich</i>
             <br></br> 
             <br></br>Do not falter through your hurdle, you tired,
             <br></br>bright thing. The people who love you

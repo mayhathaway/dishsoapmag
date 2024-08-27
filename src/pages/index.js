@@ -49,10 +49,14 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
+            <br></br><strong>For Venessa</strong>
+            <br></br><i>by Jacob Jing</i>
+            <br></br>
+            <br></br>
             <br></br><strong>Other Lyle</strong>
             <br></br><i>by Angela Townsend</i>
             <br></br>
-            <br></br><i>We called him Other Lyle because we already had a Lyle. We never meant for him to hear it. But he started signing the UPS delivery confirmations “Other Lyle.” He left sticky notes on my desk, reading, “Daisy – The donor with the large proboscis asked you to call. XO, Other Lyle.” He asked the Volunteer Director to reprint his nametag, “Other Lyle."
+            <br></br>We called him Other Lyle because we already had a Lyle. We never meant for him to hear it. But he started signing the UPS delivery confirmations “Other Lyle.” He left sticky notes on my desk, reading, “Daisy – The donor with the large proboscis asked you to call. XO, Other Lyle.” He asked the Volunteer Director to reprint his nametag, “Other Lyle."
             <br></br>
             <br></br>We never meant for him to hear it, but he heard it as a reprieve. It is hilarious to have two Lyles at one cat shelter. It is considerably less hilarious if you are the follow-up Lyle. 
             <br></br>
@@ -78,8 +82,7 @@ const IndexPage = () => {
             <br></br>
             <br></br>Other Lyle emailed me every day: did you meet Roland yet? Did you make contact? Not yet, Other Lyle. I keep trying to reach him. I promise I will keep trying every day.
             <br></br>
-            <br></br>Roland came, and Roland cried. Roland and I spent two hours on the floor of Suite G while cats caressed him. Roland was not exactly dying, but we’re all dying, and Cat Haven is where he wants his cats to go if he goes. Sometimes Roland wishes he was dying, but if there is a Cat Haven, he can keep the faith. I promised Roland. I called Other Lyle. I called the primeval Lyle in assisted living to tell him that his love is still here, carrying wide loads. 
-                                                                      
+            <br></br>Roland came, and Roland cried. Roland and I spent two hours on the floor of Suite G while cats caressed him. Roland was not exactly dying, but we’re all dying, and Cat Haven is where he wants his cats to go if he goes. Sometimes Roland wishes he was dying, but if there is a Cat Haven, he can keep the faith. I promised Roland. I called Other Lyle. I called the primeval Lyle in assisted living to tell him that his love is still here, carrying wide loads.                                                         
 </p>
           </div>
           </div>
@@ -87,7 +90,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Angela Townsend (she/her) is the development director at a cat sanctuary. She graduated from Princeton Seminary and Vassar College. Her work appears or is forthcoming in over 200 literary journals, including Arts & Letters, Chautauqua, CutBank, Paris Lit Up, Pleiades, SmokeLong Quarterly, and Terrain. Angie has lived with Type 1 diabetes for 34 years, laughs with her poet mother every morning, and loves life affectionately.   </p>
+            Jacob Jing is a writer studying visual arts at the University of North Texas. Presently, he is a mentee in the 2024 Adroit Journal Summer Mentorship Program. He has been published in Spellbinder Magazine and is forthcoming in the Eunoia Review. In his free time, he enjoys photography, naps, and the $3 milkshakes from the student union. </p>
               </div>
           </div>
         </div>

@@ -86,7 +86,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Jacob Jing is a writer studying visual arts at the University of North Texas. Presently, he is a mentee in the 2024 Adroit Journal Summer Mentorship Program. He has been published in Spellbinder Magazine and is forthcoming in the Eunoia Review. In his free time, he enjoys photography, naps, and the $3 milkshakes from the student union. </p>
+            Angela Townsend (she/her) is the development director at a cat sanctuary. She graduated from Princeton Seminary and Vassar College. Her work appears or is forthcoming in over 200 literary journals, including Arts & Letters, Chautauqua, CutBank, Paris Lit Up, Pleiades, SmokeLong Quarterly, and Terrain. Angie has lived with Type 1 diabetes for 34 years, laughs with her poet mother every morning, and loves life affectionately.  </p>
               </div>
           </div>
         </div>

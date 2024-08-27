@@ -49,10 +49,6 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>For Venessa</strong>
-            <br></br><i>by Jacob Jing</i>
-            <br></br>
-            <br></br>
             <br></br><strong>Other Lyle</strong>
             <br></br><i>by Angela Townsend</i>
             <br></br>

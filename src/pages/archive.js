@@ -24,20 +24,25 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-              <Link to="/8-6-24/the-body-as-a-place-for-lost-things/">
-              <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
-              </Link>
-              <p>aster haviland</p>
+            <Link to="/8-27-2024/other-lyle/">
+            <h2 className={archiveStyles.piecelink}>Other Lyle</h2>
+            </Link>
+            <p>angela townsend</p>
             
+            <Link to="/8-20-2024/for-venessa/">
+              <h2 className={archiveStyles.piecelink}>For Venessa</h2>
+              </Link>
+              <p>jacob jing</p>
+
               <Link to="/8-13-24/mother-i-cant-serve/">
               <h2 className={archiveStyles.piecelink}>Mother, I can't serve</h2> 
               </Link>
               <p>j. j. carey</p>
 
-              <Link to="/8-20-2024/for-venessa/">
-              <h2 className={archiveStyles.piecelink}>For Venessa</h2>
+              <Link to="/8-6-24/the-body-as-a-place-for-lost-things/">
+              <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
               </Link>
-              <p>jacob jing</p>
+              <p>aster haviland</p>
 
               </div>
             </div>

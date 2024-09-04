@@ -31,7 +31,7 @@ const Masthead = () => {
               </i>
             </h3>
               <li>
-              we will be publishing one piece per week, on tuesdays (starting august, 2024). our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
+              we publish one piece per week, on tuesdays. our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
               <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />
@@ -53,7 +53,7 @@ const Masthead = () => {
               if your work is rejected, we ask that you wait 2 months before submitting again. if your work is accepted, we ask that you wait 6 months before submitting again.
               </li>
               <li>
-              we will generally aim to respond within two weeks. If you haven’t heard from us after three weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
+              we will generally aim to respond within one week. If you haven’t heard from us after two weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.
               </li>
               <li>
               to withdraw your work, please email the titles of the pieces you would like to withdraw to dishsoap.mag@gmail.com

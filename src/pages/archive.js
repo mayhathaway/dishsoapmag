@@ -27,7 +27,7 @@ const Masthead = () => {
             <Link to="/9-10-2024/tell-me-i-too-contain-trees/">
               <h2 className={archiveStyles.piecelink}>Tell me I too contain trees</h2>
               </Link>
-              <p>kaley hutte</p>
+              <p>kaley hutter</p>
 
               <Link to="/9-3-2024/paul/">
               <h2 className={archiveStyles.piecelink}>Paul</h2>

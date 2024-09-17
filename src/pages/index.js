@@ -49,19 +49,40 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>Paul</strong>
-            <br></br><i>by Lily Yanagimoto</i>
+            <br></br><strong>New York Botanical Garden in June 2023</strong>
+            <br></br><i>by Kyla Guimaraes</i>
             <br></br>
-            <br></br> &nbsp; Asked to articulate the purpose of the work, I could not do it
-            <br></br>completely. Without meaning, I catalogued images: a chafing birch,
-            <br></br>a statue’s beveled lip. Lamplight screwing your oily eye.
-            <br></br>Asked to make pointless equivalences, I acquiesced.
-            <br></br>Your blue notched mouth. Silver fish on the bank. Window
-            <br></br>half-open at night. Everything I have painted is not everything
-            <br></br>I have seen. It is not even everything I know.
-            <br></br>You laughed, there was blood in your face. The window
-            <br></br>never opened to that type of sky. All my life
-            <br></br>I lived in the city, I never saw animals.
+            <br></br>We arrive at the garden by morning,
+            <br></br>once the sky has peeled itself
+            <br></br>into a quiet orange haze, and tramp out
+            <br></br>like silhouettes into the grainy fog.
+            <br></br>The stench of burning looms on the horizon
+            <br></br>and is swept in by a thickening wind.
+            <br></br>Waxy green leaves heavy with this impenetrable
+            <br></br>weight of living without reprise.
+            <br></br>We laugh open-mouthed into the ache
+            <br></br>and bite into ham-and-cheese sandwiches
+            <br></br>sitting beneath the weeping willow
+            <br></br>as the dusty sky settles deep in our lungs—
+            <br></br>the smell thick enough to be confused for pollen.
+            <br></br>The day is humid and warm, our bodies damp
+            <br></br>with beading sweat. Everything in full bloom.
+            <br></br>Lush and green and gorgeous with struggle—
+            <br></br>enough of it to burst us beautiful.
+            <br></br>Listen: we’ve loved all along, but not openly enough.
+            <br></br>We’ve been scared of the plumes of orange
+            <br></br>smoke that cradle the clouds as if nursing
+            <br></br>them to sleep. Scared our lungs will sleep next.
+            <br></br>The weight so heavy on our chests we forget
+            <br></br>how to breathe. But look at the leaves: so close
+            <br></br>to the ground but never touching it. Loving
+            <br></br>and still alive. All these years,
+            <br></br>we’ve avoided the dangerous lurch—
+            <br></br>but here the fruits of desire
+            <br></br>are ready for the taking, low-hanging
+            <br></br>on trees and nearly ripe. We can only love
+            <br></br>with as much living as we are willing to have
+            <br></br>taken away.
             
 </p>
           </div>
@@ -70,7 +91,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Lily Yanagimoto is an artist and poet from St. Louis, MO. She's currently studying comparative lit and visual art at Brown University.   </p>
+            Kyla Guimaraes is a writer and student from New York City. Her work can be found in SUNHOUSE Literary, The Penn Review, Aster Lit, the aurora journal, and elsewhere. She is a poetry editor for Eucalyptus Lit and 2024 Adroit Journal Summer Mentee in Poetry. In addition to writing, Kyla likes puns and going outside when it rains.    </p>
               </div>
           </div>
         </div>

@@ -24,6 +24,11 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
+            <Link to="/9-17-2024/new-york-botanical-garden-in-june-2023/">
+              <h2 className={archiveStyles.piecelink}>New York Botanical Garden in June 2023</h2>
+              </Link>
+              <p>kyla guimaraes</p>
+
             <Link to="/9-10-2024/tell-me-i-too-contain-trees/">
               <h2 className={archiveStyles.piecelink}>Tell me I too contain trees</h2>
               </Link>

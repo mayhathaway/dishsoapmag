@@ -52,7 +52,7 @@ const IndexPage = () => {
             <br></br><strong>Paul</strong>
             <br></br><i>by Lily Yanagimoto</i>
             <br></br>
-            <br></br>   Asked to articulate the purpose of the work, I could not do it
+            <br></br> &nbsp; Asked to articulate the purpose of the work, I could not do it
             <br></br>completely. Without meaning, I catalogued images: a chafing birch,
             <br></br>a statue’s beveled lip. Lamplight screwing your oily eye.
             <br></br>Asked to make pointless equivalences, I acquiesced.

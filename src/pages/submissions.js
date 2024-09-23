@@ -31,7 +31,7 @@ const Masthead = () => {
               </i>
             </h3>
               <li>
-              we publish one piece per week, on tuesdays. our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
+              we publish on piece per week, on tuesdays. our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
               <li>
               <strong>poetry.</strong> max 3 poems per submission & no word limit. <br />

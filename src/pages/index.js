@@ -51,8 +51,6 @@ const IndexPage = () => {
             <p>
             <br></br><strong>journal (take #1)</strong>
             <br></br><i>by nat raum </i>
-
-
             
 </p>
         <picture> <img src={natr}/> </picture>

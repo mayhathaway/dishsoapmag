@@ -22,7 +22,7 @@ const Masthead = () => {
         <Head title="masthead" />
         <div className={mastheadStyles.bannerContainer}>
           <div className={mastheadStyles.banner}>
-            meet the staff!
+            meet te staff!
           </div>
         </div>
         <div className={mastheadStyles.parent}>

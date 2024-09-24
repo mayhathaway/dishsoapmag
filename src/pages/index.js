@@ -8,7 +8,7 @@ import Nav from "../components/nav"
 import MailchimpForm from "../components/MailchimpForm"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
-import soapadish from "../images/soapadish.png"
+import natr from "../images/natr.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -56,7 +56,7 @@ const IndexPage = () => {
 
             
 </p>
-        <picture> <img src="../images/natr.jpeg"/> </picture>
+        <picture> <img src={natr}../images/natr.jpeg"/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

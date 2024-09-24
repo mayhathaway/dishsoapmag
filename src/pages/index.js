@@ -53,7 +53,7 @@ const IndexPage = () => {
             <br></br><i>by nat raum </i>
             
 </p>
-        <picture> <img src={natr}/> </picture>
+        <picture> <img height="500px" src={natr}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

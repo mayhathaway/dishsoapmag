@@ -51,8 +51,7 @@ const IndexPage = () => {
             <p>
             <br></br><strong>journal (take #1)</strong>
             <br></br><i>by nat raum </i>
-            <br></br>
-            <br></br>
+
 
             
 </p>

@@ -49,49 +49,21 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><strong>New York Botanical Garden in June 2023</strong>
-            <br></br><i>by Kyla Guimaraes</i>
+            <br></br><strong>journal (take #1)</strong>
+            <br></br><i>by nat raum </i>
             <br></br>
-            <br></br>We arrive at the garden by morning,
-            <br></br>once the sky has peeled itself
-            <br></br>into a quiet orange haze, and tramp out
-            <br></br>like silhouettes into the grainy fog.
-            <br></br>The stench of burning looms on the horizon
-            <br></br>and is swept in by a thickening wind.
-            <br></br>Waxy green leaves heavy with this impenetrable
-            <br></br>weight of living without reprise.
-            <br></br>We laugh open-mouthed into the ache
-            <br></br>and bite into ham-and-cheese sandwiches
-            <br></br>sitting beneath the weeping willow
-            <br></br>as the dusty sky settles deep in our lungs—
-            <br></br>the smell thick enough to be confused for pollen.
-            <br></br>The day is humid and warm, our bodies damp
-            <br></br>with beading sweat. Everything in full bloom.
-            <br></br>Lush and green and gorgeous with struggle—
-            <br></br>enough of it to burst us beautiful.
-            <br></br>Listen: we’ve loved all along, but not openly enough.
-            <br></br>We’ve been scared of the plumes of orange
-            <br></br>smoke that cradle the clouds as if nursing
-            <br></br>them to sleep. Scared our lungs will sleep next.
-            <br></br>The weight so heavy on our chests we forget
-            <br></br>how to breathe. But look at the leaves: so close
-            <br></br>to the ground but never touching it. Loving
-            <br></br>and still alive. All these years,
-            <br></br>we’ve avoided the dangerous lurch—
-            <br></br>but here the fruits of desire
-            <br></br>are ready for the taking, low-hanging
-            <br></br>on trees and nearly ripe. We can only love
-            <br></br>with as much living as we are willing to have
-            <br></br>taken away.
+            <br></br>
+
             
 </p>
+        <picture> <img src="../images/natr.jpeg"/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Kyla Guimaraes is a writer and student from New York City. Her work can be found in SUNHOUSE Literary, The Penn Review, Aster Lit, the aurora journal, and elsewhere. She is a poetry editor for Eucalyptus Lit and 2024 Adroit Journal Summer Mentee in Poetry. In addition to writing, Kyla likes puns and going outside when it rains.    </p>
+            nat raum is a disabled artist, writer, and genderless disaster based on unceded Piscataway and Susquehannock land in Baltimore. They’re the editor-in-chief of fifth wheel press. Their writing has been published with Split Lip Magazine, BRUISER, Allium, Gone Lawn, and others. Find them online at natraum.com. </p>
               </div>
           </div>
         </div>

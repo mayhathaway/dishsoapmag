@@ -49,9 +49,8 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
+            <br></br><i>Ivi Hua </i>
             <br></br><strong>INTERLUDE II</strong>
-            <br></br><i>by Ivi Hua </i>
-            <br></br>
             <br></br><i>after Richard Siken, after C. G.</i>
             <br></br>
             <br></br>here is a memory: you’re on a plane & you are not running away 

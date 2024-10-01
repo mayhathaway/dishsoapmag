@@ -52,7 +52,7 @@ const IndexPage = () => {
             <br></br><strong>INTERLUDE II</strong>
             <br></br><i>by Ivi Hua </i>
             <br></br>
-            <br></br><i>after Richard n, after C. G.</i>
+            <br></br><i>after Richard Siken, after C. G.</i>
             <br></br>
             <br></br>here is a memory: you’re on a plane & you are not running away 
             <br></br>from anything. it is a miracle. you can call this half-earned. outside, 

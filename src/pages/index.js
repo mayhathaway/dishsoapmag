@@ -49,7 +49,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br><i>Ivi Hua </i>
+            <br></br>Ivi Hua
             <br></br><strong>INTERLUDE II</strong>
             <br></br><i>after Richard Siken, after C. G.</i>
             <br></br>

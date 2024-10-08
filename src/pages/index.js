@@ -49,24 +49,32 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>Ivi Hua
-            <br></br><strong>INTERLUDE II</strong>
-            <br></br><i>after Richard Siken, after C. G.</i>
+            <br></br>Maya Walker
+            <br></br><strong>Hedwig</strong>
+            <br></br><i>“Anyhow, I have no social life, no distractions. I spend my evenings on the small</i>
+            <br></br><i>balcony above the river…and I am not a good person. Years ago I wrote this poem…”</i>
+            <br></br><i>- Franz Kafka, in a letter to Hedwig Weiler</i>
             <br></br>
-            <br></br>here is a memory: you’re on a plane & you are not running away 
-            <br></br>from anything. it is a miracle. you can call this half-earned. outside, 
-            <br></br>the air drowns out all else. the clouds spiral into refraction, their light tender.
-            <br></br>there is no landing in sight. you love this moment. full of squeezed spaces
-            <br></br>& quiet cries, it loves you back. but here is the hard part:
-            <br></br>the montage always ends. everything you want for will pass without a proper
-            <br></br>goodbye. the memory reel splinters. you do not know how
-            <br></br>to live with this— you are so used to wanting things, so inexperienced with actually
-            <br></br>having them. sand slipping through your hands, your legs like a foal’s. inevitably,
-            <br></br>the plane will land & everyone else will leave. you will stand in the aftermath, nothing
-            <br></br>left to hold. maybe the pain will kill me, you think. more likely the self-destruction.
-            <br></br>more likely the sleepless nights, the denial. you’re always turning in circles. i need you
-            <br></br>to admit it: you’re afraid of what happens when you reach the end. 
-            <br></br> sorry. i am too. this leaving wrecks me beyond measure.
+            <br></br>And in his poem he is empty like a letter with no words. He is not
+            <br></br>concerned with people. He is only silent. In Třešť, silence is a language
+            <br></br>
+            <br></br>of its own – a pause between words is a confession, an empty letter
+            <br></br>is a declaration of grief. The river is always calm and he is always there–
+            <br></br>
+            <br></br>thinking. He is not a good person, or so he says. He lives in silence
+            <br></br>but his writing is so loud – He is not a good person, or so he tries to say
+            <br></br>
+            <br></br>in a poem. Does writing poetry make him worse? Does writing
+            <br></br>make him worse? No one lives in Třešť anymore – it is empty.
+            <br></br>
+            <br></br>Every letter is an empty letter if you are not concerned with words.
+            <br></br>Every person is a bad person if they cannot explain what it means
+            <br></br>
+            <br></br>to be good. He writes to you formally and then never again. The river
+            <br></br>thrashes and he is gone, and then Třešť is gone, or almost gone, and
+            <br></br>
+            <br></br>every letter ends with yours no matter how formal they are. How cruel
+            <br></br>it is to be in love in the margins. How temporary it is to love at all.
 </p>
           </div>
           </div>
@@ -74,7 +82,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Ivi Hua is an Asian-American writer, dreamer, & poet. A Pushcart Prize & Best of the Net nominee, she is the author of Body, Dissected (kith books, 2024) and cofounder of Young Poets Workshops. Ivi believes in the initiation of change through language, & you can find her @livia.writes.stories on Instagram.  </p>
+            Maya Walker is a creative writing major at Chatham University. She is the founder and editor in chief of Fulminare Review and executive editor at Spiritus Mundi Review. When not writing poetry, you can find her on Instagram (@maya_whispers_words) or in the nowhere land between Baltimore and Pittsburgh.    </p>
               </div>
           </div>
         </div>

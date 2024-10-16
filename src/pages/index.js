@@ -49,32 +49,35 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>Maya Walker
-            <br></br><strong>Hedwig</strong>
-            <br></br><i>“Anyhow, I have no social life, no distractions. I spend my evenings on the small</i>
-            <br></br><i>balcony above the river…and I am not a good person. Years ago I wrote this poem…”</i>
-            <br></br><i>- Franz Kafka, in a letter to Hedwig Weiler</i>
+            <br></br>Rituja Patil
+            <br></br><strong>Ars poetica: problems</strong>
             <br></br>
-            <br></br>And in his poem he is empty like a letter with no words. He is not
-            <br></br>concerned with people. He is only silent. In Třešť, silence is a language
+            <br></br>If only all my problems started as tawdry
+            <br></br>brawls inside my head and ended in a poem.
             <br></br>
-            <br></br>of its own – a pause between words is a confession, an empty letter
-            <br></br>is a declaration of grief. The river is always calm and he is always there–
+            <br></br>How convenient it would be, how thrilling.
+            <br></br>But they don’t. They start as words spoken
             <br></br>
-            <br></br>thinking. He is not a good person, or so he says. He lives in silence
-            <br></br>but his writing is so loud – He is not a good person, or so he tries to say
+            <br></br>too harshly or days spent without moving
+            <br></br>even a single bit. Sometimes, as forgetting to
             <br></br>
-            <br></br>in a poem. Does writing poetry make him worse? Does writing
-            <br></br>make him worse? No one lives in Třešť anymore – it is empty.
+            <br></br>swallow a pill, or as being swallowed whole
+            <br></br>by pain. My heart does not know how
             <br></br>
-            <br></br>Every letter is an empty letter if you are not concerned with words.
-            <br></br>Every person is a bad person if they cannot explain what it means
+            <br></br>to keep pace with all this beginning.
+            <br></br>My mind cannot grasp the sheer range of it.
             <br></br>
-            <br></br>to be good. He writes to you formally and then never again. The river
-            <br></br>thrashes and he is gone, and then Třešť is gone, or almost gone, and
+            <br></br>It is exhausting, being amidst so many beginnings
+            <br></br>while you are amidst so many middles.
             <br></br>
-            <br></br>every letter ends with yours no matter how formal they are. How cruel
-            <br></br>it is to be in love in the margins. How temporary it is to love at all.
+            <br></br>If I’m lucky, they end in a poem. But mostly, they
+            <br></br>never end. The spill is uncontainable.
+            <br></br>
+            <br></br>Oil on water, fire on farmland. I cannot hold
+            <br></br>anything within the fragile boundaries of my body.
+            <br></br>
+            <br></br>And every day, I burst open anew.
+
 </p>
           </div>
           </div>
@@ -82,7 +85,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Maya Walker is a creative writing major at Chatham University. She is the founder and editor in chief of Fulminare Review and executive editor at Spiritus Mundi Review. When not writing poetry, you can find her on Instagram (@maya_whispers_words) or in the nowhere land between Baltimore and Pittsburgh.    </p>
+            Rituja Patil (they/them/any) is a queer writer and poet from Mumbai India. They write about being queer and mentally ill in India, but they mainly write poems about the things they love: love, nostalgia, the coastline, trains and flowers to name a few. Their poems have previously appeared in VIBE, ALOCASIA, the~lickety~split and LiveWire. You can find them wasting away way more time than they should on their twitter @ Chamelea22 </p>
               </div>
           </div>
         </div>

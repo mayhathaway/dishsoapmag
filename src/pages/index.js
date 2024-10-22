@@ -49,34 +49,29 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>Rituja Patil
-            <br></br><strong>Ars poetica: problems</strong>
+            <br></br>Audrey Hall
+            <br></br><strong>Submersion</strong>
             <br></br>
-            <br></br>If only all my problems started as tawdry
-            <br></br>brawls inside my head and ended in a poem.
+            <br></br>Brown clouds the airplane window
+            <br></br>as I descend into Atlanta,
+            <br></br>the city enshrined in electricity.
+            <br></br> hold my breath:
             <br></br>
-            <br></br>How convenient it would be, how thrilling.
-            <br></br>But they don’t. They start as words spoken
+            <br></br>Months ago, I walked to the farthest edges
+            <br></br>of a botanical garden, until the path went underwater.
+            <br></br>At the swamp’s brim, an old boardwalk slumped.
+            <br></br>A single traffic cone floated nearby.
             <br></br>
-            <br></br>too harshly or days spent without moving
-            <br></br>even a single bit. Sometimes, as forgetting to
+            <br></br>I squatted at the end of the path, thinking,
+            <br></br>if I were the Floridian kind of selkie,
+            <br></br>a woman with alligator skin, I would shed
+            <br></br>my jeans for scales and slip beneath the algae
             <br></br>
-            <br></br>swallow a pill, or as being swallowed whole
-            <br></br>by pain. My heart does not know how
-            <br></br>
-            <br></br>to keep pace with all this beginning.
-            <br></br>My mind cannot grasp the sheer range of it.
-            <br></br>
-            <br></br>It is exhausting, being amidst so many beginnings
-            <br></br>while you are amidst so many middles.
-            <br></br>
-            <br></br>If I’m lucky, they end in a poem. But mostly, they
-            <br></br>never end. The spill is uncontainable.
-            <br></br>
-            <br></br>Oil on water, fire on farmland. I cannot hold
-            <br></br>anything within the fragile boundaries of my body.
-            <br></br>
-            <br></br>And every day, I burst open anew.
+            <br></br>to look for a greener world between boardwalk posts.
+            <br></br>I hear only the movement of water, see glimpses
+            <br></br>of manatee snouts, and I am not resigned
+            <br></br>to the moment of touching down.
+
 
 </p>
           </div>
@@ -85,7 +80,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Rituja Patil (they/them/any) is a queer writer and poet from Mumbai India. They write about being queer and mentally ill in India, but they mainly write poems about the things they love: love, nostalgia, the coastline, trains and flowers to name a few. Their poems have previously appeared in VIBE, ALOCASIA, the~lickety~split and LiveWire. You can find them wasting away way more time than they should on their twitter @ Chamelea22 </p>
+            Audrey Hall is a poet, literature scholar, and marine science enthusiast from Mississippi. Her poems appear in Okay Donkey, Hunger Mountain, Atlanta Review, and Alaska Quarterly Review, and others. In 2022, her poetry was nominated for a Best of the Net Award. </p>
               </div>
           </div>
         </div>

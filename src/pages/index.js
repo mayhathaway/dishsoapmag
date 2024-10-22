@@ -55,7 +55,7 @@ const IndexPage = () => {
             <br></br>Brown clouds the airplane window
             <br></br>as I descend into Atlanta,
             <br></br>the city enshrined in electricity.
-            <br></br> hold my breath:
+            <br></br>I hold my breath:
             <br></br>
             <br></br>Months ago, I walked to the farthest edges
             <br></br>of a botanical garden, until the path went underwater.

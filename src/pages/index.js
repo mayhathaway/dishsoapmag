@@ -53,7 +53,7 @@ const IndexPage = () => {
             <br></br><strong>ode to lucy dacus & whatever is in the streetlights</strong>
 
 </p>
-        <picture> <img height="500px" src={noralee}/> </picture>
+        <picture> <img height="650px" src={noralee}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

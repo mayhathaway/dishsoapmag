@@ -49,38 +49,18 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>Audrey Hall
-            <br></br><strong>Submersion</strong>
-            <br></br>
-            <br></br>Brown clouds the airplane window
-            <br></br>as I descend into Atlanta,
-            <br></br>the city enshrined in electricity.
-            <br></br>I hold my breath:
-            <br></br>
-            <br></br>Months ago, I walked to the farthest edges
-            <br></br>of a botanical garden, until the path went underwater.
-            <br></br>At the swamp’s brim, an old boardwalk slumped.
-            <br></br>A single traffic cone floated nearby.
-            <br></br>
-            <br></br>I squatted at the end of the path, thinking,
-            <br></br>if I were the Floridian kind of selkie,
-            <br></br>a woman with alligator skin, I would shed
-            <br></br>my jeans for scales and slip beneath the algae
-            <br></br>
-            <br></br>to look for a greener world between boardwalk posts.
-            <br></br>I hear only the movement of water, see glimpses
-            <br></br>of manatee snouts, and I am not resigned
-            <br></br>to the moment of touching down.
-
+            <br></br>Noralee Zwick
+            <br></br><strong>ode to lucy dacus & whatever is in the streetlights</strong>
 
 </p>
+        <picture> <img height="500px" src={noralee1}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Audrey Hall is a poet, literature scholar, and marine science enthusiast from Mississippi. Her poems appear in Okay Donkey, Hunger Mountain, Atlanta Review, and Alaska Quarterly Review, and others. In 2022, her poetry was nominated for a Best of the Net Award. </p>
+            Noralee Zwick is a student and poet based in the Bay Area, California. A California Arts Scholar and alum of the Iowa Young Writers Studio, they are published or forthcoming in Eunoia Lit, Eucalyptus Lit, and Cultural Daily. In their free time, Noralee enjoys teaching art, collecting rings, and making an unholy amount of Spotify playlists.</p>
               </div>
           </div>
         </div>

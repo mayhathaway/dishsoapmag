@@ -23,7 +23,7 @@ const AboutPage = () => {
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
-            <p>a thick liquid that is often blue, white, or green. found in or near sinks. used for 
+            <p>a thick liquid that is ofte blue, white, or green. found in or near sinks. used for 
             cleaning dishes and other things commonly found in kitchens like pots, pans, fish spatulas, 
             egg cubers, shrimp deveiners, condiment guns, and corn peelers.
             </p>

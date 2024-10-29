@@ -8,7 +8,7 @@ import Nav from "../components/nav"
 import MailchimpForm from "../components/MailchimpForm"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
-import natr from "../images/natr.jpeg"
+import noralee from "../images/noralee1.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -53,7 +53,7 @@ const IndexPage = () => {
             <br></br><strong>ode to lucy dacus & whatever is in the streetlights</strong>
 
 </p>
-        <picture> <img height="500px" src={noralee1}/> </picture>
+        <picture> <img height="500px" src={noralee}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

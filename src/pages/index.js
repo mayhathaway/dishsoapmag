@@ -49,18 +49,24 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>Noralee Zwick
-            <br></br><strong>ode to lucy dacus & whatever is in the streetlights</strong>
+            <br></br>Danielle Barr
+            <br></br><strong>Heartwood</strong>
+            <br></br>
+            <br></br>Meagan has high-gloss brown hair that waterfalls over her shoulders like thick-lacquered mahogany. I ask her if I can 
+            <br></br>run my fingers through it, plait it into a fat rope down her back; I only know how to love things with my hands. Meagan 
+            <br></br>says I smell like sap and sawdust and diesel exhaust; Meagan says Brillo pad callouses snag and catch and tear like Velcro.
+            <br></br>
+            <br></br>After she leaves, I will find my bedsheets splintered with long brunette hairs for another thirteen months.
+
 
 </p>
-        <picture> <img height="650px" src={noralee}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Noralee Zwick is a student and poet based in the Bay Area, California. A California Arts Scholar and alum of the Iowa Young Writers Studio, they are published or forthcoming in Eunoia Lit, Eucalyptus Lit, and Cultural Daily. In their free time, Noralee enjoys teaching art, collecting rings, and making an unholy amount of Spotify playlists.</p>
+            Danielle Barr is a full-time stay-at-home mom and sometime-writer. She was recently named the winner of the Driftwood Press annual short story contest and is currently querying her first novel. She lives in rural Appalachia with her husband and four young children.</p>
               </div>
           </div>
         </div>

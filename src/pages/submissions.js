@@ -41,7 +41,7 @@ const Masthead = () => {
               simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
               </li>
               <li>
-                although we would love for dishsoap to be the first place that your work has appeared in, we will accept pieces that have appeared elsewhere previously as long as you indicate that to us in your submission.
+              we typically prefer for dishsoap to be the first place your work has appeared, but are more than happy to give a new home to work stuck in defunct/discontinued journals and mags
               </li>
               <li>
               we encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.

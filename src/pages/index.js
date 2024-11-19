@@ -51,9 +51,10 @@ const IndexPage = () => {
             <p>
             <br></br>Tanya Rastogi
             <br></br><strong>Where the Birds Went</strong>
-            <picture> <img height="650px" src={birds}/> </picture>
+            
 
 </p>
+<picture> <img height="650px" src={birds}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

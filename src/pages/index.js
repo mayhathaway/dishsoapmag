@@ -54,7 +54,7 @@ const IndexPage = () => {
             
 
 </p>
-          <picture> <img height="800px" src={birds}/> </picture>
+          <picture> <img height="825px" src={birds}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

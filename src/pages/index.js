@@ -5,7 +5,6 @@ import cx from "classnames"
 import Footer from "../components/footer"
 import Head from "../components/head"
 import Nav from "../components/nav"
-import MailchimpForm from "../components/MailchimpForm"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import birds from "../images/birds2.png"
@@ -48,8 +47,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3>Tanya Rastogi</h3>
-            <h1>Where the Birds Went</h1>
+            <h3 className={indexStyles.postauthor}>Tanya Rastogi</h3>
+            <h1 className={indexStyles.posttitle}> Where the Birds Went</h1>
             
           <picture> <img height="850px" src={birds}/> </picture>
           </div>

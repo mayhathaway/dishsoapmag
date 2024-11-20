@@ -290,3 +290,21 @@ textarea:focus {
     padding: 0.5rem !important;
   }
 }
+
+.posttitle{
+color: black;
+font-family: 'EB Garamond';
+margin: 0 0 1.45rem;
+font-weight: 700;
+  text-rendering: optimizeLegibility;
+  line-height: 1.1;
+}
+
+.postauthor{
+  color: black;
+  padding: 0;
+  margin: 0 0 1.45rem;
+margin-bottom: .5rem;
+  font-weight: 400;
+  font-family: 'EB Garamond';
+  }

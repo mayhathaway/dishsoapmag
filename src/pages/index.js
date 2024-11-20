@@ -48,12 +48,9 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <p>
-            <br></br>Tanya Rastogi
-            <br></br><strong>Where the Birds Went</strong>
+            <h3>Tanya Rastogi</h3>
+            <h1>Where the Birds Went</h1>
             
-
-</p>
           <picture> <img height="850px" src={birds}/> </picture>
           </div>
           </div>

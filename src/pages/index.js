@@ -50,15 +50,15 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>N. J. Webster</h3>
             <h1 className={indexStyles.posttitle}> Dream 5, Year 661</h1>
           <p>
-            <break></break>
-            <break></break>I used to live with a smoker who woke me up every four hours in lieu of rent, but he
-            <break></break>moved out, tired of my morning shrieks, my midnight panic.
-            <break></break>
-            <break></break>Each of my dreams lasts 1,000 years. Sometimes alone, sometimes in crawling desperate
-            <break></break>slums, and sometimes here, with you. I’ve lived centuries in automated jungles and
-            <break></break>villages of amber, I’ve begged and governed. I’ve seen the sun sick and the ocean a
-            <break></break>sluggish violet. Sometimes I read, but the worn books contain only what I contain. And
-            <break></break>sometimes I’m here, with you. And I don’t want to wake up.
+            <br></br>
+            <br></br>I used to live with a smoker who woke me up every four hours in lieu of rent, but he
+            <br></br>moved out, tired of my morning shrieks, my midnight panic.
+            <br></br>
+            <br></br>Each of my dreams lasts 1,000 years. Sometimes alone, sometimes in crawling desperate
+            <br></br>slums, and sometimes here, with you. I’ve lived centuries in automated jungles and
+            <br></br>villages of amber, I’ve begged and governed. I’ve seen the sun sick and the ocean a
+            <br></br>sluggish violet. Sometimes I read, but the worn books contain only what I contain. And
+            <br></br>sometimes I’m here, with you. And I don’t want to wake up.
             </p>
           </div>
           </div>

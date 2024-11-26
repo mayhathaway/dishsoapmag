@@ -49,7 +49,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <h3 className={indexStyles.postauthor}>N. J. Webster</h3>
             <h1 className={indexStyles.posttitle}> Dream 5, Year 661</h1>
-          <p>
+          <p className={indexStyles.posttext}>
             I used to live with a smoker who woke me up every four hours in lieu of rent, but he moved out, tired of my morning 
             <br></br>shrieks, my midnight panic.
             <br></br>

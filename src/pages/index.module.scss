@@ -289,6 +289,16 @@ textarea:focus {
   .new{
     padding: 0.5rem !important;
   }
+
+  .posttext{
+    color: black;
+font-family: 'EB Garamond';
+margin: 0 0 1.45rem;
+font-weight: 500;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+  }
+
 }
 
 .posttitle{

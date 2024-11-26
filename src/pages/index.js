@@ -50,7 +50,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>N. J. Webster</h3>
             <h1 className={indexStyles.posttitle}> Dream 5, Year 661</h1>
           <p>
-            <br></br>I used to live with a smoker who woke me up every four hours in lieu of rent, but he moved out, tired of my morning 
+            I used to live with a smoker who woke me up every four hours in lieu of rent, but he moved out, tired of my morning 
             <br></br>shrieks, my midnight panic.
             <br></br>
             <br></br>Each of my dreams lasts 1,000 years. Sometimes alone, sometimes in crawling desperate slums, and sometimes here, 

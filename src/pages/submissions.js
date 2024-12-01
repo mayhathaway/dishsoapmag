@@ -50,7 +50,7 @@ const Masthead = () => {
               if your work is accepted, we request that you credit us when sending it to other places in the future.
               </li>
               <li>
-              if your work is rejected, we ask that you wait 2 months before submitting again. if your work is accepted, we ask that you wait 6 months before submitting again.
+              if your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again.
               </li>
               <li>
               we will generally aim to respond within one week. If you haven’t heard from us after two weeks, feel free to email dishsoap.mag@gmail.com with as much horrific language as you deign necessary.

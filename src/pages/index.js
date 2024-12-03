@@ -53,7 +53,7 @@ const IndexPage = () => {
           <p className={indexStyles.posttext}>
           
             </p>
-            <picture> <img height="500px" src={afab}/> </picture>
+            <picture> <img height src={afab}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

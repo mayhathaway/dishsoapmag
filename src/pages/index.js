@@ -8,6 +8,7 @@ import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import birds from "../images/birds2.png"
+import afab from ".../images/afab.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -47,24 +48,19 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>N. J. Webster</h3>
-            <h1 className={indexStyles.posttitle}> Dream 5, Year 661</h1>
+            <h3 className={indexStyles.postauthor}>Eli V. Rahm</h3>
+            <h1 className={indexStyles.posttitle}>AFAB</h1>
           <p className={indexStyles.posttext}>
-            I used to live with a smoker who woke me up every four hours in lieu of rent, but he moved out, tired of my morning 
-            <br></br>shrieks, my midnight panic.
-            <br></br>
-            <br></br>Each of my dreams lasts 1,000 years. Sometimes alone, sometimes in crawling desperate slums, and sometimes here, 
-            <br></br>with you. I’ve lived centuries in automated jungles and villages of amber, I’ve begged and governed. I’ve seen the sun 
-            <br></br>sick and the ocean a sluggish violet. Sometimes I read, but the worn books contain only what I contain. And sometimes 
-            <br></br>I’m here, with you. And I don’t want to wake up.
+          
             </p>
+            <picture> <img height="500px" src={afab}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            N.J. Webster is a father, lawyer, and writer attempting to channel his pop culture obsession into something useful. </p>
+            Eli V. Rahm is a queer writer from Virginia. Their work is featured or forthcoming in Sugar House Review, Passages North, Bellingham Review, The Cortland Review, The Academy of American Poets, among others. They also have a cat named Bagel. </p>
               </div>
           </div>
         </div>

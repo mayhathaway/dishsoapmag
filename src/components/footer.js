@@ -6,6 +6,7 @@ import instagram from "../images/instagram.jpg"
 import twitter from "../images/twitter.jpg"
 import email from "../images/email.jpg"
 import chillsubs from "../images/cs.png"
+import bsky from "../images/bsky.png"
 
 const Footer = () => {
   const data = useStaticQuery(graphql`
@@ -29,6 +30,7 @@ const Footer = () => {
       <a href="https://www.chillsubs.com/magazine/dishsoap-quarterly"><img src={chillsubs} alt="website logo" /></a>
         <a href="https://www.instagram.com/dishsoap.quarterly/"><img src={instagram} alt="website logo" /></a>
         <a href="https://twitter.com/dishsoapquart"><img src={twitter} alt="website logo" /></a>
+        <a href="https://bsky.app/profile/dishsoapquart.bsky.social"><img src={bsky} alt="website logo" /></a>
         <a href="mailto:dishsoap.mag@gmail.com"><img src={email} alt="website logo" /></a>
       </div>
     </footer>

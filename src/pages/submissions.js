@@ -61,7 +61,11 @@ const Masthead = () => {
               <li>
               we are currently not a paying market-- though we hope one day to be :)
               </li>
-              <li>send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
+              <li>
+              we will be nominating for awards and prizes again starting in the 2025 cycle!
+              </li>
+              <li>
+                send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>
           </div>
 <br />

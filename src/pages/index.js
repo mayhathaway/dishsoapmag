@@ -93,7 +93,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Eli V. Rahm is a queer writer from Virginia. Their work is featured or forthcoming in Sugar House Review, Passages North, Bellingham Review, The Cortland Review, The Academy of American Poets, among others. They also have a cat named Bagel. </p>
+            Arushee Bhoja is a queer Indian-American poet from California. Her work is forthcoming from Brawl Lit. She lives in Maryland with her cats, Frog and Toad.  </p>
               </div>
           </div>
         </div>

@@ -65,9 +65,6 @@ const Masthead = () => {
               we will be nominating for awards and prizes again starting in the 2025 cycle!
               </li>
               <li>
-
-              </li>
-              <li>
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>
           </div>

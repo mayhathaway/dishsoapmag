@@ -41,13 +41,13 @@ const Masthead = () => {
               simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
               </li>
               <li>
-              we typically prefer for dishsoap to be the first place your work has appeared, but are more than happy to give a new home to work stuck in defunct/discontinued journals and mags
+              we typically prefer for dishsoap to be the first place your work has appeared, but are more than happy to give a new home to work stuck in any defunct/discontinued magazine or work that's only been posted to a personal blog/social media.
               </li>
               <li>
               we encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
               </li>
               <li>
-              if your work is accepted, we request that you credit us when sending it to other places in the future.
+              if your work is accepted, you retain all rights, but we request that you credit us when sending it to other places in the future.
               </li>
               <li>
               if your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again.
@@ -63,6 +63,9 @@ const Masthead = () => {
               </li>
               <li>
               we will be nominating for awards and prizes again starting in the 2025 cycle!
+              </li>
+              <li>
+
               </li>
               <li>
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>

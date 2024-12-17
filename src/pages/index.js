@@ -7,8 +7,7 @@ import Head from "../components/head"
 import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
-import birds from "../images/birds2.png"
-import afab from "../images/afab.jpeg"
+import mike from "../images/mike.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -48,52 +47,18 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Arushee Bhoja</h3>
-            <h1 className={indexStyles.posttitle}>Passage</h1>
+            <h3 className={indexStyles.postauthor}>Aiden Blasi</h3>
+            <h1 className={indexStyles.posttitle}>Mike (landlord)</h1>
           <p className={indexStyles.posttext}>
-          <br></br>The seat-belt sign glows in the purple dark
-          <br></br>like a mother, like someone to care for me.
-          <br></br>
-          <br></br>When I want to be saved, I imagine
-          <br></br>the flight attendants into
-          <br></br>
-          <br></br>heroes. I watch TV and no one yells.
-          <br></br>I ring for help
-          <br></br>
-          <br></br>and no one yells. Last week, my mother
-          <br></br>thrust me on the porch,
-          <br></br>
-          <br></br>sat me down like a doll against glass
-          <br></br>to await the end of her rage. Yes, I pity the sky
-          <br></br>
-          <br></br>and all the sky has seen. But look!
-          <br></br>We’re floating over the inside
-          <br></br>
-          <br></br>of a teddy bear. Sun-steeped clouds
-          <br></br>carry us past cities of toy cars.
-          <br></br>
-          <br></br>A hundred passengers
-          <br></br>bear witness beside me.
-          <br></br>
-          <br></br>Here’s a hot meal,
-          <br></br>wrapped lovingly in foil. It crinkles, loud,
-          <br></br>
-          <br></br>when I peel it open. I choose
-          <br></br>a cup of ginger ale
-          <br></br>
-          <br></br>and no one is angry. I drink the miles
-          <br></br>between myself and the fear
-          <br></br>
-          <br></br>and no one is angry.
-
             </p>
+            <picture> <img height src={mike}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Arushee Bhoja is a queer Indian-American poet from California. Her work is forthcoming from Brawl Lit. She lives in Maryland with her cats, Frog and Toad.  </p>
+            Aiden Blasi is a writer based in Brooklyn. His work has previously appeared in publications such as The Baram House, plain china, and 101 Words. For his day job, he edits legal textbooks, and for fun, he spends too much time playing grand strategy games.</p>
               </div>
           </div>
         </div>

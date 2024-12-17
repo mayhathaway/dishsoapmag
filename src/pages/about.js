@@ -29,7 +29,7 @@ const AboutPage = () => {
             </p>
             <p><strong>dishsoap</strong> /ˈdɪʃˌsoʊp/ (noun) </p>
             <p> a nerdy, uncool, earnest magazine that wouldn’t wait three days to call you if it got your 
-              number. that doesn’t have a type beyond times new roman or maybe garamond. that’s easily excitable. that can’t 
+              number. that's quarterly in the sense that a week is a quarter of a month. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
           <div className={aboutStyles.pinkLineBottom}></div>

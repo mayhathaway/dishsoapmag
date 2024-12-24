@@ -79,7 +79,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Aiden Blasi is a writer based in Brooklyn. His work has previously appeared in publications such as The Baram House, plain china, and 101 Words. For his day job, he edits legal textbooks, and for fun, he spends too much time playing grand strategy games.</p>
+            Kiki Johnson is a transplanted New Yorker now exiled to Florida. Her work is published in thread litmag, BarBar, New Note Poetry Magazine, Calyx, The Winged Moon Magazine, Mars Hill Review and in anthologies When Flowers Sing and Phoenixes: an anthology written by survivors. </p>
               </div>
           </div>
         </div>

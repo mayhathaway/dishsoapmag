@@ -47,11 +47,32 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Aiden Blasi</h3>
-            <h1 className={indexStyles.posttitle}>Mike (landlord)</h1>
+            <h3 className={indexStyles.postauthor}>Kiki Johnson</h3>
+            <h1 className={indexStyles.posttitle}>Hashi Motors</h1>
           <p className={indexStyles.posttext}>
+            <br></br>“The thyroid is the brain of hormones.”
+            <br></br>-some internet quote-
+            <br></br>
+            <br></br>Mine, however, is a post-apocalyptic gas depot,
+            <br></br>door hinge rusted, squeaking with least little wiffle,
+            <br></br>under an arid sun. The last drops of “woman juice”
+            <br></br>dried & wrangled into the brittle twine of tumble-
+            <br></br>weed bounces in the zephyr zoom & red sand dust.
+            <br></br>The patron is a war-torn barren woman sitting
+            <br></br>on stained lounge chair—plasticky-slats flap,
+            <br></br>wrenched from the frame, under years of duress.
+            <br></br>She alternates chain-smoking Camels & sucking
+            <br></br>on oxygen from a bruised green wheelie tank.
+            <br></br>Gray-white hair, simultaneously grease-laden
+            <br></br>& bone dry, sprays in clusters like a forgotten
+            <br></br>box of old optic wires. Clad in be-smudged wife-
+            <br></br>beater & mint green leggings worn, translucent
+            <br></br>in the camel-toe region. She is much more
+            <br></br>glorious than I could ever describe. Hanging on
+            <br></br>by the willowy weight of a butterfly wing.
+            <br></br>This whole milieu, in for the long-ass haul,
+            <br></br>for what comes after all vitals have given up.
             </p>
-            <picture> <img height src={mike}/> </picture>
           </div>
           </div>
           <div className={layoutStyles.content}>

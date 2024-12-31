@@ -50,15 +50,15 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Timothy C. Goodwin</h3>
             <h1 className={indexStyles.posttitle}>They fired up the laser</h1>
           <p className={indexStyles.posttext}>
-            <br></br>but they couldn’t turn it off because of all the New Science that made it work so they knee-jerked a solution which was to just 
-            <br></br>point it up into the sky and after a scrambled media frenzy about whether or not the International Space Station would 
-            <br></br>maneuver around it in time (<i>It did</i>, the media frowned) and a really thin scratch across the moon things settled down and 
-            <br></br>everyone rerouted all the planes and put up speakers playing predatory sounds to warn the birds and there was this sense of 
-            <br></br><i>Okay: The Great List Of Things To Avoid, Updated</i> but pretty soon they had to build a wall around it because people kept trying 
-            <br></br>to get to the laser, to touch it I guess and the wall got higher and higher as more and more people kept trying to get to it and of 
-            <br></br>course it was easy to shrug them off like one does with those people that leap into the polar bear enclosure or just reach out to pet 
-            <br></br>a moose in the woods but the more time goes by I think some people just don’t understand how bad a thing can be, like 
-            <br></br>sometimes it must be nice to still believe there’s a cartoon center to everything, that couldn’t possibly hurt.
+           but they couldn’t turn it off because of all the New Science that made it work so they knee-jerked a solution which was to just 
+            point it up into the sky and after a scrambled media frenzy about whether or not the International Space Station would 
+           maneuver around it in time (<i>It did</i>, the media frowned) and a really thin scratch across the moon things settled down and 
+            everyone rerouted all the planes and put up speakers playing predatory sounds to warn the birds and there was this sense of 
+            <i>Okay: The Great List Of Things To Avoid, Updated</i> but pretty soon they had to build a wall around it because people kept trying 
+            to get to the laser, to touch it I guess and the wall got higher and higher as more and more people kept trying to get to it and of 
+            course it was easy to shrug them off like one does with those people that leap into the polar bear enclosure or just reach out to pet 
+            a moose in the woods but the more time goes by I think some people just don’t understand how bad a thing can be, like 
+            sometimes it must be nice to still believe there’s a cartoon center to everything, that couldn’t possibly hurt.
             </p>
           </div>
           </div>

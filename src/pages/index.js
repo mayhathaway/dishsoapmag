@@ -47,31 +47,18 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Kiki Johnson</h3>
-            <h1 className={indexStyles.posttitle}>Hashi Motors</h1>
+            <h3 className={indexStyles.postauthor}>Timothy C. Goodwin</h3>
+            <h1 className={indexStyles.posttitle}>They fired up the laser</h1>
           <p className={indexStyles.posttext}>
-            <br></br>“The thyroid is the brain of hormones.”
-            <br></br>-some internet quote-
-            <br></br>
-            <br></br>Mine, however, is a post-apocalyptic gas depot,
-            <br></br>door hinge rusted, squeaking with least little wiffle,
-            <br></br>under an arid sun. The last drops of “woman juice”
-            <br></br>dried & wrangled into the brittle twine of tumble-
-            <br></br>weed bounces in the zephyr zoom & red sand dust.
-            <br></br>The patron is a war-torn barren woman sitting
-            <br></br>on stained lounge chair—plasticky-slats flap,
-            <br></br>wrenched from the frame, under years of duress.
-            <br></br>She alternates chain-smoking Camels & sucking
-            <br></br>on oxygen from a bruised green wheelie tank.
-            <br></br>Gray-white hair, simultaneously grease-laden
-            <br></br>& bone dry, sprays in clusters like a forgotten
-            <br></br>box of old optic wires. Clad in be-smudged wife-
-            <br></br>beater & mint green leggings worn, translucent
-            <br></br>in the camel-toe region. She is much more
-            <br></br>glorious than I could ever describe. Hanging on
-            <br></br>by the willowy weight of a butterfly wing.
-            <br></br>This whole milieu, in for the long-ass haul,
-            <br></br>for what comes after all vitals have given up.
+            <br></br>but they couldn’t turn it off because of all the New Science that made it work so they knee-jerked a solution which was to just 
+            <br></br>point it up into the sky and after a scrambled media frenzy about whether or not the International Space Station would 
+            <br></br>maneuver around it in time (<i>It did</i>, the media frowned) and a really thin scratch across the moon things settled down and 
+            <br></br>everyone rerouted all the planes and put up speakers playing predatory sounds to warn the birds and there was this sense of 
+            <br></br><i>Okay: The Great List Of Things To Avoid, Updated</i> but pretty soon they had to build a wall around it because people kept trying 
+            <br></br>to get to the laser, to touch it I guess and the wall got higher and higher as more and more people kept trying to get to it and of 
+            <br></br>course it was easy to shrug them off like one does with those people that leap into the polar bear enclosure or just reach out to pet 
+            <br></br>a moose in the woods but the more time goes by I think some people just don’t understand how bad a thing can be, like 
+            <br></br>sometimes it must be nice to still believe there’s a cartoon center to everything, that couldn’t possibly hurt.
             </p>
           </div>
           </div>
@@ -79,7 +66,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Kiki Johnson is a transplanted New Yorker now exiled to Florida. Her work is published in thread litmag, BarBar, New Note Poetry Magazine, Calyx, The Winged Moon Magazine, Mars Hill Review and in anthologies When Flowers Sing and Phoenixes: an anthology written by survivors. </p>
+            Timothy C Goodwin has work in Paragraph Planet, JAKE, Roi Faineant, and elsewhere.</p>
               </div>
           </div>
         </div>

@@ -66,6 +66,9 @@ const Masthead = () => {
               </li>
               <li>
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
+                <li>
+              if you somehow don't have a google account yet and can't access our form, feel free to email us your submission with an optional informal cover letter and a bio.
+              </li>
           </p>
           </div>
 <br />

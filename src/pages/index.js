@@ -50,15 +50,64 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Timothy C. Goodwin</h3>
             <h1 className={indexStyles.posttitle}>They fired up the laser</h1>
           <p className={indexStyles.posttext}>
-           but they couldn’t turn it off because of all the New Science that made it work so they knee-jerked a solution which was to just 
-            point it up into the sky and after a scrambled media frenzy about whether or not the International Space Station would 
-           maneuver around it in time (<i>It did</i>, the media frowned) and a really thin scratch across the moon things settled down and 
-            everyone rerouted all the planes and put up speakers playing predatory sounds to warn the birds and there was this sense of  
-            <i>Okay: The Great List Of Things To Avoid, Updated</i> but pretty soon they had to build a wall around it because people kept trying 
-            to get to the laser, to touch it I guess and the wall got higher and higher as more and more people kept trying to get to it and of 
-            course it was easy to shrug them off like one does with those people that leap into the polar bear enclosure or just reach out to pet 
-            a moose in the woods but the more time goes by I think some people just don’t understand how bad a thing can be, like 
-            sometimes it must be nice to still believe there’s a cartoon center to everything, that couldn’t possibly hurt.
+          It was four in the morning. The building was mostly graduate students still weaning off undergraduate sleep habits. Erin was banking on none of them having the fortitude she did, at 32, with her fully developed brain sitting taut in her skull.
+          <div></div>
+          <div></div>Four a.m. had to work. Seven a.m. had not worked; nor had midnight, noon, or dinnertime. Each time she had dragged herself down the thirteen floors to the basement, she’d found every washing machine busily chugging.
+          <div></div>
+          <div></div>Now, her own and David’s clothes were squished into a stinking grave at the bottom of the hamper, which also contained the covers to every throw pillow and dog bed, three sets of crib sheets, seven baby blankets and burp cloths, and innumerable precious little onesies stained with shit or vomit. Phoebe was incontinent because she was a baby, and Daisy was incontinent because she was very old and had lost her mind, and was now prone to wandering room to room with vacant eyes and leaving little trails of urine around the apartment.
+          <div></div>
+          <div></div>No one else in the building seemed to be awake. All the motion-activated lights flickered to life as Erin walked through the halls, and she could hear nothing but the mechanical struggle of the elevator as it rose to meet her, lurching in the way that always made her feel bad for summoning it.
+          <div></div>
+          <div></div>The basement was an all-cement affair, with walls inexplicably washed in white acrylic paint, and a few bare fluorescent bulbs illuminating the washers. Five machines. They’d been in her dreams lately, always taunting her with their fullness. Now, she stood and blinked at them, eyes filmy. 
+          <div></div>
+          <div></div>Each washer was in use. Each timer reported 42 minutes left in the cycle. Each churned and rattled against the floor, sloshing waves of hot suds against the glass door. Her throat choked on a sob that contained no liquid.
+          <div></div>
+          <div></div>Each machine being at the same point in the cycle, their rhythms were synced. It was like a ballet, the way they would all jump to the left and then the right, then regurgitate a belly full of water, then begin a vigorous clockwise whorl. She realized she had never sat and watched a whole wash cycle, and suddenly that seemed like the only thing she was capable of doing. She perched herself on the old formica table in the back corner of the room, next to two mismatched socks someone had placed there long enough for them both to be covered in a scrim of dust.
+          <div></div>
+          <div></div>She watched the dance. She listened to the music – the roar, the plunging, the vibrato. Then she noticed the same pink thong press itself to the glass in each machine, then jeté offstage in the same graceful arc.
+          <div></div>
+          <div></div>She stared. In each soapy window, a striped sock appeared. Then a sheaf of brown fabric – a pair of khakis. Then the thong again. The sock. The khakis.
+          <div></div>
+          <div></div>She crossed the fluorescent expanse slowly and touched the handle of each machine. Locked, of course. The water kept surging against the door. Thong. Sock. Khakis. Thong. Sock. Khakis.
+          <div></div>
+          <div></div>She went to the dryers, which lined the adjoining wall, opaque and silent. She pulled one open. A dark heap of clothes inside. It was completely cool, like it had been sitting there for days. She gathered the load up in her arms and threw it on top of the machine. She would empty another one, too, she decided, for her own things, and when one load of thongsockkhakis was done, she would dump it in the dryer and leave it to mildew.
+          <div></div>
+          <div></div>She was scrounging in the back of the dryer for lint and underwear when she heard footsteps and yanked herself out of the machine. She was kneeling in front of it, clutching a pair of leopard-printed panties, when a girl appeared in the doorway. A graduate student, probably. She had a nose ring and blonde hair scrunchied on top of her head like she couldn’t be bothered.
+          <div></div>
+          <div></div>“That’s my stuff,” she said.
+          <div></div>
+          <div></div>“Oh.” Erin looked at the pile she’d just deposited on top of the dryer, then down at the underwear in her hands. “I’m sorry. I didn’t think anyone was coming back for it for a while.”
+          <div></div>
+          <div></div>The girl frowned at her, twisting her nose ring. Erin stayed frozen on the floor as the girl approached and scooped her laundry up. She didn’t have a hamper – just held the whole load in her arms.
+          <div></div>
+          <div></div>“Those too, thanks,” she said, eyeing the underwear. Erin flushed and laid them delicately on top of the pile.
+          <div></div>
+          <div></div>The girl turned to leave, her plastic slides scuffing through the dust. When she reached the doorway, she looked at Erin over her shoulder.
+          <div></div>
+          <div></div>“You’re not the only one who lives here,” she said. “You should think about other people before you touch their stuff.”
+          <div></div>
+          <div></div>“I’m sorry,” Erin said again. “I really didn’t think – I didn’t think you were doing laundry. I’m sorry.”
+          <div></div>
+          <div></div>The girl stared at her, narrowed her eyes.
+          <div></div>
+          <div></div>“Who would be doing laundry at a time like this?” she said.
+          <div></div>
+          <div></div>She left, and Erin heard the elevator start grumpling upwards. Something had fallen from the girl’s arms in the doorway – a striped sock.
+          <div></div>
+          <div></div>Erin looked back at the washers. Thong. Striped sock. Khakis. Each timer still displayed 42 minutes to go. A jet of water blasted against each door and streaked down. Thong. Sock. Khakis.
+          <div></div>
+          <div></div>She steadied herself on her hamper, trying to ignore the toxic pull of its contents, the ball sweat in David’s boxers mingling with her stiff sour jeans. She used to have nice clothes. How had she ever kept them clean?
+          <div></div>
+          <div></div>It was 4:30. In two hours, David would be needing his work clothes. And any minute now, Phoebe would be fussing, spitting onto her bare crib mattress. Once Phoebe started making noise, Daisy would start growling and pacing, a sentinel for nothing.
+          <div></div>
+          <div></div>She thought about David having to attend to the crying baby and the yapping dog before they pissed off the neighbors. If a neighbor knocked on the door, how would David answer it? In his bathrobe? No clean clothes anywhere. He’d have to have Phoebe on his hip and shoo Daisy back with his foot. He’d have to apologize.
+          <div></div>
+          <div></div>She picked up the striped sock the girl had dropped and pulled herself back onto the table. She laid down and closed one of her eyes. In front of the other, she held the sock so that it lined up exactly with the miniature distant copy in the leftmost washer. Every forty seconds or so, they would overlap. Thong, socksock, khakis. She thought about leaving her hamper here, returning to the twelfth floor with just a single striped sock.
+          <div></div>
+          <div></div>“Here,” she would say to David, “you can wear this to work. It’s clean.”
+          <div></div>
+          <div></div>She laughed to herself. Then she moved the sock under her ear, forming a thin pillow against the cold surface of the table. She was so tired. She watched the machines and their dance, watched them gyrating farther and farther away in the bright white light of the basement. The girl had been right – who would be doing laundry at a time like this?
+
             </p>
           </div>
           </div>
@@ -66,7 +115,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Timothy C Goodwin has work in Paragraph Planet, JAKE, Roi Faineant, and elsewhere.</p>
+            Mac Murray is a writer, dog walker, and gender upender currently living and working in NYC by way of Seattle. Their work has been published by Bricolage, Fish Barrel Review, and fifth wheel press. They earned their BA in creative writing from the University of Washington, where they were also awarded the Eugene Van Buren prize for fiction. </p>
               </div>
           </div>
         </div>

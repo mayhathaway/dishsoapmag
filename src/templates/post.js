@@ -37,7 +37,7 @@ const Post = props => {
       }
     },
     renderText: text =>
-      text.replace(/\[tab\]/g,'&emsp').split("\n").flatMap((text, i) => [i > 0 && <br />, text])
+      text.replace(/\[tab\]/g,'&emsp;').split("\n").flatMap((text, i) => [i > 0 && <br />, text])
   }
 
   return (

@@ -37,7 +37,7 @@ const Post = props => {
       }
     },
     renderText: text =>
-      text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text])
+      text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text]) // put [sp] in contentful to add a non-removable space
       //text.replace(/\[tab\]/g,'&emsp;').split("\n").flatMap((text, i) => [i > 0 && <br />, text])
   }
 

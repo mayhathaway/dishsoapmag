@@ -47,34 +47,27 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Rishi Janakiraman</h3>
-            <h1 className={indexStyles.posttitle}>Bodies in phototaxis</h1>
+            <h3 className={indexStyles.postauthor}>James Callan</h3>
+            <h1 className={indexStyles.posttitle}>H.A.T.S.</h1>
           <p className={indexStyles.posttext}>
-          we ate light in fistfuls, our bodies bloated & hearts spinning
-          <br></br>like prayer wheels. I didn’t know what to say—you, smiling at me
-          <br></br>in broken english, trying to tell me this recipe for light. you’ll cradle
-          <br></br>me in a litany of words: I swallow. I scrub this bloodline with vinegar
-          <br></br>& you spoonfeed me Tamil syllables, noodle-curled, the way I was
-          <br></br>christened மழலை as to mean young, boy, baby-blue & sky-soft
-          <br></br>like this city whittled me into a fetus. you’d tell me how I was
-          <br></br>bleached by it all. my date-pruned fingers outstretched to sterile
-          <br></br>hospital light, holding onto this slant, snapping its straight rays
-          <br></br>in half. & now, light's clinging to your smile lines. all these
-          <br></br>wrinkles splintering you into the sins you gave me. our tongues are
-          <br></br>still overfed, bloated like the Sun, eating all the languages we can
-          <br></br>get our hands on. I’d say how in every one, my lips pressed together,
-          <br></br>bent themselves into submission as to say Amma, and you’d remind
-          <br></br>me how to translate it all, turn son into faggot. here: let me feed you,
-          <br></br>and blow before you eat—it just might burn your tongue. let me
-          <br></br>tell you all the ways grammar can get stuck in your gums, syllables
-          <br></br>slip like eels, conjugations crack open like wet bivalves, hungry
-          <br></br>for the Sun. let’s hope that when the light submerges our bodies we’ll
-          <br></br>still be breathing. let’s hope you don’t retch these graphemes so I don’t
-          <br></br>have to lap them up like a stray dog. let me tell you: language doesn’t
-          <br></br>taste too good when everything's in translation. feel the two letters of
-          <br></br>my name ரிஷி stretch inside you, the crowbar-curl of each vowel
-          <br></br>ballooning out. I know you’ll forget this, but when you do, promise me
-          <br></br>you'll weave this light into a net, catching only what refuses to drown.
+          Hats are a prison for hair, a jail cell for my Jew-fro, which strives to touch the sky. Hats are a straightjacket to my 
+          <br></br>occasional bouffant, a style that just can’t cope with any encumbrance. We’ve all said it: If I were a benevolent 
+          <br></br>dictator… Well, for me, there’d be no more hats. Burn them, like they did the bras. If there’s any room left after the D-Cups, 
+          <br></br>toss those beanies and berets, those fedoras and flat caps into the “Freedom Trash Can.” Yeah man…Let 
+          <br></br>those follicles fly.
+          <br></br>
+          <br></br>Hats are a prison for hair. That’s my stance. Just don’t tell my dad (bald), my brother (baseball nut), or the guy who 
+          <br></br>sells hats (successful retailer). Remember Mr. Clean? That guy looks like he could wipe the floor with me. Let’s not 
+          <br></br>mention it to him either--my master plan to abolish all hats. Let’s keep that fantasy to ourselves, eh?
+          <br></br>
+          <br></br>Hats are shackles to the glorious backcomb. And yes, I’ve been to a shrink about all this --it doesn't help. But really, 
+          <br></br>I’m coming along. I understand the value of hats for those who need them. Hats, for certain types, are like filtered 
+          <br></br>screens that defy the naked truth. They are instruments to maintain the mystery, allowing the question to hang in 
+          <br></br>the air--maybe he isn’t bald?-- inviting false speculations, unchallenged by truth: I bet his hair is luxuriant, well 
+          <br></br>styled, and quite impressive.
+          <br></br>
+          <br></br>Hats are cranial horrors. As an acronym, HATS would be Hellish Atrocities That Stink. Hats are worse than hoods -- 
+          <br></br>they are falsehoods. Not exactly bald faced lies…More like masks to conceal. Or, with zero embellishment, HATS.
 
             </p>
           </div>
@@ -83,7 +76,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Rishi Janakiraman is a young writer from Raleigh, NC. His work has been recognized by the Alliance for Young Artists & Writers, The New York Times, Young Poets Network, and the Poetry Society of the UK. A Top 15 Foyle Young Poet of the Year, his poems appear in Rust + Moth, Rising Phoenix Review, and eunoia, among others. He is an alum of the Adroit Journal Summer Mentorship Program and was one of 9 national medalists selected in the Scholastic Art & Writing Awards' 2024 anthology. He is also an executive editor for Polyphony Lit. </p>
+            James Callan is the author of the novels <i>Anthophile (Alien Buddha Press, 2024)</i> and <i>A Transcendental Habit (Queer Space, 2023)</i>. His fiction has appeared in <i>Bridge Eight, BULL, House of Arcanum, Maudlin House, Mystery Tribune,</i> and elsewhere. He lives on the Kāpiti Coast, Aotearoa New Zealand. Find him at jamescallanauthor.com. </p>
               </div>
           </div>
         </div>

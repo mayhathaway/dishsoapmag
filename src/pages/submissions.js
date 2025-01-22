@@ -43,7 +43,7 @@ const Masthead = () => {
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>
           </div>
-<br></br>
+          <div className={layoutStyles.pinkLineTop}></div>
           <div className={layoutStyles.mission}>
           <p>
             <h3>
@@ -75,7 +75,8 @@ const Masthead = () => {
 
           </p>
           </div>
-<br /><div className={layoutStyles.mission}>
+          <div className={layoutStyles.pinkLineTop}></div>
+<div className={layoutStyles.mission}>
           <p>
             <h3>
               <i>

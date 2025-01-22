@@ -33,10 +33,10 @@ const Masthead = () => {
               <li>
               We publish one piece per week, on Tuesdays. Our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
-              <li>
                 <li>
                 Typical response time is 2-4 days. All submissions will be responded to within 2 weeks.
                 </li>
+                <li>
                 Submissions are free! But we're also not a paying market. We hope to someday be though :)
               </li>
               <li>

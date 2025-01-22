@@ -52,22 +52,24 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>James Callan</h3>
             <h1 className={indexStyles.posttitle}>H.A.T.S.</h1>
           <p className={indexStyles.posttext}>
-          Hats are a prison for hair, a jail cell for my Jew-fro, which strives to touch the sky. Hats are a straightjacket to my occasional 
-          <br></br>bouffant, a style that just can’t cope with any encumbrance. We’ve all said it: <i>If I were a benevolent dictator</i>… Well, for me, there’d
-          <br></br> be no more hats. Burn them, like they did the bras. If there’s any room left after the D-Cups, toss those beanies and berets, those
-          <br></br> fedoras and flat caps into the “Freedom Trash Can.” Yeah man…Let those follicles fly.
+          Hats are a prison for hair, a jail cell for my Jew-fro, which strives to touch the sky. Hats are a straightjacket to my 
+          <br></br>occasional bouffant, a style that just can’t cope with any encumbrance. We’ve all said it: If I were a benevolent 
+          <br></br>dictator… Well, for me, there’d be no more hats. Burn them, like they did the bras. If there’s any room left after the D-Cups, 
+          <br></br>toss those beanies and berets, those fedoras and flat caps into the “Freedom Trash Can.” Yeah man…Let 
+          <br></br>those follicles fly.
           <br></br>
-          <br></br>Hats are a prison for hair. That’s <i>my</i> stance. Just don’t tell my dad (bald), my brother (baseball nut), or the guy who sells hats
-          <br></br>(successful retailer). Remember Mr. Clean? That guy looks like he could wipe the floor with me. Let’s not mention it to <i>him</i>
-          <br></br>either--my master plan to abolish all hats. Let’s keep that fantasy to ourselves, eh?
+          <br></br>Hats are a prison for hair. That’s my stance. Just don’t tell my dad (bald), my brother (baseball nut), or the guy who 
+          <br></br>sells hats (successful retailer). Remember Mr. Clean? That guy looks like he could wipe the floor with me. Let’s not 
+          <br></br>mention it to him either--my master plan to abolish all hats. Let’s keep that fantasy to ourselves, eh?
           <br></br>
-          <br></br>Hats are shackles to the glorious backcomb. And yes, I’ve been to a shrink about all this --it doesn't help. But really, I’m coming
-          <br></br>along. I understand the value of hats for those who need them. Hats, for certain types, are like filtered screens that defy the naked
-          <br></br>truth. They are instruments to maintain the mystery, allowing the question to hang in the air--<i>maybe he isn’t bald?</i>-- inviting false
-          <br></br>speculations, unchallenged by truth: <i>I bet his hair is luxuriant, well styled, and quite impressive.</i>
+          <br></br>Hats are shackles to the glorious backcomb. And yes, I’ve been to a shrink about all this --it doesn't help. But really, 
+          <br></br>I’m coming along. I understand the value of hats for those who need them. Hats, for certain types, are like filtered 
+          <br></br>screens that defy the naked truth. They are instruments to maintain the mystery, allowing the question to hang in 
+          <br></br>the air--maybe he isn’t bald?-- inviting false speculations, unchallenged by truth: I bet his hair is luxuriant, well 
+          <br></br>styled, and quite impressive.
           <br></br>
-          <br></br>Hats are cranial horrors. As an acronym, HATS would be Hellish Atrocities That Stink. Hats are worse than hoods -- they are
-          <br></br>falsehoods. Not exactly bald faced lies…More like masks to conceal. Or, with zero embellishment, HATS.
+          <br></br>Hats are cranial horrors. As an acronym, HATS would be Hellish Atrocities That Stink. Hats are worse than hoods -- 
+          <br></br>they are falsehoods. Not exactly bald faced lies…More like masks to conceal. Or, with zero embellishment, HATS.
 
             </p>
           </div>

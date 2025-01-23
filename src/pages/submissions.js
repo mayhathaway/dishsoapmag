@@ -44,6 +44,7 @@ const Masthead = () => {
           </p>
           </div>
           <p></p>
+          <p></p>
           <div className={layoutStyles.pinkLineTop}></div>
           <div className={layoutStyles.mission}>
           <p>
@@ -75,6 +76,7 @@ const Masthead = () => {
           </li>
           </p>
           </div>
+          <p></p>
           <p></p>
           <div className={layoutStyles.pinkLineTop}></div>
 

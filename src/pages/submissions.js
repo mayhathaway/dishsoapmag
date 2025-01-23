@@ -43,9 +43,8 @@ const Masthead = () => {
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
           </p>
           </div>
-          
+          <p></p>
           <div className={layoutStyles.pinkLineTop}></div>
-
           <div className={layoutStyles.mission}>
           <p>
             <h3>
@@ -74,12 +73,9 @@ const Masthead = () => {
          <li>
           All your weird. we want it. Generally up to your discretion given the length requirements outlined for other categories. Hard limit of 4 pieces / 1200 words though.
           </li>
-
           </p>
           </div>
-
           <p></p>
-
           <div className={layoutStyles.pinkLineTop}></div>
 
 <div className={layoutStyles.mission}>

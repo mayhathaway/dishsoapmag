@@ -26,7 +26,7 @@ const Masthead = () => {
             <h3>
               <i>
                 <strong>
-                  <p>General Vibes</p>
+                  <p>General Info</p>
                 </strong>
               </i>
             </h3>

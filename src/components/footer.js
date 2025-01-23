@@ -22,7 +22,7 @@ const Footer = () => {
     <footer className={footerStyles.footer}>
       <div className={footerStyles.split}>
         <p className={footerStyles.footerTitle}>
-          {data.site.siteMetadata.title} @2024
+          {data.site.siteMetadata.title} @2025
         </p>
         <p>Website created by Jeremy Nguyen</p>
       </div>

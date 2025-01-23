@@ -31,13 +31,13 @@ const Masthead = () => {
               </i>
             </h3>
               <li>
-              We publish one piece per week, on Tuesdays. Our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
+              we publish one piece per week, on Tuesdays. our submissions will remain perpetually open, so feel free to send us work whenever you’d like.
                 </li>
                 <li>
-                Typical response time is 2-4 days. All submissions will be responded to within 2 weeks.
+                typical response time is 2-4 days. all submissions will be responded to within 2 weeks.
                 </li>
                 <li>
-                Submissions are free! But we're also not a paying market. We hope to someday be though :)
+                submissions are free! But we're also not a paying market. we hope to someday be though :)
               </li>
               <li>
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>
@@ -49,28 +49,28 @@ const Masthead = () => {
             <h3>
               <i>
                 <strong>
-                  <p>Genre Guidelines</p>
+                  <p>genre guidelines</p>
                 </strong>
               </i>
             </h3>
-            <strong>Short Fiction/Nonfiction</strong>
+            <strong>short fiction/nonfiction</strong>
             <li>
-            Tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… Up to 3 pieces / up to 1200 words per piece.
+            tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… up to 3 pieces / up to 1200 words per piece.
             </li>
           <div></div>
-            <strong>Micro Fiction/Nonfiction</strong>
+            <strong>micro Fiction/nonfiction</strong>
           <li>
-          Send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. Up to 4 pieces / up to 300 words per piece
+          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 4 pieces / up to 300 words per piece
           </li>
           <div></div>
-          <strong>Poetry/Prose Poetry</strong>
+          <strong>poetry/prose poetry</strong>
           <li>
-          Give us your funktastic imagery and permeating voice. Up to 3 poems / no word limit.
+          give us your funktastic imagery and permeating voice. Up to 3 poems / no word limit.
           </li>
           <div></div>
-         <strong>Hybrid</strong> 
+         <strong>hybrid</strong> 
          <li>
-          All your weird. we want it. Generally up to your discretion given the length requirements outlined for other categories. Hard limit of 4 pieces / 1200 words though.
+          all your weird. we want it. generally up to your discretion given the length requirements outlined for other categories. hard limit of 4 pieces / 1200 words though.
           </li>
           </p>
           </div>
@@ -82,30 +82,30 @@ const Masthead = () => {
             <h3>
               <i>
                 <strong>
-                  <p>Nitty Gritty</p>
+                  <p>nitty gritty</p>
                 </strong>
               </i>
             </h3>
             <li>
-            We typically prefer for Dishsoap to be the first place your work has appeared, but are more than happy to give a new home to work stuck in any defunct/discontinued journal or magazine.
+            we typically prefer for Dishsoap to be the first place your work has appeared, but are more than happy to give a new home to work stuck in any defunct/discontinued journal or magazine.
             </li>          
             <li>
-            Simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
+            simultaneous submissions are accepted, but please notify us promptly if your work is accepted elsewhere.
             </li>
             <li>
-            We encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
+            we encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
             </li>
             <li>
-            If your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again. 
+            if your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again. 
             </li>
             <li>
-            To withdraw your work, email us at dishsoap.mag@gmail.com
+            to withdraw your work, email us at dishsoap.mag@gmail.com
             </li>
             <li> 
-            If you somehow don't have a google account yet and can't access our form, feel free to email us your submission with an optional informal cover letter and a bio.
+            if you somehow don't have a google account yet and can't access our form, feel free to email us your submission with an optional informal cover letter and a bio.
             </li>
             <li>
-            If your work is accepted, you retain all rights, but we request that you credit us when sending it to other places in the future.
+            if your work is accepted, you retain all rights, but we request that you credit us when sending it to other places in the future.
             </li>
 
           </p>

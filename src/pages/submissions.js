@@ -78,7 +78,7 @@ const Masthead = () => {
           </p>
           </div>
 
-          <br></br>
+          <p></p>
 
           <div className={layoutStyles.pinkLineTop}></div>
 

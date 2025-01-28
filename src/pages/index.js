@@ -80,7 +80,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            James Callan is the author of the novels <i>Anthophile (Alien Buddha Press, 2024)</i> and <i>A Transcendental Habit (Queer Space, 2023)</i>. His fiction has appeared in <i>Bridge Eight, BULL, House of Arcanum, Maudlin House, Mystery Tribune,</i> and elsewhere. He lives on the Kāpiti Coast, Aotearoa New Zealand. Find him at jamescallanauthor.com. </p>
+            Catherine Weiss is a poet and artist living in Western Massachusetts. Their poetry has been published in Tinderbox, Passengers Journal, Fugue, Taco Bell Quarterly, and elsewhere. Catherine's full-length poetry collections are titled WOLF GIRLS VS. HORSE GIRLS and GRIEFCAKE, with third full-length collection BIG MONEY PORNO MOMMY forthcoming from Game Over Books in 2025. More at catherineweiss.com. </p>
               </div>
           </div>
         </div>

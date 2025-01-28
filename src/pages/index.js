@@ -49,27 +49,29 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>James Callan</h3>
-            <h1 className={indexStyles.posttitle}>H.A.T.S.</h1>
+            <h3 className={indexStyles.postauthor}>Catherine Weiss</h3>
+            <h1 className={indexStyles.posttitle}>Today I’m Making Friendship Bracelets</h1>
           <p className={indexStyles.posttext}>
-          Hats are a prison for hair, a jail cell for my Jew-fro, which strives to touch the sky. Hats are a straightjacket to my 
-          <br></br>occasional bouffant, a style that just can’t cope with any encumbrance. We’ve all said it: If I were a benevolent 
-          <br></br>dictator… Well, for me, there’d be no more hats. Burn them, like they did the bras. If there’s any room left after the D-Cups, 
-          <br></br>toss those beanies and berets, those fedoras and flat caps into the “Freedom Trash Can.” Yeah man…Let 
-          <br></br>those follicles fly.
-          <br></br>
-          <br></br>Hats are a prison for hair. That’s my stance. Just don’t tell my dad (bald), my brother (baseball nut), or the guy who 
-          <br></br>sells hats (successful retailer). Remember Mr. Clean? That guy looks like he could wipe the floor with me. Let’s not 
-          <br></br>mention it to him either--my master plan to abolish all hats. Let’s keep that fantasy to ourselves, eh?
-          <br></br>
-          <br></br>Hats are shackles to the glorious backcomb. And yes, I’ve been to a shrink about all this --it doesn't help. But really, 
-          <br></br>I’m coming along. I understand the value of hats for those who need them. Hats, for certain types, are like filtered 
-          <br></br>screens that defy the naked truth. They are instruments to maintain the mystery, allowing the question to hang in 
-          <br></br>the air--maybe he isn’t bald?-- inviting false speculations, unchallenged by truth: I bet his hair is luxuriant, well 
-          <br></br>styled, and quite impressive.
-          <br></br>
-          <br></br>Hats are cranial horrors. As an acronym, HATS would be Hellish Atrocities That Stink. Hats are worse than hoods -- 
-          <br></br>they are falsehoods. Not exactly bald faced lies…More like masks to conceal. Or, with zero embellishment, HATS.
+          except I usually give up before they’re done
+          <br></br>so I’m just making keychains or what feels like
+          <br></br>extravagantly pointless scraps of effort.
+          <br></br>I’m concentrating hard to tie one fucking knot
+          <br></br>to another fucking knot, in the proper direction,
+          <br></br>in the right order, with the appropriate string.
+          <br></br>I learned the techniques from a teenage girl’s
+          <br></br>Youtube channel, follow patterns created
+          <br></br>by other teenage girls. Friendship bracelets
+          <br></br>take so long to make, there’s no point
+          <br></br>in selling them. Labor cost is too high. A friendship
+          <br></br>bracelet is created to be given. I was thinking of you.
+          <br></br>I was thinking of you for twelve hours with colorful string
+          <br></br>wrapped around my fingertips. It’s not quite prayer
+          <br></br>but it’s not not prayer. I think it’s devotion,
+          <br></br>about which a teenage girl would have a lot to say.
+          <br></br>Teenage girls are great teachers, if you listen.
+          <br></br>Today’s lesson is on despair: looking ahead
+          <br></br>and foreseeing years of humiliating ritual. What now,
+          <br></br>I ask. Teenage girl replies, look at your hands.
 
             </p>
           </div>

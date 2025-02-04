@@ -49,29 +49,15 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Catherine Weiss</h3>
-            <h1 className={indexStyles.posttitle}>Today I’m Making Friendship Bracelets</h1>
+            <h3 className={indexStyles.postauthor}>Ewen Glass</h3>
+            <h1 className={indexStyles.posttitle}>I felt the past</h1>
           <p className={indexStyles.posttext}>
-          except I usually give up before they’re done
-          <br></br>so I’m just making keychains or what feels like
-          <br></br>extravagantly pointless scraps of effort.
-          <br></br>I’m concentrating hard to tie one fucking knot
-          <br></br>to another fucking knot, in the proper direction,
-          <br></br>in the right order, with the appropriate string.
-          <br></br>I learned the techniques from a teenage girl’s
-          <br></br>Youtube channel, follow patterns created
-          <br></br>by other teenage girls. Friendship bracelets
-          <br></br>take so long to make, there’s no point
-          <br></br>in selling them. Labor cost is too high. A friendship
-          <br></br>bracelet is created to be given. I was thinking of you.
-          <br></br>I was thinking of you for twelve hours with colorful string
-          <br></br>wrapped around my fingertips. It’s not quite prayer
-          <br></br>but it’s not not prayer. I think it’s devotion,
-          <br></br>about which a teenage girl would have a lot to say.
-          <br></br>Teenage girls are great teachers, if you listen.
-          <br></br>Today’s lesson is on despair: looking ahead
-          <br></br>and foreseeing years of humiliating ritual. What now,
-          <br></br>I ask. Teenage girl replies, look at your hands.
+          in my body and leapt out of bed,
+<br></br>right onto my iPad.
+<br></br>Now when I try to stream
+<br></br>Ru Paul’s Drag Race I see
+<br></br>cracks in the screen,
+<br></br>all the light trying to get out.
 
             </p>
           </div>
@@ -80,7 +66,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Catherine Weiss is a poet and artist living in Western Massachusetts. Their poetry has been published in Tinderbox, Passengers Journal, Fugue, Taco Bell Quarterly, and elsewhere. Catherine's full-length poetry collections are titled WOLF GIRLS VS. HORSE GIRLS and GRIEFCAKE, with third full-length collection BIG MONEY PORNO MOMMY forthcoming from Game Over Books in 2025. More at catherineweiss.com. </p>
+            Ewen Glass (he/him) is a screenwriter and poet from Northern Ireland who lives with two dogs, a tortoise and lots of self-doubt; his poetry has appeared in the likes of Okay Donkey, Maudlin House, HAD, Poetry Scotland and Gordon Square Review. His debut chapbook ‘The Art of Washing What You Can't Touch’ is available from Alien Buddha Press.  </p>
               </div>
           </div>
         </div>

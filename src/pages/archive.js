@@ -18,7 +18,7 @@ const Masthead = () => {
     <Subheader title="dish cabinet" />
     <Layout>
       <Head title="archive" />
-      <h1 className={issueStyles.heading}>february 2025</h1>
+      <h1 className={issueStyles.heading}>febuary 2025</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>

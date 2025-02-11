@@ -23,6 +23,11 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
+            <Link to="/2-11-25/listing/">
+            <h2 className={archiveStyles.piecelink}>Things Left Out of the Listing</h2>
+            </Link>
+            <p>maura monaghan</p>
+
             <Link to="/2-4-25/past/">
             <h2 className={archiveStyles.piecelink}>I felt the past</h2>
             </Link>

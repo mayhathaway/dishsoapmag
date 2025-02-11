@@ -81,7 +81,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Ewen Glass (he/him) is a screenwriter and poet from Northern Ireland who lives with two dogs, a tortoise and lots of self-doubt; his poetry has appeared in the likes of Okay Donkey, Maudlin House, HAD, Poetry Scotland and Gordon Square Review. His debut chapbook ‘The Art of Washing What You Can't Touch’ is available from Alien Buddha Press.  </p>
+            Maura Monaghan is a writer from New York State living in London. Her work can be found in HAD and Drunk Monkeys, and she can be found on Twitter @maura_monaghan. </p>
               </div>
           </div>
         </div>

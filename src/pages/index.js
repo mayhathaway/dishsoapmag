@@ -50,7 +50,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <h3 className={indexStyles.postauthor}>Tara Labovich</h3>
-            <h1 className={indexStyles.posttitle}>girl, posessed!</h1>
+            <h1 className={indexStyles.posttitle}>girl, possessed!</h1>
           <p className={indexStyles.posttext}>
           girl, what r u summoning
 <br></br>from the henceforth? from

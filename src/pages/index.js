@@ -49,31 +49,38 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Maura Monaghan</h3>
-            <h1 className={indexStyles.posttitle}>Things Left Out of the Listing</h1>
+            <h3 className={indexStyles.postauthor}>Tara Labovich</h3>
+            <h1 className={indexStyles.posttitle}>girl, posessed!</h1>
           <p className={indexStyles.posttext}>
-          The wooden balcony could be a fire escape if you needed it to. Or, that’s what the landlord said when he got pushed about safety regulations. The yard below was paved over, blades of grass barely squeaking up by the sagging metal fence on the far side. The fence gave way to a network of alleys and ground floor entrances to other apartments.
+          girl, what r u summoning
+<br></br>from the henceforth? from
+<br></br>the future? from your guts?
+<br></br>the yearn is a summons
+<br></br>for wet creation, long arm
+<br></br>winding into the ether,
+<br></br>looking, looking
+<br></br>like Jennifer’s body
+<br></br>we succubus
+<br></br>desire, we’re possessed, we’re waiting
+<br></br>for it all to rankel in our bodies!
+<br></br>lovehunger, touchache, the singsong
+<br></br>from the cloister of want.
+<br></br>i had forgotten the way it hurts.
 <br></br>
-<br></br>At eye level from the elevated deck – you thought “balcony” was a bit too aspirational – was a sea of white shingles and single glazed windows, and dim cold lights in other kitchens: dirty sponges on the sills, bottles of dish soap with green slime congealing around the lids, an occasional “shut the fuck up!” or “it’s open!” floating out from the labyrinth of sliding doors and splintered stairs.
-<br></br>
-<br></br>Coffee grounds piled up in the grout between kitchen tiles. They stuck to your socks on Saturday mornings. There was an in-unit washer but no dryer, so in the winter you had to hang all your wet clothes up by the stove.
-<br></br>
-<br></br>The first time your neighbor Gabe came over it was to help you get a spider out of the shower. You gave it a real shot, you said, even poked it with a broom, but then it started crawling and you got so freaked out you had to give up and wash your hair in the kitchen sink. Within three seconds he scooped it up and placed it on the splintered wood outside, sliding the door shut softly. When you asked for help you’d assumed he was going to kill it.
-<br></br>
-<br></br>The next time he showed up he had a bag of groceries and a bottle of wine tucked under one arm. You tried to open the wine yourself, but you’d only just graduated from twist-off caps and butchered the cork so badly that pieces of it floated in your glasses at dinner. “It enhances the flavor,” you’d said and he laughed, swilling the wine around his cup and sucking a mock-sommelier breath through his nose.
-<br></br>
-<br></br>You got used to pulling a dry sweater over your head and smelling his cooking.
-<br></br>
-<br></br>One Sunday in your room he read the spines of all the books piled on the dresser. You had no room for a bookshelf, but all the time in the world back then to read. Gabe wasn’t much of a reader but he did try. He started The Old Man and the Sea once, to see why his dad liked it so much, but didn’t get it and gave up about halfway through.
-<br></br>
-<br></br>It was a drafty winter on that cramped street, and the radiators could only partly dull the chill; could soften it but not drive it out completely. The bedroom had two external walls with no insulation, so it was the coldest part of the apartment. On the worst nights you’d both pull the covers up over your heads and exhale until enough warm air was trapped under the duvet.
-<br></br>
-<br></br>The bedroom door hung high on its hinges and didn’t have a real lock, just a hook that slotted into a metal ring on the wall. It’d swing open an inch or so whenever a draft came through. Some nights you’d both lie there watching the door open and close, pretending the movement was magic. Other nights the constant thudding would grate on your nerves and you’d get up to stack your hardcovers in front of the door, letting all that hard-earned warmth out of the bed in the process.
-<br></br>
-<br></br>The biggest stove burner never caught a flame, so you had to turn the gas on and then start it with a lighter. There was a thin layer of mold on most of the windows, where the condensation dripped onto the sashes. You had to wipe them down once a week with an old t-shirt.
-<br></br>
-<br></br>The wood of the front door would always swell and stick in the frame when it rained. The last time Gabe ever left your apartment he had to yank the handle three times, really put his weight into it, just to wrestle the door open. It would’ve been funny if it were anyone else leaving.
-
+<br></br>after midnight my friend & i sat
+<br></br>in the dark car, doing the linger,
+<br></br>streetlit.
+<br></br>i was saying something about the way
+<br></br>the universe talks, i was saying,
+<br></br><i>i want to protect ur desire</i>
+<br></br>when we saw the fox.
+<br></br>she came quick, only
+<br></br>for the length of a streetcorner.
+<br></br>there—gone,
+<br></br>like all language, like the neighborgod,
+<br></br>like she was proving a point to us all about
+<br></br>what it’s like to have the world
+<br></br>rile in you, talk to you again.
             </p>
           </div>
           </div>
@@ -81,7 +88,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Maura Monaghan is a writer from New York State living in London. Her work can be found in HAD and Drunk Monkeys, and she can be found on Twitter @maura_monaghan. </p>
+            Tara Labovich (they/them) is a lecturer of English and Creative Writing at Iowa State University. Their multi-genre creative work explores questions of queerness, survivorship, and multicultural upbringing. Their writing is nominated for Best of the Net, and can be found in journals such as Salt Hill and the Citron Review.</p>
               </div>
           </div>
         </div>

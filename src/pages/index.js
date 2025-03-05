@@ -82,7 +82,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Janice Leadingham is a Portland, Oregon based writer and tarot-reader originally from somewhere near Dollywood, Tennessee—Exit 407 off of I- 40. Her work has appeared in Reckon Review, HAD, the Northwest Review, The Bureau Dispatch, Bullshit Lit, JAKE, and Milk Candy Review, among others. She was nominated for the Pushcart, Brave New Weird, and Best of the Net prizes this year, and recently selected for Best Small Fictions 2024. She is @thehagsoup everywhere and hagsoup.com.</p>
+            Crystal Taylor (she/her) is a poet, writer, and birdwatcher from Texas. Her work lives in Anti-heroin Chic, Maudlin House, Gargoyle, Ghost City Review, and other sacred spaces. She has been nominated for BoTN for her poem, Pearls. Follow her on BSky and Twitter/X @CrystalTaylorSA, and Instagram @cj_taylor_writes.</p>
               </div>
           </div>
         </div>

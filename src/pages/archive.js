@@ -91,7 +91,7 @@ const Masthead = () => {
             <p>rishi janakiraman</p>
 
             <Link to="/1-7-25/whirlpool/">
-            <h2 className={archiveStyles.piecelink}>Whirpool</h2>
+            <h2 className={archiveStyles.piecelink}>Whirlpool</h2>
             </Link>
             <p>mac murray</p>
 

@@ -61,7 +61,7 @@ const Masthead = () => {
             <p>maura monaghan</p>
 
             <Link to="/2-4-25/past/">
-            <h2 className={archiveStyles.piecelink}>I felt the past</h2>
+            <h2 className={archiveStyles.piecelink}>I fel the past</h2>
             </Link>
             <p>ewen glass</p>
 

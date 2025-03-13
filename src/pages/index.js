@@ -104,7 +104,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Nicole is a writer from Toronto. She's been published in <i>The Dial</i> and <i>The Walrus</i>. </p>
+            Nicole is a writer from Toronto who has been published in <i>The Dial</i> and <i>The Walrus</i>. </p>
               </div>
           </div>
         </div>

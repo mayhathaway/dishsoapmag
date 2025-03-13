@@ -104,7 +104,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Nicole Dirks is a recent Yale grad from Toronto. She's been published in The Dial and The Walrus. </p>
+            Nicole is a writer from Toronto. She's been published in <i>The Dial</i> and <i>The Walrus</i>. </p>
               </div>
           </div>
         </div>

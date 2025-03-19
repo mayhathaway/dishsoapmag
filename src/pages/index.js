@@ -49,54 +49,33 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Nicole Dirks</h3>
-            <h1 className={indexStyles.posttitle}>Wash Hands With Evil Soap</h1>
+            <h3 className={indexStyles.postauthor}>Ziqr Peehu</h3>
+            <h1 className={indexStyles.posttitle}>Portrait of a Skeleton</h1>
           <p className={indexStyles.posttext}>
-          Today we will build your body in The Sims 3.
-<br></br>Click personality “Flirt,” life wish “Emperor of Evil,”
-<br></br>Put hair in emo swoosh, tramp stamp in rainbow,
-<br></br>Click bikini with flames, hips with edge,
-<br></br>Toggle voice for Monroeish Simlish hello: <i>sul sul</i>.
-<br></br>Resize forehead to test head without brain.
-<br></br>
-<br></br>With cheat code “motherlode,” dispose of all brain
-<br></br>Power required to make ends meet in Sims 3.
-<br></br>Drop Sim in empty lot, watch Sim greet <i>sul sul</i>
-<br></br>Empty street. Next build your Empire of Evil:
-<br></br>Plunk bathtub in backyard, step-stool by window edge,
-<br></br>Dig pool with no ladder under sky of rainbow.
-<br></br>
-<br></br>Find Lover at end of Barnacle Bay town rainbow,
-<br></br>Lad with carrot top, skater shirt, life wish “Best Brain
-<br></br>Surgeon.” Click “Joke,” “Flirt,” “Flirt,” “Flirt,” “Offer Rose,” until you edge
-<br></br>Into pink on relationship meter, clap clap! Love in The Sims 3
-<br></br>Is a matter of repetition. Love in the Empire of Evil
-<br></br>Is never good. Best Brain Surgeon comes by all <i>sul sul</i>
-<br></br>
-<br></br>Right when Vampire Sim is finally biting your neck. <i>Sul sul</i>,
-<br></br>Offer him soup. Brain Surgeon and Vampire float rainbow
-<br></br>Emojis. You start fire heating soup while Evil
-<br></br>Does its thing: they swim, look for ladder. Sim brain
-<br></br>Thinks drowning is waving. Evil in The Sims 3
-<br></br>Is clicking “Wash Hands with Evil Soap,” considering window edge,
-<br></br>
-<br></br>While Empire does the dirty work. When Real vertebrae edge
-<br></br>Against concrete wall by bed, Vampire respawns in window all&emsp;<i>sul sul</i>,
-<br></br>And Empire burns to &emsp;&emsp;glitch&emsp;&emsp;close Sims 3
-<br></br>Open&emsp;&ensp;Pottery Barn&emsp;&emsp; again &emsp;&emsp;ponder kid’s headboard&emsp;&emsp;in rainbow
-<br></br>Cause cheap&emsp;&emsp; clap clap &emsp;&ensp;motherlode rings &emsp;“drop by?”&emsp;&ensp;no brain
-<br></br>Go wash hands &emsp;&emsp;&emsp;lame ass soap&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; evil evil evil evil evil evil evil
-<br></br>
-<br></br>Nothing devious about depression&emsp;&emsp;&emsp; but Evil
-<br></br>Keeps it fresh&emsp;&ensp; you feel off&emsp;&emsp; window edge
-<br></br>Opportunity&emsp;&emsp;to close door&emsp;&emsp;leads to open&emsp;&emsp;hands&emsp;&ensp;to water&emsp;&ensp;brain
-<br></br>Doesn’t need ladder&emsp;&emsp; to leave &emsp;&emsp;pool greet <i>sul sul</i>
-<br></br>Get to business &emsp;&emsp;in the sink&emsp;&emsp; scrub a dub dub dubdubdubdubdubdub&emsp;&emsp; shiny Rainbow
-<br></br>Politics on phone with motherlode&emsp;&emsp; dispose &emsp;&emsp;hangnails&emsp;&emsp; memory &emsp;&emsp;Sims 3
-<br></br>
-<br></br>How Evil it is to go for lunch with motherlode when you have an entire Empire in The Sims 3.
-<br></br>On toilet break&emsp; swipe left Emo girl 1 2 3 &emsp;scrub a dub dub&emsp; Rainbow
-<br></br>Back to it&emsp; bowl of minestrone&emsp; fly still down&emsp; Mother “hey”&emsp; Freudian glitch “sul sul”
+          It’s a farmhouse. Or a motel. Or a gas station lost in the desert heat. Maybe it’s the apartment you
+<br></br>ived in during college, the one with the cracked ceilings and the windows that wouldn’t open, no
+<br></br>matter how hard you pushed. Someone is sitting on the roof. Someone is curled up in the bathtub.
+<br></br>Someone is pacing the hallway, their shadow spilling down the staircase like water. Maybe it’s you.
+<br></br>Maybe it’s someone you used to be. The fridge is empty except for a half-melted popsicle and a
+<br></br>Polaroid you don’t remember taking. Upstairs, your bedroom is still pink. The closet door creaks
+<br></br>open. Something inside breathes, wheezes, laughs. Your father, maybe. Or his shadow. Or the
+<br></br>version of you that hid there, waiting for him to leave. There’s a light flickering in the attic. A lantern,
+<br></br>a dying bulb, or maybe the ghost of a star. Underneath it: a box full of teeth that don’t belong to
+<br></br>anyone you remember. Someone calls your name from down the hall, but when you turn, there’s no
+<br></br>one there. Only a door with a padlock the size of your fist and a key that’s been missing for twenty
+<br></br>years. You press your ear to the wood. A voice says, <i>Don’t go in there</i>. You ask, <i>Why not?</i> The voice
+<br></br>doesn’t answer. You open the door. Inside is a lake, or a fire, or the edge of a cliff. Inside is the girl
+<br></br>who kissed you and laughed when you cried. Inside is the car you rolled into a ditch and never told
+<br></br>anyone about. Inside is the knife your brother held to your throat when he swore he didn’t mean it.
+<br></br>You shut the door and leave. Or try to. The boy in the corner spits out the paper and smiles. <i>You’re
+<br></br>still here?</i> he asks, like it’s funny. Like it’s the punchline to a joke you’ve been telling yourself for
+<br></br>years. Back downstairs, the girl—or the woman, or your mother—is sitting at the kitchen table.
+<br></br>She’s humming that same song. She’s holding a knife. Or a bird. Or nothing at all. You can’t tell.
+<br></br>The sunlight hits her face and turns her eyes into black holes. “You’re late,” she says. “For what?”
+<br></br>She doesn’t answer. Instead, she leans forward and whispers something you can’t quite hear. Or
+<br></br>maybe you can. Maybe you just don’t want to. You leave the house. Or you don’t. Maybe you’ve
+<br></br>been there the whole time. Maybe the house isn’t a house at all. Maybe it’s a cage. Or a memory. Or
+<br></br>a body, and you are the ghost rattling its bones.
             </p>
           </div>
           </div>
@@ -104,7 +83,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Nicole is a writer from Toronto who has been published in <i>The Dial</i> and <i>The Walrus</i>. </p>
+            Ziqr is grieving, yearning and hoping. They write for the thrill of rejection emails and the occasional ‘we regret to inform you.' Their works have appeared in places like Scholastic, Rattle, and Trampset among others. </p>
               </div>
           </div>
         </div>

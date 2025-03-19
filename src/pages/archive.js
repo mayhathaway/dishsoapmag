@@ -25,6 +25,11 @@ const Masthead = () => {
             <div className={issueStyles.bottomMargin}>
 
             <Link to="/3-11-25/evil/">
+            <h2 className={archiveStyles.piecelink}>Portrait of a Skeleton</h2>
+            </Link>
+            <p>ziqr peehu</p>
+
+            <Link to="/3-11-25/evil/">
             <h2 className={archiveStyles.piecelink}>Wash Hands With Evil Soap</h2>
             </Link>
             <p>nicole dirks</p>

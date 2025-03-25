@@ -53,23 +53,23 @@ const IndexPage = () => {
             <h1 className={indexStyles.posttitle}>NOT U NOR HIM 2 PARADISE</h1>
           <p className={indexStyles.posttext}>
           you are in ohio before the end of the world, KN-95
-emblazoned with TRUE LOVE WAITS in rhinestones.
-it’s hot biohazard summer and you want to be scoured
-in every sense of the word: pored over by doctors, told
-exactly what’s wrong and how to eliminate it as quickly
-and painfully as possible. you want to be excoriated,
-but all the doctors in ohio before the end of the world
-have better things to do, so you settle for staring into the sun,
-heart-shaped sunglasses popped onto your forehead,
-calculating how much each breath pollutes the air.
-it’s hot ground-level ozone summer and the sun is a nuclear
-beauty queen, the biggest, meanest maraschino cherry
-in god’s great vat of grenadine. <i>Pure? What does it mean?</i>
-asks plath. you drink a bottle of red 40, read the poem again:
-<i>the sin, the sin,</i> she says, but everything’s a sin,
-like everything’s a carcinogen, like happiness is a smash-and-grab:
-fistfuls of broken glass that may as well be diamonds.
-you die or you buy in. The sin. The sin.
+<br></br>emblazoned with TRUE LOVE WAITS in rhinestones.
+<br></br>it’s hot biohazard summer and you want to be scoured
+<br></br>in every sense of the word: pored over by doctors, told
+<br></br>exactly what’s wrong and how to eliminate it as quickly
+<br></br>and painfully as possible. you want to be excoriated,
+<br></br>but all the doctors in ohio before the end of the world
+<br></br>have better things to do, so you settle for staring into the sun,
+<br></br>heart-shaped sunglasses popped onto your forehead,
+<br></br>calculating how much each breath pollutes the air.
+<br></br>it’s hot ground-level ozone summer and the sun is a nuclear
+<br></br>beauty queen, the biggest, meanest maraschino cherry
+<br></br>in god’s great vat of grenadine. <i>Pure? What does it mean?</i>
+<br></br>asks plath. you drink a bottle of red 40, read the poem again:
+<br></br><i>the sin, the sin,</i> she says, but everything’s a sin,
+<br></br>like everything’s a carcinogen, like happiness is a smash-and-grab:
+<br></br>fistfuls of broken glass that may as well be diamonds.
+<br></br>you die or you buy in. The sin. The sin.
             </p>
           </div>
           </div>

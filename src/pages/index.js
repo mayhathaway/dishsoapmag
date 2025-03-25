@@ -49,33 +49,27 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Ziqr Peehu</h3>
-            <h1 className={indexStyles.posttitle}>Portrait of a Skeleton</h1>
+            <h3 className={indexStyles.postauthor}>Sosie Chery</h3>
+            <h1 className={indexStyles.posttitle}>NOT U NOR HIM 2 PARADISE</h1>
           <p className={indexStyles.posttext}>
-          It’s a farmhouse. Or a motel. Or a gas station lost in the desert heat. Maybe it’s the apartment you
-<br></br>ived in during college, the one with the cracked ceilings and the windows that wouldn’t open, no
-<br></br>matter how hard you pushed. Someone is sitting on the roof. Someone is curled up in the bathtub.
-<br></br>Someone is pacing the hallway, their shadow spilling down the staircase like water. Maybe it’s you.
-<br></br>Maybe it’s someone you used to be. The fridge is empty except for a half-melted popsicle and a
-<br></br>Polaroid you don’t remember taking. Upstairs, your bedroom is still pink. The closet door creaks
-<br></br>open. Something inside breathes, wheezes, laughs. Your father, maybe. Or his shadow. Or the
-<br></br>version of you that hid there, waiting for him to leave. There’s a light flickering in the attic. A lantern,
-<br></br>a dying bulb, or maybe the ghost of a star. Underneath it: a box full of teeth that don’t belong to
-<br></br>anyone you remember. Someone calls your name from down the hall, but when you turn, there’s no
-<br></br>one there. Only a door with a padlock the size of your fist and a key that’s been missing for twenty
-<br></br>years. You press your ear to the wood. A voice says, <i>Don’t go in there</i>. You ask, <i>Why not?</i> The voice
-<br></br>doesn’t answer. You open the door. Inside is a lake, or a fire, or the edge of a cliff. Inside is the girl
-<br></br>who kissed you and laughed when you cried. Inside is the car you rolled into a ditch and never told
-<br></br>anyone about. Inside is the knife your brother held to your throat when he swore he didn’t mean it.
-<br></br>You shut the door and leave. Or try to. The boy in the corner spits out the paper and smiles. <i>You’re
-<br></br>still here?</i> he asks, like it’s funny. Like it’s the punchline to a joke you’ve been telling yourself for
-<br></br>years. Back downstairs, the girl—or the woman, or your mother—is sitting at the kitchen table.
-<br></br>She’s humming that same song. She’s holding a knife. Or a bird. Or nothing at all. You can’t tell.
-<br></br>The sunlight hits her face and turns her eyes into black holes. “You’re late,” she says. “For what?”
-<br></br>She doesn’t answer. Instead, she leans forward and whispers something you can’t quite hear. Or
-<br></br>maybe you can. Maybe you just don’t want to. You leave the house. Or you don’t. Maybe you’ve
-<br></br>been there the whole time. Maybe the house isn’t a house at all. Maybe it’s a cage. Or a memory. Or
-<br></br>a body, and you are the ghost rattling its bones.
+          you are in ohio before the end of the world, KN-95
+<div></div>emblazoned with TRUE LOVE WAITS in rhinestones.
+<div></div>it’s hot biohazard summer and you want to be scoured
+<div></div>in every sense of the word: pored over by doctors, told
+<div></div>exactly what’s wrong and how to eliminate it as quickly
+<div></div>and painfully as possible. you want to be excoriated,
+<div></div>but all the doctors in ohio before the end of the world
+<div></div>have better things to do, so you settle for staring into the sun,
+<div></div>heart-shaped sunglasses popped onto your forehead,
+<div></div>calculating how much each breath pollutes the air.
+<div></div>it’s hot ground-level ozone summer and the sun is a nuclear
+<div></div>beauty queen, the biggest, meanest maraschino cherry
+<div></div>in god’s great vat of grenadine. <i>Pure? What does it mean?</i>
+<div></div>asks plath. you drink a bottle of red 40, read the poem again:
+<div></div><i>the sin, the sin,</i> she says, but everything’s a sin,
+<div></div>like everything’s a carcinogen, like happiness is a smash-and-grab:
+<div></div>fistfuls of broken glass that may as well be diamonds.
+<div></div>you die or you buy in. The sin. The sin.
             </p>
           </div>
           </div>
@@ -83,7 +77,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Ziqr is grieving, yearning and hoping. They write for the thrill of rejection emails and the occasional ‘we regret to inform you.' Their works have appeared in places like Scholastic, Rattle, and Trampset among others. </p>
+            Sosie Chery is a queer, Black biracial writer from the Midwest. She went through a BimboTok phase in 2021 and her poetic sensibilities have never fully recovered. </p>
               </div>
           </div>
         </div>

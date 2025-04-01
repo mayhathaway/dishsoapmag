@@ -49,27 +49,54 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Sosie Chery</h3>
-            <h1 className={indexStyles.posttitle}>NOT U NOR HIM 2 PARADISE</h1>
+            <h3 className={indexStyles.postauthor}>Sarah Mills</h3>
+            <h1 className={indexStyles.posttitle}>Notes App Poem Written on an Unseasonably Warm November Day While the Dishwasher Runs</h1>
           <p className={indexStyles.posttext}>
-          you are in ohio before the end of the world, KN-95
-<br></br>emblazoned with TRUE LOVE WAITS in rhinestones.
-<br></br>it’s hot biohazard summer and you want to be scoured
-<br></br>in every sense of the word: pored over by doctors, told
-<br></br>exactly what’s wrong and how to eliminate it as quickly
-<br></br>and painfully as possible. you want to be excoriated,
-<br></br>but all the doctors in ohio before the end of the world
-<br></br>have better things to do, so you settle for staring into the sun,
-<br></br>heart-shaped sunglasses popped onto your forehead,
-<br></br>calculating how much each breath pollutes the air.
-<br></br>it’s hot ground-level ozone summer and the sun is a nuclear
-<br></br>beauty queen, the biggest, meanest maraschino cherry
-<br></br>in god’s great vat of grenadine. <i>Pure? What does it mean?</i>
-<br></br>asks plath. you drink a bottle of red 40, read the poem again:
-<br></br><i>the sin, the sin,</i> she says, but everything’s a sin,
-<br></br>like everything’s a carcinogen, like happiness is a smash-and-grab:
-<br></br>fistfuls of broken glass that may as well be diamonds.
-<br></br>you die or you buy in. The sin. The sin.
+          --Late fall, and so many flowers dragging their pink heels.
+ <br></br>
+<br></br>--I understand their hesitation. We hold on to that which tricks us into feeling alive. 
+ <br></br>
+<br></br>--I keep the dishwasher full because I have known emptiness. And because I like how it sings to
+itself.
+  <br></br>
+<br></br>--On nights I can’t sleep, I run the dishwasher and I make lists in my head.
+ <br></br>
+<br></br>--A list of my favorite cereals when I was a child: Golden Grahams, Raisin Bran, Corn Chex,
+Cinnamon Life.
+ <br></br>
+<br></br>--Business ideas: a leaf blower but instead of leaves it blows you into an alternate dimension where
+everything is okay. 
+ <br></br>
+<br></br>--Is this anything?
+ <br></br>
+<br></br>--If I fall asleep while the dishwasher runs, it sanitizes my dreams.
+ <br></br>
+<br></br>--Don’t forget to buy dish detergent. Toilet paper. 
+<br></br>
+ <br></br>--A mint candy on the ground, gleaming like a dinner plate. The fine china we never use.
+<br></br>
+<br></br>--I can't see my breath in the cold anymore.
+<br></br>
+<br></br>--I have become so intimate with longing, the same useless scarf is wrapped around both of our
+necks. 
+<br></br>
+<br></br>--Will I spend the rest of my life singing over my grief?
+ <br></br>
+<br></br>--A drought but I'm drowning. 
+ <br></br>
+<br></br>--A flood but it’s just the dishwasher overflowing.
+<br></br>
+<br></br>--A list of everything I’ve had to bury, then excavate, to get here.
+<br></br>
+<br></br>--Putting poems in the dishwasher on the heavy cycle. Top rack only.
+<br></br>
+<br></br>--Rinsing out these words like an empty jar of spaghetti sauce. Recycling them. 
+<br></br>
+<br></br>--Morning lawn, a massacre of maple leaves.
+<br></br>
+<br></br>--Mischief Night, toilet paper swaying from branches like streamers for a party no one attended. 
+ <br></br>
+<br></br>--And then, without hesitation—the wind.
             </p>
           </div>
           </div>
@@ -77,7 +104,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Sosie Chery is a queer, Black biracial writer from the Midwest. She went through a BimboTok phase in 2021 and her poetic sensibilities have never fully recovered. </p>
+            Sarah Mills’s poetry has appeared or is forthcoming in RHINO, trampset, Jet Fuel Review, HAD, Rust & Moth, Pithead Chapel, Beaver Mag, Identity Theory, The Shore, Up the Staircase Quarterly, and elsewhere. Her work has been nominated for Best of the Net and the Pushcart Prize. She is online at sarahmillswrites.com, and on Bluesky- sarahmillswrites. </p>
               </div>
           </div>
         </div>

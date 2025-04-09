@@ -72,7 +72,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Jaiden Geolingo is an emerging youth writer based in Georgia, United States. A 2025 National YoungArts Winner in Poetry, his work can be found published or forthcoming in The Poetry Society, Eunoia Review, Frighten the Horses, and other journals. He is the co-founder and editor-in-chief of The Velvet Quarterly.</p>
+            Jaiden Geolingo is a Pinoy writer currently based in Georgia, United States. He is the author of <i>How to Migrate Ghosts</i> (Kith Books, forthcoming) and has earned recognition from the National YoungArts Foundation, Bennington College, 13WMAZ, and the Scholastic Art & Writing Awards, among others. His work appears or is forthcoming in <i>Diode Poetry Journal, Eunoia Review, The Poetry Society, The Shore</i>, and several other publications. Someday, he will be good at math.</p>
               </div>
           </div>
         </div>

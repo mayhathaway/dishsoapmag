@@ -23,6 +23,11 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
+            <Link to="/4-8-25/dystopia/">
+            <h2 className={archiveStyles.piecelink}>dystopia where we're out past midnight</h2>
+            </Link>
+            <p>jaiden geolingo</p>
+
             <Link to="/4-1-25/dishwasher/">
             <h2 className={archiveStyles.piecelink}>Notes App Poem Written on an Unseasonably Warm November Day While the Dishwasher Runs</h2>
             </Link>

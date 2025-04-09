@@ -49,54 +49,22 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Sarah Mills</h3>
-            <h1 className={indexStyles.posttitle}>Notes App Poem Written on an Unseasonably Warm November Day While the Dishwasher Runs</h1>
+            <h3 className={indexStyles.postauthor}>Jaiden Geolingo</h3>
+            <h1 className={indexStyles.posttitle}>dystopia where we're out past midnight</h1>
           <p className={indexStyles.posttext}>
-          --Late fall, and so many flowers dragging their pink heels.
- <br></br>
-<br></br>--I understand their hesitation. We hold on to that which tricks us into feeling alive. 
- <br></br>
-<br></br>--I keep the dishwasher full because I have known emptiness. And because I like how it sings to
-itself.
-  <br></br>
-<br></br>--On nights I can’t sleep, I run the dishwasher and I make lists in my head.
- <br></br>
-<br></br>--A list of my favorite cereals when I was a child: Golden Grahams, Raisin Bran, Corn Chex,
-Cinnamon Life.
- <br></br>
-<br></br>--Business ideas: a leaf blower but instead of leaves it blows you into an alternate dimension where
-everything is okay. 
- <br></br>
-<br></br>--Is this anything?
- <br></br>
-<br></br>--If I fall asleep while the dishwasher runs, it sanitizes my dreams.
- <br></br>
-<br></br>--Don’t forget to buy dish detergent. Toilet paper. 
-<br></br>
- <br></br>--A mint candy on the ground, gleaming like a dinner plate. The fine china we never use.
-<br></br>
-<br></br>--I can't see my breath in the cold anymore.
-<br></br>
-<br></br>--I have become so intimate with longing, the same useless scarf is wrapped around both of our
-necks. 
-<br></br>
-<br></br>--Will I spend the rest of my life singing over my grief?
- <br></br>
-<br></br>--A drought but I'm drowning. 
- <br></br>
-<br></br>--A flood but it’s just the dishwasher overflowing.
-<br></br>
-<br></br>--A list of everything I’ve had to bury, then excavate, to get here.
-<br></br>
-<br></br>--Putting poems in the dishwasher on the heavy cycle. Top rack only.
-<br></br>
-<br></br>--Rinsing out these words like an empty jar of spaghetti sauce. Recycling them. 
-<br></br>
-<br></br>--Morning lawn, a massacre of maple leaves.
-<br></br>
-<br></br>--Mischief Night, toilet paper swaying from branches like streamers for a party no one attended. 
- <br></br>
-<br></br>--And then, without hesitation—the wind.
+          We hurried out of my barren Toyota after the tsunami turned into a megaphone. Candleflame
+<br></br>cordons the doorway in our apartment, electricity whittled into intimate black. In the living
+<br></br>room, Frank Ocean comes on while the windowsills collect soot— & in our right hands, maybe
+<br></br>there is another love song; I haven’t checked, but don’t you remember the violins pried open, its
+<br></br>hollowness hereditary to the radio station? Suppose I do, & instead of slow-dancing to <i>White</i>
+<br></br><i>Ferrari</i>, we could be saving our oxygen tanks for later. This is the part where the grenades
+<br></br>infiltrate our back porch, our bones christened so stillborn with shrapnel. Suppose the TNT never
+<br></br>reached us, & we were baptized instead on Southern prairies. The midnight corpse-cold.
+<br></br>Hollywood could make diamonds out of this slaughterhouse. Now, the film reel: guttural litany
+<br></br>& dreams siphoned from asphalt water; the overgrown weeds in our homemade garden watching
+<br></br>our feet dispel prayers. Tonight, sinkholes will gape open in the neighborhood & we’ll be eating
+<br></br>vodka pasta & continue dancing & suppose everything is an apocalypse. Suppose we get to
+<br></br>swallow the sun. Suppose we’ll come home with mouths made for mouths.
             </p>
           </div>
           </div>
@@ -104,7 +72,7 @@ necks. 
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Sarah Mills’s poetry has appeared or is forthcoming in RHINO, trampset, Jet Fuel Review, HAD, Rust & Moth, Pithead Chapel, Beaver Mag, Identity Theory, The Shore, Up the Staircase Quarterly, and elsewhere. Her work has been nominated for Best of the Net and the Pushcart Prize. She is online at sarahmillswrites.com, and on Bluesky- sarahmillswrites. </p>
+            Jaiden Geolingo is an emerging youth writer based in Georgia, United States. A 2025 National YoungArts Winner in Poetry, his work can be found published or forthcoming in The Poetry Society, Eunoia Review, Frighten the Horses, and other journals. He is the co-founder and editor-in-chief of The Velvet Quarterly.</p>
               </div>
           </div>
         </div>

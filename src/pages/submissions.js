@@ -60,7 +60,7 @@ const Masthead = () => {
           <div></div>
             <strong>micro fiction/nonfiction</strong>
           <li>
-          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 4 pieces / up to 300 words per piece
+          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 3 pieces / up to 300 words per piece.
           </li>
           <div></div>
           <strong>poetry/prose poetry</strong>
@@ -70,7 +70,7 @@ const Masthead = () => {
           <div></div>
          <strong>hybrid</strong> 
          <li>
-          all your weird. we want it. generally up to your discretion given the length requirements outlined for other categories. hard limit of 4 pieces / 1200 words though.
+          all your weird. we want it. generally up to your discretion given the length requirements outlined for other categories. hard limit of 3 pieces / 1200 words though.
           </li>
           </p>
           </div>

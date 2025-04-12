@@ -65,12 +65,12 @@ const Masthead = () => {
           <div></div>
           <strong>poetry/prose poetry</strong>
           <li>
-          hit us with funktastic imagery and permeating voice. Up to 3 poems / no word limit.
+          hit us with funktastic imagery and permeating voice. up to 3 poems / no word limit.
           </li>
           <div></div>
          <strong>hybrid</strong> 
          <li>
-          all your weird. we want it. generally up to your discretion given the length requirements outlined for other categories. hard limit of 3 pieces / 1200 words though.
+          all your weird. we want it. hard limit of 3 pieces / 1200 words though.
           </li>
           </p>
           </div>

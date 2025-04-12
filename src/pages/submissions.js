@@ -58,7 +58,7 @@ const Masthead = () => {
             tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… up to 3 pieces / up to 1200 words per piece.
             </li>
           <div></div>
-            <strong>micro Fiction/nonfiction</strong>
+            <strong>micro fiction/nonfiction</strong>
           <li>
           send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 4 pieces / up to 300 words per piece
           </li>

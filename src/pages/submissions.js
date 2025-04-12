@@ -53,7 +53,7 @@ const Masthead = () => {
                 </strong>
               </i>
             </h3>
-            <strong>short fiction/nonfiction</strong>
+            <strong>flash fiction/nonfiction</strong>
             <li>
             tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… up to 3 pieces / up to 1200 words per piece.
             </li>

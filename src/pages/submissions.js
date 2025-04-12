@@ -65,7 +65,7 @@ const Masthead = () => {
           <div></div>
           <strong>poetry/prose poetry</strong>
           <li>
-          give us your funktastic imagery and permeating voice. Up to 3 poems / no word limit.
+          hit us with funktastic imagery and permeating voice. Up to 3 poems / no word limit.
           </li>
           <div></div>
          <strong>hybrid</strong> 

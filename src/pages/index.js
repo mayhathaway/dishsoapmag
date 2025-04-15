@@ -143,7 +143,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Jan Hassmann’s tailings have appeared in Seaside Gothic, WireWorm Magazine, Stone Circle Review, Sparks of Calliope, PoemAlone, and elsewhere. He is currently digging in Plovdiv, Bulgaria, and thinks you should read <a href="https://dishsoap-quarterly.com/12-17-24/landlord/"> Mike (landlord)</a> by Aiden Blasi—right here, right now. It’s also about a hole. He’s on X: @ItsJanHassmann. </p>
+            Jan Hassmann’s tailings have appeared in <i>Seaside Gothic, WireWorm Magazine, Stone Circle Review, Sparks of Calliope, PoemAlone,</i> and elsewhere. He is currently digging in Plovdiv, Bulgaria, and thinks you should read <a href="https://dishsoap-quarterly.com/12-17-24/landlord/"> <i>Mike (landlord)</i></a> by Aiden Blasi—right here, right now. It’s also about a hole. He’s on X: @ItsJanHassmann. </p>
               </div>
           </div>
         </div>

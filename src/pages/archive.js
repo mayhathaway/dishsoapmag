@@ -126,7 +126,7 @@ const Masthead = () => {
             <p>james callan</p>
 
             <Link to="/1-14-25/phototaxis/">
-            <h2 className={archiveStyles.piecelink}>Bodies in phototaxi</h2>
+            <h2 className={archiveStyles.piecelink}>Bodies in phototaxis</h2>
             </Link>
             <p>rishi janakiraman</p>
 

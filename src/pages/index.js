@@ -52,42 +52,13 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Shayla Frandsen</h3>
             <h1 className={indexStyles.posttitle}>We Strangers</h1>
           <p className={indexStyles.posttext}>
-          <i>Alyson Noël</i>
-          <br></br>
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspI don’t trust people who don’t like summer, 
-          <br></br>the hottest season of the year, and maybe 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspit’s because I just want to take my clothes off 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspand rock the crop top I found at Goodwill 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspand a five inch inseam bather, or hit the bar 
-          <br></br>wearing nothing but mesh, the warm air 
-          <br></br>
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspof Florida, Louisiana, New York, Nevada, the whole 
-          <br></br>northern hemisphere licking every inch 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspof my skin with sweat sweat sweat making me 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspwet wet wet, and I love the beach, the Atlantic, 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspa ride down the Ichetucknee river with a beer 
-          <br></br>and an edible kicking me square in the ass 
-          <br></br>
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspthe fireworks in July popping off everywhere, 
-          <br></br>something I love to watch even if I don’t 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspexactly enjoy celebrating the birth of the empire, 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspand yeah, I love kissing on New Years night-- 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspthe booms filling my ears what I really like-- 
-          <br></br>the lights, the colors, it’s just that the sun sets 
-          <br></br>
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspso early in winter and rises so late I can’t help 
-          <br></br>but long for the days when it’s past eight
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspand there’s still a little bit of sky on my face, 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspthe heat waves on the asphalt cooling to a simmer 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspas we head in for dinner, which is like the summer of 
-          <br></br>meals, actually, long, hearty, and hot off the grill-- 
-          <br></br>
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspoh, what I would give for a pulled pork sandwich 
-          <br></br>covered in coleslaw, a cold Coca-Cola, and tater 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsptots underneath an air conditioner while the crickets 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsing their joy at the death of winter, fear the rise 
-          <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspof fall, and long for spring, one degree closer 
-          <br></br>to our buggy paradises and the wet, hot atmosphere
+          Thing is I feel like some sort of freak because I love group experiences so much that sometimes when I’m experiencing something with a group I prefer the experiencing of the thing more than I love the thing itself. Say I’m seeing a movie in the theater which I do often. I’ll watch anything, pay for a ticket, grab a small popcorn, whatever, because I don’t really care about seeing the movie. I care about being with other people, seeing the movie. The movie can be absolute sucko green-screened garbage and I’ll still be happy, happy and glad to be surrounded by others, because at least we’re all lapping up the CGI’d remake-of-a-remake together. 
+<br></br>
+<br></br>When I took my niece and nephew to the zoo my brain practically shot to the moon, and remember I haven’t been to the zoo since I was a little stinker so I didn’t realize or maybe had forgotten over time it’s the ultimate group experience. (If I’m being honest surviving a plane crash and working together to survive in a remote wooded location is the ultimate group experience but zoos are more feasible and perhaps more immediate and possibly safer.) This one flamingo slipped and fell into the little pond and immediately shot to its feet and ruffled its feathers in embarrassed indignation acting like the slip didn’t happen and we all collectively lost our shit, we strangers, it was bright pink joy. And don’t get me started on the otters because I don’t have time to do them justice here. 
+<br></br>
+<br></br>Actually I will talk about the otters and how the two of them shot through the water like dark oily cats, smooth and spinning and long-tailed and maybe lovers but maybe siblings. Or a mother and her adult son. Or a father-daughter situation or two best friends. Cute carnivores with toothy smiles like they knew we were all watching and in love with them, we adoring audience with dizzy lovesick faces comparing notes, we giggling with the zoo-goer next to us as the otters tore into the bloody raw fish heads, we swapping stories of otters we’ve seen in the past. Yes I wanted to fly into the clouds at the zoo and I must say this is perhaps the only time I loved the thing itself more than watching the thing with a group and that’s because it’s difficult not to love otters. 
+<br></br>
+<br></br>It’s also difficult not to love traffic jams, and you might think I’ve really lost it because I am aware people usually say traffic jams are about as fun as a gut punch so it will surprise you to know I’d happily wait in traffic for up to a day and half because at least we’re all there experiencing it together, the highs and lows, or better yet the stops and gos, the blips of music from each car bubbling into a sound stew, our little rows of cars like Legos arranged by a fastidious hand. When it’s bumper to bumper I want to turn to the man in the dented blue Honda next to me and tell him if he simply took a second to look around he’d see the beauty of it all, he’d see that the two of us could be perfect together and could even have a pet together or a child, a baby who’d wake in the middle of the night crying and could only be calmed with mama’s milk and after drinking from me until she was full the baby would fall asleep on my chest and I would fall asleep too and the man could admire the image of us, of mother and child sleeping cuddled close and he could brush my hair off my eyes and gently carry the baby back to her little crib without waking her, which is a real skill, and then he’d lie down next to me and sleep would carry the three of us through the night and drop us on the shore of dawn where we would wake and do everything all over again.
 
 
 
@@ -100,7 +71,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Parker Logan is from Orlando, Florida and lives in Baton Rouge, Louisiana. His work has recently been featured in Voicemail Poems, Rougarou, and Barely South Review. He works as a teen library tech at the East Baton Rouge Public Library. You can read more about him at parkerpoetry.org.  </p>
+            Shayla Frandsen's writing can be found in New England Review, Iron Horse Literary Review, Flash Frog, Pithead Chapel, and in other places, too. In 2024 she won first place in the Smokelong Quarterly Award for Flash Fiction. In 2023 she won The Plentitudes Prize in Fiction. Her writing has been nominated for Best of the Net, Best Small Fictions, and the Pushcart Prize. Read more at shaylafrandsen.com. </p>
               </div>
           </div>
         </div>

@@ -37,7 +37,7 @@ const Masthead = () => {
             </div>
             <div className={mastheadStyles.description}>
             Zoe Reay-Ellers (she/her) is a junior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
-            in a number of different places, including HAD, ALOCASIA, Ghost City Review, JAKE, and Stone Circle Review.
+            in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
             </div>
           </div>
 

@@ -114,7 +114,7 @@ const Masthead = () => {
             <p>janice leadingham</p>
 
             <Link to="/2-18-25/possessed/">
-            <h2 className={archiveStyles.piecelink}>girl, possessed!</h2>
+            <h2 className={archiveStyles.piecelink}>gir, possessed!</h2>
             </Link>
             <p>tara labovich</p>
 

@@ -18,6 +18,24 @@ const Masthead = () => {
     <Subheader title="dish cabinet" />
     <Layout>
       <Head title="archive" />
+
+      <h1 className={issueStyles.heading}>may 2025</h1>
+      <div className={layoutStyles.mission}>
+          <div className={issueStyles.parent}>
+            <div className={issueStyles.bottomMargin}>
+
+            <Link to="/5-6-29/anaphora/">
+            <h2 className={archiveStyles.piecelink}>Anaphora</h2>
+            </Link>
+            <p>esmé kaplan-kinsey</p>
+
+              </div>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
+
+
       <h1 className={issueStyles.heading}>april 2025</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>

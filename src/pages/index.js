@@ -84,7 +84,7 @@ const IndexPage = () => {
 <br></br>
 <br></br>“Dust detected. Deploying mop,” the metal butler intones and tries to push the men off the platform. Mr. Robinson grabs a hammer from one of the workers and smashes the robot’s head clean in. Wires with blinking LED lights\ dangle from the jagged hole, the red and green pulses slowing down and then stopping. 
 <br></br>
-<br></br>“Why don’t you leave us alone?” asks the animatronic woman. “Why don’t you leave us alone?” 
+<br></br>“Why don’t you leave us alone?” Asks the animatronic woman. “Why don’t you leave us alone?” 
 <br></br>
 <br></br>Mr. Robinson strides up to the window, where the spaceship is lifting off to bear the trans people away to other futures, other corners of possibility. He shoves his hand through the plastic film that doubles for glass and grabs at the rocket, but he’s too late. It’s already out of view and he’s nearly burnt by the exhaust. He slams his fist down in frustration and the impact knocks over the biodome, which rolls onto the kitchen floor and cracks.
             </p>

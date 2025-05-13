@@ -94,7 +94,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-            Lillie E. Franks is a trans author and teacher who lives in Chicago, Illinois, but is normal about it. You can read her work at places like Flash Frog, Scaffold, and McSweeney’s or follow her on Bluesy at<a href="https://bsky.app/profile/lilliekoi.bsky.social"> @lilliekoi.bsky.social</a>. She loves anything that is not the way it should be.</p>
+            Lillie E. Franks is a trans author and teacher who lives in Chicago, Illinois, but is normal about it. You can read her work at places like Flash Frog, Scaffold, and McSweeney’s or follow her on Bluesy at <a href="https://bsky.app/profile/lilliekoi.bsky.social">@lilliekoi.bsky.social</a>. She loves anything that is not the way it should be.</p>
               </div>
           </div>
         </div>

@@ -36,7 +36,7 @@ const IndexPage = () => {
   `)
 
   // if just putting &nbsp; doesn't work, use <span>&nbsp;</span>
-  // &nbsp; => space, &ensp; => two spaces, &emsp; => four spaces (ta
+  // &nbsp; => space, &ensp; => two spaces, &emsp; => four spaces (tab)
   return (
     <div>
       <Head title="home"/>

@@ -80,7 +80,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-          Dan Weaver writes in Vermont. He's on Bluesky: <a href="https://bsky.app/profile/supernaturalfeat.com">@supernatural-feat.bsky.social</a>.</p>
+          Dan Weaver writes in Vermont. He is on Bluesky @supernaturalfeat.com. More of his work can be found at <a href="https://supernaturalfeat.com/">supernaturalfeat.com</a>.</p>
               </div>
           </div>
         </div>

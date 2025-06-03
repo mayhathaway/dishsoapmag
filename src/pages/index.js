@@ -49,18 +49,30 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Chris Scott</h3>
-            <h1 className={indexStyles.posttitle}>Tests to Determine Whether Moonboy Has a Soul</h1>
+            <h3 className={indexStyles.postauthor}>Dan Weaver</h3>
+            <h1 className={indexStyles.posttitle}>Don’t Worry, This is My Second Rodeo; Let Me Tell You How Rodeos Work</h1>
           <p className={indexStyles.posttext}>
-         I can’t tell anyone I was born on the moon. That’s the biggest test. Roger says if people found out it would create all kinds of problems for him. I can’t be going to school and all of a sudden deciding I need to impress my friends by telling them there’s a secret moon colony and I was born there and then transported back to Earth and studied as I grew up to see whether or not people conceived outside of Earth’s atmosphere have souls. Roger’s higher-ups at NASA would have his ass if that happened, he says. Roger was assigned to be my guardian on Earth to run tests determining if I have a soul.
+        So this is your first rodeo? Not me. I’ve been to one rodeo before this rodeo and at that rodeo I was like a newborn baby just slobbering around and spitting up and messing myself during the entire rodeo because since it was my first rodeo I didn’t know a single thing. So I know how it goes. I understand why you look and smell like that. I’ve been there.
 <br></br>
-<br></br>Walking to school I see a frog on the sidewalk, all of its legs broken. When I turn back I spot Roger ducking behind a bush. I wonder what a kid who didn’t have a soul would do to the frog. Probably bite its head off and spit it at somebody. Or just stomp on it. Of course putting it out of its misery is also what someone with a soul would do, I think. I end up hiding it under a bush so it can be alone. I wonder if frogs have souls, where their souls go.
+<br></br>Now though, here at this rodeo, I know about rodeos. I’ll tell you about them but you won’t get it. It will be impossible for you. But I’ll tell you anyway. The first thing to know about rodeos is that there are horses. The horses are there to sort of run the show. There are eight to ten horses depending on what region you are in. This region of this rodeo we are at tonight is the upper outer region so we obviously have eight horses.
 <br></br>
-<br></br>When we’re around other people I call Roger dad and he calls me Eric, but when it’s just him and me I call him Roger and he calls me Moonboy, even though he knows I hate that name. I asked Roger exactly once where my mom is and he said she’s still on the moon, but she was too sick to come home with me. He says it’s a real shitshow on the moon, lots of radiation and decompression issues all the time. He says they’re doing the same experiment with my mom but reverse, to see what happens to someone’s soul when they die not on Earth. I asked him why they can’t just use the same technology monitoring her soul to also check for my soul and he just chuckled like, wish it was that simple.
+<br></br>The horses will come out in a line and each horse will be wearing the sports jersey of its favorite sports team. All horse’s favorite sports team is the Cincinnati Reds. So they will all be wearing Cincinnati Reds jerseys. The jerseys will have each horse’s name on the back. All horses are named Johnny Bench.
 <br></br>
-<br></br>Tests are always happening to me and all of them can be traced back to Roger. Like one time this guy came up while I was raking our yard and he had a briefcase and a box wrapped in aluminum foil with a button glued onto it and he said if I pressed the button he’d give me a million dollars in cash but a stranger somewhere would die. I said no thanks. Then I saw the same guy a couple months later on Roger’s softball team.
+<br></br>One Johnny Bench will then call for a rider. Which Johnny Bench does this will be determined by rolling the 8-sided die. This is the Main Johnny Bench. The rider will present themselves at the opposite end of the ring, from their pen. We clap. All riders live in that pen over there. Each rider was hatched from a Johnny Bench egg. Don’t worry about the eggs for now.
 <br></br>
-<br></br>Roger gave me a telescope two birthdays ago. I use it to look at the moon most nights and some night I will see the faintest little ball of light departing from it, like a bubble in the breeze. It won’t ascend or descend, just return to Earth, come back home. I won’t tell a soul.
+<br></br>The rider will climb on top of the Main Johnny Bench and will call for silence. We become silent. The rider will perform an episode of Perfect Strangers but everyone is Balki. Larry is Balki and Balki is Balki and Mary Anne is Balki and Jennifer is Balki. When the episode is over the other Johnny Benches will neigh Nothings Gonna Stop Me Now. We remain silent.
+<br></br>
+<br></br>The Main Johnny Bench will then remove the seeds from the throat of the rider. Riders are born with seeds in their throats and it doesn't bother them. The seeds are of the rare and beautiful jade vine, native to the rainforests of the Philippines. The Main Johnny Bench will plant the jade vine in the center of ring and spin three times. We face east and recite the incantation of successful pollination to the cave nectar bat colony situated at the east end of the ring.
+<br></br>
+<br></br>The jade vine will immediately mature and climb the Main Johnny Bench and continue up onto the rider. The rider will make outstretched arms and the jade vine will crawl along them. It will then drop its iridescent turquoise inflorescences which will bioluminesce in the black of night. The guy in charge of the arena lights will turn off the arena lights. The cave nectar colony will emerge and do its thing pollinating the inflorescences. We clap.
+<br></br>
+<br></br>The Main Johnny Bench reaches up and removes the inflorescences from the vine. It makes a nest. The Main Johnny Bench lays its egg.
+<br></br>
+<br></br>The guy in charge of the arena lights will turn back on the arena lights. The remaining riders exit their pen and gather the Johnny Bench egg, rolling it back to the pen. We clap. The cave nectars retreat to the east.
+<br></br>
+<br></br>Then the rider on the Main Johnny Bench backflips off the horse’s back and returns to their pen. All the Johnny Benches leave. We clap. And then the rodeo is over. That’s how rodeos work.
+<br></br>
+<br></br>A man in the seat behind me has tapped me on the shoulder and said something quietly into my ear. Here is what he said: he said that this is also his second rodeo and that he’d just like to point that out. He said he has recently lost his mother. He said her pipes rusted and toxins from the deep seeped into her plumbing. This happens every rodeo.
             </p>
           </div>
           </div>
@@ -68,7 +80,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-          Chris Scott's work has appeared in The New Yorker, Maudlin House, New Flash Fiction Review, Gone Lawn, Flash Fiction Magazine, Flash Frog, Bending Genres, and elsewhere. He is a regular contributor for ClickHole, and an elementary school teacher in Washington, DC. You can read his writing at <a href="https://www.chrisscottwrites.com/"> https://www.chrisscottwrites.com</a>.</p>
+          Dan Weaver writes in Vermont. He's on Bluesky: <a href="https://bsky.app/profile/supernaturalfeat.com">@supernatural-feat.bsky.social</a>.</p>
               </div>
           </div>
         </div>

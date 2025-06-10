@@ -49,30 +49,63 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Dan Weaver</h3>
-            <h1 className={indexStyles.posttitle}>Don’t Worry, This is My Second Rodeo; Let Me Tell You How Rodeos Work</h1>
+            <h3 className={indexStyles.postauthor}>Bob King</h3>
+            <h1 className={indexStyles.posttitle}>Would You Bring Me Back to Life if I Got Bitten by a Dead Blue-eyed Bear?</h1>
           <p className={indexStyles.posttext}>
-        So this is your first rodeo? Not me. I’ve been to one rodeo before this rodeo and at that rodeo I was like a newborn baby just slobbering around and spitting up and messing myself during the entire rodeo because since it was my first rodeo I didn’t know a single thing. So I know how it goes. I understand why you look and smell like that. I’ve been there.
-<br></br>
-<br></br>Now though, here at this rodeo, I know about rodeos. I’ll tell you about them but you won’t get it. It will be impossible for you. But I’ll tell you anyway. The first thing to know about rodeos is that there are horses. The horses are there to sort of run the show. There are eight to ten horses depending on what region you are in. This region of this rodeo we are at tonight is the upper outer region so we obviously have eight horses.
-<br></br>
-<br></br>The horses will come out in a line and each horse will be wearing the sports jersey of its favorite sports team. All horse’s favorite sports team is the Cincinnati Reds. So they will all be wearing Cincinnati Reds jerseys. The jerseys will have each horse’s name on the back. All horses are named Johnny Bench.
-<br></br>
-<br></br>One Johnny Bench will then call for a rider. Which Johnny Bench does this will be determined by rolling the 8-sided die. This is the Main Johnny Bench. The rider will present themselves at the opposite end of the ring, from their pen. We clap. All riders live in that pen over there. Each rider was hatched from a Johnny Bench egg. Don’t worry about the eggs for now.
-<br></br>
-<br></br>The rider will climb on top of the Main Johnny Bench and will call for silence. We become silent. The rider will perform an episode of Perfect Strangers but everyone is Balki. Larry is Balki and Balki is Balki and Mary Anne is Balki and Jennifer is Balki. When the episode is over the other Johnny Benches will neigh Nothings Gonna Stop Me Now. We remain silent.
-<br></br>
-<br></br>The Main Johnny Bench will then remove the seeds from the throat of the rider. Riders are born with seeds in their throats and it doesn't bother them. The seeds are of the rare and beautiful jade vine, native to the rainforests of the Philippines. The Main Johnny Bench will plant the jade vine in the center of ring and spin three times. We face east and recite the incantation of successful pollination to the cave nectar bat colony situated at the east end of the ring.
-<br></br>
-<br></br>The jade vine will immediately mature and climb the Main Johnny Bench and continue up onto the rider. The rider will make outstretched arms and the jade vine will crawl along them. It will then drop its iridescent turquoise inflorescences which will bioluminesce in the black of night. The guy in charge of the arena lights will turn off the arena lights. The cave nectar colony will emerge and do its thing pollinating the inflorescences. We clap.
-<br></br>
-<br></br>The Main Johnny Bench reaches up and removes the inflorescences from the vine. It makes a nest. The Main Johnny Bench lays its egg.
-<br></br>
-<br></br>The guy in charge of the arena lights will turn back on the arena lights. The remaining riders exit their pen and gather the Johnny Bench egg, rolling it back to the pen. We clap. The cave nectars retreat to the east.
-<br></br>
-<br></br>Then the rider on the Main Johnny Bench backflips off the horse’s back and returns to their pen. All the Johnny Benches leave. We clap. And then the rodeo is over. That’s how rodeos work.
-<br></br>
-<br></br>A man in the seat behind me has tapped me on the shoulder and said something quietly into my ear. Here is what he said: he said that this is also his second rodeo and that he’d just like to point that out. He said he has recently lost his mother. He said her pipes rusted and toxins from the deep seeped into her plumbing. This happens every rodeo.
+       There are questions we all want to ask,
+<br></br>but we don’t want the answers to, at all:
+<br></br><i>Am I attractive to you, still, after all these
+<br></br>years?</i> Am I the type of person you still
+<br></br>don’t mind sleeping with? Give it to me
+<br></br>straight. Don’t give it to me. More soberly,
+<br></br>would you try to identify my remains
+<br></br>if you got that call you’d never want to
+<br></br>get & were asked to identify my remains?
+<br></br>Would you cry right away or try to hold it in
+<br></br>until you hung up, agreeing to be there soon?
+<br></br>Do you know that I already know the answer
+<br></br>to that question? Would you drive yourself
+<br></br>to the morgue? Would you call one of our
+<br></br>daughters to drive you there? Even if it
+<br></br>took them a while or a day to get here,
+<br></br>here to their home, to their once-home,
+<br></br>to take you to that cold steel slab with
+<br></br>me on it? Or maybe you’d call your sister
+<br></br>in part so you’d feel less guilty about not
+<br></br>talking to her as much as you should talk
+<br></br>to her, but she’s moved further away & that
+<br></br>might be a hassle for everyone involved,
+<br></br>even if everyone is only really two people
+<br></br>that need to get over themselves, even if
+<br></br>you know that so many have died
+<br></br>not being able to get over themselves
+<br></br>or someone else, & grudges are very much
+<br></br>like souls, because once you physically die,
+<br></br>is there really anything left to hold,
+<br></br>from flesh to ideas, ideas about ideas, dirt
+<br></br>& resentments & misplaced reverences
+<br></br>& rightly placed grievances? Do you
+<br></br>know how much I like the texture of you?
+<br></br>Not just your underwear or skin, but
+<br></br>even the things that might evaporate?
+<br></br>Which is to say, most things. Did you
+<br></br>know I’ve been working on a country song
+<br></br>& it starts, <i>Did you know the kitchen smells
+<br></br>like popcorn & the bedroom smells like weed?</i>
+<br></br>Would you die all at once, or maybe die in
+<br></br>smaller bites so it might take longer to die,
+<br></br>or try your hardest not to die at all? Wait—
+<br></br>might you call my brother? My sister? My
+<br></br>dad, who, I think at this point does see you
+<br></br>as a daughter because sometimes small
+<br></br>distinctions evaporate into no distinctions
+<br></br>& while that persistent mist can lead to
+<br></br>black mold, it just as easily can lead to an
+<br></br>end-of-summer rainstorm in the grocery store’s
+<br></br>parking lot, steam rising from the graying
+<br></br>asphalt, your neck craning around because
+<br></br>it’s just the type of August heat & incoming
+<br></br>relief that might produce a rainbow?
             </p>
           </div>
           </div>
@@ -80,7 +113,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-          Dan Weaver writes in Vermont. He is on Bluesky @supernaturalfeat.com. More of his work can be found at <a href="https://supernaturalfeat.com/">supernaturalfeat.com</a>.</p>
+         Bob King is a professor at Kent State University. His poetry collection And & And came out in August 2024. And/Or is forthcoming in September 2025. New work appears in CrayfishMag, Ink in Thirds, Anti-Heroin Chic, Ink Sweat & Tears, & Allium: A Journal of Poetry & Prose. He lives in Fairview Park, Ohio.</p>
               </div>
           </div>
         </div>

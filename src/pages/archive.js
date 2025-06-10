@@ -73,7 +73,7 @@ const Masthead = () => {
           <br></br>
 
 
-      <h1 className={issueStyles.heading}>april 2025</h1>
+      <h1 className={issueStyles.heading}>apri 2025</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>

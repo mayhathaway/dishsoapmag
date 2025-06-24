@@ -24,6 +24,11 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
+<Link to="/6-24-25/insect/">
+            <h2 className={archiveStyles.piecelink}>“I want to be the first insect politician”</h2>
+            </Link>
+            <p>taylor telford</p>
+
 <Link to="/6-17-25/sifting/">
             <h2 className={archiveStyles.piecelink}>Sifting</h2>
             </Link>
@@ -355,10 +360,10 @@ const Masthead = () => {
               </Link>
               <p>j. j. carey</p>
 
-              <Link to="/6-24-25/insect/">
+              <Link to="/8-6-24/the-body-as-a-place-for-lost-things/">
               <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
               </Link>
-              <p>aster havilan</p>
+              <p>aster haviland</p>
 
               </div>
             </div>

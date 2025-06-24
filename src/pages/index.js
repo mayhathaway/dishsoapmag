@@ -7,7 +7,7 @@ import Head from "../components/head"
 import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
-import anaphora from "../images/anaphora.jpeg"
+import insect from "../images/insect.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -49,29 +49,10 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Sam Calhoun</h3>
-            <h1 className={indexStyles.posttitle}>Sifting</h1>
+            <h3 className={indexStyles.postauthor}>Taylor Telford</h3>
+            <h1 className={indexStyles.posttitle}>"I want to be the first insect politician"</h1>
           <p className={indexStyles.posttext}>
-      Low tide, the long day behind us,
-<br></br>all evening stretched wide
-<br></br>as the horizon across Battery Creek,
-<br></br>and then, somewhere, the ocean,
-<br></br>we sat sifting for shark teeth,
-<br></br>feet buried, not touching,
-<br></br>not knowing what to look for,
-<br></br>knowing all we had, together,
-<br></br>the soft crunch of trowel in sand,
-<br></br>passing the bucket seasick
-<br></br>with its handle, some grains overboard,
-<br></br>forgotten, before being poured
-<br></br>into the colander, washed in the water
-<br></br>dark from storms, the thick smell
-<br></br>of peat at our backs, old creeks
-<br></br>draining to estuary, these brackish
-<br></br>waters of our lives, hours let go like salt
-<br></br>in the wind, a kind of communion,
-<br></br>the wind pushing through the sea ox-eye
-<br></br>thickets, little suns dancing in our hands.
+     <picture> <img height src={insect}/> </picture>
             </p>
           </div>
           </div>
@@ -79,7 +60,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-         Sam Calhoun is the author of five chapbooks. His work can be found in Cosmic Daffodils, Eratos, and Cold Moon Journal. He lives with his wife in Elkmont, AL. Follow him on Instagram or X @weatherman_sam, or his website, <a href="http://www.weathermansam.com/"> www.weathermansam.com</a>. </p>
+         Taylor Telford is poet, journalist and a life-long supporter of Arsenal Football Club. She lives in Washington, D.C. </p>
               </div>
           </div>
         </div>

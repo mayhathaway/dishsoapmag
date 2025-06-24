@@ -355,7 +355,7 @@ const Masthead = () => {
               </Link>
               <p>j. j. carey</p>
 
-              <Link to="/6-24-25/insect/">
+              <Link to="/8-6-24/the-body-as-a-place-for-lost-things/">
               <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
               </Link>
               <p>aster haviland</p>

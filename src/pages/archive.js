@@ -358,7 +358,7 @@ const Masthead = () => {
               <Link to="/6-24-25/insect/">
               <h2 className={archiveStyles.piecelink}>The Body as a Place for Lost Things</h2>
               </Link>
-              <p>aster havilan</p>
+              <p>aster haviland</p>
 
               </div>
             </div>

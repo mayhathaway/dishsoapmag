@@ -60,7 +60,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-         Taylor Telford is poet, journalist and a life-long supporter of Arsenal Football Club. She lives in Washington, D.C. </p>
+         Taylor Telford is a poet, journalist and a life-long supporter of Arsenal Football Club. She lives in Washington, D.C. </p>
               </div>
           </div>
         </div>

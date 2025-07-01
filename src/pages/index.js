@@ -34,7 +34,7 @@ const IndexPage = () => {
     }
   `)
 
-  // if just putting &nbsp; doesn't work, use <span>&nbsp;</span
+  // if just putting &nbsp; doesn't work, use <span>&nbsp;</span>
   // &nbsp; => space, &ensp; => two spaces, &emsp; => four spaces (tab
   return (
     <div>

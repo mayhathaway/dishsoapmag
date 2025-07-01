@@ -7,7 +7,6 @@ import Head from "../components/head"
 import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
-import insect from "../images/insect.jpeg"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
@@ -35,7 +34,7 @@ const IndexPage = () => {
     }
   `)
 
-  // if just putting &nbsp; doesn't work, use <span>&nbsp;</span>
+  // if just putting &nbsp; doesn't work, use <span>&nbsp;</span
   // &nbsp; => space, &ensp; => two spaces, &emsp; => four spaces (tab
   return (
     <div>

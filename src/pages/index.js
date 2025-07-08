@@ -52,7 +52,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Ewen Glass</h3>
             <h1 className={indexStyles.posttitle}> Turning up the volume on my rain app to drown out the rain</h1>
           <p className={indexStyles.posttext}>
-    <br></br>My yards motion-activated light is trolling me; nobody wants to
+    <br></br>My yard's motion-activated light is trolling me; nobody wants to
  <br></br>be winked at when they're trying to sleep.
  <br></br>
  <br></br>I’m emotion-activated, I say lightly when what I really mean is:

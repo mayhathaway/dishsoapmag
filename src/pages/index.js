@@ -49,10 +49,24 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Chelsea Allen</h3>
-            <h1 className={indexStyles.posttitle}>Bougainvillea</h1>
+            <h3 className={indexStyles.postauthor}>Ewen Glass</h3>
+            <h1 className={indexStyles.posttitle}> Turning up the volume on my rain app to drown out the rain</h1>
           <p className={indexStyles.posttext}>
-    Luca comes and stretches my arm more across my bare breasts while I sit on the edge of the stool, then returns to his canvas. You’re the loving cramp crawling up my limbs. You’re the embroidered quiet—between the white waves smashing the midnight rocks. When Luca speaks, I speak back your language. My tongue wears it well, refuses to slip out of it. My eyes slip, perverse, all across him, across the salt and the sun on the olive. Unlike you, he ages, I see his rage burning out—within the hour he’s turned small, pale, grey. You still are young. As in the vineyard rows where we tasted berries red and blue, wasted silence in words, lay for hours in strangers’ orchards. Does Luca know I kiss the topmost step to this room before entering, and waiting? Does he see how completely his fingers see this wilting? Draw it back and back? Like the tourist to the shore. Where desire spills and freckles all over. The constellations on your shoulder when you kissed the crook of my neck but looked at Paestum dotted near the horizon and muttered, <i>You can see the ruins from here</i>. Luca has put down his brushes with much clamour. I don’t put the robe back on. I head for my jeans. He’ll ask me to come again tomorrow. I’ll take that as flirtation. Outside, in the garden, I’ll bid Ciao to his wife, who’ll smile the warmest smile, and say Ciao.
+    <br></br>My yards motion-activated light is trolling me; nobody wants to
+ <br></br>be winked at when they're trying to sleep.
+ <br></br>
+ <br></br>I’m emotion-activated, I say lightly when what I really mean is:
+ <br></br>how can we be expected to stay in our bodies
+ <br></br>
+ <br></br>when our chests are all thrum and polyester billow? Rain on a
+ <br></br>tent. Choose a scientist at random and hold it close;
+ <br></br>
+ <br></br>it can be your support scientist, tonight, anytime. Copernicus. On.
+ <br></br>Copernicus. Off. Copernicus. On. Copernicus,
+ <br></br>
+ <br></br>convince me I am the earth and not the sun
+ <br></br>
+ <br></br>so I might turn over and get to sleep.
             </p>
           </div>
           </div>
@@ -60,7 +74,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-         Chelsea Allen is a writer of short fiction, living in India. Her work has appeared in The Citron Review, Flash Fiction Magazine, and Furious Fiction among other places. Visit her at <a href="https://chelseaallenwrites.weebly.com/"> chelseaallenwrites.weebly.com</a>, or @ChelseaAllen03 on Twitter. </p>
+         Ewen Glass (he/him) is a screenwriter and poet from Northern Ireland who lives with two dogs, a tortoise and a body of self-doubt; his poetry has appeared in the likes of Okay Donkey, Maudlin House, HAD, Poetry Scotland and One Art. Bluesky/X/IG: @ewenglass.</p>
               </div>
           </div>
         </div>

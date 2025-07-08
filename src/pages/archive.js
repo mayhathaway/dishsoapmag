@@ -24,6 +24,11 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
+              <Link to="/7-8-25/rain/">
+            <h2 className={archiveStyles.piecelink}>Turning up the volume on my rain app to drown out the rain</h2>
+            </Link>
+            <p>ewen glass</p>
+
 <Link to="/7-1-25/bougainvillea/">
             <h2 className={archiveStyles.piecelink}>Bougainvillea</h2>
             </Link>

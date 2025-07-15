@@ -49,8 +49,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Ewen Glass</h3>
-            <h1 className={indexStyles.posttitle}> Turning up the volume on my rain app to drown out the rain</h1>
+            <h3 className={indexStyles.postauthor}>Tom Busillo</h3>
+            <h1 className={indexStyles.posttitle}>Legacy</h1>
           <p className={indexStyles.posttext}>
     <br></br>We always thought Lorch spoke with marbles in his mouth – never understandable, like someone talking underwater while skipping every third word. And yet, he was brilliant. The best budget analyst Perkins, Seinfeld, and Clausen ever had.
 <br></br>

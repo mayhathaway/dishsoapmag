@@ -104,6 +104,7 @@ const IndexPage = () => {
 attorney, so he should still be able to function.”
 <br></br>
 <br></br>We nodded.
+<br></br>
 <br></br>“Better him than me.”
 <br></br>
 <br></br>We kept nodding, as if we understood.

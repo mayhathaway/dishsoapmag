@@ -51,7 +51,7 @@ const IndexPage = () => {
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
             <h3 className={indexStyles.postauthor}>nat raum</h3>
-            <h1 className={indexStyles.posttitle}>pastoral on cymbalata</h1>
+            <h1 className={indexStyles.posttitle}>pastoral on cymbalta</h1>
           <p className={indexStyles.posttext}>
   <picture> <img height src={pastoral5}/> </picture>
             </p>

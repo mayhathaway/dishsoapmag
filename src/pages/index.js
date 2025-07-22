@@ -53,7 +53,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>nat raum</h3>
             <h1 className={indexStyles.posttitle}>pastoral on cymbalata</h1>
           <p className={indexStyles.posttext}>
-  <picture> <img height src={pastoral}/> </picture>
+  <picture> <img height src={pastoral2}/> </picture>
             </p>
           </div>
           </div>

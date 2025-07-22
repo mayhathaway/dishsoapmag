@@ -60,7 +60,7 @@ const Masthead = () => {
           <div></div>
             <strong>micro fiction/nonfiction</strong>
           <li>
-          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 3 pieces / up to 300 words per piece.
+          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc... up to 3 pieces / up to 300 words per piece.
           </li>
           <div></div>
           <strong>poetry/prose poetry</strong>

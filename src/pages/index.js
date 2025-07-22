@@ -9,7 +9,7 @@ import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
-import pastoral3 from "../images/pastoral3.jpeg"
+import pastoral4 from "../images/pastoral4.jpeg"
 import aboutStyles from "./about.module.scss"
 
 const IndexPage = () => {
@@ -53,7 +53,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>nat raum</h3>
             <h1 className={indexStyles.posttitle}>pastoral on cymbalata</h1>
           <p className={indexStyles.posttext}>
-  <picture> <img height src={pastoral3}/> </picture>
+  <picture> <img height src={pastoral4}/> </picture>
             </p>
           </div>
           </div>

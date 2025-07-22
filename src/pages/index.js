@@ -9,7 +9,7 @@ import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
-import pastoral2 from "../images/pastoral3.jpeg"
+import pastoral3 from "../images/pastoral3.jpeg"
 import aboutStyles from "./about.module.scss"
 
 const IndexPage = () => {

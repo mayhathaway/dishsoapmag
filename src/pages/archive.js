@@ -9,10 +9,15 @@ import MobileNav from "../components/mobileNav"
 import issueStyles from "./issues.module.scss"
 import { Link } from "gatsby"
 import archiveStyles from "./archive.module.scss"
+import indexStyles from "./index.module.scss"
+import soaphead from "../images/soaphead.png"
 
 const Masthead = () => {
   return (
     <>
+    <div className={indexStyles.soapheader}>
+          <img src={soaphead} alt="website logo"/>
+    </div>
     <MobileNav />
     <Nav />
     <Subheader title="dish cabinet" />

@@ -8,10 +8,15 @@ import layoutStyles from "../components/layout.module.scss"
 import indexStyles from "./index.module.scss"
 import contactStyles from "./contact.module.scss"
 import MobileNav from "../components/mobileNav"
+import indexStyles from "./index.module.scss"
+import soaphead from "../images/soaphead.png"
 
 const ContactPage = () => {
   return (
     <>
+      <div className={indexStyles.soapheader}>
+            <img src={soaphead} alt="website logo"/>
+      </div>
       <MobileNav />
       <Nav />
       <Subheader title="reach us over the soap suds!" />

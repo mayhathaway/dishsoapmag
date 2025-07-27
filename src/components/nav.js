@@ -8,6 +8,7 @@ import soaphead from "../images/soaphead.png"
 const Nav = () => {
   return (
     <header className={navStyles.header}>
+      <img src={soaphead} alt="website logo"/>
       <nav>
         <ul className={navStyles.navList}>
           <li>
@@ -16,7 +17,7 @@ const Nav = () => {
               activeClassName={navStyles.activeNavItem}
               to="/"
             >
-              home!
+              home
             </Link>
           </li>
           <li>

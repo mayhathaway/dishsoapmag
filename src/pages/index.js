@@ -28,6 +28,20 @@ const IndexPage = () => {
     }
   `);
 
+  const options = {
+      renderNode: {
+        "embedded-asset-block": node => {
+          const alt = node.data.target.fields.title["en-US"]
+          const url = node.data.target.fields.file["en-US"].url
+          return <img alt={alt} src={url} className={props.data.contentfulPost.type === "art" ? postStyles.art : null} />
+        }
+      },
+      renderText: text =>
+        //text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text]) // put [sp] in contentful to add a non-removable space
+        //text.replace(/\[tab\]/g,'&emsp;').split("\n").flatMap((text, i) => [i > 0 && <br />, text])
+        text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text.split("\n").flatMap((text, i) => [i > 0 && <br />, text])]).flat()
+    }
+
   return (
     <div>
       <Head title="home"/>
@@ -43,7 +57,7 @@ const IndexPage = () => {
               {/* You may need to import documentToReactComponents if not already */}
               {data.contentfulPost.body &&
                 require("@contentful/rich-text-react-renderer").documentToReactComponents(
-                  data.contentfulPost.body.json
+                  data.contentfulPost.body.json, options
                 )}
             </div>
           </div>
@@ -52,7 +66,7 @@ const IndexPage = () => {
               {/* Render bio if available */}
               {data.contentfulPost.bio &&
                 require("@contentful/rich-text-react-renderer").documentToReactComponents(
-                  data.contentfulPost.bio.json
+                  data.contentfulPost.bio.json, options
                 )}
             </div>
           </div>

@@ -11,10 +11,7 @@ import soaphead from "../images/soaphead.png"
 
 const Masthead = () => {
   return (
-    <>
-      <div className={indexStyles.soapheader}>
-            <img src={soaphead} alt="website logo"/>
-      </div>    
+    <> 
       <MobileNav />
       <Nav />
       <Subheader title="submission guidelines" />

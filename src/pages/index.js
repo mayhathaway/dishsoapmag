@@ -39,10 +39,6 @@ const IndexPage = () => {
   return (
     <div>
       <Head title="home"/>
-      
-      <div className={indexStyles.soapheader}>
-            <img src={soaphead} alt="website logo"/>
-          </div>
       <MobileNav />
       <Nav />
       <div className={indexStyles.green}>

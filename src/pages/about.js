@@ -14,9 +14,6 @@ import soaphead from "../images/soaphead.png"
 const AboutPage = () => {
   return (
     <>
-    <div className={indexStyles.soapheader}>
-          <img src={soaphead} alt="website logo"/>
-    </div>
     <MobileNav />
       <Nav />
       <Subheader title="dishsoap quarterly" />

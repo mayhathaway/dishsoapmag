@@ -10,7 +10,8 @@ const Nav = () => {
     <header className={navStyles.header}>
       <div className={navStyles.soapheader}>
             <img src={soaphead} alt="website logo"/>
-      </div>        <nav>
+      </div>        
+      <nav>
         <ul className={navStyles.navList}>
           <li>
             <Link

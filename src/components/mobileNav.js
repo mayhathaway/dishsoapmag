@@ -140,7 +140,7 @@ const MenuLinks = styled.nav`
   justify-content: center;
   align-items: center;
   display: flex;
-  background: #e8e8e8;
+  background: #c293f5; /* teal from $color-teal */
   position: absolute;
   z-index: 5;
   top: 0;

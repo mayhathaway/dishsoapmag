@@ -35,7 +35,7 @@ const AboutPage = () => {
           </div>
           <div className={aboutStyles.pinkLineBottom}></div>
           <div className={aboutStyles.masthead}>
-            <Link to="/masthead">Get to know our staff here!</Link>
+            <Link to="/masthead">Get to know our staff here!!</Link>
           </div>
         </div>
       </div>

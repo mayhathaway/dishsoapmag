@@ -7,8 +7,6 @@ import Head from "../components/head"
 import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import Subheader from "../components/subHeader"
-import indexStyles from "./index.module.scss"
-import soaphead from "../images/soaphead.png"
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
@@ -34,9 +32,6 @@ const BlogPage = () => {
 
   return (
     <>
-    <div className={indexStyles.soapheader}>
-          <img src={soaphead} alt="website logo"/>
-    </div>
     <MobileNav />
       <Nav />
       <Subheader title="reach us over the soap suds!" />

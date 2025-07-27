@@ -9,12 +9,17 @@ import mastheadStyles from "./masthead.module.scss"
 
 import blueagave from "../images/blueagave.png"
 import cheese from "../images/cheese.png"
+import indexStyles from "./index.module.scss"
+import soaphead from "../images/soaphead.png"
 
 
 
 const Masthead = () => {
   return (
     <>
+      <div className={indexStyles.soapheader}>
+            <img src={soaphead} alt="website logo"/>
+      </div>
       <MobileNav />
       <Nav />
       <Subheader title="rubber duckie crew" />

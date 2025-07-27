@@ -20,7 +20,6 @@ const AboutPage = () => {
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
           <Head title="about" />
-          <div className={aboutStyles.pinkLineTop}></div>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
@@ -33,7 +32,6 @@ const AboutPage = () => {
               number. that's quarterly in the sense that a week is a quarter of a month. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
-          <div className={aboutStyles.pinkLineBottom}></div>
           <div className={aboutStyles.masthead}>
             <Link to="/masthead">Get to know our staff here!</Link>
           </div>

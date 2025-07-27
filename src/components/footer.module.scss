@@ -2,7 +2,7 @@
 
 .footer {
   margin-top: 3rem;
-  padding: 1rem;
+  padding: 1rem 1rem 0rem 1rem; // Reduce bottom padding
   background-color: #101824;
   border-top: 0.5rem solid $color-vomit-green;
   line-height: 2rem;

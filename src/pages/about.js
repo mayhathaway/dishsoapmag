@@ -33,7 +33,7 @@ const AboutPage = () => {
               wait to see what you’ve been working on.</p>
           </div>
           <div className={aboutStyles.masthead}>
-            <Link to="/masthead">Get to know our staff here!</Link>
+            <Link to="/masthead">Get to know our staff here!!</Link>
           </div>
         </div>
       </div>

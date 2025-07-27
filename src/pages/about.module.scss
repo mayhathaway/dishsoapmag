@@ -59,7 +59,7 @@
   font-size: 2rem;
   line-height: 4rem;
   font-weight: 700;
-  margin: 5rem 0;
+  margin: 5rem 0 0 0; // Only bottom margin removed, top margin remains for gap above
   color: white;
   border-top: 0.4rem solid $color-pink;
   border-bottom: 0.4rem solid $color-pink;

@@ -17,7 +17,7 @@ const Masthead = () => {
     <>
     <MobileNav />
     <Nav />
-    <Subheader title="dish cabinet" />
+    <Subheader title="dish cabinet!" />
     <Layout>
       <Head title="archive" />
 

@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 
 import navStyles from "./nav.module.scss"
+import soaphead from "../images/soaphead.png"
+
 
 const Nav = () => {
   return (
@@ -14,7 +16,7 @@ const Nav = () => {
               activeClassName={navStyles.activeNavItem}
               to="/"
             >
-              home
+              home!
             </Link>
           </li>
           <li>

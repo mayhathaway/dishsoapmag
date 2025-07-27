@@ -140,7 +140,7 @@ const MenuLinks = styled.nav`
   justify-content: center;
   align-items: center;
   display: flex;
-  background: #c293f5; /* teal from $color-teal */
+  background: #8ddfd6; 
   position: absolute;
   z-index: 5;
   top: 0;
@@ -185,7 +185,7 @@ const MenuLinks = styled.nav`
       }
     }
     .active {
-      background-color: #d9e075;
+      background-color: #c293f5;
     }
   }
 `

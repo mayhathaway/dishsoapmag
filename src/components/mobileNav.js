@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
+import soaphead from "../images/soaphead.png"
 
 const MobileNavMenu = () => {
   const [menuOpen, toggleMenuOpen] = useState(false)
@@ -179,7 +180,7 @@ const MenuLinks = styled.nav`
         font-weight: bold;
       }
       a:hover {
-        background-color: #e6eaf5;
+        background-color: #c293f5;
         color: #8f8f8f;
         transition-duration: 0.5s;
       }

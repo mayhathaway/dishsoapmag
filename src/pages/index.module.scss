@@ -266,7 +266,10 @@ textarea:focus {
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
   font-weight: 500;
-  max-width:100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem 1.2rem;
+  box-sizing: border-box;
 }
 
 

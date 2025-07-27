@@ -8,11 +8,15 @@ import Nav from "../components/nav"
 import aboutStyles from "./about.module.scss"
 import Footer from "../components/footer"
 import MobileNav from "../components/mobileNav"
-
+import indexStyles from "./index.module.scss"
+import soaphead from "../images/soaphead.png"
 
 const AboutPage = () => {
   return (
     <>
+    <div className={indexStyles.soapheader}>
+          <img src={soaphead} alt="website logo"/>
+    </div>
     <MobileNav />
       <Nav />
       <Subheader title="dishsoap quarterly" />
@@ -34,7 +38,7 @@ const AboutPage = () => {
           </div>
           <div className={aboutStyles.pinkLineBottom}></div>
           <div className={aboutStyles.masthead}>
-            <Link to="/masthead">Get to know our staff here!!</Link>
+            <Link to="/masthead">Get to know our staff here!</Link>
           </div>
         </div>
       </div>

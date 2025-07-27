@@ -6,15 +6,15 @@
     font-family: EB Garamond;
   }
   background-color: white;
-  padding: 3rem;
+  //padding: 3rem;
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
   font-weight: 500;
 }
 
 .pinkLineBottom {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  //margin-top: 5rem;
+  //margin-bottom: 5rem;
 }
 
 .pinkLineBottom:before {
@@ -27,7 +27,7 @@
 }
 
 .pinkLineTop {
-  margin-bottom: 5rem;
+  //margin-bottom: 5rem;
 }
 
 .pinkLineTop:before {
@@ -46,21 +46,21 @@
     margin: 0;
   }
   background-color: white;
-  padding: 1rem;
+  //padding: 1rem;
   border-radius: 1rem;
   border: 0.4rem solid $color-teal;
-  margin-bottom: 2rem;
+  //margin-bottom: 2rem;
 }
 
 .masthead {
   background-color: $color-vomit-green;
-  padding: 4rem 0;
+  //padding: 4rem 0;
   text-align: center;
   font-size: 2rem;
   line-height: 4rem;
   font-weight: 700;
-  margin-top: 5rem;
-  margin-bottom: 0;
+  //margin-top: 5rem;
+  //margin-bottom: 0;
   color: white;
   border-top: 0.4rem solid $color-pink;
   border-bottom: 0.4rem solid $color-pink;

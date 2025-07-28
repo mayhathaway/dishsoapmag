@@ -15,7 +15,7 @@ import aboutStyles from "./about.module.scss"
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
     query {
-      contentfulPost(slug: { eq: "/7-8-25/rain/" }) {
+      contentfulPost(slug: { eq: "/7-22-25/pastoral/" }) {
         title
         author
         body {

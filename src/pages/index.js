@@ -45,20 +45,33 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Tracie Adams</h3>
-            <h1 className={indexStyles.posttitle}>For the Love of Hot Mustard</h1>
+            <h3 className={indexStyles.postauthor}>Marc Simon</h3>
+            <h1 className={indexStyles.posttitle}>The Sea of Tranquility</h1>
           <p className={indexStyles.posttext}>
-    I walk into Chen’s, our favorite Chinese Restaurant, and the owner flashes a toothy grin at me across the counter, his eyebrows raised with recognition. He asks about you, “Why nephew not come, feeling okay?”
+    Nobody knew where it came from, the baby blue Airstream trailer with the mirrored windows, sitting in front of the abandoned shed at the end of 14th Street. It just appeared last Tuesday morning with the trailer hitch resting on two four by fours.
 <br></br>
-<br></br>“Great, never better,” I say. I do not say that I was flying on Spirit Airline when you passed me in the clouds. I was on my way to vacation in Florida, and you were on your way to Paradise. I do not say that you died before your birthday, that you flew away to the Spirit in the sky and won’t be coming back, won’t be eating kung pao chicken. 
+<br></br>We watched as Toby Craig, the town cop knocked on the door. There isn’t much for a cop to do around here except to tell kids on Saturday nights to break it up and go home, but no one listens to Toby, and if you asked him he’d rather spend his time fishing with his droopy-bellied blood hound Mr. Waggles.
 <br></br>
-<br></br>I don’t order the hot and sour soup because that was your thing, but I order extra of the chicken egg rolls we both craved along with some veggie lo mein. I try to love what you loved, always hoping I might find you there among garden gnomes and Looney Tunes, matcha smoothies and dinosaurs. At the zoo, I searched for you in a dark exhibit of beetles and exotic bugs. I imagined you pressing your hands to the glass, your face a deep well of wonder.
+<br></br>There was no answer from the Airstream so after a few minutes Toby got out his cell phone. I guess he was calling the missing trailer hotline. He left with Mr. Waggles and told us to stay the hell away.
 <br></br>
-<br></br>Chen hands me the brown paper bag, warm on the bottom, ginger and sesame memories escaping through the stapled top. I choke down a sob. I’m regretting not getting the soup. What if my palate has changed or what if I just do something hard for once, something to honor your bravery, the way you fought for your life against cancer in your blood. But I do not get the soup. 
+<br></br>Tuesday night, a bunch  of the kids I sometimes hang out with went by the trailer, just to see what was what. Tommy Hargrove, who thinks he’s my boyfriend pounded on the door so hard his knuckles bled. Tommy wants me and him to move to Oklahoma and get jobs and go to some dinky junior college where his cousin went. I told Tommy forget it, if I was going anywhere it would be somewhere cool and different, like Venice, Italy. Tommy said I was immature—as if he'd know.
 <br></br>
-<br></br>Instead, I’m standing here thinking about you, how when I asked you where it hurt, you said, “My blood, my blood hurts.” You would slurp spoonfuls of that soup, moaning and nodding with each gulp as if you had already crossed through the veil to heaven. I’m lost in visions of you bathing those egg rolls in hot mustard, your lips puckered like you bit a lemon. Visions of you shaking your head back and forth as the heat pricks your nasal passages and stuns your brain with fire. Visions of your hospital bed littered with dropped bits of cabbage and soy sauce.
+<br></br>The other boys shot their Beebee guns and tossed cherry bombs at the trailer but it didn’t do anything. Junior Carter smashed his ATV into the side of the trailer and blew out two tires.
 <br></br>
-<br></br>When Chen looks at my eyes, glassy and shimmering, he knows everything. I know that he knows because he bends his lanky body at the waist, a bow in honor of your memory, in honor of the empty space you left behind, in honor of everything you ever loved. He hands me another small bag full of his special hot mustard, and as I open my mouth to say <i>sorry, so sorry I cannot love hot mustard</i>, he presses it into my open palms anyway and whispers empathy as pure as new birth, “You try, maybe you like.”
+<br></br>The next night my Mom was working at the 7/11 and it was my Dad’s bowling league, so Tommy came over and wanted to “get jiggy.” I told him when was the last time you took a shower. I guess he got insulted because he called me a bitch and left.
+<br></br>
+<br></br>I started watching this old movie from the 1950’s on the science fiction channel, called The Day The Earth Stood Still. It’s about this flying saucer that lands in Washington, D.C. but it just sits there, doing nothing, and everyone is freaked out but no one knows what to do. Then this guy gets out and says he’s Klatu and he comes in peace, but eventually they shoot him anyway. The only way to save Klatu is to get him back to the space ship, to get this robot named Gort to come for him and bring him back to life. So this one woman, the only one that actually gets it goes to the space ship and says the words Klatu told her to say before he dies: Klatu barada nikto, which I guess means, Klatu needs help. 
+<br></br>
+<br></br>The next night my mom and dad got into this huge, glass-breaking fight about some woman name Kelli. I couldn’t stand it so I went to the blue Airstream and said, “Klatu barada nikto.”
+<br></br>
+<br></br>I was just about to walk away when the door opened. The guy inside looked a lot like the guy in movie, but with gray hair and glasses. He said, “Hi, Jennifer.”
+<br></br>
+<br></br>I asked him how he knew my name but he just smiled. I asked him, “Do you come in peace?”
+<br></br>
+<br></br>He said that he did. He asked me where I desired to go.
+<br></br>
+<br></br>Now the trailer is parked on The Sea of Tranquility. The Earth looks so peaceful from here.
+
 
             </p>
           </div>
@@ -67,7 +80,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-        Tracie Adams is a retired educator and playwright who writes short fiction and memoir from her farm in rural Virginia. She is the author of the essay collection, Our Lives in Pieces. Her work was nominated for the Pushcart Prize and appears in over sixty literary journals and anthologies including Cleaver, BULL, Frazzled Lit, Trash Cat, Brevity Blog, SoFloPoJo, Fictive Dream, and more. Visit <a href="https://www.tracieadamswrites.com/"> tracieadmaswrites.com</a> and follow her on X @1funnyfarmAdams. </p>
+        Marc Simon’s short fiction has appeared in over fifteen iterary magazines. Five of his one-act plays have been winners in new works contests. His debut novel, The Leap Year Boy was published in December, 2012. His novella, According to Isaac, is now published on Amazon.com. See more at <a href="https://marcsimonwriter.com/">https://marcsimonwriter.com</a>.</p>
               </div>
           </div>
         </div>

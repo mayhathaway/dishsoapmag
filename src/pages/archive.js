@@ -27,7 +27,7 @@ const Masthead = () => {
             <div className={issueStyles.bottomMargin}>
 
             <Link to="/8-19-25/ode/">
-            <h2 className={archiveStyles.piecelink}>ode to the silver scree</h2>
+            <h2 className={archiveStyles.piecelink}>ode to the silver screen</h2>
             </Link>
             <p>grace sleeman</p>
 

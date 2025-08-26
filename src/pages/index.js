@@ -45,28 +45,38 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Grace Sleeman</h3>
-            <h1 className={indexStyles.posttitle}>ode to the silver screen</h1>
+            <h3 className={indexStyles.postauthor}>Ben Fowlkes</h3>
+            <h1 className={indexStyles.posttitle}>Smoke</h1>
           <p className={indexStyles.posttext}>
-    coming out of a movie theater into the
-<br></br>cool of the first spring evening 
-<br></br>is the closest you’ll ever come to being born again.
-<br></br>when the movie you saw was a 
-<br></br>good one, & everyone clapped at the end
-<br></br>& laughed to each other as they gathered
-<br></br>bags, & snack wrappers, & coke bottles –
-<br></br>& when you all step outside you are something
-<br></br>greater than before. those street lights
-<br></br>are lit & the sky’s still holding onto a little
-<br></br>brightness, a little blue still
-<br></br>but quickly giving over to dusk. god, what a
-<br></br>night to walk home & talk & talk & talk
-<br></br>just to hear the sound of your voices! to laugh
-<br></br>when nothing is funny. to clap at the end 
-<br></br>of a movie just because you’re glad
-<br></br>someone cared enough to make it &
-<br></br>thank god you all gathered here tonight to 
-<br></br>watch it.
+   Late summer and we are engulfed. Put your head inside
+<b></b>the black half-moon of an old charcoal grill 
+<b></b>and breathe deeply. You’ll know what I mean.
+<b></b>
+<b></b>The sun trudges weakly across the sky like an old man
+<b></b>with a dying lantern searching for lost dogs.
+<b></b>A week of this, then two. It gets to all
+<b></b>
+<b></b>of us. This gray film on everything even the stuff
+<b></b>you can’t ever see. You walk the dog and your
+<b></b>lungs send up a question: We’re sure this is a good idea?
+<b></b>
+<b></b>Yesterday my neighbor saw me
+<b></b>taking out the trash and jerked his thumb in the air
+<b></b>like, you believe this shit? He’s lived here 
+<b></b>
+<b></b>all his life he says. Third-generation Montanan. Never seen it
+<b></b>this bad. He’s got pure white hair and a kind face and
+<b></b>
+<b></b>many nights with the windows open I hear him raging
+<b></b>at the grandkids who’ve ended up living with him
+<b></b>against his will. Maybe it really is global warming, he says.
+<b></b>
+<b></b>Or climate change, he says, whatever they’re calling it now.
+<b></b>Course, he says, maybe it’s also just bad luck. He knows
+<b></b>that can happen too. It’s one of those things they always
+<b></b>
+<b></b>forget to tell you when they’re trying so very hard to get you 
+<b></b>to think about what you’re doing in your life.
 
             </p>
           </div>
@@ -75,7 +85,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-       Grace Sleeman has fallen out of every tree she's ever climbed. She grew up among the lilacs in Damariscotta Maine, and now lives in Portland. Her work has been published by Koukash Review, Noise Magazine, and Slipstream Press, among other publications. You can find her online at @myrmiidons, or looking for worms after a thunderstorm.</p>
+       Ben Fowlkes works as a sports writer covering the world of professional fighting. His fiction and poetry have appeared in Glimmer Train, Best American Short Stories, Eunoia Review, Pinhole Poetry, and elsewhere. He's worked as a journalist for nearly 20 years, writing for outlets such as The Athletic, Sports Illustrated, USA Today, The Guardian, and others. He lives in Missoula, Montana, with his two daughters and one dog.</p>
               </div>
           </div>
         </div>

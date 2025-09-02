@@ -148,7 +148,7 @@ const Masthead = () => {
             <p>chris scott</p>
 
             <Link to="/5-20-25/prayer/">
-            <h2 className={archiveStyles.piecelink}>PAYER TO SAINT MICHAEL</h2>
+            <h2 className={archiveStyles.piecelink}>PRAYER TO SAINT MICHAEL</h2>
             </Link>
             <p>katherine oung</p>
 

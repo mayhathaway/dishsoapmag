@@ -45,33 +45,19 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>c. rivera</h3>
-            <h1 className={indexStyles.posttitle}>On Mars</h1>
+            <h3 className={indexStyles.postauthor}>Christy Hartman</h3>
+            <h1 className={indexStyles.posttitle}>The Other Side of Town</h1>
           <p className={indexStyles.posttext}>
-a light was captured on camera / twice.
-<br> </br>around the world people thought this was evidence
-<br> </br>of another life, an alien light.
-<br> </br>NASA says there has to be a simple, realistic
-<br> </br>explanation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for this.
-<br> </br>
-<br> </br>there are two kinds of people.
-<br> </br>
-<br> </br>those who want there to be aliens living in
-<br> </br>underground colonies, who want to be the ones
-<br> </br>to capture their light like they want
-<br> </br>love to be love to be a love returned they want
-<br> </br>
-<br> </br>light.
-<br> </br>
-<br> </br>& there are those with theories.
-<br> </br>like the sun reflected on a rock’s surface–
-<br> </br>a glinty rock on mars.
-<br> </br>
-<br> </br>there’s simple explanations & wild
-<br> </br>imaginations there’s me & there’s you &
-<br> </br>no matter how you look at it, in some darkness
-<br> </br>
-<br> </br>there is a light to discuss.
+My blue-collar husband hates this side of town because he thinks hipsters are contagious and he’s afraid he’ll spontaneously grow a mustache proselytizing to strangers about mung-bean milk and old-growth forests—but I lived here once, in a basement suite with ceilings so low I had to crouch in the bathtub to wash my hair—but it was worth it for the Ethiopian restaurant on the corner and spoken word open mic nights at the Laughing Oyster Book Shoppe.
+<br></br>
+<br></br>This morning I’d driven right past my office, overwhelmed by the need to order a honey-matcha in this new coffee shop where my favourite bookstore used to be. Here the mugs don’t match and the denim-and-flannel-clad couple sitting at the next table look like they leave the lights on when they fuck. I once had a boyfriend who demanded eye contact while we made out and sulked when I said it felt like a threat. Years later I saw on Facebook that he’d married the author of a children's book series about a piglet with two moms that I’d bought for my niece’s fifth birthday, so the next time I visited I drew tiny horns on the picture of the sleek-haired woman holding a stuffed pig on book’s back cover. In my twenties I’d written half a novel, a coming-of-age thriller that went nowhere so I saved it to a thumb drive that I keep in a drawer with my tax returns, then took a copywriting job for a company that sells health supplements I’d never buy---but the extra income pays for a Mexican vacation every winter and a carton of Haagen Dazs on Friday nights.
+<br></br>
+<br></br>The beautiful couple has their fingers laced together on the table top, her nails are chewed
+down to ragged nubs and he’s running his thumb up and down the meaty part of her palm while
+they talk about the war in Gaza and a pothole that needs to be fixed near their house because one
+day they might forget it’s there and end up with a flat tire. My husband texts me I love you on his coffee break and I leave my three-quarters-full latte on the reclaimed-wood table—the grassy
+taste was not for me and my head is pounding from caffeine withdrawal. The barista behind the
+counter tells me to have a nice day and I duck onto the street without a word and head to work.
 
             </p>
           </div>

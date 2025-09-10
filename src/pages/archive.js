@@ -102,7 +102,7 @@ const Masthead = () => {
 <Link to="/7-1-25/bougainvillea/">
             <h2 className={archiveStyles.piecelink}>Bougainvillea</h2>
             </Link>
-            <p>chelsea allen</p>
+            <p>chelse allen</p>
 
               </div>
             </div>

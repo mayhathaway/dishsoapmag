@@ -45,8 +45,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>c. rivera</h3>
-            <h1 className={indexStyles.posttitle}>On Mars</h1>
+            <h3 className={indexStyles.postauthor}>Christy Hartman</h3>
+            <h1 className={indexStyles.posttitle}>The Other Side of Town</h1>
           <p className={indexStyles.posttext}>
 a light was captured on camera / twice.
 <br> </br>around the world people thought this was evidence
@@ -80,7 +80,7 @@ a light was captured on camera / twice.
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-      c. rivera (they/she) is a queer disabled poet from NYC. They were recently named a Brooklyn Poets Fellow, a prize winner for Eavesdrop Magazine’s Queer Joy issue, a contributor in Querencia Press’s We Were Seeds anthology, and The Plentitudes. You can follow them on Instagram @crystal.e.rivera. </p>
+       Christy Hartman pens short fiction from her home between the ocean and mountains of Vancouver Island Canada. She writes about the chasm between love and loss and picking out the morsels of magic in life’s quiet moments. Christy has been shortlisted for Bath and Bridport Flash Fiction prizes and is a New York City Midnight winner. She has been published by Elegant Literature, Sci-Fi Shorts, Fairfield Scribes, and others.</p>
               </div>
           </div>
         </div>

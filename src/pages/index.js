@@ -45,8 +45,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Christy Hartman</h3>
-            <h1 className={indexStyles.posttitle}>The Other Side of Town</h1>
+            <h3 className={indexStyles.postauthor}>c. rivera</h3>
+            <h1 className={indexStyles.posttitle}>On Mars</h1>
           <p className={indexStyles.posttext}>
 a light was captured on camera / twice.
 <br> </br>around the world people thought this was evidence

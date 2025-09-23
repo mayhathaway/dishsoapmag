@@ -45,26 +45,35 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Keith J. Powell</h3>
-            <h1 className={indexStyles.posttitle}>Chuck & Rose</h1>
+            <h3 className={indexStyles.postauthor}>Sharon Aruparayil</h3>
+            <h1 className={indexStyles.posttitle}>The Lizard That Lives in My Chest</h1>
           <p className={indexStyles.posttext}>
-           Chuck landed hard on a Bermuda blue Oldsmobile Cutlass Supreme, cratering the hood and starring the windshield. For a moment, his world was a blissful, throbbing void. Then, it all came rushing back.
+           The first time I felt her move, it was in the pause between two breaths.
 <br></br>
-<br></br>He caught a bus home, treating himself to a sitting fare. Squinting through his phone’s ruined screen, he texted his AI supervisor, Tossed out of the fifth-story window again. Working from home the rest of the day. His neck and back screamed and shuddered at every sneaky bump and devouring pothole. To distract himself, he composed mental letters to books that had failed him. <i>The 4-Hour Workweek. Atlas Shrugged. The Giving Tree. Jonathan Livingston Seagull.</i>
+<br></br>A slip of warmth in the hollow of my ribs, the faintest scrape of claws against bone. I thought it was heartburn, but then came the sound: wet, unformed, something pressed too long in the silence, cradled in the soft dark of my lungs. It flexed its voice like a new limb. <i>The lizard had begun to sing</i>.
 <br></br>
-<br></br>Two stops from home, his phone pulsed with a reply from the algorithm: Okay. Remember work is the priority. Chuck swallowed a sour notion of rebellion, debated his response, and settled on an American flag and a thumbs-up emoji. He paid his exit fare and stepped out into the cold. The bus rumbled off, belching a purple plume of exhaust as if waving goodbye.
+<br></br>Girls like me cannot call themselves broken, so the lizard speaks for me. She clicks and hums and drags her small claws on my ribcage when I lie. I lie a lot.
 <br></br>
-<br></br>Rose was in the garage, warming a can of Hearty Potato Soup on a hotplate. The previous year, she suffered an accident at the plant—her right hand was pruned at the wrist. Insurance denied her a prosthetic replacement and instead offered her one of three options from a brochure that arrived in the mail: a CleanerU® 20-inch High-Speed Floor Buffer that clamped on just beneath her elbow, a propane-powered combination Bluetooth speaker and scale, or a pill that would make her forget she’d ever had a second hand. She chose the floor buffer. It was lighter than most models but still too awkward to navigate around corners and tight spaces. The garage was a temporary measure until their GoSupportMe campaign closed. Hopefully, then they could afford to make the house accessible.
+<br></br>She came after you left.
 <br></br>
-<br></br>Chuck hunched on a stool while Rose combed bits of broken glass from his hair. Tiny glittering fragments plinked on the concrete like hail.
+<br></br>I was standing outside the hawker stall at the end of our line, the one where the uncle with the lazy eye and dragon tattoo stirs fire through a wok like it’s a living thing. You believed the best food always came from the street: we’d crowd with the men in their penguin suits fresh from work, balancing paper plates piled high with firetruck-red noodles, clouds of soft egg, and those papery curls of cabbage you hated. I would watch you watch the flames leap in that wild, feral dance, the smell of gasoline braided into the heat of chili powder.
 <br></br>
-<br></br>“It’s never going to stop,” he said. “They’re going to keep taking and taking, until they’ve peeled everything away.”
+<br></br>The night it happened, I ate the noodles alone, squatting on the curb like a teenage boy hiding a cigarette. The paper plate sagged under its own grease until it split, dropping everything onto my shoes with a sad, wet thump. The eggs scattered on the asphalt like accusations, fiery red and angry, as the men in the penguin suits did not spare me a pitying glance.
 <br></br>
-<br></br>Rose set the brush down and squeezed his shoulder.
+<br></br>The lizard crawled up from somewhere just behind my lungs, licking the salt off my insides. I chewed too fast, my throat tight, because I could feel her growing in my chest. She wasn’t large then, no bigger than the shape of your thumbprint in the corner of my bathroom mirror. But I knew. I <i>knew</i>. I haven’t stopped feeding her since.
 <br></br>
-<br></br>“Not everything,” she said.
+<br></br>She eats guilt first. Thick slabs of it. Fried in mustard oil. She eats the roti I couldn’t finish the day I saw someone wearing your dupatta pattern in the market. She eats the photos I keep deleting and redownloading, deleting and redownloading, like some fever I don’t know how to cure. And still, she is hungry. She is always hungry.
 <br></br>
-<br></br>He covered her warm hand with his cold one. The gentle, persistent hum of her buffer limb was a tiny elastic hope radiating through his body all the way down to his toes.
+<br></br>She’s grown now. Long and glossy. A little green, a little gold. Tail curled like a question mark. She paces when I think of you with someone else. She sings when I pass the place you first kissed me, that stupid corner outside the shoe store, all neon lights and potholes, but you had said, “I don’t care, come here,” and pulled me in like I was the last thing worth holding.
+<br></br>
+<br></br>Once, she asked for your name and chiseled it into the curve of my spine. I think she remembers the way you held my ankle under the table while my uncle ranted about “<i>those types</i>” on the news. The blows were slow, deliberate, but each one resonated like a bell inside my chest, echoing the summer you were sent away, and returned a stranger.
+<br></br>
+<br></br>I wanted to tell her to stop, to wrench myself free, but my body folded toward her anyway, magnetized by the rhythm of the strikes. The lizard, slick and impatient, clawed at the hollows of my ribs, each scrape igniting the memory of your hand holding mine under the table, your whispered defense “I’m not that type,” and the sting of his judgment, all refracted through a thousand versions of the moment. I could feel the chisel split the air, split my breath, split the timeline itself—summer, now, and always—into a tangle of pain and memory. I bled for a week.
+<br></br>
+<br></br>The lizard prefers nights now. She hums through my teeth and vibrates behind my collarbone, and sometimes I think she is keeping time, marking the days I’ve survived without you like some kind of internal metronome. She sings louder when I heat up day-old noodles and pretend I’m eating them with you, sitting on those broken stools, laughing at your stupid jokes.
+<br></br>
+A friend said I should try dating again. I laughed so hard the lizard screamed.
+
 
             </p>
           </div>
@@ -73,7 +82,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-       Keith J. Powell is a writer and editor based in Ohio. He is co-founder and managing editor of Your Impossible Voice and the author of the flash fiction chapbook Sweet Nothings Are a Diary If You Know How to Read Them (ELJ Editions). Visit <a href="https://keithjpowell.com"> keithjpowell.com</a> for more.</p>
+       Sharon Aruparayil is a writer, researcher, and experimental psychologist exploring memory, migration, and myth. Her work moves between speculative fiction and intimate nonfiction, returning often to themes of grief, desire, and fractured belonging. Based in Dubai, she is currently working on her first book.</p>
               </div>
           </div>
         </div>

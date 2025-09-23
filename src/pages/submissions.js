@@ -98,6 +98,8 @@ const Masthead = () => {
             we encourage and enjoy work that tackles tough topics, but we will reserve the right to ignore a submission if it includes anything nsfw, racist, homophobic, ableist, transphobic, sexist, or anything generally involving discrimination or hate speech.
             </li>
             <li>
+            we're not down to publish anything that's written by AI or is AI-assisted
+            <li>
             if your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again. 
             </li>
             <li>

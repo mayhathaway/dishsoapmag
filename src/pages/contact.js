@@ -21,7 +21,7 @@ const ContactPage = () => {
         <div className={contactStyles.contactForm}>
           <form
             name="contact"
-            action="https://getform.io/f/cb6e4ffc-0488-48df-b781-140e620b3fa5"
+            action="https://getform.io/f/amdyxpgb"
             method="POST"
           >
             <div className={contactStyles.formContainer}>

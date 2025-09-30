@@ -36,7 +36,7 @@ const AboutPage = () => {
             <Link to="/masthead">Get to know our staff here!!</Link>
           </div>
           <div className={aboutStyles.masthead}>
-           <a href="https://docs.google.com/forms/d/e/1FAIpQLScCDdgzz8w4aiWDV7Ou3MrOlXhtKaj2B9hgsIedtLsH56ZPPw/viewform?usp=dialog"> Get our piece of the week in your inbox every Tuesday! </a>
+           <a href="https://docs.google.com/forms/d/e/1FAIpQLScCDdgzz8w4aiWDV7Ou3MrOlXhtKaj2B9hgsIedtLsH56ZPPw/viewform?usp=dialog"> Join our email list! </a>
           </div>
         </div>
       </div>

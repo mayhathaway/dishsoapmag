@@ -81,7 +81,7 @@ const Masthead = () => {
                <Link to="/8-5-25/sea/">
             <h2 className={archiveStyles.piecelink}>The Sea of Tranquility</h2>
             </Link>
-            <p>marc simon</p>
+            <p>mar simon</p>
 
               </div>
             </div>

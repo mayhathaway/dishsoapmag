@@ -59,6 +59,9 @@ const ContactPage = () => {
             </div>
           </form>
         </div>
+         <div className={aboutStyles.masthead}>
+           <a href="https://docs.google.com/forms/d/e/1FAIpQLScCDdgzz8w4aiWDV7Ou3MrOlXhtKaj2B9hgsIedtLsH56ZPPw/viewform?usp=dialog"> Join our email list! </a>
+           </div>
         <div className={layoutStyles.pinkLineBottom}></div>
         <div className={contactStyles.quote}>
           <h1 className={contactStyles.quoteText}>

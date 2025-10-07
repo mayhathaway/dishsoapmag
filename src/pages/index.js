@@ -45,34 +45,26 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Natalie Korman</h3>
-            <h1 className={indexStyles.posttitle}>Miriam</h1>
+            <h3 className={indexStyles.postauthor}>Michael Favala Goldman</h3>
+            <h1 className={indexStyles.posttitle}>Horoscope</h1>
           <p className={indexStyles.posttext}>
-          Miriam, in the spine of the book and the black
-<br></br>of the ink, in the white of the stitches
-<br></br>in the dimples of the brick and the soil at the base
+         Everyone is under the slight influence
+<br></br>of stars. For example, today, Scorpio.
 <br></br>
-<br></br>in the tender oaks along the trailside
-<br></br>in the perfect coffee spaceships of the acorns
-<br></br>in the haunch of the stern bobcat in the meadow
+<br></br>Dogs can smell it. The aroma
+<br></br>of sex and impending cataclysm.
 <br></br>
-<br></br>She comes along in the green rectangle, and in the blue
-<br></br>the book is polished, soft
-<br></br>solid and malleable
-<br></br>the memory of reading arrives
-<br></br>like a tender brush across the shoulder
+<br></br>Just because you can’t tell it’s coming,
+<br></br>doesn’t mean it’s not.
 <br></br>
-<br></br>Miriam by the river where the salmon rush
-<br></br>slipping down into the shadowed banks
-<br></br>out of sight and into memory
+<br></br>Then the subtle cycling
+<br></br>through a solar or lunar phase.
 <br></br>
-<br></br>Miriam, unharnessed by the portrait
-<br></br>faces turned to only memory
-<br></br>no daub of shadow on the brow
-<br></br>only the purple lattice of the afternoon bramble
-<br></br>and the hush of the return to trees
-<br></br>after the harshness
-<br></br>of the open country
+<br></br>I’m not saying hold back on a large purchase
+<br></br>or be extra kind in your relationships.
+<br></br>
+<br></br>I am saying that whoever you think
+<br></br>you are, think again.
 
             </p>
           </div>
@@ -81,7 +73,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-       Natalie Korman is a poet and fiction writer with recent work published by Crow & Cross Keys, tiny wren, and Marrow Magazine. Natalie lives in California where she enjoys contemplating the poetics of the banana slug.</p>
+       Following a career as a remodeling carpenter, Michael Favala Goldman reinvented himself as a poet, jazz clarinetist and translator of Danish literature. Michael’s nine books of original poetry have garnered many awards, including first place at the 2023 New England Book Festival and at the 2024 IPNE Awards. Among his eighteen translated books is his co-translation of The Copenhagen Trilogy, which was selected by the New York Times Best Books of the Century. He lives in Northampton, MA, where he has been running bi-monthly poetry critique groups since 2018. <a href="https://michaelfavalagoldman.com"> https://michaelfavalagoldman.com</a>. </p>
               </div>
           </div>
         </div>

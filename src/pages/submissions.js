@@ -72,7 +72,7 @@ const Masthead = () => {
           <div></div>
          <strong>hybrid</strong> 
          <li>
-          all your weird. we want it. hard limit of 3 pieces / 1200 words.
+          all your weird. we want it. up to 3 pieces / up to 1200 words per piece.
           </li>
           </p>
           </div>

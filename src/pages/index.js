@@ -45,26 +45,17 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Michael Favala Goldman</h3>
-            <h1 className={indexStyles.posttitle}>Horoscope</h1>
+            <h3 className={indexStyles.postauthor}>Robert McDonald</h3>
+            <h1 className={indexStyles.posttitle}>None of Us Are Elected</h1>
           <p className={indexStyles.posttext}>
-         Everyone is under the slight influence
-<br></br>of stars. For example, today, Scorpio.
-<br></br>
-<br></br>Dogs can smell it. The aroma
-<br></br>of sex and impending cataclysm.
-<br></br>
-<br></br>Just because you can’t tell it’s coming,
-<br></br>doesn’t mean it’s not.
-<br></br>
-<br></br>Then the subtle cycling
-<br></br>through a solar or lunar phase.
-<br></br>
-<br></br>I’m not saying hold back on a large purchase
-<br></br>or be extra kind in your relationships.
-<br></br>
-<br></br>I am saying that whoever you think
-<br></br>you are, think again.
+        <i>When the leaves run across the driveway</i>, their scuttering becomes the contents of my latest memorandum. I ought to explain that 
+        in this matter I am licensed to act for the committee of ghosts who inhabit the farmhouse on the hill. None of us are elected, 
+        everyone volunteers: the spirit that possesses the rat snake basking on the porch, the kindly old man, intangible, who lives in the 
+        basement, down among the bricks of the original foundation. He might be the father, or the husband, of the woman who
+        sometimes sits invisibly at the foot of your bed, but he’s reticent enough not to say. We often convene in the orchard, after 
+        midnight. The thud as early apples drop; that is one statement. The cough of a white-tailed deer is an argument, while the 
+        quickly silenced shriek of a rabbit, as it feels itself lifted in the talons of the owl, I believe that was the minutes of our last meeting.
+
 
             </p>
           </div>
@@ -73,7 +64,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-       Following a career as a remodeling carpenter, Michael Favala Goldman reinvented himself as a poet, jazz clarinetist and translator of Danish literature. Michael’s nine books of original poetry have garnered many awards, including first place at the 2023 New England Book Festival and at the 2024 IPNE Awards. Among his eighteen translated books is his co-translation of The Copenhagen Trilogy, which was selected by the New York Times Best Books of the Century. He lives in Northampton, MA, where he has been running bi-monthly poetry critique groups since 2018. <a href="https://michaelfavalagoldman.com"> https://michaelfavalagoldman.com</a>. </p>
+       Robert McDonald's poetry and prose have appeared in a slew of places, including Pank, Juked, Sentence, Hearth & Coffin, Emerge, and Unbroken. He lives in Chicago with his husband and so many houseplants. So many.</p>
               </div>
           </div>
         </div>

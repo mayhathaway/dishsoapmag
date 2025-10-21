@@ -45,8 +45,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Robert McDonald</h3>
-            <h1 className={indexStyles.posttitle}>None of Us Are Elected</h1>
+            <h3 className={indexStyles.postauthor}>Michelle Li</h3>
+            <h1 className={indexStyles.posttitle}>2014, reframed</h1>
           <p className={indexStyles.posttext}>
         <i>after Bob Hicok</i>
 <br></br>

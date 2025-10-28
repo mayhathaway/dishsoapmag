@@ -45,53 +45,23 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Michelle Li</h3>
-            <h1 className={indexStyles.posttitle}>2014, reframed</h1>
-          <p className={indexStyles.posttext}>
-        <i>after Bob Hicok</i>
+            <h3 className={indexStyles.postauthor}>Justin Karcher</h3>
+            <h1 className={indexStyles.posttitle}>Imagine a Future Where Nobody Has to Hide Their Tenderness</h1>
+          <p className={indexStyles.posttext}>        
+As I walked to the café in the rain
+<br></br>I came across two ducks
+<br></br>chilling on the side of the intersection.
 <br></br>
-<br></br>The first and only boy who loved me
-<br></br>did so at a time when I did not care for attention.
-<br></br>In the yearbook, there is a photo where he has written
-<br></br>a love letter and I hold it up for the camera. Blonde,
-<br></br>skinny, and hawkish, he let me copy Spanish terms
-<br></br>from his notebook because I was too nearsighted
-<br></br>to see the whiteboard. Once, his father told my father on
-<br></br>a parent night that his family was going through
-<br></br>a divorce. Perhaps those were the days
-<br></br>for love and remarriage, the air up for grabs, when my
-<br></br>parents probably thought about divorce as well
-<br></br>and realized that they wouldn’t have been happier
-<br></br>with anyone else. On the school calendar,
-<br></br>the years said <i>you must be very limited</i>, and fanned
-<br></br>themselves out without stop. I laughed and cried
-<br></br>underneath the same swing set. One summer day,
-<br></br>almost ten years later, I ended up alone on the other
-<br></br>side of the country and thought of him again. In
-<br></br>Boston, I watched girls fling themselves at golden
-<br></br>boys, older men, heard of them drinking handles
-<br></br>of vodka without remorse. That year, the city opened
-<br></br>itself, and when I walked the streets of Italian diners
-<br></br>and film shops, I knew that no one would
-<br></br>come to think of all of this—whatever this was—in
-<br></br>the same way ever again. A late wind on the bus biting
-<br></br>the rutilant horizon, the city ahead glistens with an untouched
-<br></br>temerity, and the grass knows that we—even the popular
-<br></br>ones—will come to die. I wanted to know that night if I
-<br></br>had been given enough love for it to stretch my entire life,
-<br></br>how much of a life I had left, to ask if my childhood
-<br></br>crush what he had written in that card and where
-<br></br>I had lost it, explain to him that I was handed a life
-<br></br>without genius, but I still have to make something
-<br></br>out of this, have to mend these unwielding
-<br></br>limbs into some logical structure, under saturated
-<br></br>limelight, under the gentlest spray of stars. That was
-<br></br>the day I realized you could sit waiting for the
-<br></br>green line to Amory, and still not know which flight,
-<br></br>which decision, which flick of the wrist had pulled
-<br></br>you into a new city. When the traffic ahead
-<br></br>had slurred and slowed, I got onto the platform,
-<br></br>watched the last set of overhead wires come into view.
+<br></br>If you see ducks in an unusual location
+<br></br>it’s possible they have built a nest and laid eggs.
+<br></br>
+<br></br>At the cafe my friend who works for the VA
+<br></br>was getting drunk and complaining about
+<br></br>how Elon Musk is gonna make him
+<br></br>and his little dog live in a cardboard box.
+<br></br>
+<br></br>His Rage Against the Machine hoodie
+<br></br>was glowing like a tired bomb.
             </p>
           </div>
           </div>
@@ -99,7 +69,7 @@ const IndexPage = () => {
           <div className={indexStyles.missiontwo}>
             <p>
             <br></br>
-       Michelle Li has been nationally recognized by Scholastic Art and Writing, Bennington Young Writers Awards, and Apprentice Writer. An alumna of the Kenyon Review Young Writers Workshop, her work is published in Aster Lit, wildscape. literary, and Third Wednesday. You can find her at <a href="https://michelleli.carrd.co/"> michelleli.carrd.co</a>.</p>
+       Justin Karcher (Twitter: @justin_karcher, Bluesky: @justinkarcher.bsky.social) is a Best of the Net- and Pushcart-nominated poet and playwright from Buffalo, NY. He is the author of several books, including Tailgating at the Gates of Hell (Ghost City Press, 2015). Recent playwriting credits include The Birth of Santa (American Repertory Theater of WNY) and “The Buffalo Bills Need Our Help” (Alleyway Theatre). <a href="https://www.justinkarcherauthor.com/"> https://www.justinkarcherauthor.com</a>.</p>
               </div>
           </div>
         </div>

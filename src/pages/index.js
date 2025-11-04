@@ -45,7 +45,7 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Travis Flattr</h3>
+            <h3 className={indexStyles.postauthor}>Travis Flatt</h3>
             <h1 className={indexStyles.posttitle}>Cadillacs on the Moon</h1>
           <p className={indexStyles.posttext}>        
 The Cadillacs are this new Apollo crew’s idea: “Make NASA Fun Again!”

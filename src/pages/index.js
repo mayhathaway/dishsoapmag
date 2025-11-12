@@ -55,7 +55,6 @@ I am studying Georgian partly to better understand the alcoholics in the park ne
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-            <br></br>
        Bradley K Meyer writes from Tbilisi, Georgia. Recent work has appeared in Biscuit Hill, BRUISER, Muleskinner, Right Hand Pointing and Action, Spectacle. He teaches English.</p>
               </div>
           </div>

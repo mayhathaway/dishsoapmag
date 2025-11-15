@@ -44,7 +44,7 @@ const ContactPage = () => {
             </div>
             <div>
               <label>
-                <p>type your message here..</p>{" "}
+                <p>type your message here...</p>{" "}
                 <textarea
                   placeholder="I love dumping copious amounts of dish soap on..."
                   name="message"

@@ -55,7 +55,7 @@ Clearly not worried about the return policy. He’s wearing clothes that don’t
 <br></br>
 <br></br>Not many farms left though. So not likely. Maybe it was on a bookshelf instead. In some professor’s study. Much more likely. It’d be that sociology guy. The rockstar of the social sciences. And where would he place it? Somewhere between Kant and Kerouac?
 <br></br>
-<br></br>Took his stupid class. Makes me sick just thinking about it. First question–what social institutions do you participate in? Discuss. I mean really. I turned to my neighbor and asked what he thought.
+<br></br>Took his stupid class. Makes me sick just thinking about it. First question–<i>what social institutions do you participate in? Discuss</i>. I mean really. I turned to my neighbor and asked what he thought.
 <br></br>
 <br></br>He said, “I’m just here for credit.” Pulled out his phone.
 <br></br>
@@ -65,7 +65,7 @@ Clearly not worried about the return policy. He’s wearing clothes that don’t
 <br></br>
 <br></br>I heard he’d host parties and invite students. I remember Charlie told me about those big built-in bookshelves in his study. I mean, to have a Victorian like that with a room called “study” these days. Probably has a “parlor” too. I wonder what social institutions he participates in.
 <br></br>
-<br></br>I can see my former classmate in the study with him as a party fades. He’d pull her aside. Ask her questions about her experiences so far. Then he’d blab at her. Whatever early excitement she had about him would fade. And while he talked, she’d walk over to the little cow facing Critique of Pure Reason. She’d turn it over, thinking about the serenity of a pasture. She’d see the sun catching little particles as it set. She’d hear gentle moos and crickets chirping. She’d wonder how she got there, in the study.
+<br></br>I can see my former classmate in the study with him as a party fades. He’d pull her aside. Ask her questions about her experiences so far. Then he’d blab at her. Whatever early excitement she had about him would fade. And while he talked, she’d walk over to the little cow facing <i>Critique of Pure Reason</i>. She’d turn it over, thinking about the serenity of a pasture. She’d see the sun catching little particles as it set. She’d hear gentle moos and crickets chirping. She’d wonder how she got there, in the study.
 <br></br>
 <br></br>“Found a new toy?” Alex asks. He has some jeans in a bag.
 <br></br>
@@ -85,7 +85,7 @@ Clearly not worried about the return policy. He’s wearing clothes that don’t
 <br></br>
 <br></br>“Well, yeah.”
 <br></br>
-<br></br>In case you missed it, the woman on the radio says, this year, the students raised four million dollars for childhood cancer.
+<br></br><i>In case you missed it</i>, the woman on the radio says, <i>this year, the students raised four million dollars for childhood cancer</i>.
 <br></br>
 <br></br>“Wow,” he says.
 <br></br>

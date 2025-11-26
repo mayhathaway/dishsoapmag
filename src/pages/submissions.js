@@ -39,7 +39,7 @@ const Masthead = () => {
                 typical response time is 2-4 days. all submissions will be responded to within 2 weeks.
                 </li>
                 <li>
-                submissions are free! but we're also not a paying market. we hope to someday be though :)
+                submission are free! but we're also not a paying market. we hope to someday be though :)
               </li>
               <li>
                 send your work to us through our <a href="https://forms.gle/nCnwkUUuZudsEAL37"> submissions form!</a></li>

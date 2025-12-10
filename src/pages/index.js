@@ -45,17 +45,29 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Elena Zhang</h3>
-            <h1 className={indexStyles.posttitle}>The Marriage</h1>
+            <h3 className={indexStyles.postauthor}>Blake HC Mihm</h3>
+            <h1 className={indexStyles.posttitle}>Last Week I Was Thinking of You, and I Confess I Am Thinking of You Still</h1>
           <p className={indexStyles.posttext}>        
-I found the marriage in the bottom of the recycling bin. It was covered in oil stains and cat hair. I cleaned the marriage with lavender soap, scrubbing until it gleamed like silver. The marriage was smaller than I thought. I put the marriage into my mouth, where it grew thick roots. It leaned towards my throat in the mornings and towards your voice in the evenings. It hummed while I slept and gave me the hiccups. The marriage lived for a long time. One day, the marriage grew wings and flew out of my left ear. I had no dreams that night.
+Outside the Kroger's is a tulip poplar which I know because its sherbet flowers are in full bloom. At all other times of the year it is nothing more than a tree to me. I recognize your car by its license plate, the desultory way the letters and numbers bleed into a slick puddle across hot pavement. It is an evening during the week so I am sure it's busy inside, that there is a single clerk overseeing the line of self check-outs, meaning I could make eyes at you while I pass the four-dollars-a-pop Sumatra oranges off for regular old navels. I wouldn't be clever enough to think of anything to say if our carts bumped while you pondered if it's a creamer or half-and-half week, but in produce I would ogle the ripe pears before settling for feeling up the citrus
+<br></br>
+<br></br>Three weeks ago after your shed burnt down I asked if the loss of all those cans of paint thinner and vintage weed trimmers might mean you have room for me in your life.
+<br></br>
+<br></br>I can't take anything else on right now, you had said. These insurance agents, they're all over me.
+<br></br>
+<br></br>As if the insurance agents and I had something in common.
+<br></br>
+<br></br>I tuck a flower under your wiper blade but two steps later, turn heel and press the budding bloom into my back pocket alongside a book of matches and a crushed napkin. At the post office I confess I do not know your address and the postmistress says she will try to find you before the flower melts.
+<br></br>
+<br></br>What happens, I ask, if she doesn't make it in time?
+<br></br>
+<br></br>Nothing, she replies. Maybe that's for the best.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-       Elena Zhang is a Chinese American writer and mother living in Chicago. Her work can be found in HAD, The Citron Review, and Flash Frog, among other publications. She is a Pushcart Prize and Best of the Net nominee, and was selected for Best Microfiction 2024 and 2025.   </p>
+     Blake HC Mihm lives in southwestern Virginia with his two dogs. His work has been featured in New Words Press, Lilac Peril, Wee Sparrow Press, and Boyfriend Material. He was selected as one of the poets for DC Pride Poems 2024. </p>
               </div>
           </div>
         </div>

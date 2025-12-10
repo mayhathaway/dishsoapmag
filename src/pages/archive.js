@@ -31,6 +31,7 @@ const Masthead = () => {
             </Link>
             <p>blake hc mihm</p>
 
+<Link to="/12-2-25">
             <h2 className={archiveStyles.piecelink}>The Marriage</h2>
             </Link>
             <p>elena zhang</p>

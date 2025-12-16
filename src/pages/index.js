@@ -45,29 +45,17 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Blake HC Mihm</h3>
-            <h1 className={indexStyles.posttitle}>Last Week I Was Thinking of You, and I Confess I Am Thinking of You Still</h1>
+            <h3 className={indexStyles.postauthor}>Alice Rowena Wilson </h3>
+            <h1 className={indexStyles.posttitle}>Tennis Players</h1>
           <p className={indexStyles.posttext}>        
-Outside the Kroger's is a tulip poplar which I know because its sherbet flowers are in full bloom. At all other times of the year it is nothing more than a tree to me. I recognize your car by its license plate, the desultory way the letters and numbers bleed into a slick puddle across hot pavement. It is an evening during the week so I am sure it's busy inside, that there is a single clerk overseeing the line of self check-outs, meaning I could make eyes at you while I pass the four-dollars-a-pop Sumatra oranges off for regular old navels. I wouldn't be clever enough to think of anything to say if our carts bumped while you pondered if it's a creamer or half-and-half week, but in produce I would ogle the ripe pears before settling for feeling up the citrus
-<br></br>
-<br></br>Three weeks ago after your shed burnt down I asked if the loss of all those cans of paint thinner and vintage weed trimmers might mean you have room for me in your life.
-<br></br>
-<br></br>I can't take anything else on right now, you had said. These insurance agents, they're all over me.
-<br></br>
-<br></br>As if the insurance agents and I had something in common.
-<br></br>
-<br></br>I tuck a flower under your wiper blade but two steps later, turn heel and press the budding bloom into my back pocket alongside a book of matches and a crushed napkin. At the post office I confess I do not know your address and the postmistress says she will try to find you before the flower melts.
-<br></br>
-<br></br>What happens, I ask, if she doesn't make it in time?
-<br></br>
-<br></br>Nothing, she replies. Maybe that's for the best.
+Between the ages of twenty and twenty-two, I watched tennis all the time. There was a pandemic, and I was obsessed with watching people lose. I fixated on certain careers: promising young men with luminescent looks, who would leap around the court radiant and sweating, who would be spectacular, who would move in liquid unison with racquet and ball, and who, faced with the final hurdle, with the ball in their hand and the trophy on the side, their parents watching, the eyes of the crowd turned from all one hundred small amusements towards them, a small trembling arm extending to the sky, and who, faced with this, could not do it. They stumbled; they made bizarre choices; they failed. The service motion, the strange way they have trained their body to move, a lifetime of shaping themselves for one purpose - it went wrong. First serve out. And they bounced the ball again, nervous, unable to hide it, their face wretched, sweat in all the crevices, the ball wet with it, their eyebrows scrunched up and their lips tight and their whole body taut, and despite the sports psychologists, despite all the mantras, the clichés, the mental architecture of an athlete, they could not escape from the fact that they are stood on this court, with the cameras in their face, the crowd watching, and their hand is holding the ball wrong, though they have spent every day of their life since they were three years old holding tennis balls, their fingers are wrong this time, and their hair is in the wrong place, plastered wet against their forehead, and their cheeks burn, and they know that if they do not win this point the match will unravel, they will lose, they will have been close to taste it, lick it, smell it, to have victory hovering inside their mouth, small and nervous, but when they lift their racquet to serve and toss the ball, they look up and know they'll choke on it.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-     Blake HC Mihm lives in southwestern Virginia with his two dogs. His work has been featured in New Words Press, Lilac Peril, Wee Sparrow Press, and Boyfriend Material. He was selected as one of the poets for DC Pride Poems 2024. </p>
+     Alice Rowena Wilson is a writer and teacher of Classics living in Edinburgh. Her work has previously appeared or is upcoming in The Rialto, X-R-A-Y, Death Kit and Sextet. </p>
               </div>
           </div>
         </div>

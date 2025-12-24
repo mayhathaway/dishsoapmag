@@ -127,7 +127,6 @@ I have painted forty-seven portraits in green, and I am beginning to understand 
 <br></br>And when I finish the portrait, when I complete the sequence, when all forty-eight angles resolve into one panoramic moment of absolute clarity—I will finally know what happened.
 <br></br>
 <br></br>The green will tell me. The green tells me everything now. It is the only language I have left.
-<br></br>
             </p>
           </div>
           </div>

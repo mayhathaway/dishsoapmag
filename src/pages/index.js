@@ -94,9 +94,7 @@ I have painted forty-seven portraits in green, and I am beginning to understand 
 <br></br>
 <br></br>If I stood in the doorway and watched, eight years old and paralyzed.
 <br></br>
-<br></br>Laurence Grieve sat for me yesterday. Nervous, asking why I needed him to tilt his head back at such an uncomfortable angle. I didn't tell him he was looking up from the position of someone
-<br></br>
-<br></br>submerged in a bathtub. I didn't tell him his portrait would reveal the water line, the underside of soap foam, and the distortion of light through liquid.
+<br></br>Laurence Grieve sat for me yesterday. Nervous, asking why I needed him to tilt his head back at such an uncomfortable angle. I didn't tell him he was looking up from the position of someone submerged in a bathtub. I didn't tell him his portrait would reveal the water line, the underside of soap foam, and the distortion of light through liquid.
 <br></br>
 <br></br>When I finished, I could see her hand in the background. Fingers spread.
 <br></br>

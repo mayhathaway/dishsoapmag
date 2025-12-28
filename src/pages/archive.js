@@ -34,7 +34,7 @@ const Masthead = () => {
 <Link to="/12-16-25">
 <h2 className={archiveStyles.piecelink}>Tennis Players</h2>
             </Link>
-            <p>alice rowena wilson </p>
+            <p>alice rowena wilson</p>
 
 <Link to="/12-9-25">
 <h2 className={archiveStyles.piecelink}>Last Week I Was Thinking of You, and I Confess I Am Thinking of You Still</h2>

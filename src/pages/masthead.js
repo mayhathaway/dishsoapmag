@@ -38,7 +38,7 @@ const Masthead = () => {
               </div>
             </div>
             <div className={mastheadStyles.description}>
-            Zoe Reay-Ellers (she/her) is a junior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
+            Zoe Reay-Ellers (she/her) is a senior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
             in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
             </div>
           </div>
@@ -53,7 +53,7 @@ const Masthead = () => {
               </div>
             </div>
             <div className={mastheadStyles.description}>
-              Aster (they/them) is a junior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. Their work has been published in Okay Donkey, Ninth Letter Web Issue, and the Nassau Review.
+              Aster (they/them) is a senior at Princeton University studying Comparative Literature and always questioning their life decisions. They enjoy dogs, robots, mermaids, and learning new languages. Their work has been published in Okay Donkey, Ninth Letter Web Issue, and the Nassau Review.
             </div>
           </div>
         </div>

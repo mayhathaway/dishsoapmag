@@ -45,36 +45,23 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Ben Starr</h3>
-            <h1 className={indexStyles.posttitle}>did you know kramer’s name was originally kessler?</h1>
+            <h3 className={indexStyles.postauthor}>Hugh Behm-Steinberg</h3>
+            <h1 className={indexStyles.posttitle}>Description is one thing among a number of things</h1>
           <p className={indexStyles.posttext}>        
-            Changed it for legal reasons. So did Cary Grant. 
-<br></br>Mark Twain. David Berkowitz. And my wife,
+            Typing quietly in bed, my wife sleeping next to me. The various people sounds on my street, the sweepers and garbage pickup. The way my throat feels, the soreness of a cold coming on. The dogs all the time, some of them bundled up for the weather and at least one of them is not happy about anything. He complains loudly to the nearest dog.
 <br></br>
-<br></br>who was a bank robber. A train robber. A robber
-<br></br>of small banks on great trains. They caught her
+<br></br>Somewhere, deep underground, there is a vein of gold that no one knows about. Somewhere in the hills nearby wild pigs go where they want. In the dark, someone carries a lantern and another person stays in the dark. My wife is listening to rain on her headphones and it unnerves me, perhaps it is raining. Somewhere it is raining.
 <br></br>
-<br></br>just outside Naperville. Made her wear boiled
-<br></br>wool sewn into the most unflattering stripes. 
+<br></br>I can feel the start of a wheeze in my chest, a soft whistle when I breathe. I have my knees bent so my computer is on my lap. My left foot is turned toward my right, my big toe touches my smaller toes. I am thinking about a language that does not have separate words for fingers and toes, I put my hand on my wife’s arm as she rolls over to sleep again with her headphones.
 <br></br>
-<br></br>She escaped, stuffed herself inside the warden’s
-<br></br>Japanese-nibbed fountain pen. Rode west with a herd 
-<br></br>
-<br></br>of armadillo. Ate thin-boned birds plucked from the sky, 
-<br></br>sipped on the sweat of various wetland grasses. 
-<br></br>
-<br></br>Would Kramer still be Kramer if he wasn’t Kramer? 
-<br></br>Would my wife still be my wife if she wasn’t my wife? 
-<br></br>
-<br></br>Would she still lust to brush thighs with the Union Pacific, blow 
-<br></br>a hole through an iron box, lather her pores in fresh struck gold?
+<br></br>The nearest dog is an Afghan hound. The nearest dogs are a pair of Weimaraners. The nearest dog is a mutt, still a puppy, still happy to leap into the chests of strangers. The nearest dog, now, doesn’t want to go back inside but she has to go back inside anyway: up the stairs she goes, dragging her feet. She knows where the rain is. She doesn’t care about the gold buried so deeply beneath her. She smells my cold, but it’s just one thing in a number of things.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Ben studied poetry in college and as part of the UCLA Extension Writers' Program. His work has been published or is forthcoming in Maudlin House, Gone Lawn, Eclectica, Club Plum and other journals. Find more of his work on X @benjaminstarr</p>
+    Hugh Behm-Steinberg (he/him/his)’s fiction can be found in X-Ray, ergot, Hex, Heavy Feather Review and The Coffin Bell. His short story "Taylor Swift" won the Barthelme Prize from Gulf Coast. A collection of prose poems and microfiction, Animal Children, was published by Nomadic/Black Lawrence Press. He lives in Barcelona. <a href= "https://linktr.ee/hughsteinberg"></a>.</p>
               </div>
           </div>
         </div>

@@ -19,7 +19,7 @@ const Masthead = () => {
     <Nav />
     <Subheader title="dish cabinet!" />
     <Layout>
-      <Head title="archive" />
+      <Head title="archive"/>
 
 <h1 className={issueStyles.heading}>january 2026</h1>
       <div className={layoutStyles.mission}>

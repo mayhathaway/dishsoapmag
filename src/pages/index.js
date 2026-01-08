@@ -61,7 +61,7 @@ const IndexPage = () => {
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Hugh Behm-Steinberg (he/him/his)’s fiction can be found in X-Ray, ergot, Hex, Heavy Feather Review and The Coffin Bell. His short story "Taylor Swift" won the Barthelme Prize from Gulf Coast. A collection of prose poems and microfiction, Animal Children, was published by Nomadic/Black Lawrence Press. He lives in Barcelona. <a href= "https://linktr.ee/hughsteinberg"></a>.</p>
+    Hugh Behm-Steinberg (he/him/his)’s fiction can be found in X-Ray, ergot, Hex, Heavy Feather Review and The Coffin Bell. His short story "Taylor Swift" won the Barthelme Prize from Gulf Coast. A collection of prose poems and microfiction, Animal Children, was published by Nomadic/Black Lawrence Press. He lives in Barcelona. <a href= "https://linktr.ee/hughsteinberg">https://linktr.ee/hughsteinberg.</a></p>
               </div>
           </div>
         </div>

@@ -52,7 +52,7 @@ const IndexPage = () => {
 <br></br>
 <br></br>We meander past the Tim Horton’s I only ever use as a bathroom off 11 Mile. We meander past the Home Depot in Madison Heights with its bigger bathrooms. We meander past the Oakland Mall in Troy, but here the water begins to meander faster than we do, like a beast catching its prey. Two grizzled rowers hail us like doomed augurs, yellow raincoats shining, Geek Squad polos visible beneath. They shout that Rochester has already been meandered under. We meander past the automation factories in Auburn Hills. News helicopters meander overhead like metallic vultures. Someone waves from the roof of the Stellantis building, its blue-gradient glistening cobalt with the sudden hint of sun through the clouds—a blue-striped omen against the widening flood. We meander up to the highest point in Auburn Hills, the massive landfill beside what used to be The Palace. At the top stands someone I used to work with, saying, “Crazy weather we’re having. Sure beats the snow, though.”
 <br></br>
-When the water meanders to its highest point, Charon arrives. A boatsman in black, hood pulled up. He gestures, and we board. He meanders us to the other landfill two miles north. <i></i>Please remember to rate your ride<i></i>, his voice a notification. When we arrive, Lake Orion has meandered into an even larger Lake Orion.
+<br></br>When the water meanders to its highest point, Charon arrives. A boatsman in black, hood pulled up. He gestures, and we board. He meanders us to the other landfill two miles north. <i></i>Please remember to rate your ride<i></i>, his voice a notification. When we arrive, Lake Orion has meandered into an even larger Lake Orion.
             </p>
           </div>
           </div>

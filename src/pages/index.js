@@ -45,36 +45,21 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Daniel Kim</h3>
-            <h1 className={indexStyles.posttitle}>Cargo</h1>
+            <h3 className={indexStyles.postauthor}>Shea Socrates</h3>
+            <h1 className={indexStyles.posttitle}>The Great Metro Detroit Flood</h1>
           <p className={indexStyles.posttext}>        
-    McCarren park at night is plaid with cardboard,
-<br></br>seltzer, orange peels, a baseball field, white
-<br></br>from floodlights glancing off the players’ faces
-<br></br>like planets. At the liquor store I ask
-<br></br>for Snow Chrysanthemum, a crisp kombucha
-<br></br>that sold out months ago. Leaves become wax
-<br></br>on the brownstone stoops. A planter holds a small
-<br></br>catalpa, leaves like whole tongues, a teenage
-<br></br>growth spurt. The record store is a fudge
-<br></br>of stock as dense as the Bronx interchange
-<br></br>that madly shoots around in somersaults
-<br></br>until the cars fall out. A train flicks on
-<br></br>in a rail yard, suddenly not junk, muscles
-<br></br>convulsing the way a horse bunches up inside.
-<br></br>It was the moment The Smashing Pumpkins
-<br></br>pushed sound through sandpaper, the moment
-<br></br>shipping containers as pretty as baguettes
-<br></br>fused into a city of gift wrap. By dawn
-<br></br>the moon floats around the faint port, wet
-<br></br>and peeling. I could ladle it out of the morning.
+   A meander is a bend in the river, a sinuous curve. So when the Detroit River floods, we do what the river does: we meander. We meander north because the farther north you go, the less anyone believes the flood will come, and disbelief feels like safety. At first we meander past the revitalization in the city; the Little Caesar’s Arena sign flickers once before it becomes a buoy for the newly-rivered. The old houses, faithful but unblessed, don’t meander. They vanish without ceremony.
+<br></br>
+<br></br>We meander past the Tim Horton’s I only ever use as a bathroom off 11 Mile. We meander past the Home Depot in Madison Heights with its bigger bathrooms. We meander past the Oakland Mall in Troy, but here the water begins to meander faster than we do, like a beast catching its prey. Two grizzled rowers hail us like doomed augurs, yellow raincoats shining, Geek Squad polos visible beneath. They shout that Rochester has already been meandered under. We meander past the automation factories in Auburn Hills. News helicopters meander overhead like metallic vultures. Someone waves from the roof of the Stellantis building, its blue-gradient glistening cobalt with the sudden hint of sun through the clouds—a blue-striped omen against the widening flood. We meander up to the highest point in Auburn Hills, the massive landfill beside what used to be The Palace. At the top stands someone I used to work with, saying, “Crazy weather we’re having. Sure beats the snow, though.”
+<br></br>
+When the water meanders to its highest point, Charon arrives. A boatsman in black, hood pulled up. He gestures, and we board. He meanders us to the other landfill two miles north. <i></i>Please remember to rate your ride<i></i>, his voice a notification. When we arrive, Lake Orion has meandered into an even larger Lake Orion.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Daniel is a sophomore at Johns Hopkins University. He knows Hudson Valley winters and Disney Renaissance trivia.</p>
+    Shea Socrates is a teacher and emerging writer. Their work has appeared in <i>HAD</i>, <i>Passages North</i>, and <i>JAKE</i>. They live in Detroit with their partner Felicia and three pets, Vashti, Coney, and Vern. </p>
               </div>
           </div>
         </div>

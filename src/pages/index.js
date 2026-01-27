@@ -45,8 +45,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Shea Socrates</h3>
-            <h1 className={indexStyles.posttitle}>The Great Metro Detroit Flood</h1>
+            <h3 className={indexStyles.postauthor}>What Work</h3>
+            <h1 className={indexStyles.posttitle}>Stephanie Rick</h1>
           <p className={indexStyles.posttext}>        
    Epigraph: "Clarity in the sense of silence." — Oppen
 <br></br>

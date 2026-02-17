@@ -57,22 +57,22 @@ const Masthead = () => {
             </h3>
              <li>
             <strong>flash fiction/nonfiction</strong>
-            tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… up to 3 pieces / up to 1200 words per piece.
+             tell us about that time that… and how… or an old bike that… or your next door neighbor who… or a fake guy named Ralph who loves… up to 3 pieces / up to 1200 words per piece.
             </li>
           <div></div>
           <li>
             <strong>micro fiction/nonfiction</strong>
-          send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 3 pieces / up to 300 words per piece.
+           send us your little drabbles, meditations, glimpses, fortune cookie fortunes, journal entries, horoscopes, etc. up to 3 pieces / up to 300 words per piece.
           </li>
           <div></div>
           <li>
           <strong>poetry/prose poetry</strong>
-          hit us with funktastic imagery and permeating voice. up to 3 poems / no word limit.
+           hit us with funktastic imagery and permeating voice. up to 3 poems / no word limit.
           </li>
           <div></div>
           <li>
          <strong>hybrid</strong> 
-          all your weird. we want it. up to 3 pieces / up to 1200 words per piece.
+           all your weird. we want it. up to 3 pieces / up to 1200 words per piece.
           </li>
           </p>
           </div>

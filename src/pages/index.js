@@ -45,45 +45,17 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Matthew DeMarco</h3>
-            <h1 className={indexStyles.posttitle}>Wake</h1>
+            <h3 className={indexStyles.postauthor}>M. J. Young</h3>
+            <h1 className={indexStyles.posttitle}>A Nocturne for the Flowers</h1>
           <p className={indexStyles.posttext}>        
-   I wake and the world is slicker.
-<br></br>Two slim powerlines in the backyard
-<br></br>curve like subtle bows toward
-<br></br>their tower, sharp black strings,
-<br></br>glazed in the morning and stark
-<br></br>against the sky’s bold and
-<br></br>unencumbered bright white
-<br></br>eye. Whether I know it
-<br></br>or not, a small brown rabbit
-<br></br>lolls on the dry earth beside
-<br></br>our room. I wake and the day
-<br></br>is a cabbage. I wake, and the day
-<br></br>is waiting in the refrigerator,
-<br></br>an array of crisp plants
-<br></br>soon to be washed, shaved,
-<br></br>trimmed, and simmered lovingly
-<br></br>for hours in the slick broth
-<br></br>of its own wet day. I pour
-<br></br>my bare body into cloth,
-<br></br>arrange the deep old fabrics
-<br></br>of my personhood and step
-<br></br>into the soft beige cushion
-<br></br>that cradles the heel and ball
-<br></br>of my existence. The ground,
-<br></br>likewise, welcomes me. I wake,
-<br></br>and during this prismatic day,
-<br></br>I stoop, strain, observe:
-<br></br>an accumulation of evidence
-<br></br>I have not yet died.
+  After the hurricane passed my mother wanted to return her saint statues to the garden. Though two in the morning she said her flowers needed all the protection they could get. We carried Saint Francis and Saint Michael and Saint Cecila, untouched by the winds, from the mat behind the front door to the yard but didn’t know where to put them. Our flashlights disclosed the fruits of the storm: a rime of sticks and leaves crusting the flower beds; the white vinyl of the fence bent inwards, stopped from crushing the remaining plants by bare trellises; pools of water holding petals we didn’t recognize. The roses were bowed and the hydrangeas were stripped and the bird of paradise—unearthed, lying in the street amid clumps of dirt, its roots on display and curled into themselves, too tender for the air—obscene. And there was my mother searching for something to salvage, mud in the lines of her knuckles, unable to kneel in the planters for fear of sinking. Her garden was unrecognizable. Hours weeding, collecting sweat and stems alike. Her parishioner-esque evening obligation to watering. Her careful study of weather and temperature. All undone. We placed the saints in the debris—let them be the ones to pray.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Matthew DeMarco (he/they) lives in San Francisco. His work has appeared on Poets.org and in Sporklet, Glass, The McNeese Review, Okay Donkey, Heavy Feather Review, and elsewhere. His collaborations with Faizan Syed have been anthologized in They Said (Black Lawrence Press, 2018). Find him on BlueSky @m-demarco-words.bsky.social.</p>
+    M.J. Young is a writer and MFA student at Florida International University, where he is a graduate instructor and the Poetry Editor of Gulf Stream Magazine. His poetry can be found or is forthcoming in Ninth Letter, phoebe, The Penn Review, Only Poems Daily, and elsewhere. In his free time he enjoys listening to Philip Glass and exploring bookstores. He can be found on Instagram @mjyoungwrites.</p>
               </div>
           </div>
         </div>

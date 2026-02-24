@@ -45,10 +45,29 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>M. J. Young</h3>
-            <h1 className={indexStyles.posttitle}>A Nocturne for the Flowers</h1>
+            <h3 className={indexStyles.postauthor}>Nicholas Grider</h3>
+            <h1 className={indexStyles.posttitle}>Clearance Aisle</h1>
           <p className={indexStyles.posttext}>        
-  After the hurricane passed my mother wanted to return her saint statues to the garden. Though two in the morning she said her flowers needed all the protection they could get. We carried Saint Francis and Saint Michael and Saint Cecila, untouched by the winds, from the mat behind the front door to the yard but didn’t know where to put them. Our flashlights disclosed the fruits of the storm: a rime of sticks and leaves crusting the flower beds; the white vinyl of the fence bent inwards, stopped from crushing the remaining plants by bare trellises; pools of water holding petals we didn’t recognize. The roses were bowed and the hydrangeas were stripped and the bird of paradise—unearthed, lying in the street amid clumps of dirt, its roots on display and curled into themselves, too tender for the air—obscene. And there was my mother searching for something to salvage, mud in the lines of her knuckles, unable to kneel in the planters for fear of sinking. Her garden was unrecognizable. Hours weeding, collecting sweat and stems alike. Her parishioner-esque evening obligation to watering. Her careful study of weather and temperature. All undone. We placed the saints in the debris—let them be the ones to pray.
+  <br></br>Guys are ride or die for the categorical imperative. Guys wanna know whether this goes with this and this goes with that. What works. And what about date night. And do I look like I’m a wedding guest or I’m on the venue staff?
+ <br></br>
+ <br></br>Samuel is ride or die for pressing himself against any window available. Not because he is a sicko. He is a sicko, but this is research and sickos don’t do research. They just take.
+ <br></br>
+ <br></br>One lane over in the boy emporium a fight breaks out about whether this game features a realistic portrayal of articulable plates in Greenwich armor from the 16th century.
+ <br></br>
+ <br></br>Another lane over in the boy emporium a guy in the coyote brown SpecOps uniform of desert operations for the Navy Seals—anonymity granted by an MS Paint face rub—secures furry pink cat ears to the rails of his bump helmet.
+ <br></br>
+ <br></br>Another lane over two strangers discuss how much your feet would hurt in those. Ride or die for statistical likelihood. For accomplishments unlocked. For being the guy who knows.
+ <br></br>
+ <br></br>Samuel steps away from his work to press his face against the office window, a full wall of special glass: the world is bright enough for springtime poplars to float out of focus and cardinals crossing in arcs to look like cheap VFX, the kind over which some men fight little internecine wars.
+ <br></br>
+ <br></br>Back in the boy emporium Samuel sends a private message to the cat-eared warrior with
+a question: what happens if the mission goes wrong and you end up in enemy hands?
+ <br></br>
+ <br></br>No reply. Yet.
+ <br></br>
+ <br></br>Samuel wanders, finds another boy on display, a soft-faced WWII soldier far from home outside his uncle’s shed near Pensacola. He sends this new soldier the same question.
+ <br></br>
+ <br></br>Sixteen minutes later he gets a response, and though Samuel’s question goes unanswered, the lost soldier from the boy emporium does respond with three careful sentences that amount to a yes.
             </p>
           </div>
           </div>

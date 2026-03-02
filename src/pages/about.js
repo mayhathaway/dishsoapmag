@@ -20,6 +20,15 @@ const AboutPage = () => {
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
           <Head title="about" />
+          <!-- Google tag (gtag.js) -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          
+            gtag('config', 'G-E2TQL6JYHW');
+          </script>
           <div className={aboutStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
@@ -43,3 +52,4 @@ const AboutPage = () => {
 }
 
 export default AboutPage
+

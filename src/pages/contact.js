@@ -18,15 +18,6 @@ const ContactPage = () => {
       <Subheader title="reach us over the soap suds!" />
       <Layout>
         <Head title="contact" />
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', 'G-E2TQL6JYHW');
-        </script>
         <div className={contactStyles.contactForm}>
           <form
             name="contact"
@@ -81,4 +72,5 @@ const ContactPage = () => {
 }
 
 export default ContactPage
+
 

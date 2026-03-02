@@ -17,15 +17,6 @@ const Masthead = () => {
       <Subheader title="submission guidelines" />
       <Layout>
         <Head title="submission"/>
-          <!-- Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          
-            gtag('config', 'G-E2TQL6JYHW');
-          </script>
         <div className={layoutStyles.title}>
           <h2>hello! thank you for considering us as a home for your work :)</h2>
         </div>
@@ -131,4 +122,5 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 

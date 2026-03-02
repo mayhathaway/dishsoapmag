@@ -39,15 +39,6 @@ const IndexPage = () => {
   return (
     <div>
       <Head title="home"/>
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', 'G-E2TQL6JYHW');
-        </script>
       <MobileNav />
       <Nav />
       <div className={indexStyles.green}>

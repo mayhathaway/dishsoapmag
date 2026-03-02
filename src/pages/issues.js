@@ -17,6 +17,15 @@ const Issues = () => {
       <Subheader title="collection five" />
       <Layout>
         <Head title="collections" />
+        <!-- Google tag (gtag.js) -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          
+            gtag('config', 'G-E2TQL6JYHW');
+          </script>
         <div className={layoutStyles.mission}>
           <h1 className={issueStyles.heading}>poetry</h1>
           <div className={issueStyles.parent}>

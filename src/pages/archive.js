@@ -20,15 +20,6 @@ const Masthead = () => {
     <Subheader title="dish cabinet!" />
     <Layout>
       <Head title="archive"/>
-    <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-      
-        gtag('config', 'G-E2TQL6JYHW');
-      </script>
 
 <h1 className={issueStyles.heading}>february 2026</h1>
       <div className={layoutStyles.mission}>
@@ -1159,4 +1150,5 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 

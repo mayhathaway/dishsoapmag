@@ -22,15 +22,6 @@ const Masthead = () => {
       <Subheader title="rubber duckie crew" />
       <Layout>
         <Head title="masthead" />
-          <!-- Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          
-            gtag('config', 'G-E2TQL6JYHW');
-          </script>
         <div className={mastheadStyles.bannerContainer}>
           <div className={mastheadStyles.banner}>
             meet the staff!
@@ -62,4 +53,5 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 

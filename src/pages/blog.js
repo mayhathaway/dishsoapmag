@@ -37,6 +37,15 @@ const BlogPage = () => {
       <Subheader title="reach us over the soap suds!" />
       <Layout>
         <Head title="Blog" />
+    <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2TQL6JYHW"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-E2TQL6JYHW');
+      </script>
         <ol className={blogStyles.posts}>
           {data.allContentfulBlogPost.edges.map(edge => {
             return (
@@ -60,3 +69,4 @@ const BlogPage = () => {
 }
 
 export default BlogPage
+

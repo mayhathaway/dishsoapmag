@@ -45,7 +45,7 @@ const Masthead = () => {
 
         </div>
         <div className={mastheadStyles.role}>
-          currently, there are no open positions on staff.
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>
         </div>
       </Layout>
     </>
@@ -53,3 +53,6 @@ const Masthead = () => {
 }
 
 export default Masthead
+
+
+

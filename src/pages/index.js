@@ -74,7 +74,7 @@ a question: what happens if the mission goes wrong and you end up in enemy hands
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    M.J. Young is a writer and MFA student at Florida International University, where he is a graduate instructor and the Poetry Editor of Gulf Stream Magazine. His poetry can be found or is forthcoming in Ninth Letter, phoebe, The Penn Review, Only Poems Daily, and elsewhere. In his free time he enjoys listening to Philip Glass and exploring bookstores. He can be found on Instagram @mjyoungwrites.</p>
+    Nicholas Grider's previous story collections include Misadventure (A Strange Object/Deep Vellum) and Forest of Borders (Malarkey).</p>
               </div>
           </div>
         </div>

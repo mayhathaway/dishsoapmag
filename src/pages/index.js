@@ -45,36 +45,70 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Nicholas Grider</h3>
-            <h1 className={indexStyles.posttitle}>Clearance Aisle</h1>
+            <h3 className={indexStyles.postauthor}>Jeffrey Heath</h3>
+            <h1 className={indexStyles.posttitle}>Still Life With Lithium and Light</h1>
           <p className={indexStyles.posttext}>        
-  <br></br>Guys are ride or die for the categorical imperative. Guys wanna know whether this goes with this and this goes with that. What works. And what about date night. And do I look like I’m a wedding guest or I’m on the venue staff?
- <br></br>
- <br></br>Samuel is ride or die for pressing himself against any window available. Not because he is a sicko. He is a sicko, but this is research and sickos don’t do research. They just take.
- <br></br>
- <br></br>One lane over in the boy emporium a fight breaks out about whether this game features a realistic portrayal of articulable plates in Greenwich armor from the 16th century.
- <br></br>
- <br></br>Another lane over in the boy emporium a guy in the coyote brown SpecOps uniform of desert operations for the Navy Seals—anonymity granted by an MS Paint face rub—secures furry pink cat ears to the rails of his bump helmet.
- <br></br>
- <br></br>Another lane over two strangers discuss how much your feet would hurt in those. Ride or die for statistical likelihood. For accomplishments unlocked. For being the guy who knows.
- <br></br>
- <br></br>Samuel steps away from his work to press his face against the office window, a full wall of special glass: the world is bright enough for springtime poplars to float out of focus and cardinals crossing in arcs to look like cheap VFX, the kind over which some men fight little internecine wars.
- <br></br>
- <br></br>Back in the boy emporium Samuel sends a private message to the cat-eared warrior with
-a question: what happens if the mission goes wrong and you end up in enemy hands?
- <br></br>
- <br></br>No reply. Yet.
- <br></br>
- <br></br>Samuel wanders, finds another boy on display, a soft-faced WWII soldier far from home outside his uncle’s shed near Pensacola. He sends this new soldier the same question.
- <br></br>
- <br></br>Sixteen minutes later he gets a response, and though Samuel’s question goes unanswered, the lost soldier from the boy emporium does respond with three careful sentences that amount to a yes.
+This morning, the honey caught
+<br></br>in the jar’s rim glows from within,
+<br></br>a cathedral window
+<br></br>rendered in clover and glass.
+<br></br>
+<br></br>I watch it tremble
+<br></br>when I reach past,
+<br></br>hand not quite steady.
+<br></br>No grand lurch,
+<br></br>just the quiet rehearsal
+<br></br>of what I might become
+<br></br>by noon.
+<br></br>
+<br></br>There are days I am
+<br></br>a house with all the lights on,
+<br></br>radiant, overdrawn.
+<br></br>The mirror won’t meet my eyes.
+<br></br>Emails bloom like algae,
+<br></br>texts left on read.
+<br></br>I pace the rooms
+<br></br>for no reason but momentum.
+<br></br>
+<br></br>Then the dimmer switch draws down—
+<br></br>not darkness, exactly,
+<br></br>but a kind of unspeaking,
+<br></br>a silence lowered
+<br></br>over every gesture.
+<br></br>
+<br></br>Still,
+<br></br>the coffee cup holds heat,
+<br></br>the shirts tumble dry.
+<br></br>
+<br></br>Sometimes I think
+<br></br>the world forgives me
+<br></br>by being indifferent.
+<br></br>The tide doesn’t care
+<br></br>what shape the moon is in,
+<br></br>only that it keeps
+<br></br>its strange appointments.
+<br></br>
+<br></br>I’ve come to rest in
+<br></br>the minor key of maintenance:
+<br></br>three white pills
+<br></br>quietly waiting
+<br></br>on the counter.
+<br></br>
+<br></br>I’ve learned to say
+<br></br>today I am upright,
+<br></br>as though that
+<br></br>were a kind of prayer
+<br></br>to gravity,
+<br></br>to incandescence,
+<br></br>to the low, gold light
+<br></br>wobbling in the jar.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Nicholas Grider's previous story collections include Misadventure (A Strange Object/Deep Vellum) and Forest of Borders (Malarkey).</p>
+    Jeffrey Heath was born in Amarillo, Tx and raised in South Florida. His first chapbook, American Drug Poems (2000) coincided with his time on the poetry slam scene where he represented the city of West Palm Beach at the National Poetry Slam (2001, 2002). Jeffrey’s work has appeared online and in print in several literary and poetry journals, including Eunoia Review, Sky Island Journal, Third Wednesday Magazine, Pictura Journal, wildscape. Literary Journal, among others; and as a featured poet in Neologism Poetry Journal and on Goodreads. He is the founding editor of January House Literary Journal. His second book, Entropy Loop & Other Poems, is available now on Amazon. Jeffrey currently lives in Memphis, TN.</p>
               </div>
           </div>
         </div>

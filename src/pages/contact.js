@@ -17,9 +17,9 @@ const ContactPage = () => {
       <Nav />
       <Subheader title="reach us over the soap suds!" />
       <Layout>
-        <Head title="contact" />
-        <div className={layoutStyles.container}>
+          <div className={layoutStyles.container}>
           <div className={layoutStyles.content}>
+        <Head title="contact" />
           <form
             name="contact"
             action="https://getform.io/f/amdyxpgb"
@@ -74,6 +74,7 @@ const ContactPage = () => {
 }
 
 export default ContactPage
+
 
 
 

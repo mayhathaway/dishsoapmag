@@ -8,6 +8,7 @@ import layoutStyles from "../components/layout.module.scss"
 import indexStyles from "./index.module.scss"
 import contactStyles from "./contact.module.scss"
 import MobileNav from "../components/mobileNav"
+import issueStyles from "./issues.module.scss"
 
 
 const AwardsPage = () => {
@@ -34,3 +35,4 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+

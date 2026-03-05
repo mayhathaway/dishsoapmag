@@ -20,6 +20,7 @@ const ContactPage = () => {
           <div className={layoutStyles.container}>
           <div className={layoutStyles.content}>
         <Head title="contact" />
+          <div className={layoutStyles.mission}>
           <form
             name="contact"
             action="https://getform.io/f/amdyxpgb"
@@ -60,6 +61,7 @@ const ContactPage = () => {
             </div>
           </form>
           </div>
+          </div>
         </div>
         <div className={layoutStyles.pinkLineBottom}></div>
         <div className={contactStyles.quote}>
@@ -74,6 +76,7 @@ const ContactPage = () => {
 }
 
 export default ContactPage
+
 
 
 

@@ -18,8 +18,8 @@ const AwardsPage = () => {
       <Subheader title="dishsoap quarterly" />
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
-          <Head title="about" />
-          <div className={aboutStyles.mission}>
+          <Head title="contact" />
+          <div className={contactStyles.mission}>
             <p>
              <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
             <p>a thick liquid that is often blue, white, or green. found in or near sinks. used for 
@@ -31,7 +31,7 @@ const AwardsPage = () => {
               number. that's quarterly in the sense that a week is a quarter of a month. that’s easily excitable. that can’t 
               wait to see what you’ve been working on.</p>
           </div>
-          <div className={aboutStyles.masthead}>
+          <div className={contactStyles.masthead}>
             <Link to="/masthead">Get to know our staff here!!</Link>
           </div>
         </div>
@@ -42,6 +42,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

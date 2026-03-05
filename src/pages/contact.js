@@ -19,6 +19,7 @@ const ContactPage = () => {
       <Layout>
         <Head title="contact" />
         <div className={layoutStyles.container}>
+          <div className={layoutStyles.content}>
           <form
             name="contact"
             action="https://getform.io/f/amdyxpgb"
@@ -58,6 +59,7 @@ const ContactPage = () => {
               </button>
             </div>
           </form>
+          </div>
         </div>
         <div className={layoutStyles.pinkLineBottom}></div>
         <div className={contactStyles.quote}>

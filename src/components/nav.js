@@ -55,7 +55,7 @@ const Nav = () => {
               activeClassName={navStyles.activeNavItem}
               to="/contact"
             >
-              contact
+              awards
             </Link>
           </li>
           <li>
@@ -72,5 +72,6 @@ const Nav = () => {
     </header>
   )
 }
+
 
 export default Nav

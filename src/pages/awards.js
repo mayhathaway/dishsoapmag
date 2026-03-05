@@ -16,23 +16,15 @@ const AwardsPage = () => {
     <MobileNav />
       <Nav />
       <Subheader title="dishsoap quarterly" />
+    <h1 className={issueStyles.heading}>Title Here</h1>
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
           <Head title="contact" />
           <div className={contactStyles.mission}>
-            <p>
-             <strong>dish soap</strong> /ˈdɪʃ ˌsoʊp/ (noun) </p> 
-            <p>a thick liquid that is often blue, white, or green. found in or near sinks. used for 
-            cleaning dishes and other things commonly found in kitchens like pots, pans, fish spatulas, 
-            egg cubers, shrimp deveiners, condiment guns, and corn peelers.
-            </p>
-            <p><strong>dishsoap</strong> /ˈdɪʃˌsoʊp/ (noun) </p>
-            <p> a nerdy, uncool, earnest magazine that wouldn’t wait three days to call you if it got your 
-              number. that's quarterly in the sense that a week is a quarter of a month. that’s easily excitable. that can’t 
-              wait to see what you’ve been working on.</p>
+           Add text here
           </div>
           <div className={contactStyles.masthead}>
-            <Link to="/masthead">Get to know our staff here!!</Link>
+            // <Link to="/masthead">Get to know our staff here!!</Link> Uncomment when you want to add a link
           </div>
         </div>
       </div>
@@ -42,11 +34,3 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
-
-
-
-
-
-
-
-

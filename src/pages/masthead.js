@@ -6,6 +6,7 @@ import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import Subheader from "../components/subHeader"
 import mastheadStyles from "./masthead.module.scss"
+import aboutStyles from "./about.module.scss"
 
 import blueagave from "../images/blueagave.png"
 import cheese from "../images/cheese.png"
@@ -79,6 +80,7 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 
 

@@ -26,10 +26,10 @@ const AwardsPage = () => {
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
           <Head title="contact" />
-          <div className={aboutStyles.mission}>
+          <div className={archiveStyles.mission}>
            Add text here
           </div>
-          <div className={aboutStyles.masthead}>
+          <div className={archiveStyles.masthead}>
             <Link>add new link</Link>
           </div>
         </div>
@@ -40,6 +40,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

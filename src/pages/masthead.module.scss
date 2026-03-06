@@ -30,6 +30,9 @@
   grid-area: 1 / 2 / 2 / 3;
 }
 
+.div2 {
+  grid-area: 2 / 1 / 2 / 1;
+}
 
 
 @media (max-width: 841px) {
@@ -129,3 +132,4 @@
   margin-bottom: 1rem;
 
 }
+

@@ -42,7 +42,8 @@ const Masthead = () => {
             in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
             </div>
           </div>
-        <div className={mastheadStyles.parent}>
+        </div>
+  <div className={mastheadStyles.parent}>
 
           <div className={mastheadStyles.div1}>
             <div className={mastheadStyles.flex}>
@@ -67,6 +68,7 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 
 

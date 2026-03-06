@@ -25,7 +25,7 @@ const AwardsPage = () => {
            Add text here
           </div>
           <div className={contactStyles.masthead}>
-            // <Link to="/masthead">Get to know our staff here!!</Link> Uncomment when you want to add a link
+            <Link>add new link</Link>
           </div>
         </div>
       </div>
@@ -35,4 +35,5 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 

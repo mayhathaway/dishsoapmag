@@ -11,6 +11,8 @@ import { Link } from "gatsby"
 import archiveStyles from "./archive.module.scss"
 import indexStyles from "./index.module.scss" 
 import soaphead from "../images/soaphead.png"
+import contactStyles from "./contact.module.scss"
+import MobileNav from "../components/mobileNav"
 
 
 const AwardsPage = () => {
@@ -37,6 +39,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

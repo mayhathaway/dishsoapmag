@@ -3,7 +3,7 @@
 .parent {
   display: grid;
   grid-template-columns: repeat(2, 0.5fr);
-  grid-template-rows: 600px;
+  grid-template-rows: 450px;
   // used to be 7,1
   grid-column-gap: 13px;
   grid-row-gap: 0px;
@@ -30,6 +30,9 @@
   grid-area: 1 / 2 / 2 / 3;
 }
 
+.div2 {
+  grid-area: 2 / 1 / 2 / 1;
+}
 
 
 @media (max-width: 841px) {
@@ -127,4 +130,7 @@
   margin: 0 auto;
   text-align: center;
   margin-bottom: 1rem;
+
 }
+
+

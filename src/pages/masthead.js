@@ -6,11 +6,14 @@ import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import Subheader from "../components/subHeader"
 import mastheadStyles from "./masthead.module.scss"
+import aboutStyles from "./about.module.scss"
 
 import blueagave from "../images/blueagave.png"
 import cheese from "../images/cheese.png"
 import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
+import ben from "../images/ben.png"
+import trinity from "../images/trinity.png"
 
 
 
@@ -28,7 +31,6 @@ const Masthead = () => {
           </div>
         </div>
         <div className={mastheadStyles.parent}>
-
           <div className={mastheadStyles.div1}>
             <div className={mastheadStyles.flex}>
               <img src={blueagave} alt="website logo" />
@@ -42,9 +44,34 @@ const Masthead = () => {
             in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
             </div>
           </div>
-
+    <div className={mastheadStyles.div6}>
+            <div className={mastheadStyles.flex}>
+              <img src={ben} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>zoe reay-ellers</div>
+                <div className={mastheadStyles.role}>editor-in-chief</div>
+              </div>
+            </div>
+            <div className={mastheadStyles.description}>
+            Zoe Reay-Ellers (she/her) is a senior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
+            in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
+            </div>
+          </div>
+          <div className={mastheadStyles.div2}>
+            <div className={mastheadStyles.flex}>
+              <img src={trinity} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>zoe reay-ellers</div>
+                <div className={mastheadStyles.role}>editor-in-chief</div>
+              </div>
+            </div>
+            <div className={mastheadStyles.description}>
+            Zoe Reay-Ellers (she/her) is a senior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
+            in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
+            </div>
+          </div>
         </div>
-        <div className={mastheadStyles.role}>
+        <div className={aboutStyles.masthead}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>
         </div>
       </Layout>
@@ -53,6 +80,15 @@ const Masthead = () => {
 }
 
 export default Masthead
+
+
+
+
+
+
+
+
+
 
 
 

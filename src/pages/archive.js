@@ -11,6 +11,7 @@ import { Link } from "gatsby"
 import archiveStyles from "./archive.module.scss"
 import indexStyles from "./index.module.scss" 
 import soaphead from "../images/soaphead.png"
+import aboutStyles from "./about.module.scss"
 
 const Masthead = () => {
   return (
@@ -1166,5 +1167,6 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 

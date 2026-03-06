@@ -11,6 +11,8 @@ import blueagave from "../images/blueagave.png"
 import cheese from "../images/cheese.png"
 import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
+import ben from "../images/ben.png"
+import trinity from "../images/trinity.png"
 
 
 
@@ -43,7 +45,7 @@ const Masthead = () => {
           </div>
     <div className={mastheadStyles.div6}>
             <div className={mastheadStyles.flex}>
-              <img src={blueagave} alt="website logo" />
+              <img src={ben} alt="website logo" />
               <div className={mastheadStyles.badges}>
                 <div className={mastheadStyles.name}>zoe reay-ellers</div>
                 <div className={mastheadStyles.role}>editor-in-chief</div>
@@ -56,7 +58,7 @@ const Masthead = () => {
           </div>
           <div className={mastheadStyles.div2}>
             <div className={mastheadStyles.flex}>
-              <img src={blueagave} alt="website logo" />
+              <img src={trinity} alt="website logo" />
               <div className={mastheadStyles.badges}>
                 <div className={mastheadStyles.name}>zoe reay-ellers</div>
                 <div className={mastheadStyles.role}>editor-in-chief</div>
@@ -77,6 +79,7 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 
 

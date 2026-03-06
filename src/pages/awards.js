@@ -13,6 +13,7 @@ import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
 import contactStyles from "./contact.module.scss"
 import Footer from "../components/footer"
+import aboutStyles from "./about.module.scss"
 
 
 const AwardsPage = () => {
@@ -25,10 +26,10 @@ const AwardsPage = () => {
       <div className={layoutStyles.container}>
         <div className={layoutStyles.content}>
           <Head title="contact" />
-          <div className={contactStyles.mission}>
+          <div className={aboutStyles.mission}>
            Add text here
           </div>
-          <div className={contactStyles.masthead}>
+          <div className={aboutStyles.masthead}>
             <Link>add new link</Link>
           </div>
         </div>
@@ -39,6 +40,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

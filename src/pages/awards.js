@@ -12,6 +12,7 @@ import archiveStyles from "./archive.module.scss"
 import indexStyles from "./index.module.scss" 
 import soaphead from "../images/soaphead.png"
 import contactStyles from "./contact.module.scss"
+import Footer from "../components/footer"
 
 
 const AwardsPage = () => {
@@ -38,6 +39,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

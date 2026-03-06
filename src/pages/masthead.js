@@ -28,8 +28,20 @@ const Masthead = () => {
           </div>
         </div>
         <div className={mastheadStyles.parent}>
-
           <div className={mastheadStyles.div1}>
+            <div className={mastheadStyles.flex}>
+              <img src={blueagave} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>zoe reay-ellers</div>
+                <div className={mastheadStyles.role}>editor-in-chief</div>
+              </div>
+            </div>
+            <div className={mastheadStyles.description}>
+            Zoe Reay-Ellers (she/her) is a senior at Cornell University. She likes everything bagels and owns sixteen plants. Her work has appeared 
+            in a number of different places, including HAD, ALOCASIA, Ghost City Review, and Stone Circle Review.
+            </div>
+          </div>
+    <div className={mastheadStyles.div1}>
             <div className={mastheadStyles.flex}>
               <img src={blueagave} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -68,6 +80,7 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 
 

@@ -32,8 +32,10 @@ const Masthead = () => {
             <p>chris scott</p>
 
             
-            <h2><Link to="/2-25-25/unexplained/" className={archiveStyles.piecelink}>Unexplained Phenomena of Invisible Women</Link> (selected)</h2>
-           <p>janice leadingham</p>
+            <Link to="/2-25-25/unexplained/">
+                        <h2 className={archiveStyles.piecelink}>Unexplained Phenomena of Invisible Women</h2>
+                        </Link>
+                        <p>janice leadingham</p>
 
              <Link to="/12-3-24/AFAB/">
              <h2 className={archiveStyles.piecelink}>AFAB</h2>
@@ -86,14 +88,10 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-            <Link to="/12-3-24/AFAB/">
-            <h2 className={archiveStyles.piecelink}>AFAB</h2>
-            </Link>
+<h2><Link to="/12-3-24/AFAB/" className={archiveStyles.piecelink}>AFAB</Link> (finalist)</h2>
             <p>eli v. rahm</p>
 
-            <Link to="/2-18-25/possessed/">
-          <h2 className={archiveStyles.piecelink}>girl, possessed!</h2>
-          </Link>
+<h2><Link to="/2-18-25/possessed/" className={archiveStyles.piecelink}>girl, possessed!</Link> (selected)</h2>
            <p>tara labovich</p>
 
           <Link to="/5-20-25/prayer/">
@@ -101,14 +99,11 @@ const Masthead = () => {
            </Link>
            <p>katherine oung</p>
 
-           <Link to="/5-6-29/anaphora/">
-                       <h2 className={archiveStyles.piecelink}>Anaphora</h2>
-                       </Link>
+<h2><Link to="/5-6-29/anaphora/" className={archiveStyles.piecelink}>Anaphora</Link> (selected)</h2>
                        <p>esmé kaplan-kinsey</p>
 
-            <Link to="/8-13-24/mother-i-cant-serve/">
-             <h2 className={archiveStyles.piecelink}>Mother, I can't serve</h2> 
-              </Link>
+
+<h2><Link to="/8-13-24/mother-i-cant-serve/" className={archiveStyles.piecelink}>Mother, I can't serve</Link> (finalist)</h2>
                <p>j. j. carey</p>
 
                <Link to="/5-13-25/tomorrow/">
@@ -240,9 +235,7 @@ const Masthead = () => {
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>
 
-<Link to="/12-31-24/laser/">
-<h2 className={archiveStyles.piecelink}>They fired up the laser</h2>
-            </Link>
+<h2><Link to="/12-31-24/laser/" className={archiveStyles.piecelink}>They fired up the laser</Link> (selected)</h2>
             <p>timothy c. goodwin</p>
 
 <Link to="/11-5-2024/heartwood/">

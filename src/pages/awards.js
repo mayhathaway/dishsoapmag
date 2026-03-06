@@ -31,9 +31,8 @@ const Masthead = () => {
             </Link>
             <p>chris scott</p>
 
-            <Link to="/2-25-25/unexplained/">
-            <h2 className={archiveStyles.piecelink}>Unexplained Phenomena of Invisible Women</h2>
-            </Link>
+            
+            <h2 className={archiveStyles.piecelink}><Link to="/2-25-25/unexplained/">Unexplained Phenomena of Invisible Women</Link> (selected)</h2>
            <p>janice leadingham</p>
 
              <Link to="/12-3-24/AFAB/">

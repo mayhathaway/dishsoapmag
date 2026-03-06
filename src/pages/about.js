@@ -33,7 +33,7 @@ const AboutPage = () => {
               wait to see what you’ve been working on.</p>
           </div>
           <div className={aboutStyles.masthead}>
-            <div className={aboutStyles.piecelink>
+            <div className={aboutStyles.piecelink}>
             <Link to="/masthead">Get to know our staff here!!</Link>
             </div>
           </div>
@@ -45,6 +45,7 @@ const AboutPage = () => {
 }
 
 export default AboutPage
+
 
 
 

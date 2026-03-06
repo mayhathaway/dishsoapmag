@@ -9,6 +9,7 @@ import indexStyles from "./index.module.scss"
 import contactStyles from "./contact.module.scss"
 import MobileNav from "../components/mobileNav"
 import issueStyles from "./issues.module.scss"
+import { Link } from "gatsby"
 
 
 const AwardsPage = () => {
@@ -35,5 +36,6 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 

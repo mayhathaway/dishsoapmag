@@ -39,8 +39,8 @@ const MobileNavMenu = () => {
             </Link>
           </li>
           <li>
-            <Link activeClassName={"active"} to="/contact">
-              contact
+            <Link activeClassName={"active"} to="/awards">
+              awards
             </Link>
           </li>
           <li>

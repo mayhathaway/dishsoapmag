@@ -53,7 +53,7 @@ const Nav = () => {
             <Link
               className={navStyles.navItem}
               activeClassName={navStyles.activeNavItem}
-              to="/contact"
+              to="/awards"
             >
               awards
             </Link>
@@ -75,3 +75,4 @@ const Nav = () => {
 
 
 export default Nav
+

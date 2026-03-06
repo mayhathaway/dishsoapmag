@@ -1,15 +1,16 @@
 import React from "react"
 
 import Layout from "../components/layout"
+import layoutStyles from "../components/layout.module.scss"
 import Head from "../components/head"
 import Nav from "../components/nav"
 import Subheader from "../components/subHeader"
-import layoutStyles from "../components/layout.module.scss"
-import indexStyles from "./index.module.scss"
-import contactStyles from "./contact.module.scss"
 import MobileNav from "../components/mobileNav"
 import issueStyles from "./issues.module.scss"
 import { Link } from "gatsby"
+import archiveStyles from "./archive.module.scss"
+import indexStyles from "./index.module.scss" 
+import soaphead from "../images/soaphead.png"
 
 
 const AwardsPage = () => {
@@ -36,6 +37,7 @@ const AwardsPage = () => {
 }
 
 export default AwardsPage
+
 
 
 

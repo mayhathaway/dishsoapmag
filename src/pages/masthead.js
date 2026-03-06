@@ -72,7 +72,9 @@ const Masthead = () => {
           </div>
         </div>
         <div className={aboutStyles.masthead}>
+          <div className={aboutStyles.piecelink}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>
+        </div>
         </div>
       </Layout>
     </>
@@ -80,6 +82,7 @@ const Masthead = () => {
 }
 
 export default Masthead
+
 
 
 

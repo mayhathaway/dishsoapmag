@@ -10,7 +10,7 @@ import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
-import mar10 from "../images/mar10.jpg"
+import mar10 from "../images/mar10.jpeg"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`

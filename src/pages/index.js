@@ -49,7 +49,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Simon Firth</h3>
             <h1 className={indexStyles.posttitle}>The Master: some considerations...</h1>
           <p className={indexStyles.posttext}>        
-J’s mind is off-kilter and he can only think in jaunty, sinister sentences. He’s been reading The Master and Margarita for what he thinks is the third time, but is probably the second. This time, strangely and probably also incorrectly, he thinks he understands it: it might be the most logical novel he’s ever read.
+J’s mind is off-kilter and he can only think in jaunty, sinister sentences. He’s been reading <i>The Master and Margarita</i> for what he thinks is the third time, but is probably the second. This time, strangely and probably also incorrectly, he thinks he understands it: it might be the most logical novel he’s ever read.
 <br></br>
 <br></br>Last night he dreamt that Behemoth the Cat was his new boss. Behemoth (whose lanyard read ‘Behemoth, Head of Product’) called him in for a meeting to discuss some projects he’d like him to get going with. He couldn’t remember the exact nature of these projects when he woke up, but he did remember Behemoth stroking his cheek with his soft paw and saying: thank you, J, for all that you do, truly; and I wish you good health, good luck, the best health and luck possible.
 <br></br>

@@ -49,7 +49,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Jack B. Bedell</h3>
             <h1 className={indexStyles.posttitle}>Slow it Down</h1>
           <p className={indexStyles.posttext}>        
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;somehow.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;somehow.  
 <br></br>That's what I keep telling myself. And then 
 <br></br>&emsp;&emsp;&emsp;the sky burls all pink along the horizon,  
 <br></br>then purple, then deep blue to black, and  

@@ -46,8 +46,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Jack B. Bedell</h3>
-            <h1 className={indexStyles.posttitle}>Slow it Down</h1>
+            <h3 className={indexStyles.postauthor}>Nick van Osdol</h3>
+            <h1 className={indexStyles.posttitle}>Things I thought about while driving across the country</h1>
           <p className={indexStyles.posttext}>        
 What goes on in McDermitt, Nevada. What goes on in Unadilla, Nebraska. What it’d be like to drink four beers in Montezuma, Iowa (I only had two). What it’s like to live in Palestine, Tennessee. You know, considering. What Cape Disappointment in Oregon is like (foggy). Whether New Moscow, Ohio, harbors a statistically significant number of latent communist sympathizers. Who named it that. How many European cities with a population above 50,000 have a namesake somewhere in the United States. How many, beyond, say, Paris, Texas, the modal American could name off the top of their head. Here’s another: Prague. There’s actually a Prague in both Oklahoma and Nebraska. The more you know.
 <br></br>

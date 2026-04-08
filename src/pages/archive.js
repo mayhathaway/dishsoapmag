@@ -22,6 +22,21 @@ const Masthead = () => {
     <Layout>
       <Head title="archive"/>
 
+<h1 className={issueStyles.heading}>april 2026</h1>
+      <div className={layoutStyles.mission}>
+          <div className={issueStyles.parent}>
+            <div className={issueStyles.bottomMargin}>
+
+               <Link to="/4-7-26">
+<h2 className={archiveStyles.piecelink}>Things I thought about while driving across the country</h2>
+            </Link>
+            <p>nick van osdol</p>
+              </div>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
+
 <h1 className={issueStyles.heading}>march 2026</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>

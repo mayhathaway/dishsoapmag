@@ -60,7 +60,7 @@ const Masthead = () => {
             Ben lives in Los Angeles with his wife, a high school teacher, and three extremely powerful daughters. A proud member of the Bursky Collective, Ben's work has been featured or is forthcoming in Bending Genres, Bruiser Mag, Dodo Eraser, Gone Lawn, HAD, Maudlin House, Scaffold and other weird journals. Find more of his work on X @benjaminstarr and at <a href="https://benstarrwrites.com"> benstarrwrites.com</a>
             </div>
           </div>
-      <div className={mastheadStyles.div2}>
+        <div className={mastheadStyles.div2}>
             <div className={mastheadStyles.flex}>
               <img src={trinity} alt="website logo" />
               <div className={mastheadStyles.badges}>
@@ -72,7 +72,6 @@ const Masthead = () => {
             Trinity Richardson (they/she) is a poet raising an evil cat. They have been nominated for the Pushcart Prize. Their poems can be found or are forthcoming in Gulf Stream, Moon City Review, Thimble, and more. Outside of writing, their interests include Magic, magic, claw machines, stories with ambiguous endings, and the fly from Breaking Bad.
             </div>
           </div>
-        </div>
         <div className={mastheadStyles.div3}>
             <div className={mastheadStyles.flex}>
               <img src={cam} alt="website logo" />
@@ -109,6 +108,7 @@ const Masthead = () => {
             Ben lives in Los Angeles with his wife, a high school teacher, and three extremely powerful daughters. A proud member of the Bursky Collective, Ben's work has been featured or is forthcoming in Bending Genres, Bruiser Mag, Dodo Eraser, Gone Lawn, HAD, Maudlin House, Scaffold and other weird journals. Find more of his work on X @benjaminstarr and at <a href="https://benstarrwrites.com"> benstarrwrites.com</a>
             </div>
           </div>
+        </div>
         <div className={aboutStyles.masthead}>
           <div className={aboutStyles.piecelink}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>

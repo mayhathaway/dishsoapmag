@@ -14,6 +14,10 @@ import indexStyles from "./index.module.scss"
 import soaphead from "../images/soaphead.png"
 import ben from "../images/ben.png"
 import trinity from "../images/trinity.png"
+import cam from "../images/cam.png"
+import mj from "../images/mj.png"
+import lillie from "../images/lillie.png"
+
 
 
 

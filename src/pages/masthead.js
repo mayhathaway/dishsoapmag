@@ -81,7 +81,7 @@ const Masthead = () => {
               </div>
             </div>
             <div className={mastheadStyles.description}>
-            Cameron Vernali is a writer and amateur puzzle maker. She wrote on a short-form branded web series through Say Studios and was a Stowe Narrative Labs Fellowship Finalist. She has been published in The Dry River, Syllabus and more. She takes advantage of living in California by hiking and camping often.</a>
+            Cameron Vernali is a writer and amateur puzzle maker. She wrote on a short-form branded web series through Say Studios and was a Stowe Narrative Labs Fellowship Finalist. She has been published in The Dry River, Syllabus and more. She takes advantage of living in California by hiking and camping often.
             </div>
           </div>
       <div className={mastheadStyles.div4}>
@@ -105,7 +105,7 @@ const Masthead = () => {
               </div>
             </div>
             <div className={mastheadStyles.description}>
-            Lillie E. Franks is an author and educator who lives in Chicago, Illinois, but is normal about it. You can read her work at places like Flash Frog, Hex, and HAD or follow her on Bluesky at @lilliekoi.bsky.social. She loves anything that is not the way it should be. </a>
+            Lillie E. Franks is an author and educator who lives in Chicago, Illinois, but is normal about it. You can read her work at places like Flash Frog, Hex, and HAD or follow her on Bluesky at @lilliekoi.bsky.social. She loves anything that is not the way it should be.
             </div>
           </div>
         </div>

@@ -17,9 +17,29 @@ const Masthead = () => {
     <>
     <MobileNav />
     <Nav />
-    <Subheader title="fine china" />
+    <Subheader title="on display" />
     <Layout>
       <Head title="awards & nominations"/>
+<h1 className={issueStyles.heading}>Best New Poets Nominees 2026</h1>
+      <div className={layoutStyles.mission}>
+          <div className={issueStyles.parent}>
+            <div className={issueStyles.bottomMargin}>
+
+<Link to="/2-10-26">
+            <h2 className={archiveStyles.piecelink}>Wake</h2>
+            </Link>
+            <p>Matthew DeMarco</p>
+
+<Link to="/3-10-26">
+            <h2 className={archiveStyles.piecelink}>Closure</h2>
+            </Link>
+            <p>Ashley Varela</p>
+
+ </div>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
 
 <h1 className={issueStyles.heading}>Best of the Net Nominees 2026</h1>
       <div className={layoutStyles.mission}>

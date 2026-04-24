@@ -1075,7 +1075,7 @@ const Masthead = () => {
               <Link to="/issue1/forgive-me-if-i-say">
                 <h2 className={archiveStyles.piecelink}>Forgive Me If I Say</h2>
               </Link>
-              <p>darnell "deesoul" carson</p>
+              <p>deesoul carson</p>
 
               <Link to="/issue1/notes-on-anger">
                 <h2 className={archiveStyles.piecelink}>Notes on Anger</h2>

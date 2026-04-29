@@ -46,11 +46,20 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Dallon Robinson</h3>
-            <h1 className={indexStyles.posttitle}>The Girlfriends Of The Propeller Plane Disappearance Victims</h1>
+            <h3 className={indexStyles.postauthor}>Rachel Sherman</h3>
+            <h1 className={indexStyles.posttitle}>Scenery</h1>
           <p className={indexStyles.posttext}>        
-They cannot say <i>victims</i> yet but have already been branded <i>girlfriends</i>, their role imprinted in articles and threads and conspiracy videos, which are backgrounded by screenshots of the articles and threads. The girlfriends have not yet made a statement, responded to comment requests, or answered DMs asking for the boyfriends’ birth charts, enneagram types, sizes in relation to a TV remote. They’re busy with the important matters: propeller theory, survivor’s guilt, the disintegration speed of a body in saltwater, the echo of a whale’s mouth. Insurance. The boyfriends had been vlogging their attempt to circumnavigate the globe in a propellor plane, which grew a respectable fanbase, which skyrocketed when they disappeared. The little camera in the corner of their cockpit made them bug-eyed and beautiful in the last video, posted two weeks ago. The girlfriends admit, it’s a delectable mystery; it only sweetens with their silence. Theories that their boyfriends are lost on an island or were wormholed by the wrong airspace at the wrong time grow into conspiracies of alien abduction or being captured by the government for flying too close to the ice wall – which government that is, being as vague as the sky. Rumours of an AI hoax bloom when a low-resolution clip from one of their vlogs goes viral on TikTok, where a throttle lever appears to blur into a hand. The girlfriends become the crisis actors, the political puppets, the <i>money hungry bitches</i> when they finally speak up. They make their request for privacy and hope their boys will come home – hope being a transparent thing, like air held in the mouth. They get picked apart by accounts masked by icons of their boyfriends, which, however hurtful, lets the girlfriends experience looking into their eyes again. In the comment sections, people imagine the boys’ reunion with the world, where the boys thank the people for believing in their safe return. Maybe the girlfriends should believe more. Nothing satiates the public’s hunger; shared memories and Facebook family matters are picked up and put back down. YouTubers upload their updates, reference the news articles which mention the conspiracy TikToks, which reference the flat earth forums which mention that one of the girlfriends has the same surname as a low-level government official. Spirals of content ouroboros themselves until everyone forgets the boys who were fresh out of pilot school, who loved their girlfriends but not at eye level, who were about to head over a long blue slate of Pacific. So the girlfriends of the propeller plane disappearance boys decide they don’t want to be the girlfriends anymore. Mika, either so bravely or so distastefully, hops on a one-way flight to Europe. Anya moves off the grid and onto a yak farm. They post cuttings of their lives online and keep the comments on as long as they’re torn apart. Until, soon enough, something new comes for everybody to circle around whilst the ocean, quietly, coughs up the wreckage of a propeller. Nobody wants resolution, but rather to lick their lips at it. Anya and Mika are not the girlfriends but still are the ones who swallow all the statements, the saltwater, the grief, who cast their gazes up at the sound of a jet engine, contrails streaking in all directions across the sky.  
-
+A beautiful evening. The lake is swallowing itself back. Most of the birds are
+<br></br>starlings. Most of the grasses are phragmites. Most of the runners are panting.
+<br></br>When you approach the water, you’ll lose your foot to something murky, and
+<br></br>you’ll remember something terrible about algae. The needle-pitched swarm
+<br></br>of flies will have you tilting. The panicky pleas of killdeer will have you
+<br></br>defensive. You’ll recall standing here to read the eulogy. It really was an
+<br></br>excellent eulogy. At the junction, just before you turn back home, you’ll see
+<br></br>an old man with binoculars pressed against his glasses. You’ll want to tell him
+<br></br>about the heron at the end of the path. Don’t they look strange there, a
+<br></br>dinosaur crammed into an oval, the way they can hold absolutely still,
+<br></br>waiting an eternity for one excellent fish.
 
             </p>
           </div>
@@ -58,7 +67,7 @@ They cannot say <i>victims</i> yet but have already been branded <i>girlfriends<
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Dallon Robinson (they/them) is a queer writer. Their work usually features women who kind of suck, the moon, and/or deep sea creatures. Their fiction appears or is forthcoming in Milk Candy Review, Flash Fiction Magazine, Pithead Chapel and elsewhere. They are quietly online at @dallonwrites.</p>
+    Rachel Sherman is a writer from Utah. She hopes to one day be found elsewhere. Her favorite bird is a kestrel. </p>
               </div>
           </div>
         </div>

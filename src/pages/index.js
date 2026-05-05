@@ -46,20 +46,23 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Rachel Sherman</h3>
-            <h1 className={indexStyles.posttitle}>Scenery</h1>
+            <h3 className={indexStyles.postauthor}>Gretchen Uhrinek</h3>
+            <h1 className={indexStyles.posttitle}>Limerence Dingus</h1>
           <p className={indexStyles.posttext}>        
-A beautiful evening. The lake is swallowing itself back. Most of the birds are
-<br></br>starlings. Most of the grasses are phragmites. Most of the runners are panting.
-<br></br>When you approach the water, you’ll lose your foot to something murky, and
-<br></br>you’ll remember something terrible about algae. The needle-pitched swarm
-<br></br>of flies will have you tilting. The panicky pleas of killdeer will have you
-<br></br>defensive. You’ll recall standing here to read the eulogy. It really was an
-<br></br>excellent eulogy. At the junction, just before you turn back home, you’ll see
-<br></br>an old man with binoculars pressed against his glasses. You’ll want to tell him
-<br></br>about the heron at the end of the path. Don’t they look strange there, a
-<br></br>dinosaur crammed into an oval, the way they can hold absolutely still,
-<br></br>waiting an eternity for one excellent fish.
+I fantasize about running into my ex at the grocery store. In this fantasy, I am very metropolitan and thin. I do not wear a puffy, practical Lands End coat with grease stains at the neck. I am holding a basket instead of pushing a buggy (thus establishing my superiority through strength and lack of want/need/etc.). When he turns the corner he sees me standing there with great posture, reading the ingredients on a bottle of some exotic sauce. It probably has truffles and algae in it. He watches me from afar. He is quietly impressed. He sees that I have become formidable. 
+<br></br>
+<br></br>Eventually, he says my name. This breaks me out of my deeply intelligent reverie. I look around—who, me?—wide-eyed and ethereal. A doe in fog. A doe shattering fog with Kevlar under her tawny hide. He is amazed because I look younger than the last time we met, five years ago, even under the store’s twitching, humming fluorescent lights. The only shadows on my face are the sexy kind. 
+<br></br>
+<br></br>It doesn’t make sense for us to bump into each other like this; he, career military. Me, not that. I stride up to him with unfamiliar confidence and he thinks I’m gearing up to hug or kiss, and so he opens his arms to me, but instead I poke him right in the sternum with a finger that definitely doesn’t have an unidentifiable crescent of brown gunk stuck under the nail, and I say: “You’re an asshole. You know that?”
+<br></br>
+<br></br>He dips his head down like a punished dog. Sometimes I fantasize that his hair is thinning at the crown (it would serve him right), but usually I imagine that he is also much more handsome than would be realistically possible, given time and testosterone and genetics and war. He certainly doesn’t have a beer gut, a girlfriend, and a wife. That’s the old him.
+<br></br>
+<br></br>I trace my finger up his chest and to his chin, tilt his face toward mine. Eye contact the likes of which this world has never seen. “Don’t do it again,” I tell him. 
+<br></br>
+<br></br>“I won’t do it again,” he says.
+<br></br>
+<br></br>My brain won’t let it go any further. Whether out of self preservation or a failure of the imagination, I couldn’t say. Probably both. Or neither; maybe I’m just waiting for him to round the corner and say my name. 
+
 
             </p>
           </div>
@@ -67,7 +70,7 @@ A beautiful evening. The lake is swallowing itself back. Most of the birds are
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Rachel Sherman is a writer from Utah. She hopes to one day be found elsewhere. Her favorite bird is a kestrel. </p>
+    Gretchen Uhrinek lives in the woods north of Pittsburgh, Pennsylvania, where she spends an inordinate amount of time combing her dog for ticks. She is a fiction editor at The Hopper and writes across genres, with work appearing in Folklore Review, Rat Bag Lit, and elsewhere. Her website is www.gretchenuhrinek.com. </p>
               </div>
           </div>
         </div>

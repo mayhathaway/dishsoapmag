@@ -104,10 +104,7 @@ const Masthead = () => {
             if your work is rejected, we ask that you wait 1 month before submitting again. if your work is accepted, we ask that you wait 2 months before submitting again. 
             </li>
             <li>
-            to withdraw your work, email us at dishsoap.mag@gmail.com
-            </li>
-            <li> 
-            if you somehow don't have a google account yet and can't access our form, feel free to email us your submission with an optional informal cover letter and a bio.
+            to withdraw your work, or if you have any questions, email us at dishsoap.mag@gmail.com
             </li>
             <li>
             if your work is accepted, you retain all rights, but we request that you credit us when sending it to other places in the future.

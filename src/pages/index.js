@@ -46,23 +46,25 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Gretchen Uhrinek</h3>
-            <h1 className={indexStyles.posttitle}>Limerence Dingus</h1>
+            <h3 className={indexStyles.postauthor}>K.M. Hanslik</h3>
+            <h1 className={indexStyles.posttitle}>blue body</h1>
           <p className={indexStyles.posttext}>        
-I fantasize about running into my ex at the grocery store. In this fantasy, I am very metropolitan and thin. I do not wear a puffy, practical Lands End coat with grease stains at the neck. I am holding a basket instead of pushing a buggy (thus establishing my superiority through strength and lack of want/need/etc.). When he turns the corner he sees me standing there with great posture, reading the ingredients on a bottle of some exotic sauce. It probably has truffles and algae in it. He watches me from afar. He is quietly impressed. He sees that I have become formidable. 
-<br></br>
-<br></br>Eventually, he says my name. This breaks me out of my deeply intelligent reverie. I look around—<i>who, me?</i>—wide-eyed and ethereal. A doe in fog. A doe shattering fog with Kevlar under her tawny hide. He is amazed because I look younger than the last time we met, five years ago, even under the store’s twitching, humming fluorescent lights. The only shadows on my face are the sexy kind. 
-<br></br>
-<br></br>It doesn’t make sense for us to bump into each other like this; he, career military. Me, not that. I stride up to him with unfamiliar confidence and he thinks I’m gearing up to hug or kiss, and so he opens his arms to me, but instead I poke him right in the sternum with a finger that definitely doesn’t have an unidentifiable crescent of brown gunk stuck under the nail, and I say: “You’re an asshole. You know that?”
-<br></br>
-<br></br>He dips his head down like a punished dog. Sometimes I fantasize that his hair is thinning at the crown (it would serve him right), but usually I imagine that he is also much more handsome than would be realistically possible, given time and testosterone and genetics and war. He certainly doesn’t have a beer gut, a girlfriend, and a wife. That’s the old him.
-<br></br>
-<br></br>I trace my finger up his chest and to his chin, tilt his face toward mine. Eye contact the likes of which this world has never seen. “Don’t do it again,” I tell him. 
-<br></br>
-<br></br>“I won’t do it again,” he says.
-<br></br>
-<br></br>My brain won’t let it go any further. Whether out of self preservation or a failure of the imagination, I couldn’t say. Probably both. Or neither; maybe I’m just waiting for him to round the corner and say my name. 
-
+My anger and the weekends promise
+<br></br>me a justice they cannot deliver. I try
+<br></br>to consider them with a shade of hope,
+<br></br>hope like corals, like lake beds, the shark’s
+<br></br>great fin. I dream an endless watery dream
+<br></br>of wandering: ocean gulleys I might explore,
+<br></br>shining stones I might gather. Some days
+<br></br>I forget I’m un-gilled, flirt with drowning.
+<br></br>Dream of a place where there’s enough
+<br></br>blue to hide my dense body. I want
+<br></br>to become shallow as a creek, vacant
+<br></br>enough to fill with clay. Instead I watch
+<br></br>the deep sky-filled pond as dusk settles 
+<br></br>upon it, the moon soaring to cast her
+<br></br>hazy shadows. She does not know what night 
+<br></br>it is, only that she must keep rising. 
 
             </p>
           </div>
@@ -70,7 +72,7 @@ I fantasize about running into my ex at the grocery store. In this fantasy, I am
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Gretchen Uhrinek lives in the woods north of Pittsburgh, Pennsylvania, where she spends an inordinate amount of time combing her dog for ticks. She is a fiction editor at The Hopper and writes across genres, with work appearing in Folklore Review, Rat Bag Lit, and elsewhere. Her website is www.gretchenuhrinek.com. </p>
+    K.M. Hanslik is an Ohio-based writer and editor. Her work explores bodies as landscapes, full of life and untold stories, and seeks to find the extraordinary in the mundane. When she's not writing, she enjoys long hikes and exploring new places. You can find her on Bluesky (<a href="https://bsky.app/profile/kmhanslik.bsky.social">@kmhanslik.bsky.social</a>), or read more on her website: <a href="https://kmhanslik.com">kmhanslik.com</a>.  </p>
               </div>
           </div>
         </div>

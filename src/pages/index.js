@@ -46,25 +46,10 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>K.M. Hanslik</h3>
-            <h1 className={indexStyles.posttitle}>blue body</h1>
+            <h3 className={indexStyles.postauthor}>Sarp Sozdinler</h3>
+            <h1 className={indexStyles.posttitle}>Paul From the Future</h1>
           <p className={indexStyles.posttext}>        
-My anger and the weekends promise
-<br></br>me a justice they cannot deliver. I try
-<br></br>to consider them with a shade of hope,
-<br></br>hope like corals, like lake beds, the shark’s
-<br></br>great fin. I dream an endless watery dream
-<br></br>of wandering: ocean gulleys I might explore,
-<br></br>shining stones I might gather. Some days
-<br></br>I forget I’m un-gilled, flirt with drowning.
-<br></br>Dream of a place where there’s enough
-<br></br>blue to hide my dense body. I want
-<br></br>to become shallow as a creek, vacant
-<br></br>enough to fill with clay. Instead I watch
-<br></br>the deep sky-filled pond as dusk settles 
-<br></br>upon it, the moon soaring to cast her
-<br></br>hazy shadows. She does not know what night 
-<br></br>it is, only that she must keep rising. 
+Keeps visiting me at inconvenient times. He arrives wet from tomorrow, smelling faintly of pennies and piss. The first time he appears I’m brushing my teeth. He pushes through the mirror and says, Beware the dentist. I tell him I don’t know any dentists. He points at the toothbrush in my mouth. Paul from the future is still Paul, unfortunately. Same hairline. Same little cough before the unfortunate news. He says the future is mostly dull, unlike what most people think. Says all paperwork and no sunshine makes him a dull boy. Says I should invest in apricots, it will turn big. Says it’s best to avoid escalators these days, one can never trust gravity. One can never trust the dentists. One can never trust a man who owns a telescope that shows only as far as the moon. When I ask what will happen to him, he squints. I’ll become the wise bird, he says. I’ll become the best magic in town. Then he steals one of my frozen burritos and phases backward through the pantry. He revisits while I’m on a date, sits between us in the booth, and shakes his head at our appetizer board. My date cannot see him but I can sense she’s growing visibly annoyed. Good instincts, Paul offers afterward. I can feel our terrible chemistry. I can smell her mild sweat. He says one day I will thank him for this. I tell him one day I will lock the doors to his face. He laughs, which is unfortunate because I laugh exactly the same way. I have the same face. I own the same cheap clothes. Sometimes late at night I catch my own reflection wearing his face.
 
             </p>
           </div>
@@ -72,7 +57,7 @@ My anger and the weekends promise
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    K.M. Hanslik is an Ohio-based writer and editor. Her work explores bodies as landscapes, full of life and untold stories, and seeks to find the extraordinary in the mundane. When she's not writing, she enjoys long hikes and exploring new places. You can find her on Bluesky (<a href="https://bsky.app/profile/kmhanslik.bsky.social">@kmhanslik.bsky.social</a>), or read more on her website: <a href="https://kmhanslik.com">kmhanslik.com</a>.  </p>
+    Sarp Sozdinler has been published in Electric Literature, Kenyon Review, Shenandoah, and Pithead Chapel, among other journals. He edits the literary journal The Bulb Region.</p>
               </div>
           </div>
         </div>

@@ -46,16 +46,103 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Joel Tomfohr</h3>
-            <h1 className={indexStyles.posttitle}>A Beginning with No End</h1>
+            <h3 className={indexStyles.postauthor}>Claire Salvato</h3>
+            <h1 className={indexStyles.posttitle}>Ars Poetica as Transcription</h1>
           <p className={indexStyles.posttext}>        
-And now I am looking at her bounding in the tall green grass and high fennel taller than me and sending redwing blackbirds into the air like a galloping horse at sunset the sky lit up by the setting sun like a flame and my dog, yes, very much like the power of a galloping horse.
+<i>Last autumn, I met Rita Dove at the reception of a literary event in Brooklyn.The following is not a transcription of our conversation. </i>
 <br></br>
-<br></br>I say to her please take me out and she says yes, I will take you out and will you take me out? Of course, I say to her. I put on a stocking hat, and I wrap a scarf around my neck. I put on the lined jean jacket that smells of tobacco and hashish. I leash her up and now we are outside number 10 Professor Tulpstraat walking in the direction of the luxury hotel with the lights and the dining room that overlooks the wide black river at night. Yes, lead me along the canals at night so that I can see the orange light from the streetlamps reflected in their black water. I say her name, and she turns and looks back at me with caramel eyes. Where do you want to go tonight? We both know how alone we are in the world after all.
+<br></br>RITA
+<br></br>Today the day is warm. Today the day is good enough to soak. 
 <br></br>
-<br></br>It is raining this morning, and she is not here. It taps on the windowpane, and whispers on the driveway and in the tall grasses and the glowing orange coppertips. And now I see her frozen above a mole in a standoff: my dog versus the mole. Neither one of them sure what the other is. She lets out a bay like a klaxon horn. She crouches with her hind in the air and her tail swishing silently. And then it is still and then she is gone. The rain streaks down the windowpane and rests in a small puddle on the sill.
+<br></br>CLAIRE
+<br></br>Today the day is darker than Montreal in 2022. 
 <br></br>
-<br></br>If I could write and write and make the reader care, the sacred audience of one, maybe then I could resurrect her. She is alive somewhere inside of me. She lives between my ribs.
+<br></br>RITA
+<br></br>Today the day is softer than a prisoner’s bar windows. A.O. Scott said the day gets warm before it explodes. Remember, minor characters make major endings.
+<br></br>
+<br></br>CLAIRE
+<br></br>Today the day is good enough for me to wake up. Today I witnessed the sun crouching down underneath a flat tire. My friend Celia used to wear her head in a basket. I saw her take a picture of her head while crouching under a lampshade. She said before she crouched, “Today the day is good enough.”
+<br></br>
+<br></br>RITA
+<br></br>She have breakfast?
+<br></br>
+<br></br>CLAIRE
+<br></br>Rarely. 
+<br></br>
+<br></br>RITA
+<br></br>Today the day is warm enough for you to write. 
+<br></br>
+<br></br>CLAIRE
+<br></br>I’ll write under the sun. Two nights ago—that was another Friday on the road. I asked an empty gas station if I could use the bathroom. I asked twice. Then, the sun spalled and the sky went dark. 
+<br></br>
+<br></br>RITA
+<br></br>How many times can you wake up on the same day?
+<br></br>
+<br></br>CLAIRE
+<br></br>Infinity times. Enough times. 
+<br></br>
+<br></br>RITA
+<br></br>The day rises as long as the bard holds the page up to the light. Blessed be the day I learn to turn on my desk lamp. 
+<br></br>
+<br></br>CLAIRE
+<br></br>I’m the one who wears the heels in my house. Who wears the heels in your house?
+<br></br>
+<br></br>RITA
+<br></br>I’m Dorothy for Halloween. I’ve got on my shiny red, but I’m not old enough to wear heels. Maybe next year.
+<br></br>
+<br></br>CLAIRE
+<br></br>You can borrow mine!
+<br></br>
+<br></br>RITA
+<br></br>This time, I’d want to be Toto, skipping down the yellow brick road. But it’s night. And dogs don’t know how to skip. The coming Halloween will be my seventy-first. 
+<br></br>
+<br></br>CLAIRE
+<br></br>You’ve been pretending since Hitchcock made that movie about birds. Today the sun is so savory, I could do a saltbath in its saline. 
+<br></br>
+<br></br>RITA
+<br></br>It’s all pretend, dear. 
+<br></br>
+<br></br>CLAIRE
+<br></br>Does that apply to all writers? Or only the ones in New York City?
+<br></br>
+<br></br>RITA
+<br></br>I used to go out and get my feet stuck under this one manhole ring in Williamsburg. Williamsburg is the sunniest.  
+<br></br>
+<br></br>CLAIRE
+<br></br>Is that what you tell Remnick?
+<br></br>
+<br></br>RITA
+<br></br>Oh, if the sky doesn’t just get so dark these days. Every morning, I wake up and check my phone. Do you know what it says? It says it’s still the same day. I wake up over and over and over again and then I realize: “Oh my god,” it’s been an era and forty years since the evening began. I’m in the same bookstore talking to you about the sun. The water is too cold, my water is all fucked. Look outside the window. It’s another series of the Monet lilies; it was that last night, too. They always play Graceland. They always play Graceland and then they turn it off. My husband wears his cap backwards because he is afraid he is losing his hair. I don’t want him to lose his hair. Please, can someone just tell me why it is always so dark? Why is it always just so dark? Who’s there? Who knows about this? 
+<br></br>
+<br></br>CLAIRE
+<br></br>Two-thirds of my conversations are in my head. Today is warm enough to write. 
+<br></br>
+<br></br>RITA
+<br></br>Today was hotter than four nights ago. What was it that night? Low twenties? I’ll check. 
+<br></br>
+<br></br>CLAIRE
+<br></br>Clearer skies, too. 
+<br></br>
+<br></br>RITA
+<br></br>Do you lie in your real life?
+<br></br>
+<br></br>CLAIRE
+<br></br>Yes, Rita. I lie. The first time I lied, the Gaia cracked open and the iridescent yolk churned and churned and churned, and once the paste turned silky and pale, I chewed the lie down and waited for the yolk to rupture into a thousand and one bites. And there it lives, the yolk. It simmers in my stomach. I carry it around, wondering when I’ll want to give in, when it’s time to flip myself inside-out. 
+<br></br>
+<br></br>RITA
+<br></br>You’re the grownest woman I ever met. 
+<br></br>
+<br></br>CLAIRE
+<br></br>I get scared when the lights go off. 
+<br></br>
+<br></br>RITA
+<br></br>Today the day is curious enough to say that you are scared of being alone.  
+<br></br>
+<br></br>CLAIRE
+<br></br>Not everyone is an artist. 
+<br></br>
+<br></br>RITA
+<br></br>Not everyone is an artist. What was it like, being my age?
 
             </p>
           </div>
@@ -63,7 +150,7 @@ And now I am looking at her bounding in the tall green grass and high fennel tal
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Joel Tomfohr's chapbook, A Blue Hour (Bottlecap Press), was a 2025 finalist for the Orison Chapbook Prize. His work can be found in Xpat Press, Rejections Letters, Farewell Transmission, Maudlin House, and many others. He lives with his family and the ghost of his dog in the Bay Area. .</p>
+    Claire Salvato, an incoming student at Barnard College, was born and raised in Singapore as an American expatriate. Her work has appeared in Your Impossible Voice (forthcoming), The New York Times Learning Network, The Eunoia Review, Nowhere Girl Collective, and Magus Mabus magazine.</p>
               </div>
           </div>
         </div>

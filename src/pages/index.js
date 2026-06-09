@@ -46,103 +46,82 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Claire Salvato</h3>
-            <h1 className={indexStyles.posttitle}>Ars Poetica as Transcription</h1>
+            <h3 className={indexStyles.postauthor}>Nicole Davis</h3>
+            <h1 className={indexStyles.posttitle}>A brief obsession, and how to form one.</h1>
           <p className={indexStyles.posttext}>        
-<i>Last autumn, I met Rita Dove at the reception of a literary event in Brooklyn.The following is not a transcription of our conversation. </i>
+Go a bit loopy. You were susceptible anyway, and now the world is fucked. Cut your fringe too short and wonky. Knit a bonnet. Ferment things. Rhubarb, cabbage, wort, dreams. Gorge on whole cobs of sourdough bread and salty butter like a death row peasant. Prod the new flesh of your stomach. Get into collage. Wonder if you wouldn’t be a happier person if you could just make time, all the time, for the simple art of cutting, arranging, sticking.
 <br></br>
-<br></br>RITA
-<br></br>Today the day is warm. Today the day is good enough to soak. 
+<br></br>Download the app. Crop pictures from your pre-cropped fringe era, where you’re smiling, posing, dancing, living. Oh to be that woman again. Swipe, scroll, despair, delete, redownload, swipe, swipe, swipe, match, talk small and sometimes dirty, realise you have nothing interesting to say about yourself at this moment in time, unmatch, swipe, swipe, like, offer opening gambits like ‘not much on paper, but great on wood.’
 <br></br>
-<br></br>CLAIRE
-<br></br>Today the day is darker than Montreal in 2022. 
+<br></br>Start talking to a man whose name sounds made-up, and who, you’re pretty sure, without invitation, begins sending you pictures of ducks. First there is the emerald-headed mallard, iridescent at certain angles, with a jawline that shines Prussian blue. It comes without context, or fanfare.
 <br></br>
-<br></br>RITA
-<br></br>Today the day is softer than a prisoner’s bar windows. A.O. Scott said the day gets warm before it explodes. Remember, minor characters make major endings.
+<br></br>Nice duck, you say. Is it yours?
 <br></br>
-<br></br>CLAIRE
-<br></br>Today the day is good enough for me to wake up. Today I witnessed the sun crouching down underneath a flat tire. My friend Celia used to wear her head in a basket. I saw her take a picture of her head while crouching under a lampshade. She said before she crouched, “Today the day is good enough.”
+<br></br>He gives you a thumbs up.
 <br></br>
-<br></br>RITA
-<br></br>She have breakfast?
+<br></br>The next day, he sends you its brown-feathered female companion, whose beauty you have to search for, and you appreciate that about her. You wonder if he’s taking the pictures himself, and if, by asking for more, you’re sending him on some kind of wild duck chase.
 <br></br>
-<br></br>CLAIRE
-<br></br>Rarely. 
+<br></br>Don’t question it. These are unprecedented times, normal coping mechanisms need not apply.
 <br></br>
-<br></br>RITA
-<br></br>Today the day is warm enough for you to write. 
+<br></br>Click on a link to a bird sounds website. It’s Wednesday afternoon and he has sent you a picture of a widgeon.
 <br></br>
-<br></br>CLAIRE
-<br></br>I’ll write under the sun. Two nights ago—that was another Friday on the road. I asked an empty gas station if I could use the bathroom. I asked twice. Then, the sun spalled and the sky went dark. 
+<br></br>A whatgeon? You texted back.
 <br></br>
-<br></br>RITA
-<br></br>How many times can you wake up on the same day?
+<br></br>He bypassed this and responded with a website where you listen to almost two minutes of their striking high-pitched whistle. Almost like a serenade.
 <br></br>
-<br></br>CLAIRE
-<br></br>Infinity times. Enough times. 
+<br></br>Two weeks pass like this. Midnight duck pics that have you foraging for your phone in the dark, angling it so you can look at them in all their majestic glory, horizontally.
 <br></br>
-<br></br>RITA
-<br></br>The day rises as long as the bard holds the page up to the light. Blessed be the day I learn to turn on my desk lamp. 
+<br></br>The eider is your favourite. Provider of duvet fluff and warmth, elegant in high contrast black and white.
 <br></br>
-<br></br>CLAIRE
-<br></br>I’m the one who wears the heels in my house. Who wears the heels in your house?
+<br></br>Now that’s a bird you’d take home to your mother, you write, one hand stirring a risotto.
 <br></br>
-<br></br>RITA
-<br></br>I’m Dorothy for Halloween. I’ve got on my shiny red, but I’m not old enough to wear heels. Maybe next year.
+<br></br>The radio silence that attends to responses of this kind only eggs you on.
 <br></br>
-<br></br>CLAIRE
-<br></br>You can borrow mine!
+<br></br>Sometimes he asks why you like the ducks.
 <br></br>
-<br></br>RITA
-<br></br>This time, I’d want to be Toto, skipping down the yellow brick road. But it’s night. And dogs don’t know how to skip. The coming Halloween will be my seventy-first. 
+<br></br>The Hook Bill for the downwards droop of his beak, and the deep melancholy, or wisdom, it suggests. As if the burden of time and knowledge itself sits atop it.
 <br></br>
-<br></br>CLAIRE
-<br></br>You’ve been pretending since Hitchcock made that movie about birds. Today the sun is so savory, I could do a saltbath in its saline. 
+<br></br>Tell him so. Then add, A duck for our times.
 <br></br>
-<br></br>RITA
-<br></br>It’s all pretend, dear. 
+<br></br>Close second is the goosander, with its punk-rock backwards blowdry hairstyle. He sends you a picture with five afroed babies trailing behind and you fantasise about what it might feel like to scoop one up in your hands and hold it close. To feel anything like that kind of intimacy again.
 <br></br>
-<br></br>CLAIRE
-<br></br>Does that apply to all writers? Or only the ones in New York City?
+<br></br>Tell him that too, and then add, A dick pic could never.
 <br></br>
-<br></br>RITA
-<br></br>I used to go out and get my feet stuck under this one manhole ring in Williamsburg. Williamsburg is the sunniest.  
+<br></br>When he sends you ducks from further afield, question whether this signals a new level to your correspondence. Something more exotic. Something more expansive.
 <br></br>
-<br></br>CLAIRE
-<br></br>Is that what you tell Remnick?
+<br></br>The Indian Runner and the Muscovy are ugly. You can do better, you text. You’re losing your edge.
 <br></br>
-<br></br>RITA
-<br></br>Oh, if the sky doesn’t just get so dark these days. Every morning, I wake up and check my phone. Do you know what it says? It says it’s still the same day. I wake up over and over and over again and then I realize: “Oh my god,” it’s been an era and forty years since the evening began. I’m in the same bookstore talking to you about the sun. The water is too cold, my water is all fucked. Look outside the window. It’s another series of the Monet lilies; it was that last night, too. They always play Graceland. They always play Graceland and then they turn it off. My husband wears his cap backwards because he is afraid he is losing his hair. I don’t want him to lose his hair. Please, can someone just tell me why it is always so dark? Why is it always just so dark? Who’s there? Who knows about this? 
+<br></br>He sends a Saxony duck, golden-feathered and stolid and Aryan. Chastise him for his narrow-minded definition of beauty.
 <br></br>
-<br></br>CLAIRE
-<br></br>Two-thirds of my conversations are in my head. Today is warm enough to write. 
+<br></br>He sends a Bufflehead, brilliantly named. It looks like a Pac-Man devouring a white ghost.
 <br></br>
-<br></br>RITA
-<br></br>Today was hotter than four nights ago. What was it that night? Low twenties? I’ll check. 
+<br></br>The blue-winged teal is what seals the deal. Leopard-chested and navy-beaked. Something about its beauty softens you. Let it. Revel in it. That some evolutionary process created such a being, and for what purpose, other than beauty?
 <br></br>
-<br></br>CLAIRE
-<br></br>Clearer skies, too. 
+<br></br>Ask whether he’d ever want to see some ducks together, IRL.
 <br></br>
-<br></br>RITA
-<br></br>Do you lie in your real life?
+<br></br>He suggests a Zoom date first.
 <br></br>
-<br></br>CLAIRE
-<br></br>Yes, Rita. I lie. The first time I lied, the Gaia cracked open and the iridescent yolk churned and churned and churned, and once the paste turned silky and pale, I chewed the lie down and waited for the yolk to rupture into a thousand and one bites. And there it lives, the yolk. It simmers in my stomach. I carry it around, wondering when I’ll want to give in, when it’s time to flip myself inside-out. 
+<br></br>Put on deodorant and blusher and tracksuit bottoms. Feel oddly erotic, dressed this way. Your bottom half could be naked. His could be. Think of Jemima Puddleduck, completely bare beneath her shawl and bonnet. Wrap a bandana around your fugitive-on-the-run fringe.
 <br></br>
-<br></br>RITA
-<br></br>You’re the grownest woman I ever met. 
+<br></br>Sustain conversation for a good ninety minutes, mostly without any awkward pauses. Discuss your sanity-maintaining activities, and what you do for work. Listen to him ramble on about a drama he thinks is ensuing between argumentative next-door neighbours. Bristle somewhat at his lack of questions. Don’t mention the ducks. As if calling to attention this strange delight might make it disappear altogether. Like a raccoon grappling with candyfloss. He’s not your type, and he’s not interested in you, but you’re not ready to give up the pleasure they bring you.
 <br></br>
-<br></br>CLAIRE
-<br></br>I get scared when the lights go off. 
+<br></br>Buy some back issues of a birding magazine on eBay and make a collage; a series of floating duck heads, trinkets of days now gone.
 <br></br>
-<br></br>RITA
-<br></br>Today the day is curious enough to say that you are scared of being alone.  
+<br></br>A week later, meet in an actual park, a halfway point between your houses. His suggestion. Walk three laps around it, each time circling a pond that has frozen over and is now freckled with fallen leaves and a coterie of ducks, learning to skate.
 <br></br>
-<br></br>CLAIRE
-<br></br>Not everyone is an artist. 
+<br></br>Dare to remove a glove in order to film them, stumbling and stalling, and falling gracefully, before resuming their stances. Offer to send it to him. He looks at you coolly and it’s hard to know if this is just his face. A park date gives little opportunity to gaze deeply into each other’s eyes, to pick up a vibe. He shrugs, then says, Sure.
 <br></br>
-<br></br>RITA
-<br></br>Not everyone is an artist. What was it like, being my age?
+<br></br>But a spell has been broken. A contract breached. Or maybe your hands are too cold and your insides too sober, and a spark was never going to alight under these circumstances.
+<br></br>
+<br></br>Go your separate ways. Don’t exchange numbers.
+<br></br>
+<br></br>Carry on collaging. Ducks and mushrooms and bisected fruit. Grow out your fringe. Delete the app, and with it, all the pictures.
+<br></br>
+<br></br>A year or so later, attend an art exhibition commemorating 17th century Dutch painters. Stand in front of a tableau of exotic birds and let your eye be drawn first to the monstrously large pelican. Marvel at the hairpin bend in the neck of the flamingo. Then, point out to your friend, in the bottom right half of the frame, the widgeon, the Eurasian teal, the goosander.
+<br></br>
+<br></br>Didn’t know you had a thing for ducks, your friend says.
+<br></br>
+<br></br>A brief obsession, you reply.
 
             </p>
           </div>
@@ -150,7 +129,10 @@ const IndexPage = () => {
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Claire Salvato, an incoming student at Barnard College, was born and raised in Singapore as an American expatriate. Her work has appeared in Your Impossible Voice (forthcoming), The New York Times Learning Network, The Eunoia Review, Nowhere Girl Collective, and Magus Mabus magazine.</p>
+    Nicole Davis is a film and audio producer for Brock Media and based in London. Her short stories have been long-listed for the 2024 Desperate Literature Prize, the 2023 Bridport Prize and the 2022 Brick Lane Bookshop Short Story Prize. She has been selected for the 2023-4 edition of The London Library’s Emerging Writers Programme and the 2024 Granta Short Fiction Workshop. 
+<br></br>
+<br></br>She is currently working on a short story collection centred on hard-to-define relationships - the strange and the estranged - that lurk in, and mould, her characters’ psyches.
+</p>
               </div>
           </div>
         </div>

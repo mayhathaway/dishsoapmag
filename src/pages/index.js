@@ -46,82 +46,15 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Nicole Davis</h3>
-            <h1 className={indexStyles.posttitle}>A brief obsession, and how to form one.</h1>
+            <h3 className={indexStyles.postauthor}>Thanh Bui</h3>
+            <h1 className={indexStyles.posttitle}>My cat sits on me, incubating Sad-Away</h1>
           <p className={indexStyles.posttext}>        
-Go a bit loopy. You were susceptible anyway, and now the world is fucked. Cut your fringe too short and wonky. Knit a bonnet. Ferment things. Rhubarb, cabbage, wort, dreams. Gorge on whole cobs of sourdough bread and salty butter like a death row peasant. Prod the new flesh of your stomach. Get into collage. Wonder if you wouldn’t be a happier person if you could just make time, all the time, for the simple art of cutting, arranging, sticking.
+You would think that having a Carolina Wren’s nest outside one's front door is this incredible thing you'd be endlessly grateful for, especially in such a formless season, especially because there's no guarantee it'll happen again, but people acclimate surprisingly quick and my brain began worrying whether the eggs would hatch and then whether there would be enough for the parents to forage and then a very irrational fear of accidentally stepping on a fledgling (or younger!) fallen from the nest. 
 <br></br>
-<br></br>Download the app. Crop pictures from your pre-cropped fringe era, where you’re smiling, posing, dancing, living. Oh to be that woman again. Swipe, scroll, despair, delete, redownload, swipe, swipe, swipe, match, talk small and sometimes dirty, realise you have nothing interesting to say about yourself at this moment in time, unmatch, swipe, swipe, like, offer opening gambits like ‘not much on paper, but great on wood.’
+<br></br>While this is easily a need for control, a lack of faith that things will work out, or the simple fear of life’s ability to go wrong as evidenced by recent or ongoing events, it's also such cheating. To put one's emotional well-being in the hands of four newborn birds like some form of divination is to throw yourself on the floor, hands up, giving it over to God. I think what I'm saying is I am tired. I think what clever people might suggest is a child. Any child. This is the age it would be preferable to borrow their eyes, lean on their lack. Use them as bravery, willpower. Wouldn’t that be nice? But now or eighteen years later, I think there comes a spring that doesn't break through winter. No explanations or excuses to be offered. It gets to a point! The first summer you’re off the academically scheduled break, the first fall that doesn’t mean new reliefs. And this is just it now; no waiting for the tides to change. No dopamine crush to dress for. Waking no longer a ceremony, lucky if not coupled with dread. Here is every lesson you skipped, every muscle you should have built, all the discipline kicked down the road.
 <br></br>
-<br></br>Start talking to a man whose name sounds made-up, and who, you’re pretty sure, without invitation, begins sending you pictures of ducks. First there is the emerald-headed mallard, iridescent at certain angles, with a jawline that shines Prussian blue. It comes without context, or fanfare.
-<br></br>
-<br></br>Nice duck, you say. Is it yours?
-<br></br>
-<br></br>He gives you a thumbs up.
-<br></br>
-<br></br>The next day, he sends you its brown-feathered female companion, whose beauty you have to search for, and you appreciate that about her. You wonder if he’s taking the pictures himself, and if, by asking for more, you’re sending him on some kind of wild duck chase.
-<br></br>
-<br></br>Don’t question it. These are unprecedented times, normal coping mechanisms need not apply.
-<br></br>
-<br></br>Click on a link to a bird sounds website. It’s Wednesday afternoon and he has sent you a picture of a widgeon.
-<br></br>
-<br></br>A whatgeon? You texted back.
-<br></br>
-<br></br>He bypassed this and responded with a website where you listen to almost two minutes of their striking high-pitched whistle. Almost like a serenade.
-<br></br>
-<br></br>Two weeks pass like this. Midnight duck pics that have you foraging for your phone in the dark, angling it so you can look at them in all their majestic glory, horizontally.
-<br></br>
-<br></br>The eider is your favourite. Provider of duvet fluff and warmth, elegant in high contrast black and white.
-<br></br>
-<br></br>Now that’s a bird you’d take home to your mother, you write, one hand stirring a risotto.
-<br></br>
-<br></br>The radio silence that attends to responses of this kind only eggs you on.
-<br></br>
-<br></br>Sometimes he asks why you like the ducks.
-<br></br>
-<br></br>The Hook Bill for the downwards droop of his beak, and the deep melancholy, or wisdom, it suggests. As if the burden of time and knowledge itself sits atop it.
-<br></br>
-<br></br>Tell him so. Then add, A duck for our times.
-<br></br>
-<br></br>Close second is the goosander, with its punk-rock backwards blowdry hairstyle. He sends you a picture with five afroed babies trailing behind and you fantasise about what it might feel like to scoop one up in your hands and hold it close. To feel anything like that kind of intimacy again.
-<br></br>
-<br></br>Tell him that too, and then add, A dick pic could never.
-<br></br>
-<br></br>When he sends you ducks from further afield, question whether this signals a new level to your correspondence. Something more exotic. Something more expansive.
-<br></br>
-<br></br>The Indian Runner and the Muscovy are ugly. You can do better, you text. You’re losing your edge.
-<br></br>
-<br></br>He sends a Saxony duck, golden-feathered and stolid and Aryan. Chastise him for his narrow-minded definition of beauty.
-<br></br>
-<br></br>He sends a Bufflehead, brilliantly named. It looks like a Pac-Man devouring a white ghost.
-<br></br>
-<br></br>The blue-winged teal is what seals the deal. Leopard-chested and navy-beaked. Something about its beauty softens you. Let it. Revel in it. That some evolutionary process created such a being, and for what purpose, other than beauty?
-<br></br>
-<br></br>Ask whether he’d ever want to see some ducks together, IRL.
-<br></br>
-<br></br>He suggests a Zoom date first.
-<br></br>
-<br></br>Put on deodorant and blusher and tracksuit bottoms. Feel oddly erotic, dressed this way. Your bottom half could be naked. His could be. Think of Jemima Puddleduck, completely bare beneath her shawl and bonnet. Wrap a bandana around your fugitive-on-the-run fringe.
-<br></br>
-<br></br>Sustain conversation for a good ninety minutes, mostly without any awkward pauses. Discuss your sanity-maintaining activities, and what you do for work. Listen to him ramble on about a drama he thinks is ensuing between argumentative next-door neighbours. Bristle somewhat at his lack of questions. Don’t mention the ducks. As if calling to attention this strange delight might make it disappear altogether. Like a raccoon grappling with candyfloss. He’s not your type, and he’s not interested in you, but you’re not ready to give up the pleasure they bring you.
-<br></br>
-<br></br>Buy some back issues of a birding magazine on eBay and make a collage; a series of floating duck heads, trinkets of days now gone.
-<br></br>
-<br></br>A week later, meet in an actual park, a halfway point between your houses. His suggestion. Walk three laps around it, each time circling a pond that has frozen over and is now freckled with fallen leaves and a coterie of ducks, learning to skate.
-<br></br>
-<br></br>Dare to remove a glove in order to film them, stumbling and stalling, and falling gracefully, before resuming their stances. Offer to send it to him. He looks at you coolly and it’s hard to know if this is just his face. A park date gives little opportunity to gaze deeply into each other’s eyes, to pick up a vibe. He shrugs, then says, Sure.
-<br></br>
-<br></br>But a spell has been broken. A contract breached. Or maybe your hands are too cold and your insides too sober, and a spark was never going to alight under these circumstances.
-<br></br>
-<br></br>Go your separate ways. Don’t exchange numbers.
-<br></br>
-<br></br>Carry on collaging. Ducks and mushrooms and bisected fruit. Grow out your fringe. Delete the app, and with it, all the pictures.
-<br></br>
-<br></br>A year or so later, attend an art exhibition commemorating 17th century Dutch painters. Stand in front of a tableau of exotic birds and let your eye be drawn first to the monstrously large pelican. Marvel at the hairpin bend in the neck of the flamingo. Then, point out to your friend, in the bottom right half of the frame, the widgeon, the Eurasian teal, the goosander.
-<br></br>
-<br></br>Didn’t know you had a thing for ducks, your friend says.
-<br></br>
-<br></br>A brief obsession, you reply.
+<br></br>My mother wanted to spare us of chores and the unpleasant things she could take on instead. But where there are cosmic debts, there are collectors. I’m sorry I thought of myself so much. Didn’t step in. I’m sorry I hovered, did the opposite of anthropomorphize and believed myself a mother bird. I promise I’m trying to leave it alone, accept the way things are. I put dried mealworms out and anxiously checked to see if anyone took ‘em. I know they’ll leave in a few weeks after practicing flight. I am trying to believe I deserve my own attention. Not in the easy way, no. The kind that obliterates a person every few years. In the meantime, I'm sorry to these four tiny wrens for being the giant creep who comes out at night to watch them sleep when I can't.
+
 
             </p>
           </div>
@@ -129,9 +62,7 @@ Go a bit loopy. You were susceptible anyway, and now the world is fucked. Cut yo
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Nicole Davis is a film and audio producer for Brock Media and based in London. Her short stories have been long-listed for the 2024 Desperate Literature Prize, the 2023 Bridport Prize and the 2022 Brick Lane Bookshop Short Story Prize. She has been selected for the 2023-4 edition of The London Library’s Emerging Writers Programme and the 2024 Granta Short Fiction Workshop. 
-<br></br>
-<br></br>She is currently working on a short story collection centred on hard-to-define relationships - the strange and the estranged - that lurk in, and mould, her characters’ psyches.
+    Born in Gò Vấp and raised in Dorchester & Alief, Thanh Bui is a writer & actor based out of Austin, Texas. Her written work has appeared in The Offing, Lammergeier, Taco Bell Quarterly, diaCRITICS, Pinhole, Glass: A Journal of Poetry, and other places accessible to her mom. Her film work has appeared in SXSW, CAAMFest, and elsewhere. She loves constantly..
 </p>
               </div>
           </div>

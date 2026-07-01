@@ -46,18 +46,49 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Tara Manshon</h3>
-            <h1 className={indexStyles.posttitle}>Waiting on a Dream</h1>
+            <h3 className={indexStyles.postauthor}>Lane Devers</h3>
+            <h1 className={indexStyles.posttitle}>Lua</h1>
           <p className={indexStyles.posttext}>        
-My grandfather visits everyone but me in their dreams. He comes to alleviate their simmering grief, appearing in the kitchen of their subconscious. My grandfather was always in the kitchen, always busy stewing meat and potatoes for hours on end, so it makes sense for him to spawn next to the tiled backsplash, dhaniya in hand. He throws the green leaves in, folding them into the food until the Athaan rings and it’s time to wake up.
-<br></br>
-<br></br>My grandmother tells me he came to her wearing the sweater I knitted as a child, the incomplete one with only one sleeve. He modelled it for her, his hand on his hip, turning this way and that to an imaginary soundtrack while she washed the dishes. She laughed so hard, she peed herself. In the dream, she clarifies. She was dry in real life. I haven’t seen my grandfather since he was carried away, laid to rest before the sun ebbed below the horizon. I wasn’t allowed to follow the men to the kubis. 
-<br></br>
-<br></br>I wait for my grandfather, for him to grace my dreams with his presence, but he never shows. The next day, the neighbor shares his dream with me. My grandfather appeared in his garden and helped cut down the full, drooping branches of his mango tree. They cleaved the heavy limbs until the tree, finally free from the weight of its fruit, snapped back to its original height. 
-<br></br>
-<br></br>I dream of a childhood friend, now grown and standing on the edge of a dam. She is tired from life and I beg her not to let go of the railing. She smiles in that playful way she did as a child, when she would catch geckos and throw them down my shirt. And then she lets go. I watch her drop down, down until she disappears into the depths. I am inconsolable. Howls slip from my diaphragm, echoing into the empty night. On waking, despite knowing she is alive and well, I remember my sadness and mourn her again. Unable to fall back asleep, I rummage through old photos until the seagulls begin to call and it’s time to take the bins out. 
-<br></br>
-<br></br>The garbage man is already waiting for me at the curb, his hands shaky, his eyes red rimmed from crying. He tells me my grandfather visited him the night before. He rolled out the bins whistling the only song he could, ‘Frère Jacques,’ and the two talked about cricket. <i>He was a good man</i>, he tells me and I nod. <i>I miss him terribly</i>, he goes on, <i>I saw him every Thursday for fifteen years, you look more and more like him every time I see you</i>. His voice falters and I pat his arm, wondering if I should say something. I decide against it. Instead, we stand there, me and this uncle whose name I can’t remember, stuck in our varying grief, listening to the far-off gulls across the endless blue.
+I gathered all the evidence I exist
+<br></br>and brought it to the DMV. You exist!
+<br></br>They said, and then revoked my driving
+<br></br>privileges. I blew it off, went to a museum
+<br></br>and stood in front of a crystal as tall as me,
+<br></br>thinking of the wind or the river, that gutted
+<br></br>it into its shape, whistling through caves
+<br></br>somewhere in Idaho, or the badlands
+<br></br>of North Dakota. I was only okay
+<br></br>at skeet shooting the one time I went
+<br></br>in Oregon. I kept asking everyone:
+<br></br><i>what are these little orange things,</i>
+<br></br><i>and why do we want to kill them?</i>
+<br></br>People laughed, but I’m sick
+<br></br>of myself, or sick of making jokes
+<br></br>to cut through the bitterness of winter.
+<br></br>I went to Coney Island and listened
+<br></br>to the screams from the roller coaster
+<br></br>while I stared at the Atlantic.
+<br></br>I want to tell you about the time
+<br></br>I wrecked my car to my favorite
+<br></br>Mac Miller song, the sky was twinkling
+<br></br>yellow with smog, the same shade as the album
+<br></br>cover. Poems are a psychedelic thing,
+<br></br>they move in the shape of a river
+<br></br>or with the lyricism of a song,
+<br></br>it’s so embarrassing, but someone has got
+<br></br>to do it. Once I looked after a small grey dog
+<br></br>named after the saddest song I know.
+<br></br><i>Lua</i>, I said. <i>Lua only bite my enemies, please.</i>
+<br></br>Tale as old as time: poet full of anger
+<br></br>like an overstuffed Piñata, beating
+<br></br>and beating at himself with a bat.
+<br></br>Remember when we drove to the beach
+<br></br>in the middle of the night because we needed
+<br></br>to remember the coast's thinning hairline, the trees
+<br></br>burned back at the scalp, and we almost hit a coyote
+<br></br>but missed it by a few feet. I turned on the speaker,
+<br></br>it wasn’t Mac Miller. Not yet. I don’t want to
+<br></br>get to the part where my blue car crumbles like a wave.
 
 
 
@@ -67,7 +98,7 @@ My grandfather visits everyone but me in their dreams. He comes to alleviate the
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Originally from Cape Town, South Africa, Tara Manshon has lived in the United States for twenty years and still looks the wrong way when crossing the street. She’s currently listening to the wind knock at her window. He’s saying something that sounds like an apology, but clearly isn’t one because what’s the point of saying “sorry" if you don’t even know why you’re sorry? Her work has appeared in 805 Lit+Art, Monkeybicycle, The Los Angeles Review, Prime Number Magazine and After Happy Hour Review's Work & Labor Contest where it received an honorable mention.
+    Lane Devers' work has appeared in places like The Offing, Peatsmoke Journal, and The New Ohio Review. He is an MFA candidate at Columbia University.
 </p>
               </div>
           </div>

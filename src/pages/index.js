@@ -46,18 +46,44 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Ashley W. Cundiff</h3>
-            <h1 className={indexStyles.posttitle}>Mom's Bigfoot</h1>
+            <h3 className={indexStyles.postauthor}>Emily Rinkema</h3>
+            <h1 className={indexStyles.posttitle}>Pull It Together, Wilson</h1>
           <p className={indexStyles.posttext}>        
-Four months before she died, my mother pushed away the soup I’d served her for lunch and informed me that Sasquatch was sleeping behind her garden shed. Dementia had forged Mom’s mind into a prism of fractured thoughts and impulses, but her body was still whole and spry, and she was quick to discard her spoon, put on my late father’s old rubber boots, and trip outside to show me where the bigfoot had bedded down. All I saw was a mound of fallen leaves that the wind had blown against the shed wall, but she maintained that a large indentation was proof a sleeping body had been there. There was no denying that something could have nested in the cradle of those sun-warmed leaves, curled in the fetal position. Imagining it made me want to curl up there myself. Maybe it was a deer, I offered, and yawned. I’d been living with Mom for a few weeks then. To view this time as a gift was the correct view, but I had not wanted to leave my home and my job (not because I would be needed in my absence, but because I knew my absence would reveal the lack of need). 
+Our job is to keep people away from the backpack until the squad gets here to destroy it.
 <br></br>
-<br></br>Sasquatch appeared most often at twilight; Mom was restless in the in-between hours. Sasquatch was covered in long fur that was matted, but soft like a cat’s, the fur was sometimes gray and sometimes golden-brown. Sasquatch was the size of a large man, Mom told me, about as big as my father (my father had not really been a large man, but she described him so with a fondness that defied questioning). She sometimes saw it in the yard hunting. (Hunting what, I said. The neighbor’s ferret, she said. The neighbor doesn’t have a ferret, I said. Not anymore, she said.) She spied on it while it was sleeping, watching the waves of its breaths and viewing its face in the sweet slackness of sleep. (When? I asked. When you’re also sleeping, she said. You’re sleeping then, too, I said. I never sleep, she said.) 
+<br></br>“We should check it before they get here,” Wilson says. It’s his first week on security.
 <br></br>
-<br></br>I didn’t believe she was really visiting the bigfoot in the night until the morning I awoke early, chilled, to find the front door wide open and Mom gone. My eyes were forced closed by the surprise harsh brightness of the sun and by the time I opened them she’d walked in, her hair tangled and the snowmen on her flannel nightie dirtied by bits of dried leaves. She told me where she’d been before I formed the question: sitting in the leaf pile behind the shed watching Sasquatch dance as the sun rose. I asked what kind of dancing. A lot of falling down and rolling, she said. You know, modern. And you watched that, I asked incredulously. My mother had loved Fred Astaire and Gene Kelley and Baryshnikov and was particular about what constituted art. She shrugged and flipped on the TV. A morning talk-show host was conducting an interview with a celebrity chef. There are two types in this world, Mom said as she flipped channels. The ones that live to be seen and the ones who are seers. Which are you, I asked. The second one, she said. Obviously. Okay, which one am I, I asked. She petted my hand gently and didn’t answer. My phone spat out several notifications then and I tried hard not to look at it. I don’t remember you being all that observant, I said. I was indignant because my brain had lit up at the thought that the notifications were to notify me of my importance and she seemed to know this. I never sleep, she said in the direction of the television, her pupils reflecting its flickering colors. 
+<br></br>“No,” I say. The backpack is outside the bathrooms on the first floor and we are about 20 yards away blocking the main entrance in case anyone wanders in three hours before the show. The only people around are vendors setting up and ticket-takers clocking in early.
 <br></br>
-<br></br>After that morning I tried to lock Mom in at night, but her brain was wily, remembering how to work locks and keys while forgetting why they might be in place. Her hands and feet were chilled and she picked up ticks from the leaves. You’ll get Lyme disease, I told her as I surveyed the contours of her body with a pair of tweezers at the ready. Or that other one where you can’t eat meat. She said she didn’t like meat much, anyway. And she didn’t get Lyme. When the trees grew bare and the leaves on the ground were dry and crunchy with frost my mother stopped going outside to look for the bigfoot. She vomited and complained of pain in her stomach and back. The scans showed that the inside of her body was full of shattered glass, cancer splintering into her pancreas, her spleen and liver, and when she said she wanted to go home, they let her. 
+<br></br>“But there could be a baby in there,” Wilson says.
 <br></br>
-<br></br>If Mom saw Sasquatch from the hospital bed set up in her living room she didn’t say so. She mistook me for her own mother twice, chastising me for putting the wrong socks on her feet and bringing her soup she didn’t want, and she spoke to my father of his great aunt’s apple pie recipe and complained that his large frame made a dent in the mattress that caused her to roll to one side. She stared out the window as flurries fell from the sky and marveled that it would snow on the Fourth of July. Or was it ashes, she wondered. When my mother slept, I sat and watched the waves of her breaths and studied her face, sweet and slack as that of a child. And when my mother was no longer there I went behind the shed, where the leaf pile was still indented with the shape of a large sleeping form. I curled up there and felt the residual warmth of a soft solid body while the unique forms of a million snowflakes fell from the vast gray sky.
+<br></br>“In the backpack?” 
+<br></br>
+<br></br>“Yeah,” he says. “You never know.” 
+<br></br>
+<br></br>“There’s no fucking baby in there.” Sometimes I think I was paired with Wilson as punishment for not retiring, that they gave me the guy who can’t even grow a mustache, who spends his breaks scrolling on his phone, who still lives with his mother. 
+<br></br>
+<br></br>“How can you always be so sure of things?” he asks, and it’s like he’s really asking me, like he sees me as some kind of sensei. I shake my head.
+<br></br>
+<br></br>We wait. No one tries to get past us.
+<br></br>
+<br></br>“It’s just,” he says, “What if there is a baby?” 
+<br></br>
+<br></br>“Oh for fuck’s sake,” I say. “Why on earth would there be a baby in a backpack at the biggest rock venue in the city?” The squad should be here any minute and then they can just blow this thing up and we can be back to walking in circles all night busting fifteen-year-olds for smoking weed. Wilson was probably one of those fifteen-year-olds a few years ago.
+<br></br>
+<br></br>“Young mother panics,” Wilson says, “Puts her baby in the backpack, and sets it where she knows someone will find it. Because she loves it, just can’t take care of it.” He looks around like he might see her, this young mother of his. He’s shifting from leg to leg, the way my old partner used to do when he was nervous. 
+<br></br>
+<br></br>I look at the backpack, which is a pretty good-sized pack. 
+<br></br>
+<br></br>“If there was a baby in there, it would be crying,” I say. Three guys come through the main entrance, laughing. They turn our way, but I plant my legs and cross my arms over my chest and shake my head at them. They turn around. 
+<br></br>
+<br></br>“Not if it’s asleep,” says Wilson, staring at the bag. 
+<br></br>
+<br></br>I actually think he’d be good in a crisis, despite that nervous rocking thing. He’s focused. Or maybe he would just freeze like Gordy did on his last night, standing outside the school while I screamed at him to pull it the fuck together.
+<br></br>
+<br></br>“Go ahead,” I say to Wilson. “Quick,” I add, and he runs to the backpack, risking his stupid life, and unzips it. 
+<br></br>
+<br></br>“No baby,” he says, with so much relief that I want to hug him.
 
 
 
@@ -68,7 +94,7 @@ Four months before she died, my mother pushed away the soup I’d served her for
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Ashley W. Cundiff is a musician and writer of essays and fiction. She has placed work in numerous literary journals, most recently Swing and Raleigh Review, and she is a reader and collaborator with Wild Roof Journal.  Ashley lives in rural Virginia with her family and can be found at <a href="https://www.thedomesticwilds.com"> www.thedomesticwilds.com</a> and <a href="https://ashleywcundiff.substack.com"> ashleywcundiff.substack.com</a>.
+    Emily Rinkema lives in northern Vermont. Her stories have recently appeared in Cutleaf, Moon City Review, Milk Candy, and Wigleaf, and have been selected for Best Small Fictions, Best Microfiction, and Best American Nonrequired Reading anthologies. You can read more at <a href="https://www.emilyrinkema.com/"> https://www.emilyrinkema.com/</a> or follow her on BS or IG @emilyrinkema.
 </p>
               </div>
           </div>

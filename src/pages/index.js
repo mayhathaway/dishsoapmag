@@ -52,7 +52,7 @@ const IndexPage = () => {
           <p className={indexStyles.posttext}>        
 the one watching my mother and I sleep, is my uncle, is named Ralph, is unimportant. My three foot frame is spread along her back. I heard my mother’s breath best this way, an ear against her spine. Slow, full, heavy, warm. I let our heartbeats—my mother’s and mine, not any third party’s— synchronize. I tried to match her breathing. I turned blue trying. 
 <br></br>
-<br></br>On the table beside the green gingham’d couch is a letter. A teacher wrote home to call me Little Quiet Child and ask my mother if I speak at all. I do and I did. I did and I do. She knew this. She laughed. I hadn’t said more than my name because I’d never been addressed. Reader, dear Reader: there is a permanent dissonance between what I want to tell you and what I can. Language: a sedative, an act of translation. 
+<br></br>On the table beside the green gingham’d couch is a letter. A teacher wrote home to call me <i>Little Quiet Child</i> and ask my mother if I speak at all. I do and I did. I did and I do. She knew this. She laughed. I hadn’t said more than my name because I’d never been addressed. Reader, dear Reader: there is a permanent dissonance between what I want to tell you and what I can. Language: a sedative, an act of translation. 
 <br></br>
 <br></br>I feel them still sometimes, both our breaths, warm and in tandem. Two decades have passed. My mother is twelve years dead, her ashes in an unsealed Ziploc in my father’s closet. I am laying on my own green couch when my own cat crawls onto my own back to sleep against my own spine. There is no one in the corner. Her breaths are twice my pace.
 

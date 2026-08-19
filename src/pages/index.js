@@ -47,18 +47,32 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Jason Fraley</h3>
-            <h1 className={indexStyles.posttitle}>This is Awkward</h1>
+            <h3 className={indexStyles.postauthor}>Anisha Arvind</h3>
+            <h1 className={indexStyles.posttitle}>simulation sickness</h1>
           <p className={indexStyles.posttext}>        
-This is my fourth trip to space this year.  I keep forgetting my mission, which is to rescue God from a windowless, brilliant corridor.  We need more than echoes but less than song.  I blame the constant white flashes: the spacecraft, my suit, the moon, the swirling galaxies.  Everything beautiful is the color of erasure.  We have not gone out far enough.  Blue bruises pierce the Earth’s cloudy gauze.  The sun is not some nameless pinprick of a star.  I keep myself occupied with synonyms: ivory, ecru, alabaster, snowflake, cream.  The commander asks us to prepare for reentry.  I press bright buttons, initiate the protocol.  I pull a small package from my pocket.  I tear it open, and the pill floats behind a ductwork crevice.  The crew looks askance at me.  I should have stayed awake during training.  I thought returning was the worst-case scenario.
-
+the heat index is hitting triple digits but your hands are ice,
+<br></br>pressing a cold can of generic seltzer against your temple.
+<br></br>it's a rendering-error summer. the sky is the color of a blank browser tab,
+<br></br>bleached out and heavy with the smell of scorched asphalt.
+<br></br>you’re wearing a thrifted graphic tee that reads <i>WISH YOU WERE HERE</i>
+<br></br>in cracked, peeling vinyl, though neither of us is sure where here actually is.
+<br></br>we listen to a podcast on 2x speed just to fill the quiet,
+<br></br>two voices talking about the deep ocean like it's a place that still exists
+<br></br>outside of a nature documentary.
+<br></br><i>everything is beautiful and nothing hurts</i>, Vonnegut promised,
+<br></br>but he never watched the streetlights blink on all at once,
+<br></br>a sudden grid of artificial amber pinning us to the pavement.
+<br></br>i watch the condensation drip down your wrist, pooling in the crook of your elbow,
+<br></br>and for a second, it feels like a physical law we didn't have to invent.
+<br></br>we stay until the air goes purple, waiting for a glitch in the horizon,
+<br></br>wanting the sky to tear open just enough to show us the wires.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-    Jason Fraley is a native West Virginian who lives, works, and periodically writes in Columbus, OH. Current and prior publications include <i>Salamander Magazine, Barrow Street, Pithead Chapel, Yalobusha Review, The Journal,</i> and <i>Okay Donkey</i>.
+     Anisha Arvind is a poet based in Seattle, Washington. Her works have been recognized by the Scholastic Art & Writing Awards, Hollins University, Aster Lit & HAD.
 </p>
               </div>
           </div>

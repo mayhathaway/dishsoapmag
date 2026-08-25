@@ -47,32 +47,28 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Anisha Arvind</h3>
-            <h1 className={indexStyles.posttitle}>simulation sickness</h1>
+            <h3 className={indexStyles.postauthor}>AJoanna Theiss</h3>
+            <h1 className={indexStyles.posttitle}>Your Dead Father on the Train from Babylon</h1>
           <p className={indexStyles.posttext}>        
-the heat index is hitting triple digits but your hands are ice,
-<br></br>pressing a cold can of generic seltzer against your temple.
-<br></br>it's a rendering-error summer. the sky is the color of a blank browser tab,
-<br></br>bleached out and heavy with the smell of scorched asphalt.
-<br></br>you’re wearing a thrifted graphic tee that reads <i>WISH YOU WERE HERE</i>
-<br></br>in cracked, peeling vinyl, though neither of us is sure where here actually is.
-<br></br>we listen to a podcast on 2x speed just to fill the quiet,
-<br></br>two voices talking about the deep ocean like it's a place that still exists
-<br></br>outside of a nature documentary.
-<br></br><i>everything is beautiful and nothing hurts</i>, Vonnegut promised,
-<br></br>but he never watched the streetlights blink on all at once,
-<br></br>a sudden grid of artificial amber pinning us to the pavement.
-<br></br>i watch the condensation drip down your wrist, pooling in the crook of your elbow,
-<br></br>and for a second, it feels like a physical law we didn't have to invent.
-<br></br>we stay until the air goes purple, waiting for a glitch in the horizon,
-<br></br>wanting the sky to tear open just enough to show us the wires.
+Looks the same as he did when you stopped by his house on your way to the train station and he handed you a cup of instant coffee turned gray from powdered milk. Same hair combed over the thinning place. Same burgundy sweater you bought him at Costco because he didn’t like to turn on the heat until November, fretting over the cost of this and that like he could take it with him, same as ever. 
+<br></br>
+<br></br>You’re blocking the other passengers but you don’t move, you don’t sip from your paper cup of station coffee because your father whose ashes you dropped into the Atlantic Ocean is gazing out the window at leafless trees and trash mantled on fences, your father whose heart stalled while he was alone in his unheated bedroom is contemplating Long Island Rail Road towns, stoplights and dry cleaners and broken-down cars on lifts. 
+<br></br>
+<br></br><i>Dad</i>, you say. <i>Hey</i>. 
+<br></br>
+<br></br>Your father looks up at you, a blurred anxiety passing over his soft brown eyes. The look says you’ve caught him, not dead, but on Long Island, on this train, commuting with the living. The woman behind you jostles your elbow yet you don’t move. This moment won’t happen again. You need to make it count, to make it worth something. 
+<br></br>
+<br></br>So you offer your paper cup to him. You hold your paper cup of coffee above your father’s lap. You jiggle the cup a few inches from his chin. 
+<br></br>
+<br></br>Your dead father on the train from Babylon pretends you are a stranger. He pretends not to need anything from you. But when you insist, when you tell him it is free, this offering from our world to his, your dead father reaches for the cup, just the same.
+
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-     Anisha Arvind is a poet based in Seattle, Washington. Her works have been recognized by the Scholastic Art & Writing Awards, Hollins University, Aster Lit & HAD.
+     Joanna Theiss (she/her) is a former lawyer living in Washington, DC. Her fiction and poetry have appeared in The Penn Review, Chautauqua, Peatsmoke Journal, Milk Candy Review, and Best Microfiction, among others. You can find links to her published works and her mosaic collages at <a href="https://www.joannatheiss.com"> www.joannatheiss.com</a>. Bluesky: <a href="https://bsky.app/joannatheiss.com"> bsky.app/joannatheiss.com</a>.
 </p>
               </div>
           </div>

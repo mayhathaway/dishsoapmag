@@ -68,7 +68,7 @@ Looks the same as he did when you stopped by his house on your way to the train 
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-     Joanna Theiss (she/her) is a former lawyer living in Washington, DC. Her fiction and poetry have appeared in The Penn Review, Chautauqua, Peatsmoke Journal, Milk Candy Review, and Best Microfiction, among others. You can find links to her published works and her mosaic collages at <a href="https://www.joannatheiss.com"> www.joannatheiss.com</a>. Bluesky: <a href="https://bsky.app/joannatheiss.com"> bsky.app/joannatheiss.com</a>.
+     Joanna Theiss (she/her) is a former lawyer living in Washington, DC. Her fiction and poetry have appeared in The Penn Review, Chautauqua, Peatsmoke Journal, Milk Candy Review, and Best Microfiction, among others. You can find links to her published works and her mosaic collages at <a href="https://www.joannatheiss.com"> www.joannatheiss.com</a>. Bluesky: <a href="https://bsky.app/profile/joannatheiss.com"> bsky.app/joannatheiss.com</a>.
 </p>
               </div>
           </div>

@@ -47,7 +47,7 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>AJoanna Theiss</h3>
+            <h3 className={indexStyles.postauthor}>Joanna Theiss</h3>
             <h1 className={indexStyles.posttitle}>Your Dead Father on the Train from Babylon</h1>
           <p className={indexStyles.posttext}>        
 Looks the same as he did when you stopped by his house on your way to the train station and he handed you a cup of instant coffee turned gray from powdered milk. Same hair combed over the thinning place. Same burgundy sweater you bought him at Costco because he didn’t like to turn on the heat until November, fretting over the cost of this and that like he could take it with him, same as ever. 

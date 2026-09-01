@@ -47,20 +47,14 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Joanna Theiss</h3>
-            <h1 className={indexStyles.posttitle}>Your Dead Father on the Train from Babylon</h1>
+            <h3 className={indexStyles.postauthor}>Nicole Brogdon</h3>
+            <h1 className={indexStyles.posttitle}>Suburban Fable</h1>
           <p className={indexStyles.posttext}>        
-Looks the same as he did when you stopped by his house on your way to the train station and he handed you a cup of instant coffee turned gray from powdered milk. Same hair combed over the thinning place. Same burgundy sweater you bought him at Costco because he didn’t like to turn on the heat until November, fretting over the cost of this and that like he could take it with him, same as ever. 
+If I’d never met you, if I’d said <i>No</i> to the blind date, No to a rendezvous at Rosie’s Tamales by the tracks, <i>No</i> to marrying you, well then, I might have wandered confused like a deer in the suburbs, seeking cover in thickets and bluestem grasses, longing for belonging, trying not to roam onto the asphalt of the new Mopac extension and get whacked by a Chevy, flattened like roadkill, buzzards dipping into my wet body with hooked beaks, reminding drivers of death as they sped past, whipping their heads towards then away, so that one of them hits a cyclist before crashing her SUV into a telephone pole. resulting in one death plus a coma—the poor families.
 <br></br>
-<br></br>You’re blocking the other passengers but you don’t move, you don’t sip from your paper cup of station coffee because your father whose ashes you dropped into the Atlantic Ocean is gazing out the window at leafless trees and trash mantled on fences, your father whose heart stalled while he was alone in his unheated bedroom is contemplating Long Island Rail Road towns, stoplights and dry cleaners and broken-down cars on lifts. 
+<br></br>And if I had sense enough not to run into traffic, and I still hadn’t met you, I might instead be rubbing my ripe pelt on trees and brush in the empty bluebonnet field behind the elementary school, scratching an itch, leaving deer sign, looking for some dancing buck with broad shoulders and a big rack to inhale me in the fall, to mount me and plant little wobbly fawns, emerging later from my brown body to stand on stick legs like helpless ballet dancers. Then of course that bastard would break up with me, and he’d wander the suburban underbrush in search of fresh meat, new baby mamas, leaving me to watch over my fawns myself, and I’d grow hairless with stress trying to stop them from wandering into backyards, shoving heads and mouths uninvited into people’s gardens to uproot tomato vines, me, trying to save my deers from mean boys and rifle play, from backhoes, rattlers, and roadways.
 <br></br>
-<br></br><i>Dad</i>, you say. <i>Hey</i>. 
-<br></br>
-<br></br>Your father looks up at you, a blurred anxiety passing over his soft brown eyes. The look says you’ve caught him, not dead, but on Long Island, on this train, commuting with the living. The woman behind you jostles your elbow yet you don’t move. This moment won’t happen again. You need to make it count, to make it worth something. 
-<br></br>
-<br></br>So you offer your paper cup to him. You hold your paper cup of coffee above your father’s lap. You jiggle the cup a few inches from his chin. 
-<br></br>
-<br></br>Your dead father on the train from Babylon pretends you are a stranger. He pretends not to need anything from you. But when you insist, when you tell him it is free, this offering from our world to his, your dead father reaches for the cup, just the same.
+<br></br>It could’ve all turned out badly, you see, instead of this life, where we’re inside scrambling eggs and chopping fresh tomatoes, only occasionally cutting a finger and drawing blood. Using our hands, sopping up this colorful mess with good bread, licking the plate. Me making sure afterwards—though you tell me, “Don’t!”—to leave the leftovers outside in a bowl for the deer, whose face, those wide-set eyes, that long chin, somehow reminds me of mine.
 
             </p>
           </div>
@@ -68,7 +62,7 @@ Looks the same as he did when you stopped by his house on your way to the train 
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-     Joanna Theiss (she/her) is a former lawyer living in Washington, DC. Her fiction and poetry have appeared in The Penn Review, Chautauqua, Peatsmoke Journal, Milk Candy Review, and Best Microfiction, among others. You can find links to her published works and her mosaic collages at <a href="https://www.joannatheiss.com"> www.joannatheiss.com</a>. Bluesky: <a href="https://bsky.app/profile/joannatheiss.com"> bsky.app/joannatheiss.com</a>.
+     Nicole Brogdon is an Austin TX trauma therapist interested in strugglers and stories, with fiction in Vestal Review, Cincinnati Rev, Cleaver, Flash Frontier, Bending Genres, Centaur, SoFloPoJo, Cafe Irreal, etc. Best Microfiction 2024, Best Microfiction 2025. Twitter: NBrogdonWrites. Bluesky: nbrogdonwrites.bsky.social.
 </p>
               </div>
           </div>

@@ -17,6 +17,7 @@ import trinity from "../images/trinity.png"
 import cam from "../images/cam.png"
 import mj from "../images/mj.png"
 import lillie from "../images/lillie.png"
+import anisha from "../images/anisha.png"
 
 
 

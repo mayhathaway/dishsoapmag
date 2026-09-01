@@ -108,6 +108,18 @@ const Masthead = () => {
             Lillie E. Franks is an author and educator who lives in Chicago, Illinois, but is normal about it. You can read her work at places like Flash Frog, Hex, and HAD or follow her on Bluesky at @lilliekoi.bsky.social. She loves anything that is not the way it should be.
             </div>
           </div>
+          <div className={mastheadStyles.div7}>
+            <div className={mastheadStyles.flex}>
+              <img src={anisha} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>Anisha Arvind</div>
+                <div className={mastheadStyles.role}>Prose Reader</div>
+              </div>
+            </div>
+            <div className={mastheadStyles.description}>
+            Anisha Arvind (she/her) is a writer based in Seattle. Her work is featured or forthcoming in Aster Lit, HAD, and Polyphony Lit, and has been honored by Hollins University. When not writing, she spends a completely reasonable amount of time watching videos of seals.
+            </div>
+          </div>
         </div>
         <div className={aboutStyles.masthead}>
           <div className={aboutStyles.piecelink}>

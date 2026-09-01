@@ -18,13 +18,9 @@
   }
 }
 
-// left side
-
 .div1 {
   grid-area: 1 / 1 / 3 / 2;
 }
-
-// right side
 
 .div6 {
   grid-area: 1 / 2 / 3 / 2;
@@ -44,6 +40,10 @@
 
 .div5 {
   grid-area: 3 / 2 / 3 / 2;
+}
+
+.div7 {
+  grid-area: 4 / 1 / 4 / 2;
 }
 
 

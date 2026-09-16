@@ -11,7 +11,7 @@ import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
-import sept15 from "../images/sept15/jpeg"
+import spt15 from "../images/spt15.jpeg"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -50,7 +50,7 @@ const IndexPage = () => {
             <h3 className={indexStyles.postauthor}>Keith Woodruff</h3>
             <h1 className={indexStyles.posttitle}>Green Music</h1>
           <p className={indexStyles.posttext}>        
-<picture> <img height src={sept15}/> </picture>
+<picture> <img height src={spt15}/> </picture>
             </p>
           </div>
           </div>

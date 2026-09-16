@@ -11,7 +11,6 @@ import soaphead from "../images/soaphead.png"
 import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
-import july22 from "../images/july22.jpeg"
 import sept15 from "../images/sept15/jpeg"
 
 const IndexPage = () => {

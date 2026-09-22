@@ -20,6 +20,69 @@ const Masthead = () => {
     <Subheader title="on display" />
     <Layout>
       <Head title="awards & nominations"/>
+
+
+      <h1 className={issueStyles.heading}>Best of the Net Nominees 2027</h1>
+      <div className={layoutStyles.mission}>
+          <div className={issueStyles.parent}>
+            <div className={issueStyles.bottomMargin}>
+
+        <Link to="/10-21-25">
+        <h2 className={archiveStyles.piecelink}>2014, reframed</h2>
+        </Link>
+        <p>Michelle Li</p>
+
+        <Link to="/3-3-26">
+        <h2 className={archiveStyles.piecelink}>Still Life With Lithium and Light</h2>
+        </Link>
+        <p>Jeffrey Heath</p>
+       
+<Link to="/2-10-26">
+            <h2 className={archiveStyles.piecelink}>Wake</h2>
+            </Link>
+            <p>Matthew DeMarco</p>
+
+<Link to="/3-10-26">
+            <h2 className={archiveStyles.piecelink}>Closure</h2>
+            </Link>
+            <p>Ashley Varela</p>
+
+            <Link to="/4-28-26">
+            <h2 className={archiveStyles.piecelink}>Scenery</h2>
+            </Link>
+            <p>Rachel Sherman</p>
+
+            <Link to="/12-2-25">
+                        <h2 className={archiveStyles.piecelink}>The Marriage</h2>
+                        </Link>
+                        <p>Elena Zhang</p>
+
+               <Link to="/5-19-26">
+               <h2 className={archiveStyles.piecelink}>Paul From the Future</h2>
+                           </Link>
+                           <p>Sarp Sozdinler</p>     
+
+         <Link to="/4-21-26">
+        <h2 className={archiveStyles.piecelink}>The Girlfriends Of The Propeller Plane Disappearance Victims</h2>
+                    </Link>
+                    <p>Dallon Robinson</p>    
+
+                     <Link to="/7-29-25/mustard/">
+                                <h2 className={archiveStyles.piecelink}>For the Love of Hot Mustard</h2>
+                                </Link>
+                                <p>Tracie Adams</p>
+            
+                          <Link to="/1-6-26">
+            <h2 className={archiveStyles.piecelink}>Description is one thing among a number of things</h2>
+                        </Link>
+                        <p>Hugh Behm-Steinberg</p>
+
+              </div>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
+
 <h1 className={issueStyles.heading}>Best New Poets Nominees 2026</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>

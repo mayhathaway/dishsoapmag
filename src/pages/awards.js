@@ -22,42 +22,6 @@ const Masthead = () => {
       <Head title="awards & nominations"/>
 
 
- <h1 className={issueStyles.heading}>Best Small Fictions Nominees 2027</h1>
-      <div className={layoutStyles.mission}>
-          <div className={issueStyles.parent}>
-            <div className={issueStyles.bottomMargin}>
-
-         <Link to="/7-7-26">
-        <h2 className={archiveStyles.piecelink}>Mom's Bigfoot</h2>
-                    </Link>
-                    <p>ashley w. cundiff</p>
-
-                     <Link to="/7-14-26">
-                    <h2 className={archiveStyles.piecelink}>Pull It Together, Wilson</h2>
-                                </Link>
-                                <p>emily rinkema</p>
-
-          <Link to="/5-19-26">
-          <h2 className={archiveStyles.piecelink}>Paul From the Future</h2>
-                      </Link>
-                      <p>sarp sozdinler</p>
-
-           <Link to="/4-7-26">
-           <h2 className={archiveStyles.piecelink}>Things I thought about while driving across the country</h2>
-                                  </Link>
-                                  <p>nick van osdol</p>
-
-          <Link to="/4-21-26">
-         <h2 className={archiveStyles.piecelink}>The Girlfriends Of The Propeller Plane Disappearance Victims</h2>
-           </Link>
-           <p>dallon robinson</p>
-
-              </div>
-            </div>
-          </div>
-          <br></br>
-          <br></br>
-
       <h1 className={issueStyles.heading}>Best of the Net Nominees 2027</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>
@@ -66,42 +30,42 @@ const Masthead = () => {
         <Link to="/10-21-25">
         <h2 className={archiveStyles.piecelink}>2014, reframed</h2>
         </Link>
-        <p>michelle li</p>
+        <p>Michelle Li</p>
 
         <Link to="/3-3-26">
         <h2 className={archiveStyles.piecelink}>Still Life With Lithium and Light</h2>
         </Link>
-        <p>jeffrey heath</p>
+        <p>Jeffrey Heath</p>
        
 <Link to="/2-10-26">
             <h2 className={archiveStyles.piecelink}>Wake</h2>
             </Link>
-            <p>matthew demarco</p>
+            <p>Matthew DeMarco</p>
 
 <Link to="/3-10-26">
             <h2 className={archiveStyles.piecelink}>Closure</h2>
             </Link>
-            <p>ashley varela</p>
+            <p>Ashley Varela</p>
 
             <Link to="/4-28-26">
             <h2 className={archiveStyles.piecelink}>Scenery</h2>
             </Link>
-            <p>rachel sherman</p>
+            <p>Rachel Sherman</p>
 
             <Link to="/12-2-25">
                         <h2 className={archiveStyles.piecelink}>The Marriage</h2>
                         </Link>
-                        <p>elena zhang</p>
+                        <p>Elena Zhang</p>
 
                <Link to="/5-19-26">
                <h2 className={archiveStyles.piecelink}>Paul From the Future</h2>
                            </Link>
-                           <p>sarp sozdinler</p>     
+                           <p>Sarp Sozdinler</p>     
 
          <Link to="/4-21-26">
         <h2 className={archiveStyles.piecelink}>The Girlfriends Of The Propeller Plane Disappearance Victims</h2>
                     </Link>
-                    <p>dallon robinson</p>    
+                    <p>Dallon Robinson</p>    
 
                      <Link to="/7-29-25/mustard/">
                                 <h2 className={archiveStyles.piecelink}>For the Love of Hot Mustard</h2>
@@ -111,7 +75,7 @@ const Masthead = () => {
                           <Link to="/1-6-26">
             <h2 className={archiveStyles.piecelink}>Description is one thing among a number of things</h2>
                         </Link>
-                        <p>hugh behm-steinberg</p>
+                        <p>Hugh Behm-Steinberg</p>
 
               </div>
             </div>
@@ -127,12 +91,12 @@ const Masthead = () => {
 <Link to="/2-10-26">
             <h2 className={archiveStyles.piecelink}>Wake</h2>
             </Link>
-            <p>matthew demarco</p>
+            <p>Matthew DeMarco</p>
 
 <Link to="/3-10-26">
             <h2 className={archiveStyles.piecelink}>Closure</h2>
             </Link>
-            <p>ashley varela</p>
+            <p>Ashley Varela</p>
 
  </div>
             </div>

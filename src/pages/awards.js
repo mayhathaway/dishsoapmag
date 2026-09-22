@@ -21,57 +21,6 @@ const Masthead = () => {
     <Layout>
       <Head title="awards & nominations"/>
 
-  <h1 className={issueStyles.heading}>Monarch Awards Nominees 2027</h1>
-      <div className={layoutStyles.mission}>
-          <div className={issueStyles.parent}>
-            <div className={issueStyles.bottomMargin}>
-
- <Link to="/6-30-26">
-<h2 className={archiveStyles.piecelink}>Lua</h2>
-            </Link>
-            <p>lane devers</p>
-
-             <Link to="/9-9-25/mars/">
-                        <h2 className={archiveStyles.piecelink}>On Mars</h2>
-                        </Link>
-                        <p>c. rivera</p>
-
-                  <Link to="/3-10-26">
-                  <h2 className={archiveStyles.piecelink}>Closure</h2>
-                              </Link>
-                              <p>ashley varela</p>
-
-                        <Link to="/11-25-25">
-                                    <h2 className={archiveStyles.piecelink}>fossils</h2>
-                                    </Link>
-                                    <p>k.m. hanslik</p>      
-
-                     <Link to="/6-23-26">
-                    <h2 className={archiveStyles.piecelink}>Waiting on a Dream</h2>
-                                </Link>
-                                <p>tara manshon</p>
-
-                                <Link to="/1-20-26">
-                                <h2 className={archiveStyles.piecelink}>The Great Metro Detroit Flood</h2>
-                                            </Link>
-                                            <p>shea socrates</p>
-
-                  <Link to="/2-3-26">
-                  <h2 className={archiveStyles.piecelink}>Kijiji Couch</h2>
-                   </Link>
-                   <p>lindsay mcdonald</p>
-
-                     <Link to="/6-16-26">
-                   <h2 className={archiveStyles.piecelink}>My cat sits on me, incubating Sad-Away</h2>
-                               </Link>
-                               <p>thanh bui</p>
-
-
-              </div>
-            </div>
-          </div>
-          <br></br>
-          <br></br>
 
  <h1 className={issueStyles.heading}>Best Small Fictions Nominees 2027</h1>
       <div className={layoutStyles.mission}>

@@ -135,7 +135,6 @@ const Masthead = () => {
             Anisha Arvind (she/her) is a writer based in Seattle. Her work is featured or forthcoming in Aster Lit, HAD, and Polyphony Lit, and has been honored by Hollins University. When not writing, she spends a completely reasonable amount of time watching videos of seals.
             </div>
           </div>
-        </div>
         <div className={aboutStyles.masthead}>
           <div className={aboutStyles.piecelink}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>

@@ -50,16 +50,17 @@ const Post = props => {
       <Subheader title={props.data.contentfulPost.type} />
       <Layout>
         <Head title={props.data.contentfulPost.title} />
-        <div
-          className={`${postStyles.mission} ${props.data.contentfulPost.justifyText ? postStyles.justify : ""}`}
+        <div className={postStyles.mission}
           id={props.data.contentfulPost.type === "art" ? postStyles.artMission : null}
         >
           <h3>{props.data.contentfulPost.author}</h3>
           <h1>{props.data.contentfulPost.title}</h1>
-          {documentToReactComponents(
+          <div className={`${postStyles.mission} ${props.data.contentfulPost.justifyText ? postStyles.justify : ""}`}>
+            {documentToReactComponents(
             props.data.contentfulPost.body.json,
             options
           )}
+          </div>
         </div>
         <div className={postStyles.row}>
           <div>

@@ -55,7 +55,7 @@ const Post = props => {
         >
           <h3>{props.data.contentfulPost.author}</h3>
           <h1>{props.data.contentfulPost.title}</h1>
-          <p className={`${postStyles.mission} ${props.data.contentfulPost.justifyText ? postStyles.justify : ""}`}>
+          <p className={props.data.contentfulPost.justifyText ? postStyles.justify : ""}>
             {documentToReactComponents(
               props.data.contentfulPost.body.json,
               options

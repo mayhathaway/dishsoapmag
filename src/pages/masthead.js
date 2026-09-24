@@ -18,6 +18,7 @@ import cam from "../images/cam.png"
 import mj from "../images/mj.png"
 import lillie from "../images/lillie.png"
 import anisha from "../images/anisha.png"
+import michelle from "../images/michelle.png"
 
 
 
@@ -114,6 +115,19 @@ const Masthead = () => {
               <img src={anisha} alt="website logo" />
               <div className={mastheadStyles.badges}>
                 <div className={mastheadStyles.name}>Anisha Arvind</div>
+                <div className={mastheadStyles.role}>Prose Reader</div>
+              </div>
+            </div>
+            <div className={mastheadStyles.description}>
+            Anisha Arvind (she/her) is a writer based in Seattle. Her work is featured or forthcoming in Aster Lit, HAD, and Polyphony Lit, and has been honored by Hollins University. When not writing, she spends a completely reasonable amount of time watching videos of seals.
+            </div>
+          </div>
+        </div>
+        <div className={mastheadStyles.div8}>
+            <div className={mastheadStyles.flex}>
+              <img src={michelle} alt="website logo" />
+              <div className={mastheadStyles.badges}>
+                <div className={mastheadStyles.name}>Michelle</div>
                 <div className={mastheadStyles.role}>Prose Reader</div>
               </div>
             </div>

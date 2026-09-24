@@ -122,7 +122,6 @@ const Masthead = () => {
             Anisha Arvind (she/her) is a writer based in Seattle. Her work is featured or forthcoming in Aster Lit, HAD, and Polyphony Lit, and has been honored by Hollins University. When not writing, she spends a completely reasonable amount of time watching videos of seals.
             </div>
           </div>
-        </div>
         <div className={mastheadStyles.div8}>
             <div className={mastheadStyles.flex}>
               <img src={michelle} alt="website logo" />
@@ -135,6 +134,7 @@ const Masthead = () => {
             李奕轩/Michelle Li has been nationally recognized by Scholastic Art and Writing, Bennington Young Writers Awards, and Narrative Magazine. An alumna of the Kenyon Review Young Writers Workshop and the Adroit Summer Mentorship, her work is forthcoming or published in Up the Staircase Quarterly, The Penn Review, and Frontier Poetry. She plays violin and piano, loves Rachmaninoff, blackberries, and the rain.
             </div>
           </div>
+        </div>
         <div className={aboutStyles.masthead}>
           <div className={aboutStyles.piecelink}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSerUP1Hf7_LxgCbvaN5MmoAgb_MUsrzNUH6u407YzONJcAxhw/viewform?usp=header">staff applications are currently open!</a>

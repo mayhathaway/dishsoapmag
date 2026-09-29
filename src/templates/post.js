@@ -56,7 +56,7 @@ const Post = props => {
         >
           <h3>{contentfulPost.author}</h3>
           <h1>{contentfulPost.title}</h1>
-          <div style={contentfulPost.justifyText ? { textAlign: "justify" } : undefined}>
+          <div className={contentfulPost.justifyText ? postStyles.justify : undefined}>
             {documentToReactComponents(
               contentfulPost.body.json,
               options

@@ -38,29 +38,30 @@ const Post = props => {
       }
     },
     renderText: text =>
-      //text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text]) // put [sp] in contentful to add a non-removable space
-      //text.replace(/\[tab\]/g,'&emsp;').split("\n").flatMap((text, i) => [i > 0 && <br />, text])
       text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text.split("\n").flatMap((text, i) => [i > 0 && <br />, text])]).flat()
   }
+
+  const { contentfulPost } = props.data
 
   return (
     <>
       <MobileNav />
       <Nav />
-      <Subheader title={props.data.contentfulPost.type} />
+      <Subheader title={contentfulPost.type} />
       <Layout>
-        <Head title={props.data.contentfulPost.title} />
-        <div className={postStyles.mission}
-          id={props.data.contentfulPost.type === "art" ? postStyles.artMission : null}
+        <Head title={contentfulPost.title} />
+        <div 
+          className={postStyles.mission}
+          id={contentfulPost.type === "art" ? postStyles.artMission : null}
         >
-          <h3>{props.data.contentfulPost.author}</h3>
-          <h1>{props.data.contentfulPost.title}</h1>
-          <p style={props.data.contentfulPost.justifyText === true ? "text-align: justify;" : ''}>
+          <h3>{contentfulPost.author}</h3>
+          <h1>{contentfulPost.title}</h1>
+          <div className={contentfulPost.justifyText ? postStyles.justify : undefined}>
             {documentToReactComponents(
-              props.data.contentfulPost.body.json,
+              contentfulPost.body.json,
               options
             )}
-          </p>
+          </div>
         </div>
         <div className={postStyles.row}>
           <div>
@@ -70,14 +71,14 @@ const Post = props => {
           </div>
 
           <div className={postStyles.nameplate}>
-            <Link to={props.data.contentfulPost.nextSlug} className={props.data.contentfulPost.nextSlug === "/" ? postStyles.inactiveLink : null}>
-              {props.data.contentfulPost.nextTitleAndAuthor}
+            <Link to={contentfulPost.nextSlug} className={contentfulPost.nextSlug === "/" ? postStyles.inactiveLink : null}>
+              {contentfulPost.nextTitleAndAuthor}
             </Link>
           </div>
         </div>
         <div className={postStyles.mission2}>
             {documentToReactComponents(
-              props.data.contentfulPost.bio.json,
+              contentfulPost.bio.json,
               options
             )}
           </div>

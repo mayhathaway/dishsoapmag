@@ -130,7 +130,8 @@
 }
 
 .justify {
-  div {
+  p {
     text-align: justify;
+    hyphens: auto;
   }
 }

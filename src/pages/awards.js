@@ -123,52 +123,52 @@ const Masthead = () => {
         <Link to="/10-21-25">
         <h2 className={archiveStyles.piecelink}>2014, reframed</h2>
         </Link>
-        <p>Michelle Li</p>
+        <p>michelle li</p>
 
         <Link to="/3-3-26">
         <h2 className={archiveStyles.piecelink}>Still Life With Lithium and Light</h2>
         </Link>
-        <p>Jeffrey Heath</p>
+        <p>jeffrey heath</p>
        
 <Link to="/2-10-26">
             <h2 className={archiveStyles.piecelink}>Wake</h2>
             </Link>
-            <p>Matthew DeMarco</p>
+            <p>matthew demarco</p>
 
 <Link to="/3-10-26">
             <h2 className={archiveStyles.piecelink}>Closure</h2>
             </Link>
-            <p>Ashley Varela</p>
+            <p>ashley varela</p>
 
             <Link to="/4-28-26">
             <h2 className={archiveStyles.piecelink}>Scenery</h2>
             </Link>
-            <p>Rachel Sherman</p>
+            <p>rachel sherman</p>
 
             <Link to="/12-2-25">
                         <h2 className={archiveStyles.piecelink}>The Marriage</h2>
                         </Link>
-                        <p>Elena Zhang</p>
+                        <p>elena zhang</p>
 
                <Link to="/5-19-26">
                <h2 className={archiveStyles.piecelink}>Paul From the Future</h2>
                            </Link>
-                           <p>Sarp Sozdinler</p>     
+                           <p>sarp sozdinler</p>     
 
          <Link to="/4-21-26">
         <h2 className={archiveStyles.piecelink}>The Girlfriends Of The Propeller Plane Disappearance Victims</h2>
                     </Link>
-                    <p>Dallon Robinson</p>    
+                    <p>dallon robinson</p>    
 
                      <Link to="/7-29-25/mustard/">
                                 <h2 className={archiveStyles.piecelink}>For the Love of Hot Mustard</h2>
                                 </Link>
-                                <p>Tracie Adams</p>
+                                <p>tracie adams</p>
             
                           <Link to="/1-6-26">
             <h2 className={archiveStyles.piecelink}>Description is one thing among a number of things</h2>
                         </Link>
-                        <p>Hugh Behm-Steinberg</p>
+                        <p>hugh behm-steinberg</p>
 
               </div>
             </div>

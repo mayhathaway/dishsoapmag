@@ -20,7 +20,7 @@ const Masthead = () => {
     <Layout>
       <Head title="awards & nominations"/>
 
-  <h1 className={issueStyles.heading}>Monarch Queer Literary Aawards Nominees 2027</h1>
+  <h1 className={issueStyles.heading}>Monarch Awards Nominees 2027</h1>
       <div className={layoutStyles.mission}>
           <div className={issueStyles.parent}>
             <div className={issueStyles.bottomMargin}>

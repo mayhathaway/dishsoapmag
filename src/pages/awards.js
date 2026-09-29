@@ -184,12 +184,12 @@ const Masthead = () => {
 <Link to="/2-10-26">
             <h2 className={archiveStyles.piecelink}>Wake</h2>
             </Link>
-            <p>Matthew DeMarco</p>
+            <p>matthew demarco</p>
 
 <Link to="/3-10-26">
             <h2 className={archiveStyles.piecelink}>Closure</h2>
             </Link>
-            <p>Ashley Varela</p>
+            <p>ashley varela</p>
 
  </div>
             </div>

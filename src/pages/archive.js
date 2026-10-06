@@ -31,7 +31,6 @@ const Masthead = () => {
 <h2 className={archiveStyles.piecelink}>Keep This Machine Running</h2>
             </Link>
             <p>nick porisch</p>
-
               </div>
             </div>
           </div>

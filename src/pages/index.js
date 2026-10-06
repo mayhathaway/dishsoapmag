@@ -60,13 +60,14 @@ And I said, okay I can do that. And they said, okay then you have the job. Can y
 <br></br>
 <br></br>Now, the great thing about this job is that it’s a hands job and not a brains job. I don’t have to worry about “products” or “sales numbers” or “what the machine is for.” I show up in the morning, and the foreman gives me a set of maintenance instructions. For example,
 <br></br>
+
 <ul>
   <li>Turn knob 24024 to the right 19 degrees.</li>
   <li>Lower the pressure in tank 7B by 218 PSI.</li>
   <li>Raise the pressure in tank Alpha by 4 PSI.</li>
   <li>Flip levers 9.A and 4.C up, but do not touch levers 9.B or 8.A.</li>
 </ul>
-<br></br>
+
 <br></br>And so forth! All in a day’s work.
 <br></br>
 <br></br>Some perks of the job include working alone. I like people as much as the next guy, but not as much as someone who likes people a lot like the mayor or a rock star. I see the foreman when I clock in and clock out, and he tells me there’s a night shift employee too, but between the hours of 9 AM and 5 PM it’s just me and the machine in that big ole concrete-and-corrugated-metal facility down by the railyard. Me and the machine. I think I’ll listen to a lot of baseball on my radio headphones, if the foreman approves it. 

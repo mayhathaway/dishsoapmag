@@ -60,6 +60,7 @@ And I said, okay I can do that. And they said, okay then you have the job. Can y
 <br></br>
 <br></br>Now, the great thing about this job is that it’s a hands job and not a brains job. I don’t have to worry about “products” or “sales numbers” or “what the machine is for.” I show up in the morning, and the foreman gives me a set of maintenance instructions. For example,
 <br></br>
+<br></br>
 
 <ul>
   <li>Turn knob 24024 to the right 19 degrees.</li>

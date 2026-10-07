@@ -69,7 +69,7 @@ And I said, okay I can do that. And they said, okay then you have the job. Can y
   <li>Flip levers 9.A and 4.C up, but do not touch levers 9.B or 8.A.</li>
 </ul>
 
-<br></br>And so forth! All in a day’s work.
+And so forth! All in a day’s work.
 <br></br>
 <br></br>Some perks of the job include working alone. I like people as much as the next guy, but not as much as someone who likes people a lot like the mayor or a rock star. I see the foreman when I clock in and clock out, and he tells me there’s a night shift employee too, but between the hours of 9 AM and 5 PM it’s just me and the machine in that big ole concrete-and-corrugated-metal facility down by the railyard. Me and the machine. I think I’ll listen to a lot of baseball on my radio headphones, if the foreman approves it. 
 <br></br>

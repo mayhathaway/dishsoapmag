@@ -19,6 +19,7 @@ export const query = graphql`
       author
       type
       justifyText
+      width
       nextTitleAndAuthor
       nextSlug
       bio {
@@ -27,6 +28,7 @@ export const query = graphql`
     }
   }
 `
+
 
 const Post = props => {
   const options = {
@@ -55,7 +57,7 @@ const Post = props => {
         >
           <h3>{contentfulPost.author}</h3>
           <h1>{contentfulPost.title}</h1>
-          <div className={contentfulPost.justifyText ? postStyles.justify : undefined}>
+          <div className={contentfulPost.justifyText ? postStyles.justify : undefined} style="width={{  postStyles.width  }}%;">
             {documentToReactComponents(
               contentfulPost.body.json,
               options

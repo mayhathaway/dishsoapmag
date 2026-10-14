@@ -15,7 +15,7 @@ import spt15 from "../images/spt15.jpeg"
 
 export const query = graphql`
   query($slug: String!) {
-    contentfulPost(slug: { eq: $slug }) {
+    contentfulPost(slug: '/10-13-26') {
       title
       body {
         json
@@ -66,7 +66,6 @@ const IndexPage = () => {
       }
     },
     renderText: text =>
-      //Fix
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
         segment.split("\n").flatMap((line, j, linesArray) => {

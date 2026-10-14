@@ -128,13 +128,10 @@
     padding: 0.5rem; // Adjust padding for smaller screens
   }
 }
-//Comment
 .justify {
   p {
     text-align: justify;
-    text-align-last: justify;
+    text-align-last: left;
     hyphens: auto;
-    display: flex;
-    justify-content: center;
   }
 }

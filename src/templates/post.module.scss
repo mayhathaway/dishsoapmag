@@ -137,16 +137,7 @@
 .justify .line {
   display: block;     
   text-align: justify;
-}
-
-.justify .line::after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-  height: 0px;
-  line-height: 1px;
-  font-size: 0px;
-  vertical-align: top; 
+  text-justify:distribute;
 }
 
 .justify .line:last-child {

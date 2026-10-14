@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
-import { documentToReactComponents } from "@contentful/rich-text-react-renderer" // Fixed: Added missing import
+import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
 import cx from "classnames"
 import Footer from "../components/footer"
 import Head from "../components/head"
@@ -8,7 +8,7 @@ import Nav from "../components/nav"
 import MobileNav from "../components/mobileNav"
 import indexStyles from "./index.module.scss"
 import layoutStyles from "../components/layout.module.scss"
-import postStyles from "./post.module.scss" // Fixed: Added missing styles import (adjust path if needed)
+import postStyles from "./post.module.scss"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -16,7 +16,7 @@ const IndexPage = () => {
       contentfulPost(slug: { eq: "/10-13-26" }) {
         title
         body {
-          json
+          raw # Note: Modern Gatsby Contentful plugins use 'raw' instead of 'json'
         }
         author
         type
@@ -25,7 +25,7 @@ const IndexPage = () => {
         nextTitleAndAuthor
         nextSlug
         bio {
-          json
+          raw
         }
       }
       allContentfulBlogPost(
@@ -50,33 +50,41 @@ const IndexPage = () => {
 
   const { contentfulPost } = data
 
+  if (!contentfulPost) {
+    return <div>Loading...</div>
+  }
+
   const options = {
     renderNode: {
       "embedded-asset-block": node => {
-        const alt = node.data.target.fields.title["en-US"]
-        const url = node.data.target.fields.file["en-US"].url
+        const alt = node.data?.target?.fields?.title?.["en-US"] || "Asset"
+        const url = node.data?.target?.fields?.file?.["en-US"]?.url
+        
+        if (!url) return null
+
         return (
-          <img
-            alt={alt}
-            src={url}
-            className={contentfulPost.type === "art" ? postStyles.art : null}
+          <img 
+            alt={alt} 
+            src={url} 
+            className={contentfulPost.type === "art" ? postStyles.art : undefined} 
           />
         )
       },
     },
-    renderText: text =>
+    renderText: text => 
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
-        segment.split("\n").flatMap((line, j, linesArray) => {
+        ...segment.split("\n").flatMap((line, j, linesArray) => {
           const isLastLine = j === linesArray.length - 1
           const hasLeftAlignToken = line.includes("\\L")
           const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line
+          
           return (
-            <span
-              key={`line-${j}`}
-              style={{
-                textAlign: hasLeftAlignToken ? "left" : "inherit",
-                display: "block",
+            <span 
+              key={`line-${j}`} 
+              style={{ 
+                textAlign: hasLeftAlignToken ? "left" : "inherit", 
+                display: "block", 
               }}
             >
               {cleanLine}
@@ -87,6 +95,8 @@ const IndexPage = () => {
       ]),
   }
 
+  const bodyData = contentfulPost.body?.raw ? JSON.parse(contentfulPost.body.raw) : contentfulPost.body?.json
+
   return (
     <div>
       <Head title="home" />
@@ -96,23 +106,36 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={cx(layoutStyles.content, indexStyles.new)}>
             <div className={indexStyles.missiontwo}>
-              <h3 className={indexStyles.postauthor}>Amy Allen</h3>
-              <h1 className={indexStyles.posttitle}>Let’s Keep it Online</h1>
+              {/* Dynamic Author and Title from your Contentful Post */}
+              <h3 className={indexStyles.postauthor}>{contentfulPost.author || "Amy Allen"}</h3>
+              <h1 className={indexStyles.posttitle}>{contentfulPost.title}</h1>
+              
               <div className={indexStyles.posttext}>
-                <div
-                  className={contentfulPost.justifyText ? postStyles.justify : undefined}
-                  style={{ width: `${contentfulPost.width}%` }}
+                <div 
+                  className={contentfulPost.justifyText ? postStyles.justify : undefined} 
+                  style={{ width: contentfulPost.width ? `${contentfulPost.width}%` : "100%" }}
                 >
-                  {documentToReactComponents(contentfulPost.body.json, options)}
+                  {bodyData && documentToReactComponents(bodyData, options)}
                 </div>
               </div>
             </div>
           </div>
+          
           <div className={layoutStyles.content}>
             <div className={indexStyles.missiontwo}>
-              <p>
-                Amy Allen writes in Shelburne, Vermont, where she serves as the town's Poet Laureate. Her work has appeared in numerous literary journals and includes a story selected for Best Microfiction 2026. It has also been nominated for the Pushcart Prize and Best of the Net. She is the author of the poetry chapbook Mountain Offerings. When she's not writing, you can find her outside, looking for stories.
-              </p>
+              {contentfulPost.bio?.raw || contentfulPost.bio?.json ? (
+                documentToReactComponents(
+                  contentfulPost.bio.raw ? JSON.parse(contentfulPost.bio.raw) : contentfulPost.bio.json
+                )
+              ) : (
+                <p>
+                  Amy Allen writes in Shelburne, Vermont, where she serves as the town's Poet Laureate. 
+                  Her work has appeared in numerous literary journals and includes a story selected for 
+                  Best Microfiction 2026. It has also been nominated for the Pushcart Prize and Best of the Net. 
+                  She is the author of the poetry chapbook Mountain Offerings. When she's not writing, 
+                  you can find her outside, looking for stories.
+                </p>
+              )}
             </div>
           </div>
         </div>

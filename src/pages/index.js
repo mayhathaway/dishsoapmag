@@ -13,31 +13,24 @@ import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
 
-export const query = graphql`
-  query {
-    contentfulPost(slug: { eq: '/10-13-26' }) {
-      title
-      body {
-        json
-      }
-      author
-      type
-      justifyText
-      width
-      nextTitleAndAuthor
-      nextSlug
-      bio {
-        json
-      }
-    }
-  }
-`
-
-
-
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
     query {
+      contentfulPost(slug: { eq: "/10-13-26" }) {
+        title
+        body {
+          json
+        }
+        author
+        type
+        justifyText
+        width
+        nextTitleAndAuthor
+        nextSlug
+        bio {
+          json
+        }
+      }
       allContentfulBlogPost(
         sort: { fields: publishedDate, order: DESC }
         limit: 4
@@ -57,38 +50,45 @@ const IndexPage = () => {
       }
     }
   `)
+
   const options = {
     renderNode: {
       "embedded-asset-block": node => {
         const alt = node.data.target.fields.title["en-US"]
         const url = node.data.target.fields.file["en-US"].url
-        return <img alt={alt} src={url} className={props.data.contentfulPost.type === "art" ? postStyles.art : null} />
-      }
+        return (
+          <img
+            alt={alt}
+            src={url}
+            className={data.contentfulPost.type === "art" ? postStyles.art : null}
+          />
+        )
+      },
     },
     renderText: text =>
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
         segment.split("\n").flatMap((line, j, linesArray) => {
-          const isLastLine = j === linesArray.length - 1;
-          const hasLeftAlignToken = line.includes("\\L");
+          const isLastLine = j === linesArray.length - 1
+          const hasLeftAlignToken = line.includes("\\L")
+          const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line
 
-          // Clean the token out of the text if it's present
-          const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line;
-
-          const lineContent = hasLeftAlignToken ? (
-            <span style={{ display: 'block', textAlign: 'left', textAlignLast: 'left', }}>{cleanLine}</span>
-          ) : (
-            cleanLine
-          );
-
-          return j > 0 ? [<br key={`br-${j}`} />, lineContent] : [lineContent];
-        })
-      ]).flat()
+          return (
+            <span
+              key={`line-${j}`}
+              style={{
+                textAlign: hasLeftAlignToken ? "left" : "inherit",
+                display: "block",
+              }}
+            >
+              {cleanLine}
+              {!isLastLine && <br />}
+            </span>
+          )
+        }),
+      ]),
   }
 
-
-  // if just putting &nbsp; doesn't work, use <span>&nbsp;</span>
-  // &nbsp; => space, &ensp; => two spaces, &emsp; => four spaces (tab)//
   return (
     <div>
       <Head title="home" />

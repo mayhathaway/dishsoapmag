@@ -107,7 +107,7 @@ const IndexPage = () => {
               <h3 className={indexStyles.postauthor}>Amy Allen</h3>
               <h1 className={indexStyles.posttitle}>Let’s Keep it Online</h1>
               <p className={indexStyles.posttext}>
-                <div className={contentfulPost.justifyText ? postStyles.justify : undefined} style={{ width: `${contentfulPost.width}%` }}>
+                <div className={contentfulPost.justifyText ? postStyles.justify : undefined}>
                   {documentToReactComponents(
                     contentfulPost.body.json,
                     options

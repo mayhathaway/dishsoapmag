@@ -40,7 +40,7 @@ const Post = props => {
       }
     },
     renderText: text =>
-
+        //Fix
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
         segment.split("\n").flatMap((line, j, linesArray) => {

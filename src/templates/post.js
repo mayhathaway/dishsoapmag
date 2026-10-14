@@ -40,10 +40,27 @@ const Post = props => {
       }
     },
     renderText: text =>
-      
-      text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text.split("\n").flatMap((line, j) => [j > 0 ? <br /> : null, line])]).flat()
+
+      text.split("[sp]").flatMap((segment, i) => [
+        i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
+        segment.split("\n").flatMap((line, j, linesArray) => {
+          const isLastLine = j === linesArray.length - 1;
+          const hasLeftAlignToken = line.includes("\\L");
+
+          // Clean the token out of the text if it's present
+          const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line;
+
+          const lineContent = hasLeftAlignToken ? (
+            <span style={{ display: 'block', textAlign: 'left' }}>{cleanLine}</span>
+          ) : (
+            cleanLine
+          );
+
+          return j > 0 ? [<br key={`br-${j}`} />, lineContent] : [lineContent];
+        })
+      ]).flat()
   }
-  
+
   const { contentfulPost } = props.data
   return (
     <>
@@ -52,7 +69,7 @@ const Post = props => {
       <Subheader title={contentfulPost.type} />
       <Layout>
         <Head title={contentfulPost.title} />
-        <div 
+        <div
           className={postStyles.mission}
           id={contentfulPost.type === "art" ? postStyles.artMission : null}
         >
@@ -79,11 +96,11 @@ const Post = props => {
           </div>
         </div>
         <div className={postStyles.mission2}>
-            {documentToReactComponents(
-              contentfulPost.bio.json,
-              options
-            )}
-          </div>
+          {documentToReactComponents(
+            contentfulPost.bio.json,
+            options
+          )}
+        </div>
       </Layout>
     </>
   )

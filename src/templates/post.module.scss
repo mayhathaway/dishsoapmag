@@ -138,10 +138,10 @@
   }
 }
 
-.space {
-  display: block;
-  width: 100%;
+.space { 
+  position: absolute;
   height: 0;
+  width: 0;
 }
 
 .justify:last-child {

@@ -71,27 +71,25 @@ const IndexPage = () => {
       },
     },
     renderText: text =>
+        //Fix
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
         segment.split("\n").flatMap((line, j, linesArray) => {
-          const isLastLine = j === linesArray.length - 1
-          const hasLeftAlignToken = line.includes("\\L")
-          const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line
+          const isLastLine = j === linesArray.length - 1;
+          const hasLeftAlignToken = line.includes("\\L");
 
-          return (
-            <span
-              key={`line-${j}`}
-              style={{
-                textAlign: hasLeftAlignToken ? "left" : "inherit",
-                display: "block",
-              }}
-            >
-              {cleanLine}
-              {!isLastLine && <br />}
-            </span>
-          )
-        }),
-      ]),
+          // Clean the token out of the text if it's present
+          const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line;
+
+          const lineContent = hasLeftAlignToken ? (
+            <span style={{ display: 'block', textAlign: 'left', textAlignLast: 'left', }}>{cleanLine}</span>
+          ) : (
+            cleanLine
+          );
+
+          return j > 0 ? [<br key={`br-${j}`} />, lineContent] : [lineContent];
+        })
+      ]).flat()
   }
 
  const { contentfulPost } = data

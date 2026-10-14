@@ -138,6 +138,10 @@
   }
 }
 
+.justify.space {
+    white-space: pre;
+}
+
 .justify:last-child {
   p {
     text-align: justify;

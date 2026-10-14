@@ -42,7 +42,7 @@ const Post = props => {
   }
 
   const { contentfulPost } = props.data
-  //Temp comment
+  //T
   return (
     <>
       <MobileNav />

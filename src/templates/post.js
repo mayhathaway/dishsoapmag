@@ -57,7 +57,7 @@ const Post = props => {
         >
           <h3>{contentfulPost.author}</h3>
           <h1>{contentfulPost.title}</h1>
-          <div className={contentfulPost.justifyText ? postStyles.justify : undefined} style="width={{  postStyles.width  }}%;">
+          <div className={contentfulPost.justifyText ? postStyles.justify : undefined} style="width={{  contentfulPost.width  }}%;">
             {documentToReactComponents(
               contentfulPost.body.json,
               options

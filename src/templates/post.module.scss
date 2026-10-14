@@ -131,8 +131,6 @@
 
 .justify {
   p {
-    display: grid;
-    justify-content: space-between;
     hyphens: auto;
     text-align: justify;
     text-justify: inter-word;
@@ -140,10 +138,10 @@
   }
 }
 
-.space { 
-  position: absolute;
+.space:after {
+  display: block;
+  width: 100%;
   height: 0;
-  width: 0;
 }
 
 .justify:last-child {

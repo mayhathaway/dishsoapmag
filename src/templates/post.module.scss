@@ -131,7 +131,20 @@
 
 .justify {
   p {
-    text-align: justify;
     hyphens: auto;
   }
+}
+.justify .line {
+  display: block;     
+  text-align: justify;
+}
+
+.justify .line::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+.justify .line:last-child {
+  text-align: left;
 }

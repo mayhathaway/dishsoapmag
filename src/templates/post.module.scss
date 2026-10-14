@@ -131,6 +131,8 @@
 
 .justify {
   p {
+    display: grid;
+    justify-content: space-between;
     hyphens: auto;
     text-align: justify;
     text-justify: inter-word;

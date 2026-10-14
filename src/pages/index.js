@@ -12,7 +12,7 @@ import layoutStyles from "../components/layout.module.scss"
 import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
-import postStyles from "./post.module.scss"
+import postStyles from "dishsoapmag/src/templates/post.module.scss"
 
 const IndexPage = () => {
 

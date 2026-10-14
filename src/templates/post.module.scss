@@ -134,6 +134,7 @@
     text-align: justify;
     text-align-last: justify;
     hyphens: auto;
-    justify-content: center; 
+    display: flex;
+    justify-content: center;
   }
 }

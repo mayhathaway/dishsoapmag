@@ -134,22 +134,7 @@
     hyphens: auto;
   }
 }
-.justify .line {
-  display: block;     
-  text-align: justify;
-  text-justify:distribute;
-}
 
-.justify .line::after {
-  content: "";
-  display: inline-block;
-  width: 100%;
-  height: 0px;
-  line-height: 1px;
-  font-size: 0px;
-  vertical-align: top; 
-}
-
-.justify .line:last-child {
+.justify:last-child {
   text-align: left;
 }

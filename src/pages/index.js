@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import cx from "classnames"
+import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
 
 import Footer from "../components/footer"
 import Head from "../components/head"
@@ -13,6 +14,7 @@ import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
 import postStyles from "../templates/post.module.scss"
+
 
 const IndexPage = () => {
 

@@ -13,7 +13,7 @@ import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
 
-const IndexPage = () => {
+const IndexPage = props => {
   const data = useStaticQuery(graphql`
     query {
       contentfulPost(slug: { eq: "/10-13-26" }) {
@@ -52,19 +52,13 @@ const IndexPage = () => {
   `)
 
   const options = {
-    renderNode: {
-      "embedded-asset-block": node => {
-        const alt = node.data.target.fields.title["en-US"]
-        const url = node.data.target.fields.file["en-US"].url
-        return (
-          <img
-            alt={alt}
-            src={url}
-            className={data.contentfulPost.type === "art" ? postStyles.art : null}
-          />
-        )
+      renderNode: {
+        "embedded-asset-block": node => {
+          const alt = node.data.target.fields.title["en-US"]
+          const url = node.data.target.fields.file["en-US"].url
+          return <img alt={alt} src={url} className={props.data.contentfulPost.type === "art" ? postStyles.art : null} />
+        }
       },
-    },
     renderText: text =>
       text.split("[sp]").flatMap((segment, i) => [
         i > 0 && <span key={`sp-${i}`}>&nbsp;</span>,
@@ -88,6 +82,8 @@ const IndexPage = () => {
         }),
       ]),
   }
+
+  const { contentfulPost } = props.data
 
   return (
     <div>

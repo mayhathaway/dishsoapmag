@@ -51,7 +51,7 @@ const Post = props => {
           const cleanLine = hasLeftAlignToken ? line.replace("\\L", "") : line;
 
           const lineContent = hasLeftAlignToken ? (
-            <span style={{ display: 'block', textAlign: 'left' }}>{cleanLine}</span>
+            <span style={{ display: 'block', textAlign: 'left', textAlignLast: 'justify', }}>{cleanLine}</span>
           ) : (
             cleanLine
           );

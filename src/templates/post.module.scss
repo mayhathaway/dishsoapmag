@@ -137,16 +137,3 @@
     text-align-last: justify;
   }
 }
-
-.space:after {
-  display: block;
-  width: 100%;
-  height: 0;
-}
-
-.justify:last-child {
-  span {
-    text-align: justify;
-    text-align-last: left;
-  }
-}

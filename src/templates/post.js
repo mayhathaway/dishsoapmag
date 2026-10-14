@@ -41,7 +41,7 @@ const Post = props => {
     },
     renderText: text =>
       
-      text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text.split("\n").flatMap((line, j) => [j > 0 ? <span className={postStyles.space} key={`text-${i}-${j}`}>{line}</span> : null])]).flat()
+      text.split("[sp]").flatMap((text, i) => [i > 0 && <span>&nbsp;</span>, text.split("\n").flatMap((line, j) => [j > 0 ? <br /> : null, line])]).flat()
   }
   
   const { contentfulPost } = props.data

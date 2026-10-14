@@ -13,8 +13,8 @@ import aboutStyles from "./about.module.scss"
 import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
 
-const IndexPage = props => {
-  const data = useStaticQuery(graphql`
+
+const data = useStaticQuery(graphql`
     query {
       contentfulPost(slug: { eq: "/10-13-26" }) {
         title
@@ -51,6 +51,7 @@ const IndexPage = props => {
     }
   `)
 
+const IndexPage = props => {
   const options = {
       renderNode: {
         "embedded-asset-block": node => {

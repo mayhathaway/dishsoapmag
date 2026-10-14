@@ -138,7 +138,7 @@
   }
 }
 
-.justify.space {
+.justify.space::after {
     content: "\A";
     white-space: pre;
 }

@@ -14,8 +14,8 @@ import mar10 from "../images/mar10.jpeg"
 import spt15 from "../images/spt15.jpeg"
 
 export const query = graphql`
-  query($slug: String!) {
-    contentfulPost(slug: '/10-13-26') {
+  query {
+    contentfulPost(slug: { eq: '/10-13-26' }) {
       title
       body {
         json

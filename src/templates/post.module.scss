@@ -132,6 +132,9 @@
 .justify {
   p {
     hyphens: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    text-align-last: justify;
   }
 }
 

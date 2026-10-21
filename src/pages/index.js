@@ -20,7 +20,7 @@ const IndexPage = () => {
 
   const data = useStaticQuery(graphql`
     query {
-      contentfulPost(slug: { eq: "/10-13-26" }) {
+      contentfulPost(slug: { eq: "/10-20-26" }) {
         title
         body {
           json
@@ -102,8 +102,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
           <div className={cx(layoutStyles.content, indexStyles.new)}>
             <div className={indexStyles.missiontwo}>
-              <h3 className={indexStyles.postauthor}>Amy Allen</h3>
-              <h1 className={indexStyles.posttitle}>Let’s Keep it Online</h1>
+              <h3 className={indexStyles.postauthor}>Jordyn Damato</h3>
+              <h1 className={indexStyles.posttitle}>Intruder</h1>
               <p className={indexStyles.posttext}>
                 <div className={contentfulPost.justifyText ? postStyles.justify : undefined}>
                   {documentToReactComponents(
@@ -117,7 +117,7 @@ const IndexPage = () => {
           <div className={layoutStyles.content}>
             <div className={indexStyles.missiontwo}>
               <p>
-                Amy Allen writes in Shelburne, Vermont, where she serves as the town's Poet Laureate. Her work has appeared in numerous literary journals and includes a story selected for Best Microfiction 2026. It has also been nominated for the Pushcart Prize and Best of the Net. She is the author of the poetry chapbook Mountain Offerings. When she's not writing, you can find her outside, looking for stories.
+                Jordyn Damato is a writer and lover from Michigan. She earned her MFA in fiction from Miami University in Oxford, Ohio. She's been nominated for Best Small Fictions and her work appears in Okay Donkey, Brilliant Flash Fiction, Ghost Parachute, BULL, fifth wheel press, trampset, and other cool places. She wants to keep lit weird and hold the people she loves close. 
               </p>
             </div>
           </div>

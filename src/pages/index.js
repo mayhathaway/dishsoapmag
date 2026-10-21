@@ -47,8 +47,8 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Intruder</h3>
-            <h1 className={indexStyles.posttitle}>Jordyn Damato</h1>
+            <h3 className={indexStyles.postauthor}>Jordyn Damato</h3>
+            <h1 className={indexStyles.posttitle}>Intruder</h1>
           <p className={indexStyles.posttext}>        
 There may or may not be someone in my house. Someone besides me. I know I'm in here the same way I know I'm not the one moving things on the walls. I have art on my walls, not real art, art by me and by friends who were kind enough to gift me their creations after painting together. It’s like no one wanted proof we did something together so I get all of the proof. I’m happy and sad about it at the same time even though that’s not important. The shifting is important. I also have pictures on the wall, pictures I took, more not-art. Mostly pictures of nature, like the sky and trees, pictures I got developed at CVS because I don’t like the grey walls looking at me. I really don’t like it. Too much space means too much emptiness. Not everyone is like this, I know that, but I am and it’s my house. 
 <br></br>

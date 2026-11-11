@@ -47,17 +47,34 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Gwendolyn Hanson</h3>
-            <h1 className={indexStyles.posttitle}>Ballad for the Crop Circle</h1>
+            <h3 className={indexStyles.postauthor}>John Brixter Tino</h3>
+            <h1 className={indexStyles.posttitle}>AT THE DINER ON ROUTE 4</h1>
           <p className={indexStyles.posttext}>        
-I abduct myself from a dream. It isn’t easy. I give myself a headache from the effort. I transform the curl of my tongue against your ear into a radio transmission. The prayer carries past Saturn. An impossible sun barrels down to my bedroom, the ship shining aquamarine beneath the streetlights. I am pulled through my window by its tractor beam, the light soft as an anemone. I am returned after asking “are we there yet?” too many times. I land gracelessly in the backyard while you are still asleep in my bed. There is a metal sliver the size of a goldfish cracker under the nape of my neck. I can see where this leads. While my breasts are busy pressing the soil into valleys, the owls ask if I’m alright. I imagine what it is like to free-fall from space. I think it will feel like when you take my fingers into your mouth. I hide under your covers when they come back to take me away. You will find me in a field of bowing wheat. When I get what I want, I stop believing.
+<br></br>I came here to be held by the vinyl booth, its cracked red mouth still warm
+<br></br>from whoever sat before me. The waitress pours coffee without asking.
+<br></br>She has done it twenty thousand times and her wrist knows the arc, the exact
+<br></br>moment to pull back. I watch the truckers fold their maps into squares too small
+<br></br>for the distances they carry. Their hands are thick with diesel and the particular
+<br></br>grief of men who sleep in cabs. The pie case revolves: cherry, coconut cream,
+<br></br>a lemon meringue browning at the peaks like summer hills after wildfire.
+<br></br>I have been driving since the argument. Since the door closed with its ordinary
+<br></br>click and the hallway swallowed my shoes. Here the sugar dispenser pours
+<br></br>its bright stream into the dark lake of my cup and I watch it sink like a small,
+<br></br>deliberate act of faith. The cook rings his bell. Two plates slide across the steel
+<br></br>pass, eggs trembling, toast cut into triangles because someone decided once,
+<br></br>long ago, that was the proper shape of morning. I want to tell the woman in
+<br></br>the next booth that her daughter’s laugh is saving me a little. That the sound
+<br></br>enters my ribs like light through a cracked door. I do none of it. I drink. I pay.
+<br></br>I leave four dollars on the table, which is more than the coffee cost and less
+<br></br>than what was given. The parking lot holds my car the way a palm
+<br></br>holds a stone it intends to skip across black water.
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-Gwendolyn Hanson is a fiction writer and poet living in Maryland. She listens to Harvest Moon almost every single day. 
+John Brixter Tino is a son of a fisherman and is a person with disabilities. He was raised in Perez, Quezon, Philippines. He currently serves as a part-time instructor at the Polytechnic University of the Philippines and is currently pursuing an MFA in Creative Writing at De La Salle University. His writings have received recognition from the Don Carlos Palanca Memorial Awards for Literature and other award-giving bodies in the Philippines. His works have been published in Red Ogre Review, Philippine Star, Philippine Collegian, Mekong Review, and TLDTD Journal, among other anthologies. 
 </p>
               </div>
           </div>

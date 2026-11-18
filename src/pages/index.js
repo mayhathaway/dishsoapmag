@@ -47,34 +47,22 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>John Brixter Tino</h3>
-            <h1 className={indexStyles.posttitle}>AT THE DINER ON ROUTE 4</h1>
+            <h3 className={indexStyles.postauthor}>Alex Blake</h3>
+            <h1 className={indexStyles.posttitle}>Pleasure, Family, Romance, Knowledge, Fortune, Popularity</h1>
           <p className={indexStyles.posttext}>        
-<br></br>I came here to be held by the vinyl booth, its cracked red mouth still warm
-<br></br>from whoever sat before me. The waitress pours coffee without asking.
-<br></br>She has done it twenty thousand times and her wrist knows the arc, the exact
-<br></br>moment to pull back. I watch the truckers fold their maps into squares too small
-<br></br>for the distances they carry. Their hands are thick with diesel and the particular
-<br></br>grief of men who sleep in cabs. The pie case revolves: cherry, coconut cream,
-<br></br>a lemon meringue browning at the peaks like summer hills after wildfire.
-<br></br>I have been driving since the argument. Since the door closed with its ordinary
-<br></br>click and the hallway swallowed my shoes. Here the sugar dispenser pours
-<br></br>its bright stream into the dark lake of my cup and I watch it sink like a small,
-<br></br>deliberate act of faith. The cook rings his bell. Two plates slide across the steel
-<br></br>pass, eggs trembling, toast cut into triangles because someone decided once,
-<br></br>long ago, that was the proper shape of morning. I want to tell the woman in
-<br></br>the next booth that her daughter’s laugh is saving me a little. That the sound
-<br></br>enters my ribs like light through a cracked door. I do none of it. I drink. I pay.
-<br></br>I leave four dollars on the table, which is more than the coffee cost and less
-<br></br>than what was given. The parking lot holds my car the way a palm
-<br></br>holds a stone it intends to skip across black water.
+James only has eyes for Patrick. To keep up appearances, he lives with Sandy. Sandy works as a Lab Technician. She goes to work, comes home, watches TV, makes dinner, and sleeps. James is an artist. Patrick loves that about him. He’s quiet and reserved, but passionate. Patrick works in Law Enforcement. He is really fit. He only wears athleisure, unless I’ve got him in his formalwear. He has a home gym at his property, but I don’t spend much time there. Instead Patrick comes over to see James while Sandy is at work. They sometimes flirt or tell a joke. Sometimes other stuff happens. One time, James started getting a bit too flirty with Christie, and I locked her in her kitchen by deleting the doors. She doesn’t come round anymore, but James started calling her on the phone. I deleted her phone. That’s the problem with the Romance aspiration. 
+<br></br>
+<br></br>Patrick came over earlier. I had him go and see James’s art studio upstairs. His beautiful paintings cover the walls. I had to remove a window to make them fit. I just know that he’s thinking, “Wow. I’m so in love.” I think it’s time tonight. My sister is out and mum and dad are watching Holby City downstairs. James is walking downstairs. I didn’t even have to ask him. Patrick stands up from his position on the couch. They meet in the living room and Patrick gives James a hug. They’re doing it without me even clicking. I send James to the bed upstairs. He travels up the staircase, walks to the bed, and positions himself on top of the duvet cover. Then I ask him to ask Patrick to join. He does. They make out. I let go of the mouse and just watch for a minute. I check Sandy isn’t due home. No, she’s still got hours left of her shift. The TV is loud downstairs. Patrick and John are still making out. Maybe one day they can have their own house. A house with an art studio room. Maybe even their own family. I think they’d like that. Patrick earns a decent salary. They could have a nice house, and they could have a nice bed. When they finish making out, I make them do it again. I think they’re thinking about that life. I know that Sandy is a good person. I think she’d understand. They could invite her round for dinner sometimes, or call her on the phone. If I get an expansion for Christmas, they could meet at a bar. Patrick and James could have a candlelight meal like they’ve always dreamed of. 
+<br></br>
+<br></br>They finish making out and return to their positions on the bed. All upright against the headboard, legs outstretched. There’s a creak on the staircase and I spin in the chair. James is saying something to Patrick and he nods excitedly. Someone is coming up the stairs. James and Patrick are getting under the covers. I didn’t ask them to do that. I reach for the mouse and click frantically to cancel the action. It doesn’t work. They’re still making love. Someone is almost at the top of the stairs as I’m trying to close the window. They call “John.” The screen has frozen in this position and my mouse no longer works. Cancel action. I feel my clothes stick to my armpits and my face flush. I press the power button on the monitor and it still remains on. I press it again and again. I look at the extension cord and the computer’s power cable, but it’s too late. The only thing left to do is cover the screen with my hands. The light makes my fingers look red. It wasn’t my fault. I didn’t click that. I don’t know what is happening. I don’t want to lose you, Patrick. 
+
             </p>
           </div>
           </div>
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-John Brixter Tino is a son of a fisherman and is a person with disabilities. He was raised in Perez, Quezon, Philippines. He currently serves as a part-time instructor at the Polytechnic University of the Philippines and is currently pursuing an MFA in Creative Writing at De La Salle University. His writings have received recognition from the Don Carlos Palanca Memorial Awards for Literature and other award-giving bodies in the Philippines. His works have been published in Red Ogre Review, Philippine Star, Philippine Collegian, Mekong Review, and TLDTD Journal, among other anthologies. 
+Alex Blake (He/Him) is a fiction writer and artist based in Sheffield, UK. His short fiction has appeared in Chthonic Lit and is forthcoming in Table Salt Press and Pfielstorch. 
 </p>
               </div>
           </div>

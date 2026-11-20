@@ -32,9 +32,6 @@ const AboutPage = () => {
               number. that's quarterly in the sense that a week is a quarter of a month. that’s committed to providing the most accessible space possible for writers and readers. that can’t 
               wait to see what you’ve been working on. 
             </p>
-
-<p><strong>but seriously</strong> </p>
-            <p></p>
           </div>
           <div className={aboutStyles.masthead}>
             <div className={aboutStyles.piecelink}>

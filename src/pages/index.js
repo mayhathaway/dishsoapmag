@@ -47,14 +47,30 @@ const IndexPage = () => {
         <div className={cx(indexStyles.row, indexStyles.soapRow)}>
         <div className={cx(layoutStyles.content,indexStyles.new)}>
           <div className={indexStyles.missiontwo}>
-            <h3 className={indexStyles.postauthor}>Alex Blake</h3>
-            <h1 className={indexStyles.posttitle}>Pleasure, Family, Romance, Knowledge, Fortune, Popularity</h1>
+            <h3 className={indexStyles.postauthor}>Katherine Garrison</h3>
+            <h1 className={indexStyles.posttitle}>My Father Would Have Loved This</h1>
           <p className={indexStyles.posttext}>        
-James only has eyes for Patrick. To keep up appearances, he lives with Sandy. Sandy works as a Lab Technician. She goes to work, comes home, watches TV, makes dinner, and sleeps. James is an artist. Patrick loves that about him. He’s quiet and reserved, but passionate. Patrick works in Law Enforcement. He is really fit. He only wears athleisure, unless I’ve got him in his formalwear. He has a home gym at his property, but I don’t spend much time there. Instead Patrick comes over to see James while Sandy is at work. They sometimes flirt or tell a joke. Sometimes other stuff happens. One time, James started getting a bit too flirty with Christie, and I locked her in her kitchen by deleting the doors. She doesn’t come round anymore, but James started calling her on the phone. I deleted her phone. That’s the problem with the Romance aspiration. 
+<br></br>I inch the sliding door of my bathroom open and see there’s a miniature Liopleurodon in the tub. I shut the door—does a Liopleurodon need privacy? It thrashes and hisses when the door bangs.
 <br></br>
-<br></br>Patrick came over earlier. I had him go and see James’s art studio upstairs. His beautiful paintings cover the walls. I had to remove a window to make them fit. I just know that he’s thinking, “Wow. I’m so in love.” I think it’s time tonight. My sister is out and mum and dad are watching Holby City downstairs. James is walking downstairs. I didn’t even have to ask him. Patrick stands up from his position on the couch. They meet in the living room and Patrick gives James a hug. They’re doing it without me even clicking. I send James to the bed upstairs. He travels up the staircase, walks to the bed, and positions himself on top of the duvet cover. Then I ask him to ask Patrick to join. He does. They make out. I let go of the mouse and just watch for a minute. I check Sandy isn’t due home. No, she’s still got hours left of her shift. The TV is loud downstairs. Patrick and John are still making out. Maybe one day they can have their own house. A house with an art studio room. Maybe even their own family. I think they’d like that. Patrick earns a decent salary. They could have a nice house, and they could have a nice bed. When they finish making out, I make them do it again. I think they’re thinking about that life. I know that Sandy is a good person. I think she’d understand. They could invite her round for dinner sometimes, or call her on the phone. If I get an expansion for Christmas, they could meet at a bar. Patrick and James could have a candlelight meal like they’ve always dreamed of. 
+<br></br>Rich coffee steam swirls from my mug, fogging my glasses, and a quick search tells me it’s not common for Liopleurodons to just appear—they’ve been extinct for 150 million years. 
 <br></br>
-<br></br>They finish making out and return to their positions on the bed. All upright against the headboard, legs outstretched. There’s a creak on the staircase and I spin in the chair. James is saying something to Patrick and he nods excitedly. Someone is coming up the stairs. James and Patrick are getting under the covers. I didn’t ask them to do that. I reach for the mouse and click frantically to cancel the action. It doesn’t work. They’re still making love. Someone is almost at the top of the stairs as I’m trying to close the window. They call “John.” The screen has frozen in this position and my mouse no longer works. Cancel action. I feel my clothes stick to my armpits and my face flush. I press the power button on the monitor and it still remains on. I press it again and again. I look at the extension cord and the computer’s power cable, but it’s too late. The only thing left to do is cover the screen with my hands. The light makes my fingers look red. It wasn’t my fault. I didn’t click that. I don’t know what is happening. I don’t want to lose you, Patrick. 
+<br></br><i>Did you see a dinosaur in the tub this morning?</i> I text my partner, Paul.
+<br></br>
+<br></br><i>What’s that supposed to mean? Are you feeling okay? Do you want me to send in the funeral notice?</i> Paul responds.
+<br></br>
+<br></br><i>No that’s fine, I’ll do it.</i>
+<br></br>
+<br></br>The typing dots come and go a couple of times before disappearing. I’m sure he’s too busy to deal with it today anyway.
+<br></br>
+<br></br>The Liopleurdon gnashes, spraying water across the walls while I brush my teeth. There’s no handbook for this in any corner of the internet I thumb through. There is some speculation that Nessie is a Liopleurodon tucked away on a quiet forum, though.
+<br></br>
+<br></br>The closest I can find is how to care for the only truly marine reptiles around today: sea snakes and turtles. But it can’t stay here, so I go to the supermarket and buy a plastic kid pool to put in the garden but realise keeping it in plain sight of people probably isn’t a good idea either. What would the neighbours say? I dig a pond in a neglected corner of our property instead. The ache between my shoulders is a welcome distraction from the to do list threatening to overwhelm me. Order flowers. Send notice to paper. Schedule ceremony date. Pick up ashes. Send invites. Write eulogy. 
+<br></br>
+<br></br>It turns out moving a Liopleurodon is quite difficult. Pinprick bites accumulate across my hands in my first attempt to wrangle it. Is Liopleurodon saliva harmful to humans? <i>Results inconclusive</i>. I feed it some fish sticks from the freezer, and it turns docile, allowing me to move it to the pond which I shroud with tall shrubs. The skin is knobbled but slick and cool like the salamanders I used to catch as a child.
+<br></br>
+<br></br>When Paul returns home, he comments that the new plants are nice but says nothing about the pond. I must’ve done a good job camouflaging it against man looks. Which is just as well because after his dismissal earlier and hours of watching the Liopleurodon paddle around the pond, I kind of want it to be my not-so-little secret. Were Liopleurodons intelligent? <i>Smart enough to partake in ambush attacks supposedly</i>. If he ever notices it, I’ll have to tell Paul not to swim in the pond. 
+<br></br>
+<br></br>Later, I leave Paul’s light snores in bed and beneath a starless, post-midnight sky the Liopleurodon learns my father would have loved it—a living fossil. It learns how every September, around this time, we would head to the tidal beaches to search for remnants of its cousins. That my father’s proudest find was a fossilised megalodon tooth. It turns on its side to survey me with a large, unblinking eye and snaps its jaw before sinking below the surface, leaving me alone.
 
             </p>
           </div>
@@ -62,7 +78,7 @@ James only has eyes for Patrick. To keep up appearances, he lives with Sandy. Sa
           <div className={layoutStyles.content}>
           <div className={indexStyles.missiontwo}>
             <p>
-Alex Blake (He/Him) is a fiction writer and artist based in Sheffield, UK. His short fiction has appeared in Chthonic Lit and is forthcoming in Table Salt Press and Pfielstorch. 
+Katherine Garrison writes short fiction, cnf, and poetry often exploring themes through nature, food, the weird, or some mix of these. Her work has appeared or is forthcoming in Elegant Literature, Baubles from Bones, Superlative Literary Journal, Variety Pack, WordFire Press, Utopia Science Fiction Magazine, HAD, Small Wonders and others. She was nominated for Best Microfiction 2026. When not cooking or writing she loves going on long hikes with her partner and their dog, camping, birdwatching, foraging, gardening and being outside in general.  
 </p>
               </div>
           </div>
